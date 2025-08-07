@@ -1,0 +1,44 @@
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.deps.json
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.dll
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.pdb
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.AssemblyInfoInputs.cache
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.AssemblyInfo.cs
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.csproj.CoreCompileInputs.cache
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.dll
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/refint/Shin-Megami-Tensei-View.dll
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.pdb
+C:/Users/Cristian/Desktop/U/IIC2113/projects/E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/ref/Shin-Megami-Tensei-View.dll
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.deps.json
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.dll
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.pdb
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.AssemblyInfoInputs.cache
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.AssemblyInfo.cs
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.csproj.CoreCompileInputs.cache
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.dll
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/refint/Shin-Megami-Tensei-View.dll
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.pdb
+C:/Users/colas/Downloads/Proyecto-Megaten-IIC2113/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/ref/Shin-Megami-Tensei-View.dll
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.deps.json
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.dll
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/bin/Debug/net8.0/Shin-Megami-Tensei-View.pdb
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.GeneratedMSBuildEditorConfig.editorconfig
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.AssemblyInfoInputs.cache
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.AssemblyInfo.cs
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.csproj.CoreCompileInputs.cache
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.dll
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/refint/Shin-Megami-Tensei-View.dll
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/Shin-Megami-Tensei-View.pdb
+/home/cahinostroza/Escritorio/iic2113/projects/smt/base_code/E1+E2/Proyecto-Megaten-IIC2113/Shin-Megami-Tensei-View/obj/Debug/net8.0/ref/Shin-Megami-Tensei-View.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\bin\Debug\net8.0\Shin-Megami-Tensei-View.deps.json
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\bin\Debug\net8.0\Shin-Megami-Tensei-View.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\bin\Debug\net8.0\Shin-Megami-Tensei-View.pdb
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.AssemblyInfoInputs.cache
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.AssemblyInfo.cs
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.csproj.CoreCompileInputs.cache
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\refint\Shin-Megami-Tensei-View.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.pdb
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\ref\Shin-Megami-Tensei-View.dll
