@@ -1,4 +1,5 @@
-﻿using Shin_Megami_Tensei_View;
+﻿using Shin_Megami_Tensei_Model;
+using Shin_Megami_Tensei_View;
 
 namespace Shin_Megami_Tensei;
 

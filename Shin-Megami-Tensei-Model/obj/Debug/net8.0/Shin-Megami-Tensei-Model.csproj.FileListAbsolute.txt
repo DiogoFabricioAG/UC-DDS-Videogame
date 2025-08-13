@@ -1,0 +1,12 @@
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\bin\Debug\net8.0\Shin-Megami-Tensei-Model.deps.json
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\bin\Debug\net8.0\Shin-Megami-Tensei-Model.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\bin\Debug\net8.0\Shin-Megami-Tensei-Model.pdb
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.AssemblyInfoInputs.cache
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.AssemblyInfo.cs
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.csproj.CoreCompileInputs.cache
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.sourcelink.json
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\refint\Shin-Megami-Tensei-Model.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\Shin-Megami-Tensei-Model.pdb
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Model\obj\Debug\net8.0\ref\Shin-Megami-Tensei-Model.dll

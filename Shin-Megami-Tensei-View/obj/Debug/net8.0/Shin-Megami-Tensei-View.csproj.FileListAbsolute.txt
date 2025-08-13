@@ -42,3 +42,8 @@ D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2
 D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\refint\Shin-Megami-Tensei-View.dll
 D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.pdb
 D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\ref\Shin-Megami-Tensei-View.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\bin\Debug\net8.0\Shin-Megami-Tensei-Model.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\bin\Debug\net8.0\Shin-Megami-Tensei-Model.pdb
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.csproj.AssemblyReference.cache
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.sourcelink.json
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Meg.6D01BA87.Up2Date

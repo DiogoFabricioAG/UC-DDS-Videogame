@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei-View", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei.Tests", "Shin-Megami-Tensei.Tests\Shin-Megami-Tensei.Tests.csproj", "{1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei-Model", "Shin-Megami-Tensei-Model\Shin-Megami-Tensei-Model.csproj", "{FEDF6CB3-83C1-4AE6-AEFE-42409A00B80C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,5 +30,9 @@ Global
 		{1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDF6CB3-83C1-4AE6-AEFE-42409A00B80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDF6CB3-83C1-4AE6-AEFE-42409A00B80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDF6CB3-83C1-4AE6-AEFE-42409A00B80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDF6CB3-83C1-4AE6-AEFE-42409A00B80C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

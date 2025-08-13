@@ -70,3 +70,6 @@ D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2
 D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\Shin-Megami-Tensei-Controller.pdb
 D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\Shin-Megami-Tensei-Controller.genruntimeconfig.cache
 D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\ref\Shin-Megami-Tensei-Controller.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\bin\Debug\net8.0\Shin-Megami-Tensei-Model.dll
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\bin\Debug\net8.0\Shin-Megami-Tensei-Model.pdb
+D:\UC2025\Diseño Detallado de Software\Proyecto del Ciclo\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\Shin-Megami-Tensei-Controller.sourcelink.json
