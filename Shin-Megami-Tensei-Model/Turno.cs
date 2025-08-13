@@ -2,5 +2,5 @@
 
 public class Turno
 {
-    private TipoTurno tipo;
+    public TipoTurno tipo;
 }

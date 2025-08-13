@@ -2,7 +2,7 @@
 
 public class Afinidad
 {
-    private Elemento elemento;
-    private TipoAfinidad tipo;
+    public Elemento elemento;
+    public TipoAfinidad tipo;
     
 }

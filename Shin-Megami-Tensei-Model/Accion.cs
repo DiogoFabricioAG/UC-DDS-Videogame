@@ -2,5 +2,5 @@
 
 public class Accion
 {
-    private TipoAccion tipo;
+    public TipoAccion tipo;
 }
