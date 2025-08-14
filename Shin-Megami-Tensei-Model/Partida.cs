@@ -29,16 +29,16 @@ public class Partida
         }
         string[] alineacionE1 = lines.Skip(1).Take(position2-1).ToArray();
         string[] alineacionE2 = lines.Skip(position2+1).Take(lines.Length - position2 - 1).ToArray();
-        
         var result = equipo1.IngresarEquipo(alineacionE1);
         var result2 = equipo2.IngresarEquipo(alineacionE2);
 
-        if (!string.IsNullOrEmpty(result))
+
+        if (result == "Archivo de equipos inválido")
         {
             return result;
         }
 
-        if (!string.IsNullOrEmpty(result2))
+        if (result2 == "Archivo de equipos inválido")
         {
             return result2;
         }

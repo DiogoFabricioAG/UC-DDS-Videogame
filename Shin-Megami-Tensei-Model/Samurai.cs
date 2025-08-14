@@ -24,7 +24,6 @@ public class Samurai : Personaje
     private int idHabilidad = 0;
     public bool ingresarHabilidad(Habilidad habilidad)
     {
-        Console.WriteLine("Habilidad Ingresado: " + habilidad.name);
         if (!validarIngresoHabilidad(habilidad))
         {
             habilidades[idHabilidad] = habilidad;

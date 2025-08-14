@@ -7,10 +7,11 @@ public class Equipo
     
     // CONST ERROR
     private const string ERRORMESSAGE = "Archivo de equipos inválido";
+    private const int CANTIDADMAXIMAMONSTRUOS = 8;
     
     public string nombre { get; set; }
     public Samurai samurai { get; set; }
-    public Monstruo[] monstruos = new Monstruo[7];
+    public Monstruo[] monstruos = new Monstruo[CANTIDADMAXIMAMONSTRUOS];
     public List<Turno> turnos {get; set; }
     private bool _error;
     private int MonsterID = 0;
@@ -29,17 +30,22 @@ public class Equipo
             }
             else
             {
+                
                 IngresarMounstro(ObtenerMounstro(line));
             }
 
             if (_error)
             {
+                Console.WriteLine("Veredicto a la mitad: " + _error);
                 return ERRORMESSAGE;
             }
         }
         
-        
-        return ExisteSamurai() ? ":)" : ERRORMESSAGE;
+        if (_error)
+        {
+            return ERRORMESSAGE;
+        }
+        return !ExisteSamurai() || _error ? ERRORMESSAGE: "Porque entra por aca?";
     }
 
     
@@ -51,14 +57,14 @@ public class Equipo
     {
         try
         {
-            var habilidadesSinFiltrado = lineText.Split(' ')[2];
+            
+            var habilidadesSinFiltrado = lineText.Split(' ').Skip(2).Aggregate((current, next) => current + " " + next);;
             habilidadesSinFiltrado = habilidadesSinFiltrado.Substring(1, habilidadesSinFiltrado.Length - 2);
             var listaHabilidades = habilidadesSinFiltrado.Split(',');
             return listaHabilidades;
         }
         catch (Exception e)
         {
-            Console.WriteLine("Erroresss");
             return new string[0];
         }
     }
@@ -74,7 +80,6 @@ public class Equipo
         
         foreach (var habilidad in ObtenerHabilidades(line))
         {
-            Console.WriteLine(habilidad);
             _error  = !samurai.ingresarHabilidad(new Habilidad(habilidad));
             if (_error)
             {
@@ -85,7 +90,8 @@ public class Equipo
 
     public void IngresarMounstro(Monstruo monstruo)
     {
-        if (DisponibleMounstro() || DuplicadoMonstruo(monstruo.nombre))
+
+        if (DuplicadoMonstruo(monstruo.nombre) || MonsterID == CANTIDADMAXIMAMONSTRUOS)
         {
             _error  = true;
             return;
@@ -102,7 +108,6 @@ public class Equipo
         }
         return false;
     }
-    bool DisponibleMounstro() => monstruos[monstruos.Length - 1] != null;
     bool ExisteSamurai() => samurai != null;
     
 }
