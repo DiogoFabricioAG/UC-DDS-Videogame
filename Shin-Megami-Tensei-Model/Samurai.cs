@@ -14,4 +14,37 @@ public class Samurai : Personaje
     public string nombre { get; set; }
     public Atributos atributos { get; set; }
     public Afinidad afinidad { get; set; }
+    public Habilidad[] habilidades { get; set; }
+
+    public Samurai()
+    {
+        habilidades = new Habilidad[8];
+    }
+
+    private int idHabilidad = 0;
+    public bool ingresarHabilidad(Habilidad habilidad)
+    {
+        Console.WriteLine("Habilidad Ingresado: " + habilidad.name);
+        if (!validarIngresoHabilidad(habilidad))
+        {
+            habilidades[idHabilidad] = habilidad;
+            idHabilidad++;
+            return true;
+        }
+        return false;
+    }
+
+    bool validarIngresoHabilidad(Habilidad habilidad)
+    {
+        bool _error = false;
+        for (int i = 0; i < idHabilidad; i++)
+            if (habilidades[i].name == habilidad.name)
+            {
+                _error = true;
+                break;
+            }
+        return _error;
+            
+        
+    }
 }

@@ -1,11 +1,14 @@
 ﻿namespace Shin_Megami_Tensei_Model;
 
+
+
+
 public class Partida
 {
+    const int PLAYERS = 2;
     public Equipo equipo1 { get; set; }
     public Equipo equipo2 { get; set; }
 
-    // Constructor para inicializar los equipos
     public Partida()
     {
         equipo1 = new Equipo();

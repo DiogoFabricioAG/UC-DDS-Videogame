@@ -5,4 +5,9 @@ public interface Personaje
     string nombre {get; set; }
     Atributos atributos {get; set; }
     Afinidad afinidad {get; set; }
+    
+    Habilidad[]  habilidades {get; set; }
+
+    public bool ingresarHabilidad(Habilidad habilidad);
+
 }

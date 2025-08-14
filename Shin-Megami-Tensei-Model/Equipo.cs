@@ -4,6 +4,10 @@ namespace Shin_Megami_Tensei_Model;
 
 public class Equipo
 {
+    
+    // CONST ERROR
+    private const string ERRORMESSAGE = "Archivo de equipos inválido";
+    
     public string nombre { get; set; }
     public Samurai samurai { get; set; }
     public Mounstro[] mounstros = new Mounstro[7];
@@ -20,7 +24,7 @@ public class Equipo
         
             if (line.Contains("Samurai"))
             {
-                IngresarSamurai(ObtenerNombreSamurai(line));
+                IngresarSamurai(line);
             }
             else
             {
@@ -29,25 +33,53 @@ public class Equipo
 
             if (_error)
             {
-                return "Archivo de equipos inválido";
+                return ERRORMESSAGE;
             }
         }
         
         
-        return ExisteSamurai() ? ":)" : "Archivo de equipos inválido";
+        return ExisteSamurai() ? ":)" : ERRORMESSAGE;
     }
 
     
-    public string ObtenerNombreSamurai(string line) => line.Split(']')[1].Trim();
+    
+    // Devolver Tupla con TIPO | UNIDAD | HABILIDADES 
+    public string? ObtenerNombreSamurai(string line) => line.Split(' ')[1];
+
+    public string[] ObtenerHabilidades(string lineText)
+    {
+        try
+        {
+            var habilidadesSinFiltrado = lineText.Split(' ')[2];
+            habilidadesSinFiltrado = habilidadesSinFiltrado.Substring(1, habilidadesSinFiltrado.Length - 2);
+            var listaHabilidades = habilidadesSinFiltrado.Split(',');
+            return listaHabilidades;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Erroresss");
+            return new string[0];
+        }
+    }
     public Mounstro ObtenerMounstro(string line) => new Mounstro { nombre = line };
-    public void IngresarSamurai(string nombreSamurai)  
+    public void IngresarSamurai(string line)  
     {
         if (ExisteSamurai())
         {
             _error  = true;
             return;
         }
-        samurai = new Samurai {nombre = nombreSamurai};
+        samurai = new Samurai {nombre = ObtenerNombreSamurai(line)};
+        
+        foreach (var habilidad in ObtenerHabilidades(line))
+        {
+            Console.WriteLine(habilidad);
+            _error  = !samurai.ingresarHabilidad(new Habilidad(habilidad));
+            if (_error)
+            {
+                break;
+            }
+        }
     }
 
     public void IngresarMounstro(Mounstro mounstro)
