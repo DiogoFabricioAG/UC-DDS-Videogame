@@ -10,9 +10,10 @@ public class Equipo
     
     public string nombre { get; set; }
     public Samurai samurai { get; set; }
-    public Mounstro[] mounstros = new Mounstro[7];
+    public Monstruo[] monstruos = new Monstruo[7];
     public List<Turno> turnos {get; set; }
     private bool _error;
+    private int MonsterID = 0;
     public string IngresarEquipo(string[] inputLines)
     {
         foreach (string line in inputLines)
@@ -61,7 +62,7 @@ public class Equipo
             return new string[0];
         }
     }
-    public Mounstro ObtenerMounstro(string line) => new Mounstro { nombre = line };
+    public Monstruo ObtenerMounstro(string line) => new Monstruo { nombre = line };
     public void IngresarSamurai(string line)  
     {
         if (ExisteSamurai())
@@ -82,25 +83,26 @@ public class Equipo
         }
     }
 
-    public void IngresarMounstro(Mounstro mounstro)
+    public void IngresarMounstro(Monstruo monstruo)
     {
-        if (DisponibleMounstro())
+        if (DisponibleMounstro() || DuplicadoMonstruo(monstruo.nombre))
         {
             _error  = true;
             return;
         }
-
-        for (int i = 0; i < mounstros.Length; i++)
-        {
-            if (mounstros[i] == null)
-            {
-                mounstros[i] = mounstro;
-                break;
-            }
-        }
+        monstruos[MonsterID] = monstruo;
+        MonsterID++;
     }
-    
-    bool DisponibleMounstro() => mounstros[mounstros.Length - 1] != null;
+
+    bool DuplicadoMonstruo(string name)
+    {
+        for (int i = 0; i< MonsterID; i++)
+        {
+            if (monstruos[i].nombre == name)  return true;
+        }
+        return false;
+    }
+    bool DisponibleMounstro() => monstruos[monstruos.Length - 1] != null;
     bool ExisteSamurai() => samurai != null;
     
 }
