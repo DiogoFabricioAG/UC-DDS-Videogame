@@ -75,6 +75,7 @@ public class Tests
         game.Play();
         
         var actualScript = view.GetScript();
+        
         var expectedScript = File.ReadAllLines(testFile);
         CompareScripts(actualScript, expectedScript);
     }

@@ -10,6 +10,7 @@ public class Samurai : Personaje
 {
     // Implementa la interfaz Personaje
 
+    private const int CANTIDADHABILIDADESMAXIMA = 8;
 
     public string nombre { get; set; }
     public Atributos atributos { get; set; }
@@ -18,19 +19,20 @@ public class Samurai : Personaje
 
     public Samurai()
     {
-        habilidades = new Habilidad[8];
+        habilidades = new Habilidad[CANTIDADHABILIDADESMAXIMA];
     }
 
     private int idHabilidad = 0;
     public bool ingresarHabilidad(Habilidad habilidad)
     {
-        if (!validarIngresoHabilidad(habilidad))
+        if (validarIngresoHabilidad(habilidad) || CANTIDADHABILIDADESMAXIMA == idHabilidad)
         {
-            habilidades[idHabilidad] = habilidad;
-            idHabilidad++;
-            return true;
+            return false;
         }
-        return false;
+        habilidades[idHabilidad] = habilidad;
+        idHabilidad++;
+        return true;
+        
     }
 
     bool validarIngresoHabilidad(Habilidad habilidad)

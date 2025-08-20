@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.IO; // para Path
 
 namespace Shin_Megami_Tensei_Model;
 
@@ -7,10 +8,10 @@ public class Equipo
     
     // CONST ERROR
     private const string ERRORMESSAGE = "Archivo de equipos inválido";
-    private const int CANTIDADMAXIMAMONSTRUOS = 8;
-    
-    public string nombre { get; set; }
-    public Samurai samurai { get; set; }
+    private const int CANTIDADMAXIMAMONSTRUOS = 7;
+
+    public string numero { get; set; } = "0";
+    public Samurai samurai { get; set; } =  new Samurai(); 
     public Monstruo[] monstruos = new Monstruo[CANTIDADMAXIMAMONSTRUOS];
     public List<Turno> turnos {get; set; }
     private bool _error;
@@ -26,25 +27,16 @@ public class Equipo
         
             if (line.Contains("Samurai"))
             {
+                
                 IngresarSamurai(line);
             }
             else
             {
-                
                 IngresarMounstro(ObtenerMounstro(line));
-            }
-
-            if (_error)
-            {
-                Console.WriteLine("Veredicto a la mitad: " + _error);
-                return ERRORMESSAGE;
             }
         }
         
-        if (_error)
-        {
-            return ERRORMESSAGE;
-        }
+
         return !ExisteSamurai() || _error ? ERRORMESSAGE: "Porque entra por aca?";
     }
 
@@ -68,39 +60,78 @@ public class Equipo
             return new string[0];
         }
     }
-    public Monstruo ObtenerMounstro(string line) => new Monstruo { nombre = line };
-    public void IngresarSamurai(string line)  
+    public Monstruo ObtenerMounstro(string line)
     {
-        if (ExisteSamurai())
-        {
-            _error  = true;
-            return;
-        }
-        samurai = new Samurai {nombre = ObtenerNombreSamurai(line)};
+        var name = line.Trim();
+        var monsterJsonPath = Path.Combine(AppContext.BaseDirectory, "monsters.json");
         
-        foreach (var habilidad in ObtenerHabilidades(line))
+        var monster = DataLoader.GetMonstruoByName(name, monsterJsonPath);
+        return monster ;
+    }
+    
+    public void IngresarSamurai(string line)
         {
-            _error  = !samurai.ingresarHabilidad(new Habilidad(habilidad));
-            if (_error)
+            if (ExisteSamurai())
             {
-                break;
+                _error = true;
+                return;
+            }
+
+            if (ObtenerNombreSamurai(line) == null)
+            {
+                return;
+            }
+            
+            var nombreSamurai = ObtenerNombreSamurai(line).Trim();
+
+            var samuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
+            var loadedSamurai = DataLoader.GetSamuraiByName(nombreSamurai, samuraiJsonPath);
+            if (loadedSamurai == null)
+            {
+                _error = true;
+                return;
+            }
+
+            samurai = loadedSamurai;
+
+            foreach (var habilidad in ObtenerHabilidades(line))
+            {
+                // trim y comprobar cadena vacía
+                var htrim = habilidad?.Trim();
+                if (string.IsNullOrEmpty(htrim)) continue;
+                _error = !samurai.ingresarHabilidad(new Habilidad(htrim));
+                if (_error) break;
             }
         }
-    }
+
 
     public void IngresarMounstro(Monstruo monstruo)
     {
+        // Verificar si el objeto monstruo es nulo
+        if (monstruo == null)
+        {
+            Console.WriteLine("Error de los MONSTRUOS");
+
+            _error = true;
+            return; 
+        }
 
         if (DuplicadoMonstruo(monstruo.nombre) || MonsterID == CANTIDADMAXIMAMONSTRUOS)
         {
             _error  = true;
             return;
         }
+    
         monstruos[MonsterID] = monstruo;
         MonsterID++;
     }
 
-    bool DuplicadoMonstruo(string name)
+    public string Name()
+    {
+        return samurai.nombre + $" (J{numero})";
+    }
+
+    private bool DuplicadoMonstruo(string name)
     {
         for (int i = 0; i< MonsterID; i++)
         {
@@ -108,6 +139,6 @@ public class Equipo
         }
         return false;
     }
-    bool ExisteSamurai() => samurai != null;
+    bool ExisteSamurai() => samurai.nombre != null;
     
 }

@@ -44,12 +44,22 @@ public class Game
         
         var archivoSeleccionado= Directory.GetFiles(_teamsFolder)[seleccion];
         var lines = File.ReadAllLines(archivoSeleccionado);
-        
+
         var partida = new Partida();
         var result = partida.CreacionEquipo(lines);
         _view.WriteLine(result);
-        
-        
-        
+
+        if (result == "Archivo de equipos inválido")
+        {
+            return; 
+        }
+            
+        partida.InitialDialog();
+
+
+        foreach (var text in partida.Log)
+        {
+            _view.WriteLine(text.ToString());
+        }
     }
 }
