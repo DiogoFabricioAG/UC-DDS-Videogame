@@ -8,6 +8,8 @@ public interface Personaje
     
     Habilidad[]  habilidades {get; set; }
 
+    public string Status();
+    public String[] selectOptions();
     public bool ingresarHabilidad(Habilidad habilidad);
 
 }

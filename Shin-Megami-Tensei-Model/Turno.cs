@@ -3,4 +3,8 @@
 public class Turno
 {
     public TipoTurno tipo;
-}
+
+    public Turno(TipoTurno tipo)
+    {
+        this.tipo = tipo;
+    }}

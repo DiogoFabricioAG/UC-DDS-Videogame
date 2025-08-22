@@ -54,12 +54,12 @@ public class Game
             return; 
         }
             
-        partida.InitialDialog();
+        partida.GameStart();
 
 
-        foreach (var text in partida.Log)
+        foreach (string text in partida.Log)
         {
-            _view.WriteLine(text.ToString());
+            _view.WriteLine(text);
         }
     }
 }

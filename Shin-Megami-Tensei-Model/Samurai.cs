@@ -23,6 +23,22 @@ public class Samurai : Personaje
     }
 
     private int idHabilidad = 0;
+    public string Status()
+    {
+        return $"{nombre} HP:{atributos.hpActual}/{atributos.hpMaximo} MP:{atributos.mpActual}/{atributos.mpMaximo}";
+    }
+
+    public string[] selectOptions() => new string[] 
+        { $"Seleccione una acción para {nombre}", 
+            "1: Atacar",
+            "2: Disparar",
+            "3: Usar Habilidad",
+            "4: Invocar",
+            "5: Pasar Turno",
+            "6: Rendirse"
+        };
+    
+    
     public bool ingresarHabilidad(Habilidad habilidad)
     {
         if (validarIngresoHabilidad(habilidad) || CANTIDADHABILIDADESMAXIMA == idHabilidad)
