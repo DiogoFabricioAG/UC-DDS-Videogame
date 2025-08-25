@@ -29,7 +29,7 @@ string teamsFolder = testFolder.Replace("-Tests","");
 AnnounceTestCase(test);
 
 var view = View.BuildManualTestingView(test);
-var game = new Game(view, teamsFolder);
+var game = new GameController(view, teamsFolder);
 game.Play();
 
 string SelectTestFolder()

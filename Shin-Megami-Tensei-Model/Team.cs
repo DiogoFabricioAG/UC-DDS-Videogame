@@ -15,7 +15,7 @@ public class Team
     public string Identifier { get; set; } = "0";
     public Samurai Samurai { get; set; } = new Samurai();
     public Monster[] Monsters { get; set; }  = new Monster[CANTIDADMAXIMAMONSTRUOS];
-    public Turn[] Turns { get; set; } = new Turn[MAXUNITSINTABLE];
+    public Turn[]? Turns { get; set; } = new Turn[MAXUNITSINTABLE];
     
     private Unit[] _startingTeams = new Unit[MAXUNITSINTABLE];
     public Unit[] StartingTeam { get => _startingTeams; set => _startingTeams = value; }
@@ -231,11 +231,43 @@ public class Team
         return turnsLog.Split(';');
     }
 
-
+    private void DestroyTurn(TurnType type)
+    {
+        int iTurn = -1;
+        for (int i = 0; i < GetCurrentFullTurns() + GetCurrentBlinkingTurn(); i++)
+        {
+            if (Turns[i] != null &&  Turns[i].Type == type)
+            {
+                iTurn = i;
+                break;
+            }
+        }
+        if (iTurn != -1) Turns[iTurn] = null;
+    }
+    public String[] TurnUsed()
+    {
+        DestroyTurn(TurnType.Full);
+        var turnsLog = $"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)" + ";";
+        turnsLog += $"Se han obtenido 0 Blinking Turn(s)";
+        return turnsLog.Split(';');
+    }
+    
     public Unit WhoAttack() => StartingTeam[orderAttack];
     public string Name()
     {
         return Samurai.Name + $" (J{Identifier})";
+    }
+    
+    public String[] ShowSelectablesUnit()
+    {
+        string tempLog = ""; 
+        for (int i = 0; i < GetNumberUnitsInStartingTeam(); i++)
+        {
+            tempLog += $"{i+1}-{_startingTeams[i].Name} HP:{StartingTeam[i].Attributes.CurrentHp}/{StartingTeam[i].Attributes.MaxHp} MP:{StartingTeam[i].Attributes.CurrentMp}/{StartingTeam[i].Attributes.MaxMp}" + ";";
+        }
+
+        tempLog += $"{GetNumberUnitsInStartingTeam() + 1}-Cancelar";
+        return tempLog.Split(';');
     }
 
     private bool IsMonsterDuplicate(string name)

@@ -71,7 +71,7 @@ public class Tests
     private static void RunTest(string teamsFolder, string testFile)
     {
         var view = View.BuildTestingView(testFile);
-        var game = new Game(view, teamsFolder);
+        var game = new GameController(view, teamsFolder);
         game.Play();
         
         var actualScript = view.GetScript();

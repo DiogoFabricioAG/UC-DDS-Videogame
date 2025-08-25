@@ -67,6 +67,7 @@ public class Unit
         var statAttack = elementType == ElementType.Physics ? _attributes.StrikeDmg : _attributes.SkillDmg;
         var damageDone = (int)(modifier * statAttack * ATTACKCONSTADJUST);
         unit._attributes.CurrentHp -= damageDone;
+        if (unit._attributes.CurrentHp < 0) unit._attributes.CurrentHp = 0;
         return damageDone;
     }
     

@@ -9,25 +9,29 @@ public class Game
 {
     private const string SEPARATOR = "----------------------------------------";
     private readonly char[] LABELMAXUNITSONTABLE = { 'A', 'B', 'C', 'D' };
-    private Team equipo1 { get; set; }
-    private Team equipo2 { get; set; }
+    private Team team1 { get; set; }
+    private Team team2 { get; set; }
 
     public Team currentTeam;
+    public Team otherTeam;
 
     public void ChangeCurrentTeam()
     {
-        if (currentTeam == null || currentTeam != equipo1) currentTeam = equipo1;
-        else if  (currentTeam == equipo1) currentTeam = equipo2;
+        if (currentTeam == null || currentTeam != team1) {currentTeam = team1; otherTeam = team2; }
+        else if  (currentTeam == team1)
+        {
+            currentTeam = team2;
+            otherTeam = team1;
+        };
     }
     
-    public ArrayList Log = new ArrayList();
     public Game()
     {
-        equipo1 = new Team();
-        equipo2 = new Team();
+        team1 = new Team();
+        team2 = new Team();
     }
     
-    public string CreacionEquipo(string[] lines)
+    public string TeamCreation(string[] lines)
     {
         var position1 = 0;
         int position2 = 1;
@@ -41,68 +45,51 @@ public class Game
         }
         string[] alineacionE1 = lines.Skip(1).Take(position2-1).ToArray();
         string[] alineacionE2 = lines.Skip(position2+1).Take(lines.Length - position2 - 1).ToArray();
-        var result = equipo1.EnterUnits(alineacionE1);
-        equipo1.Identifier = "1";
+        var result = team1.EnterUnits(alineacionE1);
+        team1.Identifier = "1";
         if (result == "Archivo de equipos inválido")
         {
             return result;
         }
-        equipo1.SelectStarterTeam();
-        Console.WriteLine("Resultado Equipo 1");
-        var result2 = equipo2.EnterUnits(alineacionE2);
-        equipo2.Identifier = "2";
+        team1.SelectStarterTeam();
+        var result2 = team2.EnterUnits(alineacionE2);
+        team2.Identifier = "2";
         if (result2 == "Archivo de equipos inválido")
         {
             return result2;
         }
-        equipo2.SelectStarterTeam();
-        Console.WriteLine("Resultado Equipo 2");
-
-
-
-        
-        
+        team2.SelectStarterTeam();
         return SEPARATOR;
     }
 
-    public void LoadListValues(string[] lines)
-    {
-        foreach (var line in lines)
-        {
-            Log.Add(line);
-        }
-    }
-
-    public void LoadSingleValue(string line)
-    {
-        Log.Add(line);
-    }
+    
+ 
     public String PlayerTurnExclamation(Team team) => $"Ronda de {team.Name()}\n{SEPARATOR}";
 
     public String[] TeamsUnitsCurrentStatus()
     {
         // Adding a ';' for split later (sry for this attempt of english)
-       string tempLog = $"Equipo de {equipo1.Name()}" + ";";
-       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{equipo1.Samurai.Status()}" + ";";
+       string tempLog = $"Equipo de {team1.Name()}" + ";";
+       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{team1.Samurai.Status()}" + ";";
        
        for (int i = 1; i < LABELMAXUNITSONTABLE.Length; i++)
        {
-           if (equipo1.MonsterId + 1 > i)
+           if (team1.MonsterId + 1 > i)
            {
-               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{equipo1.Monsters[i-1].Status()}" + ";";
+               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{team1.Monsters[i-1].Status()}" + ";";
            }
            else
            {
                tempLog += $"{LABELMAXUNITSONTABLE[i]}-" + ";";
            }
        }; 
-       tempLog += $"Equipo de {equipo2.Name()}" + ";";
-       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{equipo2.Samurai.Status()}" + ";";
+       tempLog += $"Equipo de {team2.Name()}" + ";";
+       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{team2.Samurai.Status()}" + ";";
        for (int i = 1; i < LABELMAXUNITSONTABLE.Length; i++)
        {
-           if (equipo2.MonsterId +1 > i)
+           if (team2.MonsterId +1 > i)
            {
-               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{equipo2.Monsters[i-1].Status()}" + ";";
+               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{team2.Monsters[i-1].Status()}" + ";";
            }
            else
            {
@@ -114,10 +101,10 @@ public class Game
        return tempLog.Split(';');
     }
 
-    public Team? AnyTeamDefeated()
+    public Team? AnyWinner()
     {
-        bool wasDefeated = true;
-        foreach (var unit in equipo1.StartingTeam)
+        var wasDefeated = true;
+        foreach (var unit in team1.StartingTeam)
         {
             if (unit.Attributes.CurrentHp > 0)
             {
@@ -125,29 +112,29 @@ public class Game
                 break;
             }
         }
-        if (wasDefeated) return equipo1;
-
-        foreach (var unit in equipo2.StartingTeam)
+        if (wasDefeated) return team2;
+        wasDefeated = true;
+        foreach (var unit in team2.StartingTeam)
         {
             if (unit.Attributes.CurrentHp > 0)
             {
-
                 wasDefeated = false;
                 break;
             }
         }
-        if (wasDefeated) return equipo2;
-        else return null;
+        if (wasDefeated) return team1;
+        return null;
     }
 
 
 
     public String[] AttackLogs(int attackDamage, Unit attacker, Unit attacked)
     {
-        string tempLog = SEPARATOR + ";";
+        string tempLog = "";
         tempLog += $"{attacker.Name} ataca a {attacked.Name}" + ";";
         tempLog += $"{attacked.Name} recibe {attackDamage} de daño" + ";";
-        tempLog += $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}";
+        tempLog += $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}" + ";";
+        tempLog += SEPARATOR;
         return tempLog.Split(';');
     }
     
