@@ -1,5 +1,4 @@
-﻿// DataLoader.cs
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -7,7 +6,6 @@ using System.Text.Json;
 
 namespace Shin_Megami_Tensei_Model
 {
-    // DTOs para deserializar el JSON tal como está (name + stats)
     public class JsonCharacter
     {
         public string name { get; set; }
@@ -15,13 +13,13 @@ namespace Shin_Megami_Tensei_Model
     }
     public class JsonStats
     {
-        public double HP { get; set; }
-        public double MP { get; set; }
-        public double Str { get; set; }
-        public double Skl { get; set; }
-        public double Mag { get; set; }
-        public double Spd { get; set; }
-        public double Lck { get; set; }
+        public int HP { get; set; }
+        public int MP { get; set; }
+        public int Str { get; set; }
+        public int Skl { get; set; }
+        public int Mag { get; set; }
+        public int Spd { get; set; }
+        public int Lck { get; set; }
     }
 
     public static class DataLoader
@@ -38,20 +36,20 @@ namespace Shin_Megami_Tensei_Model
             return JsonSerializer.Deserialize<List<JsonCharacter>>(json, _opts) ?? new List<JsonCharacter>();
         }
 
-        static Atributos MapStats(JsonStats s)
+        static Attributes MapStats(JsonStats s)
         {
             if (s == null) return null;
-            return new Atributos
+            return new Attributes
             {
-                hpMaximo = s.HP,
-                hpActual = s.HP,
-                mpMaximo = s.MP,
-                mpActual = s.MP,
-                strikeDmg = s.Str,
-                skillDmg = s.Skl,
-                magicDmg = s.Mag,
-                speed = s.Spd,
-                lck = s.Lck
+                MaxHp = s.HP,
+                CurrentHp = s.HP,
+                MaxMp = s.MP,
+                CurrentMp = s.MP,
+                StrikeDmg = s.Str,
+                SkillDmg = s.Skl,
+                MagicDmg = s.Mag,
+                Speed = s.Spd,
+                Lck = s.Lck
             };
         }
 
@@ -60,17 +58,16 @@ namespace Shin_Megami_Tensei_Model
             var list = LoadJsonCharacters(samuraiJsonPath);
             var j = list.FirstOrDefault(x => string.Equals(x.name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
-            var s = new Samurai { nombre = j.name, atributos = MapStats(j.stats) };
-            // el constructor de Samurai ya crea el arreglo de habilidades
+            var s = new Samurai { Name = j.name, Attributes = MapStats(j.stats) };
             return s;
         }
 
-        public static Monstruo GetMonstruoByName(string name, string monsterJsonPath)
+        public static Monster GetMonstruoByName(string name, string monsterJsonPath)
         {
             var list = LoadJsonCharacters(monsterJsonPath);
             var j = list.FirstOrDefault(x => string.Equals(x.name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
-            return new Monstruo { nombre = j.name, atributos = MapStats(j.stats) };
+            return new Monster { Name = j.name, Attributes = MapStats(j.stats) };
         }
     }
 }

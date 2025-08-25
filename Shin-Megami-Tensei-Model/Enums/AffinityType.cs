@@ -1,6 +1,6 @@
 ﻿namespace Shin_Megami_Tensei_Model;
 
-public enum TipoAfinidad
+public enum AffinityType
 {
     Neutral,
     Weak,

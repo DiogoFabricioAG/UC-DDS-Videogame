@@ -5,14 +5,14 @@ namespace Shin_Megami_Tensei_Model;
 
 
 
-public class Partida
+public class Game
 {
     private const string SEPARATOR = "----------------------------------------";
     private readonly char[] LABELMAXUNITSONTABLE = { 'A', 'B', 'C', 'D' };
-    private Equipo equipo1 { get; set; }
-    private Equipo equipo2 { get; set; }
+    private Team equipo1 { get; set; }
+    private Team equipo2 { get; set; }
 
-    public Equipo currentTeam;
+    public Team currentTeam;
 
     public void ChangeCurrentTeam()
     {
@@ -21,10 +21,10 @@ public class Partida
     }
     
     public ArrayList Log = new ArrayList();
-    public Partida()
+    public Game()
     {
-        equipo1 = new Equipo();
-        equipo2 = new Equipo();
+        equipo1 = new Team();
+        equipo2 = new Team();
     }
     
     public string CreacionEquipo(string[] lines)
@@ -41,20 +41,27 @@ public class Partida
         }
         string[] alineacionE1 = lines.Skip(1).Take(position2-1).ToArray();
         string[] alineacionE2 = lines.Skip(position2+1).Take(lines.Length - position2 - 1).ToArray();
-        var result = equipo1.IngresarEquipo(alineacionE1);
-        equipo1.numero = "1";
-        var result2 = equipo2.IngresarEquipo(alineacionE2);
-        equipo2.numero = "2";
-
-
+        var result = equipo1.EnterUnits(alineacionE1);
+        equipo1.Identifier = "1";
         if (result == "Archivo de equipos inválido")
         {
             return result;
         }
+        equipo1.SelectStarterTeam();
+        Console.WriteLine("Resultado Equipo 1");
+        var result2 = equipo2.EnterUnits(alineacionE2);
+        equipo2.Identifier = "2";
         if (result2 == "Archivo de equipos inválido")
         {
             return result2;
         }
+        equipo2.SelectStarterTeam();
+        Console.WriteLine("Resultado Equipo 2");
+
+
+
+        
+        
         return SEPARATOR;
     }
 
@@ -70,19 +77,19 @@ public class Partida
     {
         Log.Add(line);
     }
-    public String PlayerTurnExclamation(Equipo equipo) => $"Ronda de {equipo.Name()}\n{SEPARATOR}";
+    public String PlayerTurnExclamation(Team team) => $"Ronda de {team.Name()}\n{SEPARATOR}";
 
     public String[] TeamsUnitsCurrentStatus()
     {
         // Adding a ';' for split later (sry for this attempt of english)
        string tempLog = $"Equipo de {equipo1.Name()}" + ";";
-       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{equipo1.samurai.Status()}" + ";";
+       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{equipo1.Samurai.Status()}" + ";";
        
        for (int i = 1; i < LABELMAXUNITSONTABLE.Length; i++)
        {
-           if (equipo1.getMonsterID() + 1 > i)
+           if (equipo1.MonsterId + 1 > i)
            {
-               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{equipo1.monstruos[i-1].Status()}" + ";";
+               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{equipo1.Monsters[i-1].Status()}" + ";";
            }
            else
            {
@@ -90,12 +97,12 @@ public class Partida
            }
        }; 
        tempLog += $"Equipo de {equipo2.Name()}" + ";";
-       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{equipo2.samurai.Status()}" + ";";
+       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{equipo2.Samurai.Status()}" + ";";
        for (int i = 1; i < LABELMAXUNITSONTABLE.Length; i++)
        {
-           if (equipo2.getMonsterID() +1 > i)
+           if (equipo2.MonsterId +1 > i)
            {
-               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{equipo2.monstruos[i-1].Status()}" + ";";
+               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{equipo2.Monsters[i-1].Status()}" + ";";
            }
            else
            {
@@ -107,19 +114,44 @@ public class Partida
        return tempLog.Split(';');
     }
 
-    
-    
-    
-    public void GameStart()
+    public Team? AnyTeamDefeated()
     {
-        ChangeCurrentTeam();
-        LoadSingleValue(PlayerTurnExclamation(currentTeam));
-        LoadListValues(TeamsUnitsCurrentStatus());
-        LoadListValues(currentTeam.CurrentTurnsbyType());
-        LoadSingleValue(SEPARATOR);
-        LoadListValues(currentTeam.CurrentTurnOrder());
-        LoadSingleValue(SEPARATOR);
-        LoadListValues(currentTeam.samurai.selectOptions());
+        bool wasDefeated = true;
+        foreach (var unit in equipo1.StartingTeam)
+        {
+            if (unit.Attributes.CurrentHp > 0)
+            {
+                wasDefeated = false;
+                break;
+            }
+        }
+        if (wasDefeated) return equipo1;
+
+        foreach (var unit in equipo2.StartingTeam)
+        {
+            if (unit.Attributes.CurrentHp > 0)
+            {
+
+                wasDefeated = false;
+                break;
+            }
+        }
+        if (wasDefeated) return equipo2;
+        else return null;
     }
+
+
+
+    public String[] AttackLogs(int attackDamage, Unit attacker, Unit attacked)
+    {
+        string tempLog = SEPARATOR + ";";
+        tempLog += $"{attacker.Name} ataca a {attacked.Name}" + ";";
+        tempLog += $"{attacked.Name} recibe {attackDamage} de daño" + ";";
+        tempLog += $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}";
+        return tempLog.Split(';');
+    }
+    
+    
+    
     
 }
