@@ -42,18 +42,36 @@ public class GameController
         _view.WriteLine(SEPARATOR);
     }
 
-    public void ChangeTeam(Game game)
+    public void HandleChangeTurn(Game game)
     {
         game.ChangeCurrentTeam();
         game.currentTeam.RealoadTurns();
         game.otherTeam.RealoadTurns();
         LoadSingleValueForView(game.PlayerTurnExclamation(game.currentTeam));
-        LoadListValuesForView(game.TeamsUnitsCurrentStatus());
-        LoadListValuesForView(game.currentTeam.CurrentTurnsbyType());
-        LoadSingleValueForView(SEPARATOR);
-        LoadListValuesForView(game.currentTeam.CurrentTurnOrder());
-        LoadSingleValueForView(SEPARATOR);
-        LoadListValuesForView(game.currentTeam.StartingTeam[0].SelectOptions());
+        
+        while (game.currentTeam.State == TeamState.WithTurn)
+        {
+            LoadListValuesForView(game.TeamsUnitsCurrentStatus());
+            LoadListValuesForView(game.currentTeam.CurrentTurnsbyType());
+            LoadSingleValueForView(SEPARATOR);
+            LoadListValuesForView(game.currentTeam.CurrentTurnOrder());
+            LoadSingleValueForView(SEPARATOR);
+            LoadListValuesForView(game.currentTeam.WhoAttack().SelectOptions());
+            InputText(_view.ReadLine());
+            HandleAction(game);
+            if (InputFromUser == 6)
+            {
+                LoadSingleValueForView(SEPARATOR);
+
+                break;
+            }
+            
+            game.otherTeam.AnyUnitDestroyed();
+            LoadSingleValueForView(SEPARATOR);
+            game.currentTeam.ChangeOrder();
+            
+        }
+        
     }
     
     public void Play()
@@ -96,19 +114,45 @@ public class GameController
         {
             return; 
         }
-        while (partida.AnyWinner() == null)
+        partida.ChangeCurrentTeam();
+        partida.ChangeCurrentTeam();
+        while (partida.handleGameFinished() == null)
         {
-            ChangeTeam(partida);
-            InputText(_view.ReadLine());
-            LoadSingleValueForView($"Seleccione un objetivo para {partida.currentTeam.StartingTeam[0].Name}");
-            LoadListValuesForView(partida.otherTeam.ShowSelectablesUnit());
-            InputText(_view.ReadLine());
-            LoadListValuesForView(partida.AttackLogs(partida.currentTeam.StartingTeam[0]
-                    .AttackKinds(partida.otherTeam.StartingTeam[InputFromUser-1],ElementType.Physics),
-                partida.currentTeam.StartingTeam[0],partida.otherTeam.StartingTeam[InputFromUser-1]));
-            LoadListValuesForView(partida.currentTeam.TurnUsed());
-            LoadSingleValueForView(SEPARATOR);
+            HandleChangeTurn(partida);
         }
-        LoadSingleValueForView($"Ganador: {partida.AnyWinner().Name()}");
+
+        LoadSingleValueForView($"Ganador: {partida.handleGameFinished().Name()}");
+    }
+
+    private void HandleAction(Game partida)
+    {
+        switch (InputFromUser)
+        {
+            
+            case 1:
+                LoadSingleValueForView($"Seleccione un objetivo para {partida.currentTeam.WhoAttack().Name}");
+                LoadListValuesForView(partida.otherTeam.ShowSelectablesUnit());
+                InputText(_view.ReadLine());
+                LoadListValuesForView(partida.AttackLogs(partida.currentTeam.WhoAttack()
+                        .AttackKinds(partida.otherTeam.StartingTeam[InputFromUser - 1], ElementType.Physics),
+                    partida.currentTeam.WhoAttack(), partida.otherTeam.StartingTeam[InputFromUser - 1], ElementType.Physics)); 
+                LoadListValuesForView(partida.currentTeam.TurnUsed());
+                break;
+
+            case 2:
+                LoadSingleValueForView($"Seleccione un objetivo para {partida.currentTeam.WhoAttack().Name}");
+                LoadListValuesForView(partida.otherTeam.ShowSelectablesUnit());
+                InputText(_view.ReadLine());
+                LoadListValuesForView(partida.AttackLogs(partida.currentTeam.WhoAttack()
+                        .AttackKinds(partida.otherTeam.StartingTeam[InputFromUser - 1], ElementType.Gun),
+                    partida.currentTeam.WhoAttack(), partida.otherTeam.StartingTeam[InputFromUser - 1] , ElementType.Gun));
+                LoadListValuesForView(partida.currentTeam.TurnUsed());
+
+                break;
+            case 6:
+                partida.HandleSurrender();
+                LoadSingleValueForView($"{partida.currentTeam.Name()} se rinde");
+                break;
+        }
     }
 }

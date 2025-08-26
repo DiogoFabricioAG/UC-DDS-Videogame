@@ -23,6 +23,8 @@ public class Game
             currentTeam = team2;
             otherTeam = team1;
         };
+        currentTeam.State = TeamState.WithTurn;
+        otherTeam.State = TeamState.WithoutTurn;
     }
     
     public Game()
@@ -47,6 +49,7 @@ public class Game
         string[] alineacionE2 = lines.Skip(position2+1).Take(lines.Length - position2 - 1).ToArray();
         var result = team1.EnterUnits(alineacionE1);
         team1.Identifier = "1";
+        team1.State = TeamState.WithTurn;
         if (result == "Archivo de equipos inválido")
         {
             return result;
@@ -54,6 +57,7 @@ public class Game
         team1.SelectStarterTeam();
         var result2 = team2.EnterUnits(alineacionE2);
         team2.Identifier = "2";
+        team2.State = TeamState.WithoutTurn;
         if (result2 == "Archivo de equipos inválido")
         {
             return result2;
@@ -70,13 +74,12 @@ public class Game
     {
         // Adding a ';' for split later (sry for this attempt of english)
        string tempLog = $"Equipo de {team1.Name()}" + ";";
-       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{team1.Samurai.Status()}" + ";";
        
-       for (int i = 1; i < LABELMAXUNITSONTABLE.Length; i++)
+       for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
        {
-           if (team1.MonsterId + 1 > i)
+           if (team1.StartingTeam[i] != null)
            {
-               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{team1.Monsters[i-1].Status()}" + ";";
+               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{team1.StartingTeam[i].Status()}" + ";";
            }
            else
            {
@@ -84,12 +87,11 @@ public class Game
            }
        }; 
        tempLog += $"Equipo de {team2.Name()}" + ";";
-       tempLog += $"{LABELMAXUNITSONTABLE[0]}-{team2.Samurai.Status()}" + ";";
-       for (int i = 1; i < LABELMAXUNITSONTABLE.Length; i++)
+       for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
        {
-           if (team2.MonsterId +1 > i)
+           if (team2.StartingTeam[i] != null)
            {
-               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{team2.Monsters[i-1].Status()}" + ";";
+               tempLog += $"{LABELMAXUNITSONTABLE[i]}-{team2.StartingTeam[i].Status()}" + ";";
            }
            else
            {
@@ -101,8 +103,18 @@ public class Game
        return tempLog.Split(';');
     }
 
-    public Team? AnyWinner()
+
+    public void HandleSurrender()
     {
+        currentTeam.State = TeamState.Surrendered;
+    }
+
+    public Team? handleGameFinished()
+    {
+        if (currentTeam.State == TeamState.Surrendered)
+        {
+            return otherTeam;
+        }
         var wasDefeated = true;
         foreach (var unit in team1.StartingTeam)
         {
@@ -112,9 +124,13 @@ public class Game
                 break;
             }
         }
-        if (wasDefeated) return team2;
+        if (wasDefeated)
+        {
+            team2.State = TeamState.Defeated;
+            return team2;
+        };
         wasDefeated = true;
-        foreach (var unit in team2.StartingTeam)
+        foreach (var unit in team2.StartingTeam.Where(x => x != null).ToArray())
         {
             if (unit.Attributes.CurrentHp > 0)
             {
@@ -122,16 +138,22 @@ public class Game
                 break;
             }
         }
-        if (wasDefeated) return team1;
+        if (wasDefeated)
+        {
+            team1.State = TeamState.Defeated;
+            return team1;
+        };
         return null;
     }
+    
+    
 
-
-
-    public String[] AttackLogs(int attackDamage, Unit attacker, Unit attacked)
+    public String[] AttackLogs(int attackDamage, Unit attacker, Unit attacked, ElementType type )
     {
+
+        string typeAttackLog = type == ElementType.Gun ? "dispara" : "ataca";
         string tempLog = "";
-        tempLog += $"{attacker.Name} ataca a {attacked.Name}" + ";";
+        tempLog += $"{attacker.Name} {typeAttackLog} a {attacked.Name}" + ";";
         tempLog += $"{attacked.Name} recibe {attackDamage} de daño" + ";";
         tempLog += $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}" + ";";
         tempLog += SEPARATOR;
