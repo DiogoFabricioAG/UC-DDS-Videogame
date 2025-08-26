@@ -21,6 +21,18 @@ namespace Shin_Megami_Tensei_Model
         public int Spd { get; set; }
         public int Lck { get; set; }
     }
+    
+    public class JsonAbility
+    {
+        public string name { get; set; }
+        public string type { get; set; }
+        public int cost { get; set; }
+        public int power { get; set; }
+        public string target { get; set; }
+        public string hits { get; set; }
+        public string effect { get; set; }
+    }
+
 
     public static class DataLoader
     {
@@ -36,6 +48,20 @@ namespace Shin_Megami_Tensei_Model
             return JsonSerializer.Deserialize<List<JsonCharacter>>(json, _opts) ?? new List<JsonCharacter>();
         }
 
+        
+        public static List<JsonAbility> LoadJsonAbilities(string jsonPath)
+        {
+            if (!File.Exists(jsonPath)) return new List<JsonAbility>();
+            var json = File.ReadAllText(jsonPath);
+            return JsonSerializer.Deserialize<List<JsonAbility>>(json, _opts) ?? new List<JsonAbility>();
+        }
+        public static Ability GetAbilityByName(string name, string abilitiesJsonPath)
+        {
+            var list = LoadJsonAbilities(abilitiesJsonPath);
+            var j = list.FirstOrDefault(x => string.Equals(x.name, name, StringComparison.OrdinalIgnoreCase));
+            if (j == null) return null;
+            return new Ability(j);
+        }
         static Attributes MapStats(JsonStats s)
         {
             if (s == null) return null;
@@ -69,5 +95,7 @@ namespace Shin_Megami_Tensei_Model
             if (j == null) return null;
             return new Monster { Name = j.name, Attributes = MapStats(j.stats) };
         }
+        
+        
     }
 }

@@ -70,5 +70,18 @@ public class Unit
         if (unit._attributes.CurrentHp < 0) unit._attributes.CurrentHp = 0;
         return damageDone;
     }
+
+    public string[] ShowSelectableAbilities()
+    {
+        int counter = 1;
+        string abilityLogs = "";
+        foreach (var ability in Ability.Where(x => x != null).ToArray())
+        {
+            abilityLogs += $"{counter}-{ability.Presentation()}" + ";";
+            counter++;
+        }
+        abilityLogs += $"{counter}-Cancelar" ;
+        return abilityLogs.Split(";");
+    }
     
 }

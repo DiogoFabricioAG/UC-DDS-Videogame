@@ -4,6 +4,7 @@ public class Ability
 {
     private string _name;
 
+    public string Presentation() => $"{Name} MP:{_cost}";
     public string Name
     {
         get => _name;
@@ -62,6 +63,18 @@ public class Ability
     public Ability(string name)
     {
         _name = name;
+    }
+
+    public Ability(JsonAbility a)
+    {
+        if (a == null) return;
+        _name = a.name;
+        _type = a.type;
+        _cost = a.cost;
+        _power = a.power;
+        _target = a.target;
+        _hits = a.hits;
+        _effect = a.effect;
     }
     
 }

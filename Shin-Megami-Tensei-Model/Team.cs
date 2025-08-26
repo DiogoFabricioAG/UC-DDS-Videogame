@@ -49,18 +49,15 @@ public class Team
     private int _monsterId = 0;
     public int  MonsterId { get => _monsterId; set => _monsterId = value; }
 
-    public String ChangeOrder()
+    public void ChangeOrder()
     {
         orderAttack++;
         if (orderAttack == GetNumberUnitsInStartingTeam())
         {
             orderAttack = 0;
             State = TeamState.WithoutTurn;
-            return "Instruction"; // Cambiar esto porfavo
         }
         State = TeamState.WithTurn;
-
-        return $"Equipo de {Name()}";
     }
 
 
@@ -172,22 +169,28 @@ public class Team
             _error = true;
             return;
         }
-
+        
         Samurai = loadedSamurai;
+
+        var abilitiesJsonPath = Path.Combine(AppContext.BaseDirectory, "skills.json");
 
         foreach (var habilidad in FromInputGetAbilities(line))
         {
-            // trim y comprobar cadena vacía
             var htrim = habilidad?.Trim();
             if (string.IsNullOrEmpty(htrim)) continue;
-            _error = !Samurai.AbilityInsert(new Ability(htrim));
+
+            var ability = DataLoader.GetAbilityByName(htrim, abilitiesJsonPath);
+
+            // fallback: si no existe en el JSON, crear una mínima con solo nombre
+            ability ??= new Ability(htrim);
+
+            _error = !Samurai.AbilityInsert(ability);
             if (_error) break;
         }
+
         Turns[0] = new Turn(TurnType.Full);
     }
     
-
-
     private void InsertMonsterIntoTeam(Monster monster)
     {
         // Verificar si el objeto monstruo es nulo
@@ -262,7 +265,7 @@ public class Team
         return counter;
     }
     
-    private int GetNumberUnitsInStartingTeam() => StartingTeam.Where(x => x != null).Count();
+    public int GetNumberUnitsInStartingTeam() => StartingTeam.Where(x => x != null).Count();
     public String[] CurrentTurnOrder()
     {
         var orderLogs = "Orden:"; 
