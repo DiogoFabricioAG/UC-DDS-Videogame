@@ -1,4 +1,5 @@
-﻿using Shin_Megami_Tensei_Model;
+﻿using System.Diagnostics.CodeAnalysis;
+using Shin_Megami_Tensei_Model;
 using Shin_Megami_Tensei_View;
 
 namespace Shin_Megami_Tensei;
@@ -10,7 +11,7 @@ public class GameController
     private const string SEPARATOR = "----------------------------------------";
 
     private int _inputFromUser;
-
+    private bool wasCanceled = false;
     public int InputFromUser
     {
         get => _inputFromUser;
@@ -41,15 +42,14 @@ public class GameController
         InputFromUser = Convert.ToInt32(text);
         _view.WriteLine(SEPARATOR);
     }
-
-    public void HandleChangeTurn(Game game)
+  public void HandleChangeTurn(Game game)
     {
         game.ChangeCurrentTeam();
         game.currentTeam.RealoadTurns();
         game.otherTeam.RealoadTurns();
         LoadSingleValueForView(game.PlayerTurnExclamation(game.currentTeam));
-        
-        while (game.currentTeam.State == TeamState.WithTurn)
+
+        while (game.currentTeam.State == TeamState.WithTurn && game.currentTeam.GetCurrentFullTurns() != 0 && game.handleGameFinished() == null)
         {
             LoadListValuesForView(game.TeamsUnitsCurrentStatus());
             LoadListValuesForView(game.currentTeam.CurrentTurnsbyType());
@@ -57,13 +57,18 @@ public class GameController
             LoadListValuesForView(game.currentTeam.CurrentTurnOrder());
             LoadSingleValueForView(SEPARATOR);
             // Cada que se cancela debe volver por aca, hay que ver esooo, igual con un bucle, pero ya lo vamos viendo
-            LoadListValuesForView(game.currentTeam.WhoAttack().SelectOptions());
-            InputText(_view.ReadLine());
-            HandleAction(game);
-            if (InputFromUser == 6)
+            wasCanceled = true;
+
+            while (wasCanceled)
             {
-                LoadSingleValueForView(SEPARATOR);
-                break;
+                LoadListValuesForView(game.currentTeam.WhoAttack().SelectOptions());
+                InputText(_view.ReadLine());
+                HandleAction(game);
+                if (InputFromUser == 6)
+                {
+                    break;
+                }
+
             }
             
             game.otherTeam.AnyUnitDestroyed();
@@ -106,7 +111,7 @@ public class GameController
         var partida = new Shin_Megami_Tensei_Model.Game();
         var result = partida.TeamCreation(lines);
         _view.WriteLine(result);
-
+        
         if (result == "Archivo de equipos inválido")
         {
             return; 
@@ -123,6 +128,7 @@ public class GameController
 
     private void HandleAction(Game game)
     {
+        wasCanceled = false;
         switch (InputFromUser)
         {
             
@@ -131,12 +137,21 @@ public class GameController
                 LoadListValuesForView(game.otherTeam.ShowSelectablesUnit());
                 InputText(_view.ReadLine());
                 if (InputFromUser == game.otherTeam.GetNumberUnitsInStartingTeam() + 1)
-                    break;
-                game.currentTeam.ChangeOrder();
-                LoadListValuesForView(game.AttackLogs(game.currentTeam.WhoAttack()
-                        .AttackKinds(game.otherTeam.StartingTeam[InputFromUser - 1], ElementType.Physics),
-                    game.currentTeam.WhoAttack(), game.otherTeam.StartingTeam[InputFromUser - 1], ElementType.Physics)); 
-                LoadListValuesForView(game.currentTeam.TurnUsed());
+                    wasCanceled = true;
+                else
+                {
+                    Unit attacked = game.otherTeam.GetSelectableUnits()[InputFromUser - 1];
+                    int damageDone = game.currentTeam.WhoAttack()
+                        .AttackKinds(attacked, ElementType.Physics);
+                    LoadListValuesForView(game.AttackLogs(damageDone, game.currentTeam.WhoAttack(),
+                        attacked, ElementType.Physics)); 
+                    game.currentTeam.ChangeOrder();
+
+                    LoadListValuesForView(game.currentTeam.TurnUsed());
+                    LoadSingleValueForView(SEPARATOR);
+
+                }
+                
                 break;
 
             case 2:
@@ -145,26 +160,43 @@ public class GameController
                 InputText(_view.ReadLine());
                 
                 if (InputFromUser == game.otherTeam.GetNumberUnitsInStartingTeam() + 1)
-                    break;
-                game.currentTeam.ChangeOrder();
+                    wasCanceled = true;
                 
-                LoadListValuesForView(game.AttackLogs(game.currentTeam.WhoAttack()
-                        .AttackKinds(game.otherTeam.StartingTeam[InputFromUser - 1], ElementType.Gun),
-                    game.currentTeam.WhoAttack(), game.otherTeam.StartingTeam[InputFromUser - 1] , ElementType.Gun));
-                LoadListValuesForView(game.currentTeam.TurnUsed());
+                else
+                {
+                    
+                    Unit attacked = game.otherTeam.GetSelectableUnits()[InputFromUser - 1];
+                    int damageDone = game.currentTeam.WhoAttack()
+                        .AttackKinds(attacked, ElementType.Gun);
+                    LoadListValuesForView(game.AttackLogs(damageDone, game.currentTeam.WhoAttack(),
+                        attacked, ElementType.Gun)); 
+                    game.currentTeam.ChangeOrder();
+                    
+                    LoadListValuesForView(game.currentTeam.TurnUsed());
+                    LoadSingleValueForView(SEPARATOR);
+
+                }
+                
+                
+                
 
                 break;
             case 3:
                 LoadSingleValueForView($"Seleccione una habilidad para que {game.currentTeam.WhoAttack().Name} use");
                 LoadListValuesForView(game.currentTeam.WhoAttack().ShowSelectableAbilities());
                 InputText(_view.ReadLine());
-
-                if (InputFromUser == game.otherTeam.GetNumberUnitsInStartingTeam() + 1)
-                    break;
+                Console.WriteLine("Numero de Habilidades: " + game.currentTeam.WhoAttack().GetTotalAbilities());
+                if (InputFromUser == game.currentTeam.WhoAttack().GetTotalAbilities() + 1)
+                {
+                    wasCanceled = true;
+                    game.currentTeam.ChangeOrder();
+                }
                 break;
             case 6:
                 game.HandleSurrender();
                 LoadSingleValueForView($"{game.currentTeam.Name()} se rinde");
+                
+                LoadSingleValueForView(SEPARATOR);
                 break;
         }
     }

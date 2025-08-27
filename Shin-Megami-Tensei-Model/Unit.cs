@@ -33,7 +33,7 @@ public class Unit
     {
         bool _error = false;
         for (int i = 0; i < _idHabilidad; i++)
-            if (this._ability[i].Name == ability.Name)
+            if (_ability[i].Name == ability.Name)
             {
                 _error = true;
                 break;
@@ -44,7 +44,7 @@ public class Unit
     }
     public bool AbilityInsert(Ability ability)
     {
-        if (ValidateAbilityInsert(ability) || CANTIDADHABILIDADESMAXIMA == _idHabilidad)
+        if (ValidateAbilityInsert(ability) || CANTIDADHABILIDADESMAXIMA == _idHabilidad || ability.Cost > Attributes.CurrentMp)
         {
             return false;
         }
@@ -83,5 +83,7 @@ public class Unit
         abilityLogs += $"{counter}-Cancelar" ;
         return abilityLogs.Split(";");
     }
-    
+
+    public int GetTotalAbilities() => Ability.Where(x => x!= null).ToArray().Length;
+
 }

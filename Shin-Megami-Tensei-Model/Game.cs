@@ -115,29 +115,15 @@ public class Game
         {
             return otherTeam;
         }
-        var wasDefeated = true;
-        foreach (var unit in team1.StartingTeam)
-        {
-            if (unit.Attributes.CurrentHp > 0)
-            {
-                wasDefeated = false;
-                break;
-            }
-        }
+        var wasDefeated = team1.GetNumberUnitsInStartingTeam() == 0 ;
+        
         if (wasDefeated)
         {
             team2.State = TeamState.Defeated;
             return team2;
         };
-        wasDefeated = true;
-        foreach (var unit in team2.StartingTeam.Where(x => x != null).ToArray())
-        {
-            if (unit.Attributes.CurrentHp > 0)
-            {
-                wasDefeated = false;
-                break;
-            }
-        }
+        wasDefeated = team2.GetNumberUnitsInStartingTeam() == 0;
+
         if (wasDefeated)
         {
             team1.State = TeamState.Defeated;
@@ -159,8 +145,4 @@ public class Game
         tempLog += SEPARATOR;
         return tempLog.Split(';');
     }
-    
-    
-    
-    
 }

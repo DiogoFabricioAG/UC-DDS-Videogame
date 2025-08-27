@@ -95,15 +95,22 @@ public class Team
         {
             if (unit.Attributes.CurrentHp == 0)
             {
-                unitDestroy = unit;
-                break;
+                if (orderTeam.Contains(unit))
+                {
+                    unitDestroy = unit;
+                    break;
+                }
             }
         }
 
         if (unitDestroy != null)
         {
-            StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] = null;
-            OrderTeam[Array.IndexOf(OrderTeam, unitDestroy)] = null;
+            if (StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] is Monster)
+            {
+                StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] = null;
+            }
+            if (Array.IndexOf(OrderTeam, unitDestroy) != -1)
+                OrderTeam[Array.IndexOf(OrderTeam, unitDestroy)] = null;
 
         }
     }
@@ -126,14 +133,24 @@ public class Team
     }
     private string[] FromInputGetAbilities(string lineText)
     {
+        int startIndex = lineText.IndexOf('(');
+        int endIndex = lineText.LastIndexOf(')');
+
+        if (startIndex == -1 || endIndex == -1 || endIndex <= startIndex)
+        {
+            return new string[0];
+        }
+    
         try
         {
-            var habilidadesSinFiltrado = lineText.Split(' ').Skip(2).Aggregate((current, next) => current + " " + next);
-            habilidadesSinFiltrado = habilidadesSinFiltrado.Substring(1, habilidadesSinFiltrado.Length - 2);
-            var listaHabilidades = habilidadesSinFiltrado.Split(',');
-            return listaHabilidades;
+            var abilitiesSubstring = lineText.Substring(startIndex + 1, endIndex - startIndex - 1);
+ 
+            return abilitiesSubstring
+                .Split(',')
+                .Select(s => s.Trim())
+                .ToArray();
         }
-        catch (Exception e)
+        catch (Exception)
         {
             return new string[0];
         }
@@ -178,16 +195,13 @@ public class Team
         {
             var htrim = habilidad?.Trim();
             if (string.IsNullOrEmpty(htrim)) continue;
-
             var ability = DataLoader.GetAbilityByName(htrim, abilitiesJsonPath);
 
-            // fallback: si no existe en el JSON, crear una mínima con solo nombre
             ability ??= new Ability(htrim);
-
+            
             _error = !Samurai.AbilityInsert(ability);
             if (_error) break;
         }
-
         Turns[0] = new Turn(TurnType.Full);
     }
     
@@ -225,12 +239,11 @@ public class Team
         return counter;
     }
 
-    public int GetTotalFullTurns() => StartingTeam.Where(x => x != null).ToArray().Length;
 
     public void RealoadTurns()
     {
         Turns = new Turn[MAXUNITSINTABLE];
-        for (int i = 0; i < GetTotalFullTurns(); i++)
+        for (int i = 0; i < GetNumberUnitsInStartingTeam(); i++)
         {
             Turns[i] = new Turn(TurnType.Full);
         }
@@ -265,12 +278,12 @@ public class Team
         return counter;
     }
     
-    public int GetNumberUnitsInStartingTeam() => StartingTeam.Where(x => x != null).Count();
+    public int GetNumberUnitsInStartingTeam() => StartingTeam.Count(unit => unit != null && unit.Attributes.CurrentHp > 0);
     public String[] CurrentTurnOrder()
     {
         var orderLogs = "Orden:"; 
         for (int i = 0; i < GetNumberUnitsInStartingTeam(); i++)
-            orderLogs += ";" + $"{i + 1}-{OrderTeam.Where(x => x != null).ToArray()[(i + orderAttack)%GetTotalFullTurns()].Name}" ;
+            orderLogs += ";" + $"{i + 1}-{OrderTeam.Where(x => x != null).ToArray()[(i + orderAttack)%GetNumberUnitsInStartingTeam()].Name}" ;
         return orderLogs.Split(';');
     }
 
@@ -302,7 +315,7 @@ public class Team
         return turnsLog.Split(';');
     }
     
-    public Unit WhoAttack() => OrderTeam.Where(x=>x != null).ToArray()[orderAttack];
+    public Unit WhoAttack() => OrderTeam.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[orderAttack];
     public string Name()
     {
         return Samurai.Name + $" (J{Identifier})";
@@ -313,7 +326,7 @@ public class Team
         string tempLog = ""; 
      
         var counterUnit = 1;
-        foreach (var unit in StartingTeam.Where(x => x != null))
+        foreach (var unit in StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)))
         {
             tempLog += $"{counterUnit}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}" + ";";
             counterUnit++;
@@ -323,6 +336,9 @@ public class Team
         return tempLog.Split(';');
     }
 
+    public Unit[] GetSelectableUnits() => StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)).ToArray();
+
+
     private bool IsMonsterDuplicate(string name)
     {
         for (int i = 0; i< _monsterId; i++)
@@ -331,6 +347,6 @@ public class Team
         }
         return false;
     }
-    bool SamuraiExist() => Samurai.Name != null;
     
+    bool SamuraiExist() => Samurai.Name != null;
 }

@@ -57,10 +57,18 @@ namespace Shin_Megami_Tensei_Model
         }
         public static Ability GetAbilityByName(string name, string abilitiesJsonPath)
         {
-            var list = LoadJsonAbilities(abilitiesJsonPath);
-            var j = list.FirstOrDefault(x => string.Equals(x.name, name, StringComparison.OrdinalIgnoreCase));
-            if (j == null) return null;
-            return new Ability(j);
+            var allAbilities = LoadJsonAbilities(abilitiesJsonPath);
+            
+            var foundAbility = allAbilities.FirstOrDefault(
+                a => string.Equals(a.name, name.Trim(), StringComparison.OrdinalIgnoreCase)
+            );
+
+            if (foundAbility == null)
+            {
+                return null;
+            }
+    
+            return new Ability(foundAbility);
         }
         static Attributes MapStats(JsonStats s)
         {
