@@ -1,4 +1,6 @@
-﻿namespace Shin_Megami_Tensei_Model;
+﻿using Shin_Megami_Tensei_Model.UnitsEnums;
+
+namespace Shin_Megami_Tensei_Model;
 
 public class Unit
 {
@@ -29,7 +31,7 @@ public class Unit
         "4: Pasar Turno"
     };
     
-    bool ValidateAbilityInsert(Ability ability)
+    bool IsAbilityDuplicate(Ability ability)
     {
         bool _error = false;
         for (int i = 0; i < _idHabilidad; i++)
@@ -42,16 +44,19 @@ public class Unit
             
         
     }
-    public bool AbilityInsert(Ability ability)
+
+    public AbilityInsertState validateAbilityInsert(Ability ability)
     {
-        if (ValidateAbilityInsert(ability) || CANTIDADHABILIDADESMAXIMA == _idHabilidad || ability.Cost > Attributes.CurrentMp)
-        {
-            return false;
-        }
+        if (IsAbilityDuplicate(ability) || CANTIDADHABILIDADESMAXIMA <= _idHabilidad) 
+            return  AbilityInsertState.Inviable;
+        if (ability.Cost > Attributes.CurrentMp )  
+            return AbilityInsertState.Incorrect;
+        return AbilityInsertState.Correct;
+    }
+    public void AbilityInsert(Ability ability)
+    {
         _ability[_idHabilidad] = ability;
         _idHabilidad++;
-        return true;
-        
     }
 
     private int _idHabilidad = 0;

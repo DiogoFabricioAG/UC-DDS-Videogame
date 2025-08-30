@@ -1,5 +1,6 @@
 ﻿using System.Collections;
-using System.IO; // para Path
+using System.IO;
+using Shin_Megami_Tensei_Model.UnitsEnums; // para Path
 
 namespace Shin_Megami_Tensei_Model;
 
@@ -178,7 +179,7 @@ public class Team
         }
 
         var nombreSamurai = FromInputGetSamuraiName(line).Trim();
-
+        Console.WriteLine(nombreSamurai);
         var samuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
         var loadedSamurai = DataLoader.GetSamuraiByName(nombreSamurai, samuraiJsonPath);
         if (loadedSamurai == null)
@@ -197,10 +198,17 @@ public class Team
             if (string.IsNullOrEmpty(htrim)) continue;
             var ability = DataLoader.GetAbilityByName(htrim, abilitiesJsonPath);
 
-            ability ??= new Ability(htrim);
             
-            _error = !Samurai.AbilityInsert(ability);
-            if (_error) break;
+            AbilityInsertState abilityInsert = Samurai.validateAbilityInsert(ability);
+            if (abilityInsert == AbilityInsertState.Inviable)
+            {
+                _error = true;
+                break;
+            };
+            if (abilityInsert == AbilityInsertState.Correct)
+            {
+                Samurai.AbilityInsert(ability);
+            };
         }
         Turns[0] = new Turn(TurnType.Full);
     }

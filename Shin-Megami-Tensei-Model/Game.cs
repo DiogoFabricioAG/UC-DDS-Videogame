@@ -1,30 +1,48 @@
-﻿using System.Collections;
-
-namespace Shin_Megami_Tensei_Model;
+﻿namespace Shin_Megami_Tensei_Model;
 
 
 
 
 public class Game
+
 {
     private const string SEPARATOR = "----------------------------------------";
     private readonly char[] LABELMAXUNITSONTABLE = { 'A', 'B', 'C', 'D' };
     private Team team1 { get; set; }
     private Team team2 { get; set; }
 
-    public Team currentTeam;
-    public Team otherTeam;
+    private Team _currentTeam;
 
+    private bool _gameError;
+
+    public bool GameError
+    {
+        get => _gameError;
+        set => _gameError = value;
+    }
+    public Team CurrentTeam
+    {
+        get => _currentTeam;
+        private set => _currentTeam = value;
+    }
+    private Team _otherTeam;
+
+    public Team OtherTeam
+    {
+        get => _otherTeam;
+        private set => _otherTeam = value;
+    }
+    
     public void ChangeCurrentTeam()
     {
-        if (currentTeam == null || currentTeam != team1) {currentTeam = team1; otherTeam = team2; }
-        else if  (currentTeam == team1)
+        if (CurrentTeam == null || CurrentTeam != team1) {CurrentTeam = team1; OtherTeam = team2; }
+        else if  (CurrentTeam == team1)
         {
-            currentTeam = team2;
-            otherTeam = team1;
+            CurrentTeam = team2;
+            OtherTeam = team1;
         };
-        currentTeam.State = TeamState.WithTurn;
-        otherTeam.State = TeamState.WithoutTurn;
+        CurrentTeam.State = TeamState.WithTurn;
+        OtherTeam.State = TeamState.WithoutTurn;
     }
     
     public Game()
@@ -50,6 +68,7 @@ public class Game
         var result = team1.EnterUnits(alineacionE1);
         team1.Identifier = "1";
         team1.State = TeamState.WithTurn;
+        Console.WriteLine("EQUIPO 1:"+ result);
         if (result == "Archivo de equipos inválido")
         {
             return result;
@@ -58,6 +77,8 @@ public class Game
         var result2 = team2.EnterUnits(alineacionE2);
         team2.Identifier = "2";
         team2.State = TeamState.WithoutTurn;
+        Console.WriteLine("EQUIPO 2:"+ result2);
+
         if (result2 == "Archivo de equipos inválido")
         {
             return result2;
@@ -106,14 +127,14 @@ public class Game
 
     public void HandleSurrender()
     {
-        currentTeam.State = TeamState.Surrendered;
+        CurrentTeam.State = TeamState.Surrendered;
     }
 
     public Team? handleGameFinished()
     {
-        if (currentTeam.State == TeamState.Surrendered)
+        if (CurrentTeam.State == TeamState.Surrendered)
         {
-            return otherTeam;
+            return OtherTeam;
         }
         var wasDefeated = team1.GetNumberUnitsInStartingTeam() == 0 ;
         
