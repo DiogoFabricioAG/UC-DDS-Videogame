@@ -1,18 +1,14 @@
-﻿using System.Collections;
-using System.IO;
-using Shin_Megami_Tensei_Model.UnitsEnums; // para Path
-
+﻿
 namespace Shin_Megami_Tensei_Model;
 
 public class Team
 {
 
-    private const string ERRORMESSAGE = "Archivo de equipos inválido";
     private const int CANTIDADMAXIMAMONSTRUOS = 7;
     private const int TOTALMONSTERINTABLE = 3;
     private const int MAXUNITSINTABLE = 4;
 
-    private int orderAttack = 0;
+    public int OrderAttack { get; set; } = 0;
     public string Identifier { get; set; } = "0";
     public Samurai Samurai { get; set; } = new Samurai();
     public Monster[] Monsters { get; set; } = new Monster[CANTIDADMAXIMAMONSTRUOS];
@@ -52,40 +48,16 @@ public class Team
 
     public void ChangeOrder()
     {
-        orderAttack++;
-        if (orderAttack == GetNumberUnitsInStartingTeam())
+        OrderAttack++;
+        if (OrderAttack == GetNumberUnitsInStartingTeam())
         {
-            orderAttack = 0;
+            OrderAttack = 0;
             State = TeamState.WithoutTurn;
         }
         State = TeamState.WithTurn;
     }
-
-
-    public string EnterUnits(string[] inputLines)
-    {
-        foreach (string line in inputLines)
-        {
-            if (string.IsNullOrWhiteSpace(line))
-            {
-                continue;
-            }
-
-            if (line.Contains("Samurai"))
-            {
-
-                FromInputInsertSamurai(line);
-            }
-            else
-            {
-                InsertMonsterIntoTeam(FromInputGetMonster(line));
-            }
-        }
-
-
-        return !SamuraiExist() || _error ? ERRORMESSAGE : "Porque entra por aca?";
-    }
-    private static string? FromInputGetSamuraiName(string line) => line.Split(' ')[1];
+    
+    public static string? FromInputGetSamuraiName(string line) => line.Split(' ')[1];
 
 
     public void AnyUnitDestroyed()
@@ -132,7 +104,7 @@ public class Team
         
         OrderTeam = StartingTeam.Where(x => x != null).OrderByDescending(x => x.Attributes.Speed).ToArray();
     }
-    private string[] FromInputGetAbilities(string lineText)
+    public string[] FromInputGetAbilities(string lineText)
     {
         int startIndex = lineText.IndexOf('(');
         int endIndex = lineText.LastIndexOf(')');
@@ -156,86 +128,6 @@ public class Team
             return new string[0];
         }
     }
-
-    private static Monster FromInputGetMonster(string line)
-    {
-        var name = line.Trim();
-        var monsterJsonPath = Path.Combine(AppContext.BaseDirectory, "monsters.json");
-
-        var monster = DataLoader.GetMonstruoByName(name, monsterJsonPath);
-        return monster;
-    }
-    private void FromInputInsertSamurai(string line)
-    {
-        if (SamuraiExist())
-        {
-            _error = true;
-            return;
-        }
-
-        if (FromInputGetSamuraiName(line) == null)
-        {
-            return;
-        }
-
-        var nombreSamurai = FromInputGetSamuraiName(line).Trim();
-        Console.WriteLine(nombreSamurai);
-        var samuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
-        var loadedSamurai = DataLoader.GetSamuraiByName(nombreSamurai, samuraiJsonPath);
-        if (loadedSamurai == null)
-        {
-            _error = true;
-            return;
-        }
-        
-        Samurai = loadedSamurai;
-
-        var abilitiesJsonPath = Path.Combine(AppContext.BaseDirectory, "skills.json");
-
-        foreach (var habilidad in FromInputGetAbilities(line))
-        {
-            var htrim = habilidad?.Trim();
-            if (string.IsNullOrEmpty(htrim)) continue;
-            var ability = DataLoader.GetAbilityByName(htrim, abilitiesJsonPath);
-
-            
-            AbilityInsertState abilityInsert = Samurai.validateAbilityInsert(ability);
-            if (abilityInsert == AbilityInsertState.Inviable)
-            {
-                _error = true;
-                break;
-            };
-            if (abilityInsert == AbilityInsertState.Correct)
-            {
-                Samurai.AbilityInsert(ability);
-            };
-        }
-        Turns[0] = new Turn(TurnType.Full);
-    }
-    
-    private void InsertMonsterIntoTeam(Monster monster)
-    {
-        // Verificar si el objeto monstruo es nulo
-        if (monster == null)
-        {
-
-            _error = true;
-            return;
-        }
-
-        if (IsMonsterDuplicate(monster.Name) || _monsterId == CANTIDADMAXIMAMONSTRUOS)
-        {
-            _error = true;
-            return;
-        }
-        Monsters[_monsterId] = monster;
-        _monsterId++;
-        if (_monsterId < TOTALMONSTERINTABLE + 1 )
-        {
-            Turns[_monsterId] = new Turn(TurnType.Full);
-        }
-    }
-
     public int GetNumberAliveMonsters()
     {
         int counter = 0;
@@ -246,8 +138,7 @@ public class Team
 
         return counter;
     }
-
-
+    
     public void RealoadTurns()
     {
         Turns = new Turn[MAXUNITSINTABLE];
@@ -287,22 +178,10 @@ public class Team
     }
     
     public int GetNumberUnitsInStartingTeam() => StartingTeam.Count(unit => unit != null && unit.Attributes.CurrentHp > 0);
-    public String[] CurrentTurnOrder()
-    {
-        var orderLogs = "Orden:"; 
-        for (int i = 0; i < GetNumberUnitsInStartingTeam(); i++)
-            orderLogs += ";" + $"{i + 1}-{OrderTeam.Where(x => x != null).ToArray()[(i + orderAttack)%GetNumberUnitsInStartingTeam()].Name}" ;
-        return orderLogs.Split(';');
-    }
-
-    public String[] CurrentTurnsbyType()
-    {
-        var turnsLog = $"Full Turns: {GetCurrentFullTurns()}" + ";";
-        turnsLog += $"Blinking Turns: {GetCurrentBlinkingTurn()}";
-        return turnsLog.Split(';');
-    }
-
-    private void DestroyTurn(TurnType type)
+    
+    public string Name() =>  Samurai.Name + $" (J{Identifier})";
+    
+    public void DestroyTurn(TurnType type)
     {
         int iTurn = -1;
         for (int i = 0; i < MAXUNITSINTABLE; i++)
@@ -315,39 +194,13 @@ public class Team
         }
         if (iTurn != -1) Turns[iTurn] = null;
     }
-    public String[] TurnUsed()
-    {
-        DestroyTurn(TurnType.Full);
-        var turnsLog = $"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)" + ";";
-        turnsLog += $"Se han obtenido 0 Blinking Turn(s)";
-        return turnsLog.Split(';');
-    }
     
-    public Unit WhoAttack() => OrderTeam.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[orderAttack];
-    public string Name()
-    {
-        return Samurai.Name + $" (J{Identifier})";
-    }
+    public Unit WhoAttack() => OrderTeam.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[OrderAttack];
     
-    public String[] ShowSelectablesUnit()
-    {
-        string tempLog = ""; 
-     
-        var counterUnit = 1;
-        foreach (var unit in StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)))
-        {
-            tempLog += $"{counterUnit}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}" + ";";
-            counterUnit++;
-        }
-
-        tempLog += $"{GetNumberUnitsInStartingTeam() + 1}-Cancelar";
-        return tempLog.Split(';');
-    }
-
     public Unit[] GetSelectableUnits() => StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)).ToArray();
 
 
-    private bool IsMonsterDuplicate(string name)
+    public bool IsMonsterDuplicate(string name)
     {
         for (int i = 0; i< _monsterId; i++)
         {
@@ -356,5 +209,5 @@ public class Team
         return false;
     }
     
-    bool SamuraiExist() => Samurai.Name != null;
+    public bool SamuraiExist() => Samurai.Name != null;
 }

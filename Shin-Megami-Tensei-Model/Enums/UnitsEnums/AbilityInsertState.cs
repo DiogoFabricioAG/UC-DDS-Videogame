@@ -4,5 +4,5 @@ public enum AbilityInsertState
 {
     Correct,
     Incorrect,
-    Inviable
+    Unviable
 }

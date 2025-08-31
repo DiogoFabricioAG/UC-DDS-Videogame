@@ -1,94 +1,90 @@
-﻿using Shin_Megami_Tensei_Model.UnitsEnums;
+﻿using Shin_Megami_Tensei_Model.Enums;
+using Shin_Megami_Tensei_Model.UnitsEnums;
 
 namespace Shin_Megami_Tensei_Model;
 
-public class Unit
+public abstract class Unit
 {
-    private const double ATTACKCONSTADJUST = 0.0114;
-    private const int CANTIDADHABILIDADESMAXIMA = 8;
-
-    private string name;
-    public string Name { get => name; set => name = value; }
-    private Attributes _attributes;
-    public Attributes Attributes { get => _attributes; set => _attributes = value; }
-    private Affinity _affinity;
-    public Affinity Affinity  { get => _affinity; set => _affinity = value; }
-
-    private Ability[] _ability;
+    private const double ATTACK_CONST_JUST = 0.0114;
+    private const int MAX_AMOUNT_ABILITIES = 8;
+    private const int MODIFIER_PHYSICS = 54;
+    private const int MODIFIER_GUN = 80;
     
-    public Ability[] Ability  { get => _ability; set => _ability = value; } 
+    
+
+    public int IdAbility
+    {
+        get;
+        set;
+    }
+    public string Name { get; set; }
+    public Attributes Attributes { get; set ; }
+    public Affinity Affinity  { get ; set ; }
+    
+
+    
+    public Ability[] Ability  { get ; set ; } 
 
     public string Status()
     {
-        return $"{name} HP:{_attributes.CurrentHp}/{_attributes.MaxHp} MP:{_attributes.CurrentMp}/{_attributes.MaxMp}";
+        return $"{Name} HP:{Attributes.CurrentHp}/{Attributes.MaxHp} MP:{Attributes.CurrentMp}/{Attributes.MaxMp}";
     }
-    public virtual string[] SelectOptions() => new string[]
-    {
-        $"Seleccione una acción para {name}",
-        "1: Atacar",
-        "2: Usar Habilidad",
-        "3: Invocar",
-        "4: Pasar Turno"
-    };
     
-    bool IsAbilityDuplicate(Ability ability)
+    public virtual List<ActionType> GetAvailableActions()
     {
-        bool _error = false;
-        for (int i = 0; i < _idHabilidad; i++)
-            if (_ability[i].Name == ability.Name)
-            {
-                _error = true;
-                break;
-            }
-        return _error;
-            
-        
+        return new List<ActionType>
+        {
+            ActionType.Attack,
+            ActionType.Spell,
+            ActionType.Invoke,
+            ActionType.Pass
+        };
     }
+    
+
+    bool IsAbilityDuplicate(Ability ability) => Ability.Where(a => a != null)
+        .Any(a => a.Name == ability.Name);
+
 
     public AbilityInsertState validateAbilityInsert(Ability ability)
     {
-        if (IsAbilityDuplicate(ability) || CANTIDADHABILIDADESMAXIMA <= _idHabilidad) 
-            return  AbilityInsertState.Inviable;
+        if (IsAbilityDuplicate(ability) || MAX_AMOUNT_ABILITIES <= IdAbility) 
+            return  AbilityInsertState.Unviable;
         if (ability.Cost > Attributes.CurrentMp )  
             return AbilityInsertState.Incorrect;
         return AbilityInsertState.Correct;
     }
-    public void AbilityInsert(Ability ability)
+    public void AddAbility(Ability ability)
     {
-        _ability[_idHabilidad] = ability;
-        _idHabilidad++;
+        Ability[IdAbility] = ability;
+        IdAbility++;
     }
 
-    private int _idHabilidad = 0;
     
     protected Unit()
     {
-        _ability = new Ability[CANTIDADHABILIDADESMAXIMA];
+        Ability = new Ability[MAX_AMOUNT_ABILITIES];
     }
 
-    public int AttackKinds(Unit unit, ElementType elementType )
+    public int Attack(Unit target, ElementType elementType)
     {
-        var modifier = elementType == ElementType.Physics ? 54 : 80;
-        var statAttack = elementType == ElementType.Physics ? _attributes.StrikeDmg : _attributes.SkillDmg;
-        var damageDone = (int)(modifier * statAttack * ATTACKCONSTADJUST);
-        unit._attributes.CurrentHp -= damageDone;
-        if (unit._attributes.CurrentHp < 0) unit._attributes.CurrentHp = 0;
+        var modifier = elementType == ElementType.Physics ? MODIFIER_PHYSICS : MODIFIER_GUN;
+        var statAttack = elementType == ElementType.Physics ? Attributes.StrikeDmg : Attributes.SkillDmg;
+        var damageDone = (int)(modifier * statAttack * ATTACK_CONST_JUST);
+        
+        target.TakeDamage(damageDone);
+        
         return damageDone;
     }
-
-    public string[] ShowSelectableAbilities()
+    
+    public void TakeDamage(int damage)
     {
-        int counter = 1;
-        string abilityLogs = "";
-        foreach (var ability in Ability.Where(x => x != null).ToArray())
+        Attributes.CurrentHp -= damage;
+        if (Attributes.CurrentHp < 0)
         {
-            abilityLogs += $"{counter}-{ability.Presentation()}" + ";";
-            counter++;
+            Attributes.CurrentHp = 0;
         }
-        abilityLogs += $"{counter}-Cancelar" ;
-        return abilityLogs.Split(";");
     }
-
+    
     public int GetTotalAbilities() => Ability.Where(x => x!= null).ToArray().Length;
-
 }

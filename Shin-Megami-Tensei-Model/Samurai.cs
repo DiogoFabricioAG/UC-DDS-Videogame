@@ -1,4 +1,6 @@
-﻿namespace Shin_Megami_Tensei_Model;
+﻿using Shin_Megami_Tensei_Model.Enums;
+
+namespace Shin_Megami_Tensei_Model;
 
 /*
  Samurai
@@ -8,13 +10,13 @@
  */
 public class Samurai : Unit
 {
-    public override string[] SelectOptions() => new string[] 
-        { $"Seleccione una acción para {Name}", 
-            "1: Atacar",
-            "2: Disparar",
-            "3: Usar Habilidad",
-            "4: Invocar",
-            "5: Pasar Turno",
-            "6: Rendirse"
-        };
+    
+    
+    public override List<ActionType> GetAvailableActions()
+    {
+        var actions = base.GetAvailableActions();
+        actions.Insert(1, ActionType.Shoot); 
+        actions.Add(ActionType.Surrender); 
+        return actions;
+    }
 }
