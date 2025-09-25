@@ -150,7 +150,7 @@ public class GameController
         _view.WriteLine($"Ganador: {partida.handleGameFinished().Name()}");
     }
 
-    private void HandleAction(Shin_Megami_Tensei_Model.Game game)
+    private void HandleAction(Game game)
     {
         wasCanceled = false;
         switch (InputFromUser)
