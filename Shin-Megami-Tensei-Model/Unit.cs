@@ -21,9 +21,7 @@ public abstract class Unit
     public Attributes Attributes { get; set ; }
     public Affinity Affinity  { get ; set ; }
     
-
-    
-    public Ability[] Ability  { get ; set ; } 
+    public Ability[] Abilities  { get ; set ; } 
 
     public string Status()
     {
@@ -42,7 +40,7 @@ public abstract class Unit
     }
     
 
-    bool IsAbilityDuplicate(Ability ability) => Ability.Where(a => a != null)
+    bool IsAbilityDuplicate(Ability ability) => Abilities.Where(a => a != null)
         .Any(a => a.Name == ability.Name);
 
 
@@ -56,14 +54,23 @@ public abstract class Unit
     }
     public void AddAbility(Ability ability)
     {
-        Ability[IdAbility] = ability;
+        Abilities[IdAbility] = ability;
         IdAbility++;
     }
 
+    // Prueba
+
+    public void ShowAbility()
+    {
+        foreach (var ability in Abilities.Where(a => a != null))
+        {
+            Console.WriteLine(ability.Name);
+        }
+    }
     
     protected Unit()
     {
-        Ability = new Ability[MAX_AMOUNT_ABILITIES];
+        Abilities = new Ability[MAX_AMOUNT_ABILITIES];
     }
 
     public int Attack(Unit target, ElementType elementType)
@@ -86,5 +93,5 @@ public abstract class Unit
         }
     }
     
-    public int GetTotalAbilities() => Ability.Where(x => x!= null).ToArray().Length;
+    public int GetTotalAbilities() => Abilities.Where(x => x!= null).ToArray().Length;
 }

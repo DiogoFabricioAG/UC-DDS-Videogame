@@ -2,79 +2,52 @@
 
 public class Ability
 {
-    private string _name;
-
-    public string Presentation() => $"{Name} MP:{_cost}";
-    public string Name
+    public Ability(string name, string type, int cost, int power, string target, string hits, string effect)
     {
-        get => _name;
-        set => _name = value;
+        Name = name;
+        Type = type;
+        Cost = cost;
+        Power = power;
+        Target = target;
+        Hits = hits;
+        Effect = effect;
     }
 
-    private string _type;
+    public string Presentation() => $"{Name} MP:{Cost}";
+    public string Name { get; set; }
 
-    public string Type
-    {
-        get => _type;
-        set => _type = value;
-    }
+    public string Type { get; set; }
 
-    private int _cost;
+    public int Cost { get; set; }
 
-    public int Cost
-    {
-        get => _cost;
-        set => _cost = value;
-    }
+    public int Power { get; set; }
 
-    private int _power;
+    public string Target { get; set; }
 
-    public int Power
-    {
-        get => _power;
-        set => _power = value;
-    }
+    public string Hits { get; set; }
 
-    private string _target;
-
-    public string Target
-    {
-        get => _target;
-        set => _target = value;
-    }
-
-    private string _hits;
-
-    public string Hits
-    {
-        get => _hits;
-        set => _hits = value;
-    }
-
-    private string _effect;
-
-    public string Effect
-    {
-        get => _effect;
-        set => _effect = value;
-    }
+    public string Effect { get; set; }
 
 
     public Ability(string name)
     {
-        _name = name;
+        Name = name;
     }
 
     public Ability(JsonAbility a)
     {
         if (a == null) return;
-        _name = a.name;
-        _type = a.type;
-        _cost = a.cost;
-        _power = a.power;
-        _target = a.target;
-        _hits = a.hits;
-        _effect = a.effect;
+        Name = a.name;
+        Type = a.type;
+        Cost = a.cost;
+        Power = a.power;
+        Target = a.target;
+        Hits = a.hits;
+        Effect = a.effect;
     }
-    
+
+    public Ability()
+    {
+        throw new NotImplementedException();
+    }
 }

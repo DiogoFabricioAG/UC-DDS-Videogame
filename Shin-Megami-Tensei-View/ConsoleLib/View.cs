@@ -47,7 +47,7 @@ public class View
     public void DisplayShowSelectableAbilities(Unit unit)
     {
         int counter = 1;
-        foreach (var ability in unit.Ability.Where(x => x != null).ToArray())
+        foreach (var ability in unit.Abilities.Where(x => x != null).ToArray())
         {
             WriteLine($"{counter}-{ability.Presentation()}");
             counter++;
@@ -59,22 +59,24 @@ public class View
     {
         WriteLine("Orden:");
         for (int i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
-            WriteLine($"{i + 1}-{team.OrderTeam.Where(x => x != null).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
+            WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
         WriteLine(SEPARATOR);
     }
     
     
     // Para la Vista
-    public void DisplayShowSelectablesUnit(Team team)
+    public void DisplayShowSelectablesUnit(Team otherTeam,Team currentTeam)
     {
+        _view.WriteLine($"Seleccione un objetivo para {currentTeam.WhoAttack().Name}");
+
         var counterUnit = 1;
-        foreach (var unit in team.StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)))
+        foreach (var unit in otherTeam.StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)))
         {
             WriteLine($"{counterUnit}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");
             counterUnit++;
         }
 
-        WriteLine($"{team.GetNumberUnitsInStartingTeam() + 1}-Cancelar");
+        WriteLine($"{otherTeam.GetNumberUnitsInStartingTeam() + 1}-Cancelar");
     }
     
     // Para la Vista
@@ -88,30 +90,39 @@ public class View
     public void DisplayPlayerTurnExclamation(Team team)
     {
         WriteLine($"Ronda de {team.Name()}\n{SEPARATOR}");
-    } 
+    }
 
+    public void DisplayAbilitiesForUnit(Unit unit)
+    {
+        var allAbilities = unit.Abilities.Where(x => x != null).ToArray();
+        for (var i = 0; i < allAbilities.Length; i++)
+        {
+            WriteLine($"{i+1}-{allAbilities[i].Name} MP:{allAbilities[i].Cost}");
+        }
+    }
  
     public void DisplayTeamsUnitsCurrentStatus(Game game)
     {
-        WriteLine($"Equipo de {game.Team1.Name()}");
+        var (team1, team2) = game.GetPlayer1AndPlayer2();
+        WriteLine($"Equipo de {team1.Name()}");
        
         for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
         {
-            if (game.Team1.StartingTeam[i] != null)
+            if (team1.StartingTeam[i] != null)
             {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{game.Team1.StartingTeam[i].Status()}");
+                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team1.StartingTeam[i].Status()}");
             }
             else
             {
                 WriteLine($"{LABELMAXUNITSONTABLE[i]}-");
             }
         }; 
-        WriteLine($"Equipo de {game.Team2.Name()}");
+        WriteLine($"Equipo de {team2.Name()}");
         for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
         {
-            if (game.Team2.StartingTeam[i] != null)
+            if (team2.StartingTeam[i] != null)
             {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{game.Team2.StartingTeam[i].Status()}");
+                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team2.StartingTeam[i].Status()}");
             }
             else
             {
@@ -135,8 +146,22 @@ public class View
     
     public void TurnUsedDisplay()
     {
-        WriteLine("Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
-        WriteLine("Se han obtenido 0 Blinking Turn(s)");
+        WriteLine($"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
+        WriteLine($"Se han obtenido 0 Blinking Turn(s)");
+        WriteLine(SEPARATOR);
+    }
+
+    public void TurnUsedDisplayWonBlink()
+    {
+        WriteLine($"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
+        WriteLine($"Se han obtenido 1 Blinking Turn(s)");
+        WriteLine(SEPARATOR);
+    }
+
+    public void BlinkTurnUsedDisplay()
+    {
+        WriteLine($"Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)");
+        WriteLine($"Se han obtenido 0 Blinking Turn(s)");
         WriteLine(SEPARATOR);
     }
 

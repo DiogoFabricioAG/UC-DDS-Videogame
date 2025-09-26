@@ -11,4 +11,10 @@
       <ProjectReference Include="..\Shin-Megami-Tensei-Model\Shin-Megami-Tensei-Model.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Update="ConsoleLib\skills.json">
+        <Link>config\skills.json</Link>
+      </Content>
+    </ItemGroup>
+
 </Project>

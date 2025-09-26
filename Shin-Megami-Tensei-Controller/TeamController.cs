@@ -11,13 +11,16 @@ public class TeamController
 
     private readonly View _view;
     private bool _error;
-    
+    private static string abilitiesJsonPath = Path.Combine(AppContext.BaseDirectory, "skills.json");
+    private static string monsterJsonPath = Path.Combine(AppContext.BaseDirectory, "monsters.json");
+    private static string samuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
+
+
     public TeamController(View view)
     {
         _view = view;
     }
 
-    // Fijate para el Controller
     public bool EnterUnits(string[] inputLines, Team team)
     {
         foreach (string line in inputLines)
@@ -30,7 +33,7 @@ public class TeamController
             if (line.Contains("Samurai"))
             {
 
-                FromInputInsertSamurai(line, team);
+                InsertSamuraiIntoTeam(line, team);
             }
             else
             {
@@ -44,7 +47,6 @@ public class TeamController
     
     private void InsertMonsterIntoTeam(Monster monster, Team  team)
     {
-        // Verificar si el objeto monstruo es nulo
         if (monster == null)
         {
             _error = true;
@@ -60,23 +62,19 @@ public class TeamController
         team.MonsterId++;
         if (team.MonsterId < TOTALMONSTERINTABLE + 1 )
         {
-            team.Turns[team.MonsterId] = new Turn(TurnType.Full);
+            team.Turns.Add(new Turn(TurnType.Full));
         }
     }
     
-    // Para el Controller
     private static Monster FromInputGetMonster(string line)
     {
         var name = line.Trim();
-        var monsterJsonPath = Path.Combine(AppContext.BaseDirectory, "monsters.json");
-
-        var monster = DataLoader.GetMonstruoByName(name, monsterJsonPath);
+        var monster = DataLoader.GetMonstruoByName(name, monsterJsonPath,abilitiesJsonPath);
         return monster;
     }
     
     
-    // Para el Controller
-    private void FromInputInsertSamurai(string line, Team team)
+    private void InsertSamuraiIntoTeam(string line, Team team)
     {
         if (team.SamuraiExist())
         {
@@ -90,7 +88,6 @@ public class TeamController
         }
 
         var nombreSamurai = Team.FromInputGetSamuraiName(line).Trim();
-        var samuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
         var loadedSamurai = DataLoader.GetSamuraiByName(nombreSamurai, samuraiJsonPath);
         if (loadedSamurai == null)
         {
@@ -100,7 +97,7 @@ public class TeamController
         
         team.Samurai = loadedSamurai;
 
-        var abilitiesJsonPath = Path.Combine(AppContext.BaseDirectory, "skills.json");
+        
 
         foreach (var habilidad in team.FromInputGetAbilities(line))
         {
@@ -120,6 +117,6 @@ public class TeamController
                 team.Samurai.AddAbility(ability);
             };
         }
-        team.Turns[0] = new Turn(TurnType.Full);
+        team.Turns.Add(new Turn(TurnType.Full));
     }
 }

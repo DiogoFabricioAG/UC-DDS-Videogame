@@ -4,8 +4,9 @@ namespace Shin_Megami_Tensei_Model
 {
     public class JsonCharacter
     {
-        public string name { get; set; }
-        public JsonStats stats { get; set; }
+        public string Name { get; set; }
+        public JsonStats Stats { get; set; }
+        public string[] Skills { get; set; } 
     }
     public class JsonStats
     {
@@ -82,24 +83,38 @@ namespace Shin_Megami_Tensei_Model
                 Lck = s.Lck
             };
         }
-
+        
         public static Samurai GetSamuraiByName(string name, string samuraiJsonPath)
         {
             var list = LoadJsonCharacters(samuraiJsonPath);
-            var j = list.FirstOrDefault(x => string.Equals(x.name, name, StringComparison.OrdinalIgnoreCase));
+            var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
-            var s = new Samurai { Name = j.name, Attributes = MapStats(j.stats) };
+            var s = new Samurai { Name = j.Name, Attributes = MapStats(j.Stats) };
             return s;
         }
 
-        public static Monster GetMonstruoByName(string name, string monsterJsonPath)
+        public static Monster GetMonstruoByName(string name, string monsterJsonPath, string abilitiesJsonPath)
         {
             var list = LoadJsonCharacters(monsterJsonPath);
-            var j = list.FirstOrDefault(x => string.Equals(x.name, name, StringComparison.OrdinalIgnoreCase));
+            var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
-            return new Monster { Name = j.name, Attributes = MapStats(j.stats) };
+
+            var monster = new Monster { Name = j.Name, Attributes = MapStats(j.Stats) };
+
+            if (j.Skills != null)
+            {
+                foreach (var skillName in j.Skills)
+                {
+                    var ability = GetAbilityByName(skillName.Trim(), abilitiesJsonPath);
+
+                    if (ability != null)
+                    {
+                        monster.AddAbility(ability);
+                    }
+                }
+            }
+
+            return monster;
         }
-        
-        
     }
 }

@@ -2,19 +2,8 @@
 
 public class Game
 {
-    private const string SEPARATOR = "----------------------------------------";
-    public Team Team1 { get; set; }
-    public Team Team2 { get; set; }
-
     private Team _currentTeam;
-
-    private bool _gameError;
-
-    public bool GameError
-    {
-        get => _gameError;
-        set => _gameError = value;
-    }
+    
     public Team CurrentTeam
     {
         get => _currentTeam;
@@ -30,20 +19,26 @@ public class Game
     
     public void ChangeCurrentTeam()
     {
-        if (CurrentTeam == null || CurrentTeam != Team1) {CurrentTeam = Team1; OtherTeam = Team2; }
-        else if  (CurrentTeam == Team1)
+        if (HandleGameFinished() == null)
         {
-            CurrentTeam = Team2;
-            OtherTeam = Team1;
-        };
-        CurrentTeam.State = TeamState.WithTurn;
-        OtherTeam.State = TeamState.WithoutTurn;
+            (CurrentTeam, OtherTeam) = (OtherTeam, CurrentTeam);
+            CurrentTeam.State = TeamState.WithTurn;
+            OtherTeam.State = TeamState.WithoutTurn;
+        }
     }
     
     public Game()
     {
-        Team1 = new Team();
-        Team2 = new Team();
+        CurrentTeam = new Team
+        {
+            NumberTeam = 1
+        };
+        OtherTeam = new Team
+        {
+            NumberTeam = 2
+        };
+        CurrentTeam.State = TeamState.WithTurn;
+        OtherTeam.State = TeamState.WithoutTurn;
     }
 
     public void HandleSurrender()
@@ -51,26 +46,37 @@ public class Game
         CurrentTeam.State = TeamState.Surrendered;
     }
 
-    public Team? handleGameFinished()
+    public (Team, Team) GetPlayer1AndPlayer2()
+    {
+        var team1 = CurrentTeam.NumberTeam == 1 ? CurrentTeam : OtherTeam;
+        var team2 = CurrentTeam.NumberTeam == 2 ? CurrentTeam : OtherTeam;
+        return (team1, team2);
+    }
+
+    public TurnType PassTurn()
+    {
+        CurrentTeam.ChangeOrder();
+        if (CurrentTeam.Turns.Exists(t => t != null && t.Type == TurnType.Blinking))
+        {
+            CurrentTeam.DestroyTurn(TurnType.Blinking);
+            CurrentTeam.TurnRemains();
+            return TurnType.Blinking;
+        }
+        CurrentTeam.DestroyTurn(TurnType.Full);
+        CurrentTeam.AddTurn(TurnType.Blinking);
+        CurrentTeam.TurnRemains();
+
+        return TurnType.Full;
+        
+    }
+    
+    public Team? HandleGameFinished()
     {
         if (CurrentTeam.State == TeamState.Surrendered)
         {
             return OtherTeam;
         }
-        var wasDefeated = Team1.GetNumberUnitsInStartingTeam() == 0 ;
-        
-        if (wasDefeated)
-        {
-            Team2.State = TeamState.Defeated;
-            return Team2;
-        };
-        wasDefeated = Team2.GetNumberUnitsInStartingTeam() == 0;
 
-        if (wasDefeated)
-        {
-            Team1.State = TeamState.Defeated;
-            return Team1;
-        };
-        return null;
+        return OtherTeam.State == TeamState.Defeated ? CurrentTeam : null;
     }
 }
