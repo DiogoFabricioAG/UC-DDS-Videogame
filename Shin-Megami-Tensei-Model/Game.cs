@@ -53,6 +53,13 @@ public class Game
         return (team1, team2);
     }
 
+    public (Unit, Unit) GetAttackerAndTarget(int indexTarget)
+    {
+        var attacker = CurrentTeam.WhoAttack();
+        var attacked = OtherTeam.GetSelectableUnits()[indexTarget-1];
+        return (attacker, attacked);
+    }
+
     public TurnType PassTurn()
     {
         CurrentTeam.ChangeOrder();

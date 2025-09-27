@@ -1,8 +1,10 @@
-﻿namespace Shin_Megami_Tensei_Model;
+﻿using Shin_Megami_Tensei_Model.Enums;
+
+namespace Shin_Megami_Tensei_Model;
 
 public class Ability
 {
-    public Ability(string name, string type, int cost, int power, string target, string hits, string effect)
+    public Ability(string name, AbilityType type, int cost, int power, TargetType target, string hits, string effect)
     {
         Name = name;
         Type = type;
@@ -16,13 +18,13 @@ public class Ability
     public string Presentation() => $"{Name} MP:{Cost}";
     public string Name { get; set; }
 
-    public string Type { get; set; }
+    public AbilityType Type { get; set; }
 
     public int Cost { get; set; }
 
     public int Power { get; set; }
 
-    public string Target { get; set; }
+    public TargetType Target { get; set; }
 
     public string Hits { get; set; }
 

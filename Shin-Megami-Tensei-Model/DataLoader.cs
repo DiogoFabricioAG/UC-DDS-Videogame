@@ -1,4 +1,6 @@
 ﻿using System.Text.Json;
+using System.Text.Json.Serialization;
+using Shin_Megami_Tensei_Model.Enums;
 
 namespace Shin_Megami_Tensei_Model
 {
@@ -6,8 +8,11 @@ namespace Shin_Megami_Tensei_Model
     {
         public string Name { get; set; }
         public JsonStats Stats { get; set; }
-        public string[] Skills { get; set; } 
+        public string[] Skills { get; set; }
+
+        public Dictionary<string, string> Affinity { get; set; }
     }
+
     public class JsonStats
     {
         public int HP { get; set; }
@@ -22,20 +27,20 @@ namespace Shin_Megami_Tensei_Model
     public class JsonAbility
     {
         public string name { get; set; }
-        public string type { get; set; }
+        public AbilityType type { get; set; }
         public int cost { get; set; }
         public int power { get; set; }
-        public string target { get; set; }
+        public TargetType target { get; set; }
         public string hits { get; set; }
         public string effect { get; set; }
     }
 
-
     public static class DataLoader
     {
-        private static readonly JsonSerializerOptions _opts = new JsonSerializerOptions
+        private static readonly JsonSerializerOptions _opts = new()
         {
-            PropertyNameCaseInsensitive = true
+            PropertyNameCaseInsensitive = true,
+            Converters = { new JsonStringEnumConverter() } 
         };
 
         public static List<JsonCharacter> LoadJsonCharacters(string jsonPath)
@@ -84,12 +89,54 @@ namespace Shin_Megami_Tensei_Model
             };
         }
         
+        static Affinity MapAffinity(Dictionary<string, string> affinityDict)
+        {
+            var affinity = new Affinity
+            {
+                Weak = [],
+                Resist = [],
+                Null = [],
+                Repel = [],
+                Drain = [],
+            };
+
+            if (affinityDict == null) return affinity;
+
+            foreach (var kv in affinityDict)
+            {
+                if (!Enum.TryParse<AbilityType>(kv.Key, true, out var abilityType))
+                    continue;
+
+                AffinityType affType = kv.Value switch
+                {
+                    "-"   => AffinityType.Neutral,
+                    "Wk"  => AffinityType.Weak,
+                    "Rs"  => AffinityType.Resist,
+                    "Nu"  => AffinityType.Null,
+                    "Rp"  => AffinityType.Repel,
+                    "Dr"  => AffinityType.Drain,
+                    _     => AffinityType.Neutral
+                };
+
+                switch (affType)
+                {
+                    case AffinityType.Weak: affinity.Weak.Add(abilityType); break;
+                    case AffinityType.Resist: affinity.Resist.Add(abilityType); break;
+                    case AffinityType.Null: affinity.Null.Add(abilityType); break;
+                    case AffinityType.Repel: affinity.Repel.Add(abilityType); break;
+                    case AffinityType.Drain: affinity.Drain.Add(abilityType); break;
+                }
+            }
+
+            return affinity;
+        }
+        
         public static Samurai GetSamuraiByName(string name, string samuraiJsonPath)
         {
             var list = LoadJsonCharacters(samuraiJsonPath);
             var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
-            var s = new Samurai { Name = j.Name, Attributes = MapStats(j.Stats) };
+            var s = new Samurai { Name = j.Name, Attributes = MapStats(j.Stats), Affinity = MapAffinity(j.Affinity) };
             return s;
         }
 
@@ -99,7 +146,13 @@ namespace Shin_Megami_Tensei_Model
             var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
 
-            var monster = new Monster { Name = j.Name, Attributes = MapStats(j.Stats) };
+            var monster = new Monster 
+            { 
+                Name = j.Name, 
+                Attributes = MapStats(j.Stats),
+                Affinity = MapAffinity(j.Affinity) 
+            };
+
 
             if (j.Skills != null)
             {

@@ -2,11 +2,14 @@
 
 public class AttackService
 {
+    private const double DamageModifier = 0.0114;
+    private const int SkillModifier = 80;
+    private const int PhysModifier = 54;
     public int ExecuteAttack(Unit attacker, Unit target, ElementType elementType)
     {
-        var modifier = elementType == ElementType.Physics ? 54 : 80;
+        var modifier = elementType == ElementType.Physics ? PhysModifier : SkillModifier;
         var statAttack = elementType == ElementType.Physics ? attacker.Attributes.StrikeDmg : attacker.Attributes.SkillDmg;
-        var damageDone = (int)(modifier * statAttack * 0.0114);
+        var damageDone = (int)(modifier * statAttack * DamageModifier);
 
         target.TakeDamage(damageDone);
         

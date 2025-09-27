@@ -64,13 +64,17 @@ public class View
     }
     
     
-    // Para la Vista
-    public void DisplayShowSelectablesUnit(Team otherTeam,Team currentTeam)
+    public void DisplayShowSelectablesUnit(Team otherTeam,Team currentTeam, TargetType targetType)
     {
         _view.WriteLine($"Seleccione un objetivo para {currentTeam.WhoAttack().Name}");
 
         var counterUnit = 1;
-        foreach (var unit in otherTeam.StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)))
+        
+        var unitsSelected = targetType == TargetType.Ally ? 
+            currentTeam.StartingTeam.Where(x => x != null && x.Attributes.CurrentHp > 0 && x != currentTeam.WhoAttack())
+            : otherTeam.StartingTeam.Where(x => x != null && x.Attributes.CurrentHp > 0);
+
+        foreach (var unit in unitsSelected)
         {
             WriteLine($"{counterUnit}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");
             counterUnit++;
@@ -79,7 +83,6 @@ public class View
         WriteLine($"{otherTeam.GetNumberUnitsInStartingTeam() + 1}-Cancelar");
     }
     
-    // Para la Vista
     public void DisplayCurrentTurnsbyType(Team team)
     {
         WriteLine($"Full Turns: {team.GetCurrentFullTurns()}");
@@ -139,6 +142,16 @@ public class View
     {
         var typeAttackLog = type == ElementType.Gun ? "dispara" : "ataca";
         WriteLine($"{attacker.Name} {typeAttackLog} a {attacked.Name}");
+        WriteLine($"{attacked.Name} recibe {attackDamage} de daño");
+        WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
+        WriteLine(SEPARATOR);
+    }
+    public void DisplayAbilityLogs(int attackDamage, Unit attacker, Unit attacked, AffinityType type )
+    {
+        var affinityText = type == AffinityType.Weak ? "débil contra" : type == AffinityType.Resist ? "resistente" : string.Empty;
+        
+        WriteLine($"{attacker.Name} ataca a {attacked.Name}");
+        WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
         WriteLine($"{attacked.Name} recibe {attackDamage} de daño");
         WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
         WriteLine(SEPARATOR);

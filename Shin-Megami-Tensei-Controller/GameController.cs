@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using Shin_Megami_Tensei_Model;
+using Shin_Megami_Tensei_Model.Enums;
 using Shin_Megami_Tensei_Model.Services;
 using Shin_Megami_Tensei_View;
 
@@ -15,6 +16,7 @@ public class GameController
     private bool _executionRunning;
     private readonly TeamController _teamController;
     private readonly AttackService _attackService;
+    private readonly AbilityService _abilityService;
     private int InputFromUser
     {
         get => _inputFromUser;
@@ -27,6 +29,7 @@ public class GameController
         _teamsFolder = teamsFolder;
         _teamController = new TeamController(_view);
         _attackService = new AttackService();
+        _abilityService = new AbilityService();
     }
     
     private string TeamCreation(string[] lines, Team team1, Team team2)
@@ -203,7 +206,6 @@ public class GameController
             case 1:
                 HandleAttackUse(game, ElementType.Physics);
                 break;
-
             case 2:
                 HandleAbilityUse(game);
                 break;
@@ -217,7 +219,7 @@ public class GameController
     
     private void HandleAttackUse(Game game, ElementType elementType)
     {
-        _view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam);
+        _view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, TargetType.Single);
         InputText(_view.ReadLine());
     
         if (InputFromUser == game.OtherTeam.CancelOptionInSelectableTeam())
@@ -226,8 +228,7 @@ public class GameController
             return;
         }
         
-        var attacker = game.CurrentTeam.WhoAttack();
-        var attacked = game.OtherTeam.GetSelectableUnits()[InputFromUser - 1];
+        var (attacker, attacked) = game.GetAttackerAndTarget(InputFromUser);
     
         var damageDone = _attackService.ExecuteAttack(attacker, attacked, elementType);
 
@@ -252,19 +253,33 @@ public class GameController
         {
             _view.BlinkTurnUsedDisplay();
         }
-
     }
 
-    
+
     private void HandleAbilityUse(Game game)
     {
         _view.WriteLine($"Seleccione una habilidad para que {game.CurrentTeam.WhoAttack().Name} use");
         _view.DisplayShowSelectableAbilities(game.CurrentTeam.WhoAttack());
         InputText(_view.ReadLine());
-        _view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam);
         if (InputFromUser == game.CurrentTeam.GetCancelOptionAbilities())
         {
             _executionRunning = true;
+            return;
         }
+        
+        var ability = game.CurrentTeam.WhoAttack().Abilities[InputFromUser-1];
+
+        _view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, ability.Target);
+        InputText(_view.ReadLine());
+        
+        var (attacker, attacked) = game.GetAttackerAndTarget(InputFromUser);
+        var (damageDone, affinityType) = AbilityService.UseDamageAbility(attacker, attacked, ability);
+        
+        _view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType);
+        game.CurrentTeam.ChangeOrder();
+        game.CurrentTeam.DestroyTurn(TurnType.Full);
+        game.CurrentTeam.TurnRemains();
+        game.OtherTeam.WasDefeated();
     }
+    
 }
