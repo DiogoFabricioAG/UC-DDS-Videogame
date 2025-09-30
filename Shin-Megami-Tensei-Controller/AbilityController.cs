@@ -1,19 +1,27 @@
-﻿using Shin_Megami_Tensei_Model.Enums;
+﻿using Shin_Megami_Tensei_Model;
+using Shin_Megami_Tensei_Model.Enums;
 
-namespace Shin_Megami_Tensei_Model.Services;
+namespace Shin_Megami_Tensei;
 
-public class AbilityService
+public class AbilityController
 {
-    public static (int, AffinityType) UseDamageAbility(Unit user,Unit selectedUnit ,Ability ability)
+    public static (int, AffinityType, int numberHits) UseDamageAbility(Unit user,Unit selectedUnit ,Ability ability, Team team)
     {
         if (user.Attributes.CurrentMp < ability.Cost)
         {
             throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
         }
 
+        var numberHits = 1;
+        if (ability.Hits.Contains('-'))
+        {
+            var lowerRange = Convert.ToInt32(ability.Hits.Split('-')[0]);
+            var upperRange = Convert.ToInt32(ability.Hits.Split('-')[1]);
+            numberHits = MultiHitController.HandleMultiHit(team.NumAbilitiesCast, lowerRange, upperRange);
+        }
+
         double affinityMofifier = 1;
-        var affinityType = selectedUnit.Affinity.KnowAffinity(ability);
-        
+        var affinityType = selectedUnit.Affinity.KnowAffinity(ability.Type);
         switch (affinityType)
         {
             case AffinityType.Weak:
@@ -31,15 +39,29 @@ public class AbilityService
                 affinityMofifier = -1;
                 break;
         }
-        
-        var userDamageByType = ability.Type == AbilityType.Phys ? user.Attributes.StrikeDmg : user.Attributes.MagicDmg;
+        var userDamageByType = ability.Type == AbilityType.Phys ? user.Attributes.StrikeDmg : 
+            ability.Type == AbilityType.Gun ? user.Attributes.SkillDmg : 
+            user.Attributes.MagicDmg;
         var damageDone = (int)(Math.Sqrt(ability.Power * userDamageByType) * affinityMofifier);
-        selectedUnit.Attributes.CurrentHp -= damageDone;
+        for (var i = 0; i < numberHits; i++)
+        {
+            if (affinityType == AffinityType.Repel)
+            {
+                user.TakeDamage(damageDone);
+            }
+            else
+            {
+                selectedUnit.TakeDamage(damageDone);
+            }
+        }
+        
         user.Attributes.CurrentMp -= ability.Cost;
-
-        return (damageDone,affinityType);
+        team.NumAbilitiesCast++;
+        return (damageDone,affinityType, numberHits);
     }
 
+    
+    // Aun no se utiliza
     public void HealAbility(Unit user, Unit selectedUnit, Ability ability)
     {
         if (user.Attributes.CurrentMp < ability.Cost)

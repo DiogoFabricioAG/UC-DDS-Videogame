@@ -10,27 +10,27 @@ public class Affinity
     public List<AbilityType> Repel { get; set; }
     public List<AbilityType> Drain { get; set; }
 
-    public AffinityType KnowAffinity(Ability ability)
+    public AffinityType KnowAffinity(AbilityType abilityType)
     {
-        if (Weak.Contains(ability.Type))
+        if (Weak.Contains(abilityType))
         {
             return AffinityType.Weak;
         }
-        if (Resist.Contains(ability.Type))
+        if (Resist.Contains(abilityType))
         {
             return AffinityType.Resist;
         }
 
-        if (Null.Contains(ability.Type))
+        if (Null.Contains(abilityType))
         {
             return AffinityType.Null;
         }
 
-        if (Repel.Contains(ability.Type))
+        if (Repel.Contains(abilityType))
         {
             return AffinityType.Repel;
         }
 
-        return Drain.Contains(ability.Type) ? AffinityType.Drain : AffinityType.Neutral;
+        return Drain.Contains(abilityType) ? AffinityType.Drain : AffinityType.Neutral;
     }
 }

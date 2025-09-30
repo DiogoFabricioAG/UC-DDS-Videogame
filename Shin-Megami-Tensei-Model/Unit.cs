@@ -73,23 +73,18 @@ public abstract class Unit
         Abilities = new Ability[MAX_AMOUNT_ABILITIES];
     }
 
-    public int Attack(Unit target, ElementType elementType)
-    {
-        var modifier = elementType == ElementType.Physics ? MODIFIER_PHYSICS : MODIFIER_GUN;
-        var statAttack = elementType == ElementType.Physics ? Attributes.StrikeDmg : Attributes.SkillDmg;
-        var damageDone = (int)(modifier * statAttack * ATTACK_CONST_JUST);
-        
-        target.TakeDamage(damageDone);
-        
-        return damageDone;
-    }
-    
     public void TakeDamage(int damage)
     {
+        
         Attributes.CurrentHp -= damage;
         if (Attributes.CurrentHp < 0)
         {
             Attributes.CurrentHp = 0;
+        }
+
+        if (Attributes.CurrentHp > Attributes.MaxHp)
+        {
+            Attributes.CurrentHp = Attributes.MaxHp;
         }
     }
     

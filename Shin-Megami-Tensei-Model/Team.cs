@@ -8,7 +8,7 @@ public class Team
     private const int TOTALMONSTERINTABLE = 3;
     private const int MAXUNITSINTABLE = 4;
 
-    public int OrderAttack { get; set; } = 0;
+    public int OrderAttack { get; set; }
     public string Identifier { get; set; } = "0";
     public Samurai Samurai { get; set; } = new Samurai();
     public Monster[] Monsters { get; set; } = new Monster[CANTIDADMAXIMAMONSTRUOS];
@@ -18,7 +18,9 @@ public class Team
     
     private TeamState _state = TeamState.Initialized;
     public TeamState State { get  => _state; set => _state = value; }
-    
+
+    public int NumAbilitiesCast { get; set; } = 0;
+
     public Unit[] StartingTeam
     {
         get => _startingTeams;
@@ -118,9 +120,10 @@ public class Team
         {
             StartingTeam[i + 1] = Monsters[i];
         }
-        
         OrderForActions = StartingTeam.Where(x => x != null).OrderByDescending(x => x.Attributes.Speed).ToArray();
     }
+
+   
     public string[] FromInputGetAbilities(string lineText)
     {
         int startIndex = lineText.IndexOf('(');
@@ -168,7 +171,7 @@ public class Team
     public int GetCurrentFullTurns() =>  Turns.Count(turn => turn != null && turn.Type == TurnType.Full);
 
 
-    public int GetCurrentBlinkingTurn() =>  Turns.Count(turn => turn != null && turn.Type == TurnType.Blinking);
+    public int GetCurrentBlinkingTurns() =>  Turns.Count(turn => turn != null && turn.Type == TurnType.Blinking);
     
     
     public int GetNumberUnitsInStartingTeam() => StartingTeam.Count(unit => unit != null && unit.Attributes.CurrentHp > 0);

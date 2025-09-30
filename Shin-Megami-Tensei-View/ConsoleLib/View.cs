@@ -57,6 +57,7 @@ public class View
     
     public void DisplayCurrentTurnOrder(Team team)
     {
+        
         WriteLine("Orden:");
         for (int i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
             WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
@@ -86,7 +87,7 @@ public class View
     public void DisplayCurrentTurnsbyType(Team team)
     {
         WriteLine($"Full Turns: {team.GetCurrentFullTurns()}");
-        WriteLine($"Blinking Turns: {team.GetCurrentBlinkingTurn()}");
+        WriteLine($"Blinking Turns: {team.GetCurrentBlinkingTurns()}");
         WriteLine(SEPARATOR);
     }
     
@@ -136,48 +137,82 @@ public class View
         WriteLine(SEPARATOR);
     }
     
-    
-    // PARA LA VISTA
-    public void DisplayAttackLogs(int attackDamage, Unit attacker, Unit attacked, ElementType type )
-    {
-        var typeAttackLog = type == ElementType.Gun ? "dispara" : "ataca";
-        WriteLine($"{attacker.Name} {typeAttackLog} a {attacked.Name}");
-        WriteLine($"{attacked.Name} recibe {attackDamage} de daño");
-        WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
-        WriteLine(SEPARATOR);
-    }
-    public void DisplayAbilityLogs(int attackDamage, Unit attacker, Unit attacked, AffinityType type )
+    public void DisplayAbilityLogs(int attackDamage, Unit attacker, Unit attacked, AffinityType type, AbilityType abilityType, int numberHits )
     {
         var affinityText = type == AffinityType.Weak ? "débil contra" : type == AffinityType.Resist ? "resistente" : string.Empty;
+        var attackType = "";
+        switch (abilityType)
+        {
+            case  AbilityType.Phys:
+                attackType = "ataca";
+                break;
+            case AbilityType.Gun:
+                attackType = "dispara";
+                break;
+            case AbilityType.Fire:
+                attackType = "lanza fuego";
+                break;
+            case AbilityType.Ice:
+                attackType = "lanza hielo";
+                break;
+            case AbilityType.Elec:
+                attackType = "lanza electricidad";
+                break;
+            case AbilityType.Force:
+                attackType = "lanza viento";
+                break;
+            case AbilityType.Light:
+                attackType = "ataca con luz";
+                break;
+            case AbilityType.Dark:
+                attackType = "ataca con oscuridad";
+                break;
+        }
         
-        WriteLine($"{attacker.Name} ataca a {attacked.Name}");
-        WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
-        WriteLine($"{attacked.Name} recibe {attackDamage} de daño");
-        WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
+        for (var i = 0; i < numberHits; i++)
+        {
+            WriteLine($"{attacker.Name} {attackType} a {attacked.Name}");
+
+            switch (type)
+            {
+                case AffinityType.Weak:
+                case AffinityType.Resist:
+                    WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
+                    WriteLine($"{attacked.Name} recibe {attackDamage} de daño");
+                    break;
+                case AffinityType.Null:
+                    WriteLine($"{attacked.Name} bloquea el ataque de {attacker.Name}");
+                    break;
+                case AffinityType.Repel:
+                    WriteLine($"{attacked.Name} devuelve {attackDamage} daño a {attacker.Name}");
+                    break;
+                case AffinityType.Drain:
+                    WriteLine($"{attacked.Name} absorbe {Math.Abs(attackDamage)} daño");
+                    break;
+                default:
+                    WriteLine($"{attacked.Name} recibe {attackDamage} de daño");
+                    break;
+            }
+        }
+        
+        if (type == AffinityType.Repel)
+        {
+            WriteLine($"{attacker.Name} termina con HP:{attacker.Attributes.CurrentHp}/{attacker.Attributes.MaxHp}");
+        }
+        else
+        {
+            WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
+        }
         WriteLine(SEPARATOR);
     }
     
-    public void TurnUsedDisplay()
+    public void TurnUsedDisplayWithParameters(int blinkingTurnLoss, int fullTurnLoss, int blinkingTurnWon)
     {
-        WriteLine($"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
-        WriteLine($"Se han obtenido 0 Blinking Turn(s)");
+        WriteLine($"Se han consumido {fullTurnLoss} Full Turn(s) y {blinkingTurnLoss} Blinking Turn(s)");
+        WriteLine($"Se han obtenido {blinkingTurnWon} Blinking Turn(s)");
         WriteLine(SEPARATOR);
     }
-
-    public void TurnUsedDisplayWonBlink()
-    {
-        WriteLine($"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
-        WriteLine($"Se han obtenido 1 Blinking Turn(s)");
-        WriteLine(SEPARATOR);
-    }
-
-    public void BlinkTurnUsedDisplay()
-    {
-        WriteLine($"Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)");
-        WriteLine($"Se han obtenido 0 Blinking Turn(s)");
-        WriteLine(SEPARATOR);
-    }
-
+    
     public void SurrenderTeamDisplay(Team team)
     {
         _view.WriteLine($"{team.Name()} se rinde");

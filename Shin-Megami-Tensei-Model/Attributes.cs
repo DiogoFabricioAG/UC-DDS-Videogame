@@ -73,8 +73,5 @@ public class Attributes
         get => _lck;
         set => _lck = value;
     }
-
-
-
-
+    
 }

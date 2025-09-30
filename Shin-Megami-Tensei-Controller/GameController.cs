@@ -1,7 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using Shin_Megami_Tensei_Model;
 using Shin_Megami_Tensei_Model.Enums;
-using Shin_Megami_Tensei_Model.Services;
 using Shin_Megami_Tensei_View;
 
 namespace Shin_Megami_Tensei;
@@ -15,8 +14,7 @@ public class GameController
     private int _inputFromUser;
     private bool _executionRunning;
     private readonly TeamController _teamController;
-    private readonly AttackService _attackService;
-    private readonly AbilityService _abilityService;
+
     private int InputFromUser
     {
         get => _inputFromUser;
@@ -28,8 +26,7 @@ public class GameController
         _view = view;
         _teamsFolder = teamsFolder;
         _teamController = new TeamController(_view);
-        _attackService = new AttackService();
-        _abilityService = new AbilityService();
+
     }
     
     private string TeamCreation(string[] lines, Team team1, Team team2)
@@ -77,9 +74,11 @@ public class GameController
     }
   private void HandleChangeTurn(Game game)
     {
-
+        
         game.CurrentTeam.RealoadTurns();
         game.OtherTeam.RealoadTurns();
+        // Esto esta mal, se debe mejorar
+        game.CurrentTeam.OrderAttack = 0;
         _view.DisplayPlayerTurnExclamation(game.CurrentTeam);
 
         while (game.CurrentTeam.State == TeamState.WithTurn && game.HandleGameFinished() == null)
@@ -229,17 +228,34 @@ public class GameController
         }
         
         var (attacker, attacked) = game.GetAttackerAndTarget(InputFromUser);
-    
-        var damageDone = _attackService.ExecuteAttack(attacker, attacked, elementType);
 
-        _view.DisplayAttackLogs(damageDone, attacker, attacked, elementType);
-    
+        var (damageDone, affinityType) = AttackController.ExecuteAttack(attacker, attacked, elementType);
+
+        
+        var abilityType = elementType == ElementType.Physics ? AbilityType.Phys : AbilityType.Gun;
+        _view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType, abilityType, 1);
+
+        var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(abilityType, attacked, game.CurrentTeam);
+        for (int i = 0; i < blinkingTurnLoss; i++)
+        {
+            game.CurrentTeam.DestroyTurn(TurnType.Blinking);
+        }
+        for (int i = 0; i < fullTurnLoss; i++)
+        {
+            game.CurrentTeam.DestroyTurn(TurnType.Full);
+        }
+
+        for (int i = 0; i < blinkingTurnWon; i++)
+        {
+            game.CurrentTeam.AddTurn(TurnType.Blinking);
+        }
+        
         game.CurrentTeam.ChangeOrder();
-        game.CurrentTeam.DestroyTurn(TurnType.Full);
         game.CurrentTeam.TurnRemains();
         game.OtherTeam.WasDefeated();
-    
-        _view.TurnUsedDisplay();
+
+        _view.TurnUsedDisplayWithParameters(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
+
     }
 
     private void HandlePassTurn(Game game)
@@ -247,11 +263,11 @@ public class GameController
         var type =  game.PassTurn();
         if (type == TurnType.Full)
         {
-            _view.TurnUsedDisplayWonBlink();
+            _view.TurnUsedDisplayWithParameters(0,1,1);
         }
         else
         {
-            _view.BlinkTurnUsedDisplay();
+            _view.TurnUsedDisplayWithParameters(1,0,0);
         }
     }
 
@@ -266,18 +282,38 @@ public class GameController
             _executionRunning = true;
             return;
         }
-        
         var ability = game.CurrentTeam.WhoAttack().Abilities[InputFromUser-1];
 
         _view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, ability.Target);
         InputText(_view.ReadLine());
         
         var (attacker, attacked) = game.GetAttackerAndTarget(InputFromUser);
-        var (damageDone, affinityType) = AbilityService.UseDamageAbility(attacker, attacked, ability);
+        var (damageDone, affinityType, numberHits) = AbilityController.UseDamageAbility(attacker, attacked, ability, game.CurrentTeam);
         
-        _view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType);
+        var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(ability.Type, attacked, game.CurrentTeam);
+        
+        
+        _view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType, ability.Type, numberHits);
+        _view.TurnUsedDisplayWithParameters(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
         game.CurrentTeam.ChangeOrder();
-        game.CurrentTeam.DestroyTurn(TurnType.Full);
+        
+        
+        // MEJORAR MUCHO POR FFAVOR
+        for (int i = 0; i < blinkingTurnLoss; i++)
+        {
+            game.CurrentTeam.DestroyTurn(TurnType.Blinking);
+        }
+        for (int i = 0; i < fullTurnLoss; i++)
+        {
+            game.CurrentTeam.DestroyTurn(TurnType.Full);
+        }
+
+        for (int i = 0; i < blinkingTurnWon; i++)
+        {
+            game.CurrentTeam.AddTurn(TurnType.Blinking);
+        }
+        
+        
         game.CurrentTeam.TurnRemains();
         game.OtherTeam.WasDefeated();
     }
