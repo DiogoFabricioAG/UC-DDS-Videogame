@@ -73,7 +73,7 @@ public abstract class Unit
         Abilities = new Ability[MAX_AMOUNT_ABILITIES];
     }
 
-    public void TakeDamage(int damage)
+    public void HandleDamage(int damage)
     {
         
         Attributes.CurrentHp -= damage;

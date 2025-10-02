@@ -53,10 +53,10 @@ public class Game
         return (team1, team2);
     }
 
-    public (Unit, Unit) GetAttackerAndTarget(int indexTarget)
+    public (Unit, Unit) GetAttackerAndTarget(int indexTarget, Team team, bool ShowDefeated = false)
     {
-        var attacker = CurrentTeam.WhoAttack();
-        var attacked = OtherTeam.GetSelectableUnits()[indexTarget-1];
+        var attacker = CurrentTeam.GetUnitInTurn();
+        var attacked = ShowDefeated ? team.GetDefeatedUnits()[indexTarget - 1 ] : team.GetSelectableUnits()[indexTarget-1];
         return (attacker, attacked);
     }
 

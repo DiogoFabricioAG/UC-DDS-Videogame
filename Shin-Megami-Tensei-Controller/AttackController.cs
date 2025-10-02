@@ -37,11 +37,11 @@ public class AttackController
         var damageDone = (int)(modifier * statAttack * DamageModifier * affinityMofifier);
         if (affinityType == AffinityType.Repel)
         {
-            attacker.TakeDamage(damageDone);
+            attacker.HandleDamage(damageDone);
         }
         else
         {
-            target.TakeDamage(damageDone);
+            target.HandleDamage(damageDone);
 
         }
         
