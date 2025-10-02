@@ -184,7 +184,9 @@ public class GameController
             case 3:
                 HandleAbilityUse(game);
                 break;
-            
+            case 4:
+                HandleInvokeUse(game);
+                break;
             case 5:
                 HandlePassTurn(game);
                 break;
