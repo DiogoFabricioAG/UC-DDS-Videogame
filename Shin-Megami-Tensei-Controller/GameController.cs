@@ -102,12 +102,12 @@ public class GameController
                 else
                 {
                     HandleAction(game);
+
                 }
-                if (InputFromUser == 6)
+                if (InputFromUser == 6 && !_executionRunning)
                 {
                     break;
                 }
-
             }
             game.OtherTeam.AnyUnitDestroyed();
         }
@@ -278,7 +278,6 @@ public class GameController
         _view.WriteLine($"Seleccione una habilidad para que {game.CurrentTeam.GetUnitInTurn().Name} use");
         _view.DisplayShowSelectableAbilities(game.CurrentTeam.GetUnitInTurn());
         InputText(_view.ReadLine());
-        
         if (InputFromUser == game.CurrentTeam.GetCancelOptionAbilities())
         {
             _executionRunning = true;

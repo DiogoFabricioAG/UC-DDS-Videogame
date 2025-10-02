@@ -47,7 +47,7 @@ public class View
     public void DisplayShowSelectableAbilities(Unit unit)
     {
         int counter = 1;
-        foreach (var ability in unit.Abilities.Where(x => x != null).ToArray())
+        foreach (var ability in unit.Abilities.Where(x => x != null && unit.Attributes.CurrentMp > x.Cost).ToArray())
         {
             WriteLine($"{counter}-{ability.Presentation()}");
             counter++;

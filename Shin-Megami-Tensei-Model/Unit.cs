@@ -88,5 +88,5 @@ public abstract class Unit
         }
     }
     
-    public int GetTotalAbilities() => Abilities.Where(x => x!= null).ToArray().Length;
+    public int GetTotalAbilities() => Abilities.Where(x => x!= null && x.Cost < Attributes.CurrentMp).ToArray().Length;
 }
