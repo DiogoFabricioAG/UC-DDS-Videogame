@@ -5,12 +5,7 @@ namespace Shin_Megami_Tensei_Model;
 
 public abstract class Unit
 {
-    private const double ATTACK_CONST_JUST = 0.0114;
     private const int MAX_AMOUNT_ABILITIES = 8;
-    private const int MODIFIER_PHYSICS = 54;
-    private const int MODIFIER_GUN = 80;
-    
-    
 
     public int IdAbility
     {
@@ -23,6 +18,7 @@ public abstract class Unit
     
     public Ability[] Abilities  { get ; set ; } 
 
+    public bool Defeated { get ; set ; }
     public string Status()
     {
         return $"{Name} HP:{Attributes.CurrentHp}/{Attributes.MaxHp} MP:{Attributes.CurrentMp}/{Attributes.MaxMp}";
@@ -73,7 +69,7 @@ public abstract class Unit
         Abilities = new Ability[MAX_AMOUNT_ABILITIES];
     }
 
-    public void TakeDamage(int damage)
+    public void HandleDamage(int damage)
     {
         
         Attributes.CurrentHp -= damage;
@@ -87,6 +83,8 @@ public abstract class Unit
             Attributes.CurrentHp = Attributes.MaxHp;
         }
     }
+
+
     
     public int GetTotalAbilities() => Abilities.Where(x => x!= null).ToArray().Length;
 }

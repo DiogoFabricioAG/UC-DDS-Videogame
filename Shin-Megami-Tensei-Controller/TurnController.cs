@@ -11,11 +11,6 @@ public class TurnController
     {
         switch (unitAffected.Affinity.KnowAffinity(abilityType))
         {
-            case AffinityType.Resist:
-            case AffinityType.Neutral:
-                return !currentTeam.GetCurrentBlinkingTurns().Equals(0) ? 
-                    (1, 0, 0) : 
-                    (0 , 1, 0);
             case AffinityType.Weak:
                 return !currentTeam.GetCurrentFullTurns().Equals(0) ? 
                     (0, 1, 1) : 
@@ -31,7 +26,9 @@ public class TurnController
             case AffinityType.Drain:
                 return (currentTeam.GetCurrentBlinkingTurns(), currentTeam.GetCurrentFullTurns(), 0);
             default:
-                return (0, 0, 0);
+                return !currentTeam.GetCurrentBlinkingTurns().Equals(0) ? 
+                    (1, 0, 0) : 
+                    (0 , 1, 0);
         }
     }
 }

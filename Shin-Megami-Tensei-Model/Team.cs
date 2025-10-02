@@ -11,7 +11,7 @@ public class Team
     public int OrderAttack { get; set; }
     public string Identifier { get; set; } = "0";
     public Samurai Samurai { get; set; } = new Samurai();
-    public Monster[] Monsters { get; set; } = new Monster[CANTIDADMAXIMAMONSTRUOS];
+    public Unit[] BackupTeam { get; set; } = new Unit[CANTIDADMAXIMAMONSTRUOS];
     public List<Turn> Turns { get; set; } = new List<Turn>();
 
     private Unit[] _startingTeams = new Unit[MAXUNITSINTABLE];
@@ -61,15 +61,16 @@ public class Team
         }
     }
 
-    public int GetCancelOptionAbilities() => WhoAttack().GetTotalAbilities() + 1;
+    public int GetCancelOptionAbilities() => GetUnitInTurn().GetTotalAbilities() + 1;
     public int CancelOptionInSelectableTeam() => GetNumberUnitsInStartingTeam() + 1;
+    public int GetCancelOptionInvoke() => GetMonstersInBackup().Length + 1;
+    
     public void WasDefeated()
     {
-        if (GetNumberUnitsInStartingTeam() == 0)
+        if (StartingTeam.Count(x => x != null && !x.Defeated) == 0)
         {
             State = TeamState.Defeated;
         }
-        
     }
     
     public static string? FromInputGetSamuraiName(string line) => line.Split(' ')[1];
@@ -77,6 +78,7 @@ public class Team
 
     public void AnyUnitDestroyed()
     {
+        // Solo valido si 
         Unit unitDestroy = null;
         foreach (var unit in StartingTeam.Where(unit => unit != null).ToArray())
         {
@@ -94,11 +96,10 @@ public class Team
         {
             if (StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] is Monster)
             {
-                StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] = null;
+                StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)].Defeated = true;
             }
             if (Array.IndexOf(OrderForActions, unitDestroy) != -1)
-                OrderForActions[Array.IndexOf(OrderForActions, unitDestroy)] = null;
-
+                OrderForActions[Array.IndexOf(OrderForActions, unitDestroy)].Defeated = true;
         }
     }
 
@@ -118,8 +119,23 @@ public class Team
         
         for (int i = 0; i < Math.Min(GetNumberAliveMonsters(), TOTALMONSTERINTABLE); i++)
         {
-            StartingTeam[i + 1] = Monsters[i];
+            StartingTeam[i + 1] = BackupTeam[i];
         }
+        
+        // Separar la logica de áca
+        foreach (var unit in StartingTeam)
+        {
+            if (BackupTeam.Contains(unit))
+            {
+                BackupTeam[Array.IndexOf(BackupTeam, unit)] = null;
+            }
+        }
+
+        OrderTeams();
+    }
+
+    public void OrderTeams()
+    {
         OrderForActions = StartingTeam.Where(x => x != null).OrderByDescending(x => x.Attributes.Speed).ToArray();
     }
 
@@ -151,7 +167,7 @@ public class Team
     public int GetNumberAliveMonsters()
     {
         int counter = 0;
-        foreach (var monstruo in Monsters)
+        foreach (var monstruo in BackupTeam)
         {
             if (monstruo != null && monstruo.Attributes.CurrentHp > 0) counter++;
         }
@@ -174,7 +190,7 @@ public class Team
     public int GetCurrentBlinkingTurns() =>  Turns.Count(turn => turn != null && turn.Type == TurnType.Blinking);
     
     
-    public int GetNumberUnitsInStartingTeam() => StartingTeam.Count(unit => unit != null && unit.Attributes.CurrentHp > 0);
+    public int GetNumberUnitsInStartingTeam() => StartingTeam.Count(unit => unit != null && !unit.Defeated);
     
     public string Name() =>  Samurai.Name + $" (J{Identifier})";
     
@@ -184,19 +200,31 @@ public class Team
         Turns.RemoveAt(index);
     }
     
-    public Unit WhoAttack() => OrderForActions.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[OrderAttack];
+    public Unit GetUnitInTurn() => OrderForActions.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[OrderAttack];
     
-    public Unit[] GetSelectableUnits() => StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)).ToArray();
+    public Unit[] GetSelectableUnits(bool showAll = false) => StartingTeam.Where(x => (x != null && (!x.Defeated || showAll))).ToArray();
+    public Unit[] GetDefeatedUnits() => StartingTeam.Where(x => x != null && x.Defeated).ToArray();
 
-
+    public Unit[] GetMonstersInBackup() => BackupTeam.Where(x => x!=null && !StartingTeam.Contains(x)).ToArray<Unit>();
+    public Unit[] GetReplaceableTeam()  => StartingTeam.Where(x => x != null && x is Monster).ToArray();
+    public Unit MoveUnit(int indexBackup, int indexStarter)
+    {
+        var backupUnitIndex = Array.IndexOf(BackupTeam, GetMonstersInBackup()[indexBackup - 1]);
+        var starterUnitIndex = Array.IndexOf(StartingTeam, GetReplaceableTeam()[indexStarter - 1]);
+        
+        (StartingTeam[starterUnitIndex], BackupTeam[backupUnitIndex]) = (BackupTeam[backupUnitIndex], StartingTeam[starterUnitIndex]);
+        return StartingTeam[starterUnitIndex];
+    }
     public bool IsMonsterDuplicate(string name)
     {
         for (int i = 0; i< _monsterId; i++)
         {
-            if (Monsters[i].Name == name)  return true;
+            if (BackupTeam[i].Name == name)  return true;
         }
         return false;
     }
+
+    public int KnowIndexFromUnitInStartingTeam(Unit unit) => Array.IndexOf(StartingTeam, unit);
     
     public bool SamuraiExist() => Samurai.Name != null;
 }

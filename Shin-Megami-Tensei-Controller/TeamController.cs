@@ -58,7 +58,7 @@ public class TeamController
             _error = true;
             return;
         }
-        team.Monsters[team.MonsterId] = monster;
+        team.BackupTeam[team.MonsterId] = monster;
         team.MonsterId++;
         if (team.MonsterId < TOTALMONSTERINTABLE + 1 )
         {

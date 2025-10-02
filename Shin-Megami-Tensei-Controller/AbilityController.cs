@@ -47,30 +47,31 @@ public class AbilityController
         {
             if (affinityType == AffinityType.Repel)
             {
-                user.TakeDamage(damageDone);
+                user.HandleDamage(damageDone);
             }
             else
             {
-                selectedUnit.TakeDamage(damageDone);
+                selectedUnit.HandleDamage(damageDone);
             }
         }
-        
+
         user.Attributes.CurrentMp -= ability.Cost;
         team.NumAbilitiesCast++;
         return (damageDone,affinityType, numberHits);
     }
 
     
-    // Aun no se utiliza
-    public void HealAbility(Unit user, Unit selectedUnit, Ability ability)
+    public static int UseHealAbility(Unit user, Unit selectedUnit, Ability ability)
     {
         if (user.Attributes.CurrentMp < ability.Cost)
         {
             throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
         }
+
+        var healRealized = Convert.ToInt32(ability.Power * selectedUnit.Attributes.MaxHp / 100);
         
-        var healPercentage = ability.Power/100;
+        selectedUnit.HandleDamage(healRealized*-1); 
         user.Attributes.CurrentMp -= ability.Cost;
-        selectedUnit.Attributes.CurrentHp += healPercentage*selectedUnit.Attributes.CurrentHp;
+        return healRealized;
     }
 }
