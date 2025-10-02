@@ -11,9 +11,10 @@ public class Team
     public int OrderAttack { get; set; }
     public string Identifier { get; set; } = "0";
     public Samurai Samurai { get; set; } = new Samurai();
-    public Unit[] BackupTeam { get; set; } = new Unit[CANTIDADMAXIMAMONSTRUOS];
+    public Unit[] Monsters { get; set; } = new Unit[CANTIDADMAXIMAMONSTRUOS];
     public List<Turn> Turns { get; set; } = [];
 
+    public List<Unit> BackupTeam { get; set; } = new List<Unit>();
     public List<Unit> DestroyedUnits { get; set; } = [];
 
     private Unit[] _startingTeams = new Unit[MAXUNITSINTABLE];
@@ -65,6 +66,8 @@ public class Team
 
     public int GetCancelOptionAbilities() => GetUnitInTurn().GetTotalAbilities() + 1;
     public int CancelOptionInSelectableTeam() => GetNumberUnitsInStartingTeam() + 1;
+    
+    
     public void WasDefeated()
     {
         if (GetNumberUnitsInStartingTeam() == 0)
@@ -84,7 +87,7 @@ public class Team
         {
             if (unit.Attributes.CurrentHp == 0)
             {
-                if (_orderForActions.Contains(unit))
+                if (OrderForActions.Contains(unit))
                 {
                     unitDestroy = unit;
                     break;
@@ -94,6 +97,10 @@ public class Team
 
         if (unitDestroy != null)
         {
+            if (!BackupTeam.Contains(unitDestroy))
+            {
+                BackupTeam.Insert(0,unitDestroy);
+            }
             DestroyedUnits.Add(unitDestroy);
             if (StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] is Monster)
             {
@@ -120,10 +127,18 @@ public class Team
         
         for (int i = 0; i < Math.Min(GetNumberAliveMonsters(), TOTALMONSTERINTABLE); i++)
         {
-            StartingTeam[i + 1] = BackupTeam[i];
+            StartingTeam[i + 1] = Monsters[i];
         }
 
         OrderTeam();
+
+        foreach (var monster in Monsters.Where(x => x != null))
+        {
+            if (!StartingTeam.Contains(monster))
+            {
+                BackupTeam.Add(monster);
+            }
+        }
     }
 
     public void OrderTeam()
@@ -155,10 +170,10 @@ public class Team
             return new string[0];
         }
     }
-    public int GetNumberAliveMonsters()
+    private int GetNumberAliveMonsters()
     {
         int counter = 0;
-        foreach (var monstruo in BackupTeam)
+        foreach (var monstruo in Monsters)
         {
             if (monstruo != null && monstruo.Attributes.CurrentHp > 0) counter++;
         }
@@ -166,7 +181,7 @@ public class Team
         return counter;
     }
     
-    public void RealoadTurns()
+    public void ReloadTurns()
     {
         Turns = new List<Turn>();
         for (int i = 0; i < GetNumberUnitsInStartingTeam(); i++)
@@ -189,10 +204,10 @@ public class Team
     
     public void DestroyTurn(TurnType type)
     {
-        int index = Turns.FindIndex(turn => turn != null && turn.Type == type);
+        var index = Turns.FindIndex(turn => turn != null && turn.Type == type);
         Turns.RemoveAt(index);
     }
-    public int GetCancelOptionInvoke(bool showAll = false) => GetMonstersInBackup(showAll).Length + 1;
+    public int GetCancelOptionInvoke(bool showAll = false) => GetMonstersInBackup(showAll).Count + 1;
 
     public Unit GetUnitInTurn() => OrderForActions.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[OrderAttack];
     
@@ -200,28 +215,44 @@ public class Team
     public Unit[] GetSelectableUnits(bool showAll = false) => StartingTeam.Where(x => (x != null && (x.Attributes.CurrentHp > 0 || showAll))).ToArray();
     public Unit[] GetDefeatedUnits() => DestroyedUnits.ToArray();
 
+    public int GetCancelButtonReviveUnits() => DestroyedUnits.Count + 1;
 
-    public Unit[] GetMonstersInBackup(bool  showAll = false) => BackupTeam.Where(x => x!=null && !StartingTeam.Contains(x) && (x.Attributes.CurrentHp > 0 || showAll)).ToArray<Unit>();
+    public int GetCancelButtonReplacebleUnits() => GetReplaceableTeam().Length + 1;
+    
+    public List<Unit> GetMonstersInBackup(bool  showAll = false) => BackupTeam.Where(x => x!=null && (x.Attributes.CurrentHp > 0 || showAll) && x is Monster).ToList();
     public Unit[] GetReplaceableTeam()  => StartingTeam.Where(x =>  x is not Shin_Megami_Tensei_Model.Samurai).ToArray();
 
-    public (Unit, bool) MoveUnit(int indexBackup, int indexStarter, bool deadUnitsToo)
+    public (Unit, bool) ReplaceUnit(int indexBackup, int indexStarter, bool deadUnitsToo)
     {
-        var backupUnitIndex = Array.IndexOf(BackupTeam, GetMonstersInBackup(deadUnitsToo)[indexBackup - 1]);
-        var starterUnitIndex = Array.IndexOf(StartingTeam, GetReplaceableTeam()[indexStarter - 1]);
+        var backupUnitIndex = BackupTeam.IndexOf(GetMonstersInBackup(deadUnitsToo)[indexBackup - 1]);
 
+
+        var starterUnitIndex = Array.IndexOf(StartingTeam, GetReplaceableTeam()[indexStarter - 1]);
         var isFullStartingTeam = GetNumberUnitsInStartingTeam() == MAXUNITSINTABLE;
         if (!isFullStartingTeam)
         {
+            for (var i = 0; i < GetNumberUnitsInStartingTeam(); i++)
+                Console.WriteLine($"{i + 1}-{OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + OrderAttack)%GetNumberUnitsInStartingTeam()].Name}") ;
             OrderForActions.Insert(OrderForActions.IndexOf(GetUnitInTurn()), BackupTeam[backupUnitIndex]);
+            for (var i = 0; i < GetNumberUnitsInStartingTeam(); i++)
+                Console.WriteLine($"{i + 1}-{OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + OrderAttack)%GetNumberUnitsInStartingTeam()].Name}") ;
+
             OrderAttack++;
+            for (var i = 0; i < GetNumberUnitsInStartingTeam(); i++)
+                Console.WriteLine($"{i + 1}-{OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + OrderAttack)%GetNumberUnitsInStartingTeam()].Name}") ;
+            
         }
         else
         {
             OrderForActions[OrderForActions.IndexOf(StartingTeam[starterUnitIndex])] = BackupTeam[backupUnitIndex];
+            // OJITO A LO QUE ES EL DESPROPOSITO DE BACKUPTEAM
         }
 
+        
         (StartingTeam[starterUnitIndex], BackupTeam[backupUnitIndex]) =
             (BackupTeam[backupUnitIndex], StartingTeam[starterUnitIndex]);
+        BackupTeam = BackupTeam.OrderBy(x => Array.IndexOf(Monsters, x)).ToList();
+
         if (deadUnitsToo && StartingTeam[starterUnitIndex].Attributes.CurrentHp == 0)
         {
             StartingTeam[starterUnitIndex].Attributes.CurrentHp = StartingTeam[starterUnitIndex].Attributes.MaxHp;
@@ -235,7 +266,7 @@ public class Team
     {
         for (int i = 0; i< _monsterId; i++)
         {
-            if (BackupTeam[i].Name == name)  return true;
+            if (Monsters[i].Name == name)  return true;
         }
         return false;
     }

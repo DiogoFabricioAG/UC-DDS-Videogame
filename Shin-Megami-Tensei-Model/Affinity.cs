@@ -30,7 +30,7 @@ public class Affinity
         {
             return AffinityType.Repel;
         }
-
+        
         return Drain.Contains(abilityType) ? AffinityType.Drain : AffinityType.Neutral;
     }
 }

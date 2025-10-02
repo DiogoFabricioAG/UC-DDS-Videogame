@@ -69,7 +69,6 @@ public class View
     {
         WriteLine($"Seleccione un objetivo para {currentTeam.GetUnitInTurn().Name}");
         var counterUnit = 1;
-        Console.WriteLine(showThemAll);
         var unitsSelected = showThemAll ? currentTeam.GetDefeatedUnits() : targetType == TargetType.Ally ? 
             currentTeam.GetSelectableUnits(showThemAll)
             : otherTeam.GetSelectableUnits(showThemAll);
@@ -229,7 +228,9 @@ public class View
     public void ShowInvocableMonsters(Team team, bool showAll = false)
     {
         WriteLine("Seleccione un monstruo para invocar");
+        
         int counter = 1;
+
         foreach (var unit in team.GetMonstersInBackup(showAll))
         {
             WriteLine($"{counter}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");

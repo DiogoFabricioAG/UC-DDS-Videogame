@@ -61,7 +61,6 @@ public class AbilityController
     }
 
     
-    // Aun no se utiliza
     public static int UseHealAbility(Unit user, Unit selectedUnit, Ability ability)
     {
         if (user.Attributes.CurrentMp < ability.Cost)
