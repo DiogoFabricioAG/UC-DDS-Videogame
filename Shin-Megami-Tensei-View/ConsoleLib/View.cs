@@ -60,7 +60,7 @@ public class View
         
         WriteLine("Orden:");
         for (int i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
-            WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
+            WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
         WriteLine(SEPARATOR);
     }
     
@@ -226,11 +226,11 @@ public class View
         _view.WriteLine(SEPARATOR);
     }
     
-    public void ShowInvocableMonsters(Team team)
+    public void ShowInvocableMonsters(Team team, bool showAll = false)
     {
         WriteLine("Seleccione un monstruo para invocar");
         int counter = 1;
-        foreach (var unit in team.GetMonstersInBackup())
+        foreach (var unit in team.GetMonstersInBackup(showAll))
         {
             WriteLine($"{counter}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");
             counter++;
@@ -244,7 +244,7 @@ public class View
         int counter = 1;
         foreach (var unit in team.GetReplaceableTeam())
         {
-            if (unit != null && !(unit.Attributes.CurrentHp > 0))
+            if (unit != null && unit.Attributes.CurrentHp > 0)
             {
                 WriteLine(
                     $"{counter}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp} (Puesto {team.KnowIndexFromUnitInStartingTeam(unit) + 1})");
@@ -259,9 +259,16 @@ public class View
         WriteLine($"{counter}-Cancelar");
     }
 
-    public void InvokeAnUnit(Unit unit)
+    public void InvokeAnUnit(Unit unit, bool revived = false, Unit inTurn = null)
     {
+        
         WriteLine($"{unit.Name} ha sido invocado");
+        if (revived)
+        {
+            WriteLine($"{inTurn.Name} revive a {unit.Name}");
+            WriteLine($"{unit.Name} recibe {unit.Attributes.MaxHp} de HP");
+            WriteLine($"{unit.Name} termina con HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp}");
+        }
         WriteLine(SEPARATOR);
     }
     

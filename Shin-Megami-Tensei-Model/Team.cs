@@ -28,10 +28,10 @@ public class Team
         get => _startingTeams;
         set => _startingTeams = value;
     }
-    
-    private Unit[] _orderForActions = new Unit[MAXUNITSINTABLE];
 
-    public Unit[] OrderForActions
+    private List<Unit> _orderForActions = [];
+
+    public List<Unit> OrderForActions
     {
         get => _orderForActions;
         set => _orderForActions = value;
@@ -99,8 +99,8 @@ public class Team
             {
                 StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] = null;
             }
-            if (Array.IndexOf(OrderForActions, unitDestroy) != -1)
-                OrderForActions[Array.IndexOf(OrderForActions, unitDestroy)] = null;
+            if (OrderForActions.IndexOf(unitDestroy) != -1)
+                OrderForActions[OrderForActions.IndexOf(unitDestroy)] = null;
         }
     }
 
@@ -122,9 +122,14 @@ public class Team
         {
             StartingTeam[i + 1] = BackupTeam[i];
         }
-        OrderForActions = StartingTeam.Where(x => x != null).OrderByDescending(x => x.Attributes.Speed).ToArray();
+
+        OrderTeam();
     }
 
+    public void OrderTeam()
+    {
+        OrderForActions = StartingTeam.Where(x => x != null).OrderByDescending(x => x.Attributes.Speed).ToList();
+    }
    
     public string[] FromInputGetAbilities(string lineText)
     {
@@ -168,6 +173,8 @@ public class Team
         {
             Turns.Add(new Turn(TurnType.Full));
         }
+
+        OrderTeam();
     }
 
     public int GetCurrentFullTurns() =>  Turns.Count(turn => turn != null && turn.Type == TurnType.Full);
@@ -185,7 +192,7 @@ public class Team
         int index = Turns.FindIndex(turn => turn != null && turn.Type == type);
         Turns.RemoveAt(index);
     }
-    public int GetCancelOptionInvoke() => GetMonstersInBackup().Length + 1;
+    public int GetCancelOptionInvoke(bool showAll = false) => GetMonstersInBackup(showAll).Length + 1;
 
     public Unit GetUnitInTurn() => OrderForActions.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[OrderAttack];
     
@@ -194,15 +201,33 @@ public class Team
     public Unit[] GetDefeatedUnits() => DestroyedUnits.ToArray();
 
 
-    public Unit[] GetMonstersInBackup() => BackupTeam.Where(x => x!=null && !StartingTeam.Contains(x)).ToArray<Unit>();
-    public Unit[] GetReplaceableTeam()  => StartingTeam.Where(x => x != null && x is Monster).ToArray();
-    public Unit MoveUnit(int indexBackup, int indexStarter)
+    public Unit[] GetMonstersInBackup(bool  showAll = false) => BackupTeam.Where(x => x!=null && !StartingTeam.Contains(x) && (x.Attributes.CurrentHp > 0 || showAll)).ToArray<Unit>();
+    public Unit[] GetReplaceableTeam()  => StartingTeam.Where(x =>  x is not Shin_Megami_Tensei_Model.Samurai).ToArray();
+
+    public (Unit, bool) MoveUnit(int indexBackup, int indexStarter, bool deadUnitsToo)
     {
-        var backupUnitIndex = Array.IndexOf(BackupTeam, GetMonstersInBackup()[indexBackup - 1]);
+        var backupUnitIndex = Array.IndexOf(BackupTeam, GetMonstersInBackup(deadUnitsToo)[indexBackup - 1]);
         var starterUnitIndex = Array.IndexOf(StartingTeam, GetReplaceableTeam()[indexStarter - 1]);
-        
-        (StartingTeam[starterUnitIndex], BackupTeam[backupUnitIndex]) = (BackupTeam[backupUnitIndex], StartingTeam[starterUnitIndex]);
-        return StartingTeam[starterUnitIndex];
+
+        var isFullStartingTeam = GetNumberUnitsInStartingTeam() == MAXUNITSINTABLE;
+        if (!isFullStartingTeam)
+        {
+            OrderForActions.Insert(OrderForActions.IndexOf(GetUnitInTurn()), BackupTeam[backupUnitIndex]);
+            OrderAttack++;
+        }
+        else
+        {
+            OrderForActions[OrderForActions.IndexOf(StartingTeam[starterUnitIndex])] = BackupTeam[backupUnitIndex];
+        }
+
+        (StartingTeam[starterUnitIndex], BackupTeam[backupUnitIndex]) =
+            (BackupTeam[backupUnitIndex], StartingTeam[starterUnitIndex]);
+        if (deadUnitsToo && StartingTeam[starterUnitIndex].Attributes.CurrentHp == 0)
+        {
+            StartingTeam[starterUnitIndex].Attributes.CurrentHp = StartingTeam[starterUnitIndex].Attributes.MaxHp;
+            return (StartingTeam[starterUnitIndex], true);
+        }
+        return (StartingTeam[starterUnitIndex], false);
     }
     
     
