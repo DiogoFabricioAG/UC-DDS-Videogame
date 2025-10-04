@@ -5,14 +5,9 @@ namespace Shin_Megami_Tensei_Model;
 
 public abstract class Unit
 {
-    private const double ATTACK_CONST_JUST = 0.0114;
     private const int MAX_AMOUNT_ABILITIES = 8;
-    private const int MODIFIER_PHYSICS = 54;
-    private const int MODIFIER_GUN = 80;
-    
-    
 
-    public int IdAbility
+    public int AbilityIndex
     {
         get;
         set;
@@ -23,7 +18,7 @@ public abstract class Unit
     
     public Ability[] Abilities  { get ; set ; } 
 
-    public string Status()
+    public string GetStatus()
     {
         return $"{Name} HP:{Attributes.CurrentHp}/{Attributes.MaxHp} MP:{Attributes.CurrentMp}/{Attributes.MaxMp}";
     }
@@ -46,7 +41,7 @@ public abstract class Unit
 
     public AbilityInsertState validateAbilityInsert(Ability ability)
     {
-        if (IsAbilityDuplicate(ability) || MAX_AMOUNT_ABILITIES <= IdAbility) 
+        if (IsAbilityDuplicate(ability) || MAX_AMOUNT_ABILITIES <= AbilityIndex) 
             return  AbilityInsertState.Unviable;
         if (ability.Cost > Attributes.CurrentMp )  
             return AbilityInsertState.Incorrect;
@@ -54,12 +49,10 @@ public abstract class Unit
     }
     public void AddAbility(Ability ability)
     {
-        Abilities[IdAbility] = ability;
-        IdAbility++;
+        Abilities[AbilityIndex] = ability;
+        AbilityIndex++;
     }
-
-    // Prueba
-
+    
     public void ShowAbility()
     {
         foreach (var ability in Abilities.Where(a => a != null))

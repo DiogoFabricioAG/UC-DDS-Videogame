@@ -49,7 +49,7 @@ public class View
         int counter = 1;
         foreach (var ability in unit.GetTotalAbilities())
         {
-            WriteLine($"{counter}-{ability.Presentation()}");
+            WriteLine($"{counter}-{ability.GetPresentation()}");
             counter++;
         }
         WriteLine($"{counter}-Cancelar") ;
@@ -59,13 +59,13 @@ public class View
     {
         
         WriteLine("Orden:");
-
-
+        
         for (var i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
-            WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
+            WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + team.TeamTurnOrder)%team.GetNumberUnitsInStartingTeam()].Name}") ;
         WriteLine(SEPARATOR);
     }
     
+
     
     public void DisplayShowSelectablesUnit(Team otherTeam,Team currentTeam, TargetType targetType, bool showThemAll = false)
     {
@@ -96,7 +96,7 @@ public class View
     
     public void DisplayPlayerTurnExclamation(Team team)
     {
-        WriteLine($"Ronda de {team.Name()}\n{SEPARATOR}");
+        WriteLine($"Ronda de {team.GetName()}\n{SEPARATOR}");
     }
 
     public void DisplayAbilitiesForUnit(Unit unit)
@@ -111,25 +111,25 @@ public class View
     public void DisplayTeamsUnitsCurrentStatus(Game game)
     {
         var (team1, team2) = game.GetPlayer1AndPlayer2();
-        WriteLine($"Equipo de {team1.Name()}");
+        WriteLine($"Equipo de {team1.GetName()}");
        
         for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
         {
             if (team1.StartingTeam[i] != null)
             {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team1.StartingTeam[i].Status()}");
+                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team1.StartingTeam[i].GetStatus()}");
             }
             else
             {
                 WriteLine($"{LABELMAXUNITSONTABLE[i]}-");
             }
         }; 
-        WriteLine($"Equipo de {team2.Name()}");
+        WriteLine($"Equipo de {team2.GetName()}");
         for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
         {
             if (team2.StartingTeam[i] != null)
             {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team2.StartingTeam[i].Status()}");
+                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team2.StartingTeam[i].GetStatus()}");
             }
             else
             {
@@ -223,7 +223,7 @@ public class View
     
     public void SurrenderTeamDisplay(Team team)
     {
-        _view.WriteLine($"{team.Name()} se rinde");
+        _view.WriteLine($"{team.GetName()} se rinde");
         _view.WriteLine(SEPARATOR);
     }
     

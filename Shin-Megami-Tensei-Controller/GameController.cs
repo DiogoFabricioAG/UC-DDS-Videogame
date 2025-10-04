@@ -8,18 +8,13 @@ namespace Shin_Megami_Tensei;
 public class GameController
 {
     private View _view;
-    private string _teamsFolder;
+    private readonly string _teamsFolder;
     private const string SEPARATOR = "----------------------------------------";
     private const string ERROR_MESSAGE = "Archivo de equipos inválido";
-    private int _inputFromUser;
     private bool _executionRunning;
     private readonly TeamController _teamController;
 
-    private int InputFromUser
-    {
-        get => _inputFromUser;
-        set => _inputFromUser = value;
-    }
+    private int InputFromUser { get; set; }
 
     public GameController(View view, string teamsFolder)
     {
@@ -31,8 +26,28 @@ public class GameController
     
     private string TeamCreation(string[] lines, Team team1, Team team2)
     {
-        var position1 = 0;
-        int position2 = 1;
+        var alineations = ExtractTeamAlineations(lines);
+        var team1Lines = alineations.team1Lines;
+        var team2Lines = alineations.team2Lines;
+
+        var result1 = ConfigureTeam(team1Lines, team1, "1", TeamState.WithTurn);
+        if (result1 != SEPARATOR)
+        {
+            return result1; 
+        }
+
+        var result2 = ConfigureTeam(team2Lines, team2, "2", TeamState.WithoutTurn);
+        if (result2 != SEPARATOR)
+        {
+            return result2; 
+        }
+
+        return SEPARATOR;
+    }
+
+    private (string[] team1Lines, string[] team2Lines) ExtractTeamAlineations(string[] lines)
+    {
+        var position2 = 1;
         for (int i = 0; i < lines.Length; i++)
         {
             if (lines[i].Contains("Player 2"))
@@ -41,80 +56,97 @@ public class GameController
                 break;
             }
         }
-        string[] alineacionE1 = lines.Skip(1).Take(position2-1).ToArray();
-        string[] alineacionE2 = lines.Skip(position2+1).Take(lines.Length - position2 - 1).ToArray();
-
-        var result = _teamController.EnterUnits(alineacionE1, team1);
-        team1.Identifier = "1";
-        team1.State = TeamState.WithTurn;
-        if (result)
-        {
-            return ERROR_MESSAGE;
-        }
-        team1.SelectStarterTeam();
-        team1.Samurai.ShowAbility();
-        var result2 = _teamController.EnterUnits(alineacionE2, team2);
         
-        team2.Identifier = "2";
-        team2.State = TeamState.WithoutTurn;
-        team2.Samurai.ShowAbility();
+        var team1Lines = lines.Skip(1).Take(position2 - 1).ToArray();
+        var team2Lines = lines.Skip(position2 + 1).Take(lines.Length - position2 - 1).ToArray();
 
-        if (result2)
+        return (team1Lines, team2Lines);
+    }
+
+    private string ConfigureTeam(string[] alineations, Team team, string identifier, TeamState initialState)
+    {
+        var hasError = _teamController.EnterUnits(alineations, team);
+        
+        if (hasError)
         {
             return ERROR_MESSAGE;
         }
-        team2.SelectStarterTeam();
-        return SEPARATOR;
+
+        team.Identifier = identifier;
+        team.State = initialState;
+        TeamController.GenerateTeamForInitGame(team);
+        
+        team.Samurai.ShowAbility(); 
+
+        return SEPARATOR; 
     }
-    
     private void InputText(string text)
     {
         InputFromUser = Convert.ToInt32(text);
         _view.WriteLine(SEPARATOR);
     }
-  private void HandleChangeTurn(Game game)
+
+    private static void ReloadAllTurns(Game game)
     {
-        
         game.CurrentTeam.ReloadTurns();
         game.OtherTeam.ReloadTurns();
-        // Esto esta mal, se debe mejorar
-        game.CurrentTeam.OrderAttack = 0;
+    }
+    private void HandleChangeTurn(Game game)
+    {
+        ReloadAllTurns(game);
+        game.CurrentTeam.TeamTurnOrder = 0;
         _view.DisplayPlayerTurnExclamation(game.CurrentTeam);
 
         while (game.CurrentTeam.State == TeamState.WithTurn && game.HandleGameFinished() == null)
         {
-            _view.DisplayTeamsUnitsCurrentStatus(game);
-            _view.DisplayCurrentTurnsbyType(game.CurrentTeam);
-            _view.DisplayCurrentTurnOrder(game.CurrentTeam);
-            
-            _executionRunning = true;
-
-            while (_executionRunning)
-            {
-                var availableActions = game.CurrentTeam.GetUnitInTurn().GetAvailableActions();
-                _view.DisplayUnitActions(game.CurrentTeam.GetUnitInTurn().Name, availableActions);
-
-                InputText(_view.ReadLine());
-                if (game.CurrentTeam.GetUnitInTurn() is Monster)
-                {
-                    HandleActionUnit(game);
-                }
-                else
-                {
-                    HandleAction(game);
-
-                }
-                if (InputFromUser == 6 && !_executionRunning)
-                {
-                    break;
-                }
-            }
-            game.OtherTeam.AnyUnitDestroyed();
+            DisplayTurnState(game);
+            ProcessUnitActions(game); 
+            DestroyUnitsInTurn(game);
         }
+    
         game.ChangeCurrentTeam();
     }
+
+    
+    private void DisplayTurnState(Game game)
+    {
+        _view.DisplayTeamsUnitsCurrentStatus(game);
+        _view.DisplayCurrentTurnsbyType(game.CurrentTeam);
+        _view.DisplayCurrentTurnOrder(game.CurrentTeam);
+    }
+    
+    private void ProcessUnitActions(Game game)
+    {
+        _executionRunning = true;
+    
+        while (_executionRunning)
+        {
+            var unitInTurn = game.CurrentTeam.GetUnitInTurn();
+        
+            var availableActions = unitInTurn.GetAvailableActions();
+            _view.DisplayUnitActions(unitInTurn.Name, availableActions);
+
+            InputText(_view.ReadLine());
+
+            if (unitInTurn is Monster)
+            {
+                HandleActionUnit(game); 
+            }
+            else
+            {
+                HandleAction(game);
+            }
+
+            if (InputFromUser == 6 && !_executionRunning)
+            {
+                break;
+            }
+        }
+    }
+
+
   
-    private String LoadGame(Game game)
+    private string LoadGame(Game game)
     {
         _view.WriteLine("Elige un archivo para cargar los equipos");
         if (Directory.Exists(_teamsFolder))
@@ -146,8 +178,6 @@ public class GameController
         var result = TeamCreation(lines, game.CurrentTeam, game.OtherTeam);
         return result;
     }
-
-    
     public void Play()
     {
         var game = new Game();
@@ -158,7 +188,7 @@ public class GameController
             return; 
         }
         RunGameLoop(game);
-        _view.WriteLine($"Ganador: {game.HandleGameFinished().Name()}");
+        _view.WriteLine($"Ganador: {game.HandleGameFinished().GetName()}");
     }
 
     private void RunGameLoop(Game game)
@@ -195,10 +225,9 @@ public class GameController
                 _view.SurrenderTeamDisplay(game.CurrentTeam);
                 break;
         }
-        game.OtherTeam.AnyUnitDestroyed();
-        game.CurrentTeam.AnyUnitDestroyed();
-        game.OtherTeam.WasDefeated();
-        game.CurrentTeam.WasDefeated();
+        
+        DestroyUnitsInTurn(game);
+        HandleFinishGame(game);
     }
 
     private void HandleActionUnit(Game game)
@@ -219,10 +248,9 @@ public class GameController
                 HandlePassTurn(game);
                 break;
         }
-        game.OtherTeam.AnyUnitDestroyed();
-        game.CurrentTeam.AnyUnitDestroyed();
-        game.OtherTeam.WasDefeated();
-        game.CurrentTeam.WasDefeated();
+
+        DestroyUnitsInTurn(game);
+        HandleFinishGame(game);
     }
     
     private void HandleAttackUse(Game game, ElementType elementType)
@@ -245,24 +273,11 @@ public class GameController
         _view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType, abilityType, 1);
 
         var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(abilityType, attacked, game.CurrentTeam);
-        for (int i = 0; i < blinkingTurnLoss; i++)
-        {
-            game.CurrentTeam.DestroyTurn(TurnType.Blinking);
-        }
-        for (int i = 0; i < fullTurnLoss; i++)
-        {
-            game.CurrentTeam.DestroyTurn(TurnType.Full);
-        }
-
-        for (int i = 0; i < blinkingTurnWon; i++)
-        {
-            game.CurrentTeam.AddTurn(TurnType.Blinking);
-        }
+        TurnController.DestroyAndAddTurns(game.CurrentTeam, blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
         
         game.CurrentTeam.ChangeOrder();
         game.CurrentTeam.TurnRemains();
         
-
         _view.TurnUsedDisplayWithParameters(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
     }
 
@@ -333,11 +348,13 @@ public class GameController
             }
             else
             {
+
                 var healRealized = AbilityController.UseHealAbility(attacker, attacked, ability);
 
                 if (reviveAbility)
                 {
                     game.CurrentTeam.DestroyedUnits.RemoveAt(game.CurrentTeam.DestroyedUnits.IndexOf(attacked));
+                    
                     if (attacked is Samurai)
                     {
                         if (game.CurrentTeam.OrderForActions.IndexOf(attacked) == game.CurrentTeam.OrderForActions.Count)
@@ -346,8 +363,14 @@ public class GameController
                         }
                         else
                         {
+                            Console.WriteLine("DESPUES");
+
+                            foreach (var unit in game.CurrentTeam.OrderForActions)
+                            {
+                                Console.WriteLine(unit.Name);
+                            }
                             game.CurrentTeam.OrderForActions.Insert(game.CurrentTeam.OrderForActions.IndexOf(attacker) , attacked);
-                            game.CurrentTeam.OrderAttack++;
+                            game.CurrentTeam.TeamTurnOrder++;
                         }
                     }
                     
@@ -370,7 +393,7 @@ public class GameController
         
         
             game.CurrentTeam.TurnRemains();
-            game.OtherTeam.AnyUnitDestroyed();
+            DestroyUnitsInTurn(game);
             game.OtherTeam.WasDefeated();
             game.CurrentTeam.WasDefeated();
             
@@ -411,8 +434,10 @@ public class GameController
             indexStarterUnit = Array.IndexOf(game.CurrentTeam.StartingTeam,  actualCurrentUnit);
         }
         
+
         var (unitReplaced, wasRevived) = game.CurrentTeam.ReplaceUnit(indexBackupUnit, indexStarterUnit, showAll);
         _view.InvokeAnUnit(unitReplaced, wasRevived, actualCurrentUnit);
+
 
         if (ability != null)
         {
@@ -428,5 +453,17 @@ public class GameController
         TurnController.DestroyAndAddTurns(game.CurrentTeam, blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
         game.CurrentTeam.TurnRemains();
     }
-    
+    private static void DestroyUnitsInTurn(Game game)
+    {
+        TeamController.HandleUnitsDestroyed(game.CurrentTeam);
+        TeamController.HandleUnitsDestroyed(game.OtherTeam);
+    }
+
+    private void HandleFinishGame(Game game)
+    {
+        game.OtherTeam.WasDefeated();
+        game.CurrentTeam.WasDefeated();
+    }
 }
+
+

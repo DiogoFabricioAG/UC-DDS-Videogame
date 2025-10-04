@@ -3,7 +3,6 @@
 public class Game
 {
     private Team _currentTeam;
-    
     public Team CurrentTeam
     {
         get => _currentTeam;
@@ -59,6 +58,8 @@ public class Game
         var attacked = ShowDefeated ? team.GetDefeatedUnits()[indexTarget - 1 ] : team.GetSelectableUnits()[indexTarget-1];
         return (attacker, attacked);
     }
+
+   
 
     public TurnType PassTurn()
     {

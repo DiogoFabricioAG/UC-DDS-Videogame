@@ -3,11 +3,11 @@ using Shin_Megami_Tensei_Model.Enums;
 
 namespace Shin_Megami_Tensei;
 
-public class AttackController
+public abstract class AttackController
 {
-    private const double DamageModifier = 0.0114;
-    private const int SkillModifier = 80;
-    private const int PhysModifier = 54;
+    private const double ATTACK_MULTIPLIER = 0.0114;
+    private const int GUN_MODIFIER = 80;
+    private const int PHYSICS_MODIFIER = 54;
     public static (int, AffinityType) ExecuteAttack(Unit attacker, Unit target, ElementType elementType )
     {
 
@@ -32,9 +32,9 @@ public class AttackController
                 break;
         }
         
-        var modifier = elementType == ElementType.Physics ? PhysModifier : SkillModifier;
+        var modifier = elementType == ElementType.Physics ? PHYSICS_MODIFIER : GUN_MODIFIER;
         var statAttack = elementType == ElementType.Physics ? attacker.Attributes.StrikeDmg : attacker.Attributes.SkillDmg;
-        var damageDone = (int)(modifier * statAttack * DamageModifier * affinityMofifier);
+        var damageDone = (int)(modifier * statAttack * ATTACK_MULTIPLIER * affinityMofifier);
         if (affinityType == AffinityType.Repel)
         {
             attacker.HandleDamage(damageDone);

@@ -7,7 +7,6 @@ public abstract class AbilityController
 {
     public static (int, AffinityType, int numberHits) UseDamageAbility(Unit user,Unit selectedUnit ,Ability ability, Team team)
     {
-        Console.WriteLine($"UN POCO DE {user.Name} - {user.Attributes.CurrentMp} / {ability.Cost} - {ability.Name}");
         if (user.Attributes.CurrentMp < ability.Cost)
         {
             throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
@@ -39,6 +38,10 @@ public abstract class AbilityController
             case AffinityType.Drain:
                 affinityMofifier = -1;
                 break;
+            case AffinityType.Neutral:
+                break;
+            default:
+                throw new ArgumentOutOfRangeException();
         }
         var userDamageByType = ability.Type == AbilityType.Phys ? user.Attributes.StrikeDmg : 
             ability.Type == AbilityType.Gun ? user.Attributes.SkillDmg : 
