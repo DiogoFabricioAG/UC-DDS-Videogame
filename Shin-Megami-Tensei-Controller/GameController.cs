@@ -195,6 +195,10 @@ public class GameController
                 _view.SurrenderTeamDisplay(game.CurrentTeam);
                 break;
         }
+        game.OtherTeam.AnyUnitDestroyed();
+        game.CurrentTeam.AnyUnitDestroyed();
+        game.OtherTeam.WasDefeated();
+        game.CurrentTeam.WasDefeated();
     }
 
     private void HandleActionUnit(Game game)
@@ -215,6 +219,10 @@ public class GameController
                 HandlePassTurn(game);
                 break;
         }
+        game.OtherTeam.AnyUnitDestroyed();
+        game.CurrentTeam.AnyUnitDestroyed();
+        game.OtherTeam.WasDefeated();
+        game.CurrentTeam.WasDefeated();
     }
     
     private void HandleAttackUse(Game game, ElementType elementType)
@@ -253,8 +261,7 @@ public class GameController
         
         game.CurrentTeam.ChangeOrder();
         game.CurrentTeam.TurnRemains();
-        game.OtherTeam.AnyUnitDestroyed();
-        game.OtherTeam.WasDefeated();
+        
 
         _view.TurnUsedDisplayWithParameters(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
     }
@@ -278,13 +285,14 @@ public class GameController
         _view.WriteLine($"Seleccione una habilidad para que {game.CurrentTeam.GetUnitInTurn().Name} use");
         _view.DisplayShowSelectableAbilities(game.CurrentTeam.GetUnitInTurn());
         InputText(_view.ReadLine());
+
         if (InputFromUser == game.CurrentTeam.GetCancelOptionAbilities())
         {
             _executionRunning = true;
             return;
         }
         
-        var ability = game.CurrentTeam.GetUnitInTurn().Abilities[InputFromUser-1];
+        var ability = game.CurrentTeam.GetUnitInTurn().GetTotalAbilities()[InputFromUser-1];
 
 
         var summonAbility = ability.Effect.Contains("Summon");
@@ -321,10 +329,30 @@ public class GameController
             {
                 var (damageDone, affinityType, numberHits) = AbilityController.UseDamageAbility(attacker, attacked, ability, game.CurrentTeam);
                 _view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType, ability.Type, numberHits);
+
             }
             else
             {
                 var healRealized = AbilityController.UseHealAbility(attacker, attacked, ability);
+
+                if (reviveAbility)
+                {
+                    game.CurrentTeam.DestroyedUnits.RemoveAt(game.CurrentTeam.DestroyedUnits.IndexOf(attacked));
+                    if (attacked is Samurai)
+                    {
+                        if (game.CurrentTeam.OrderForActions.IndexOf(attacked) == game.CurrentTeam.OrderForActions.Count)
+                        {
+                            game.CurrentTeam.OrderForActions.Add(attacked);
+                        }
+                        else
+                        {
+                            game.CurrentTeam.OrderForActions.Insert(game.CurrentTeam.OrderForActions.IndexOf(attacker) , attacked);
+                            game.CurrentTeam.OrderAttack++;
+                        }
+                    }
+                    
+                    
+                }
                 _view.DisplayAbilityLogs(healRealized, attacker, attacked, AffinityType.Neutral, ability.Type, 1, reviveAbility);
             }
         
@@ -332,16 +360,21 @@ public class GameController
 
         
             _view.TurnUsedDisplayWithParameters(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
+            game.CurrentTeam.NumAbilitiesCast++;
+
             game.CurrentTeam.ChangeOrder();
         
         
             TurnController.DestroyAndAddTurns(game.CurrentTeam, blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
-
+            
         
         
             game.CurrentTeam.TurnRemains();
             game.OtherTeam.AnyUnitDestroyed();
             game.OtherTeam.WasDefeated();
+            game.CurrentTeam.WasDefeated();
+            
+
         }
     }
 
@@ -381,7 +414,12 @@ public class GameController
         var (unitReplaced, wasRevived) = game.CurrentTeam.ReplaceUnit(indexBackupUnit, indexStarterUnit, showAll);
         _view.InvokeAnUnit(unitReplaced, wasRevived, actualCurrentUnit);
 
-        if (ability != null) actualCurrentUnit.Attributes.CurrentMp -= ability.Cost;
+        if (ability != null)
+        {
+            actualCurrentUnit.Attributes.CurrentMp -= ability.Cost;
+            game.CurrentTeam.NumAbilitiesCast++;
+
+        }
         var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(AbilityType.Special, unitReplaced, game.CurrentTeam, ability != null);
         
         _view.TurnUsedDisplayWithParameters(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);

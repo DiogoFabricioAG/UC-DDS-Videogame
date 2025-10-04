@@ -3,10 +3,11 @@ using Shin_Megami_Tensei_Model.Enums;
 
 namespace Shin_Megami_Tensei;
 
-public class AbilityController
+public abstract class AbilityController
 {
     public static (int, AffinityType, int numberHits) UseDamageAbility(Unit user,Unit selectedUnit ,Ability ability, Team team)
     {
+        Console.WriteLine($"UN POCO DE {user.Name} - {user.Attributes.CurrentMp} / {ability.Cost} - {ability.Name}");
         if (user.Attributes.CurrentMp < ability.Cost)
         {
             throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
@@ -56,7 +57,6 @@ public class AbilityController
         }
         
         user.Attributes.CurrentMp -= ability.Cost;
-        team.NumAbilitiesCast++;
         return (damageDone,affinityType, numberHits);
     }
 
@@ -69,8 +69,10 @@ public class AbilityController
         }
 
         var healRealized = Convert.ToInt32(ability.Power * selectedUnit.Attributes.MaxHp / 100);
+  
         
-        selectedUnit.HandleDamage(healRealized*-1); 
+        selectedUnit.HandleDamage(healRealized*-1);
+        
         user.Attributes.CurrentMp -= ability.Cost;
         return healRealized;
     }

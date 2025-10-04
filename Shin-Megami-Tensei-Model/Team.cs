@@ -64,7 +64,7 @@ public class Team
         }
     }
 
-    public int GetCancelOptionAbilities() => GetUnitInTurn().GetTotalAbilities() + 1;
+    public int GetCancelOptionAbilities() => GetUnitInTurn().GetTotalAbilities().Length + 1;
     public int CancelOptionInSelectableTeam() => GetNumberUnitsInStartingTeam() + 1;
     
     
@@ -101,7 +101,11 @@ public class Team
             {
                 BackupTeam.Insert(0,unitDestroy);
             }
-            DestroyedUnits.Add(unitDestroy);
+
+            if (!DestroyedUnits.Contains(unitDestroy))
+            {
+                DestroyedUnits.Add(unitDestroy);
+            }
             if (StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] is Monster)
             {
                 StartingTeam[Array.IndexOf(StartingTeam, unitDestroy)] = null;
@@ -213,13 +217,16 @@ public class Team
     
     public Unit[] GetSelectableUnits() => StartingTeam.Where(x => (x != null && x.Attributes.CurrentHp > 0)).ToArray();
     public Unit[] GetSelectableUnits(bool showAll = false) => StartingTeam.Where(x => (x != null && (x.Attributes.CurrentHp > 0 || showAll))).ToArray();
-    public Unit[] GetDefeatedUnits() => DestroyedUnits.ToArray();
+    public Unit[] GetDefeatedUnits() => DestroyedUnits.OrderBy(x => Array.IndexOf(Monsters, x)).ToArray();
 
     public int GetCancelButtonReviveUnits() => DestroyedUnits.Count + 1;
 
     public int GetCancelButtonReplacebleUnits() => GetReplaceableTeam().Length + 1;
     
-    public List<Unit> GetMonstersInBackup(bool  showAll = false) => BackupTeam.Where(x => x!=null && (x.Attributes.CurrentHp > 0 || showAll) && x is Monster).ToList();
+    public List<Unit> GetMonstersInBackup(bool showAll = false) => BackupTeam
+        .Where(x => x != null && (x.Attributes.CurrentHp > 0 || showAll) && x is Monster)
+        .OrderBy(x => Array.IndexOf(Monsters, x)) 
+        .ToList();
     public Unit[] GetReplaceableTeam()  => StartingTeam.Where(x =>  x is not Shin_Megami_Tensei_Model.Samurai).ToArray();
 
     public (Unit, bool) ReplaceUnit(int indexBackup, int indexStarter, bool deadUnitsToo)
@@ -247,6 +254,7 @@ public class Team
         if (deadUnitsToo && StartingTeam[indexStarter].Attributes.CurrentHp == 0)
         {
             StartingTeam[indexStarter].Attributes.CurrentHp = StartingTeam[indexStarter].Attributes.MaxHp;
+            DestroyedUnits.RemoveAt(DestroyedUnits.IndexOf(StartingTeam[indexStarter]));
             return (StartingTeam[indexStarter], true);
         }
         return (StartingTeam[indexStarter], false);

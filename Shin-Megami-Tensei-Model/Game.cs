@@ -84,6 +84,6 @@ public class Game
             return OtherTeam;
         }
 
-        return OtherTeam.State == TeamState.Defeated ? CurrentTeam : null;
+        return OtherTeam.State == TeamState.Defeated ? CurrentTeam : CurrentTeam.State == TeamState.Defeated ? OtherTeam : null;
     }
 }

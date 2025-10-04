@@ -47,7 +47,7 @@ public class View
     public void DisplayShowSelectableAbilities(Unit unit)
     {
         int counter = 1;
-        foreach (var ability in unit.Abilities.Where(x => x != null && unit.Attributes.CurrentMp > x.Cost).ToArray())
+        foreach (var ability in unit.GetTotalAbilities())
         {
             WriteLine($"{counter}-{ability.Presentation()}");
             counter++;
@@ -59,7 +59,9 @@ public class View
     {
         
         WriteLine("Orden:");
-        for (int i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
+
+
+        for (var i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
             WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + team.OrderAttack)%team.GetNumberUnitsInStartingTeam()].Name}") ;
         WriteLine(SEPARATOR);
     }
@@ -231,6 +233,7 @@ public class View
         
         int counter = 1;
 
+        
         foreach (var unit in team.GetMonstersInBackup(showAll))
         {
             WriteLine($"{counter}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");
