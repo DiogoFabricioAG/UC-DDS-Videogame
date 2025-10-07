@@ -6,11 +6,11 @@ using Shin_Megami_Tensei_View.ConsoleLib;
 
 namespace Shin_Megami_Tensei_View;
 
-public class View
+public class View 
 {
     private const string SEPARATOR = "----------------------------------------";
     private readonly char[] LABELMAXUNITSONTABLE = { 'A', 'B', 'C', 'D' };
-
+    private readonly DisplayFormatter formatter = new DisplayFormatter();
     private readonly AbstractView _view;
 
     public static View BuildConsoleView()
@@ -40,7 +40,7 @@ public class View
     public void DisplayUnitActions(string unitName, List<ActionType> actions)
     {
         WriteLine($"Seleccione una acción para {unitName}");
-        for (int i = 0; i < actions.Count; i++)
+        for (var i = 0; i < actions.Count; i++)
         {
             WriteLine($"{i + 1}: {actions[i].GetDescription()}");
         }
@@ -58,11 +58,11 @@ public class View
     
     public void DisplayCurrentTurnOrder(Team team)
     {
-        
         WriteLine("Orden:");
-        
-        for (var i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
-            WriteLine($"{i + 1}-{team.OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + team.TeamTurnOrder)%team.GetNumberUnitsInStartingTeam()].Name}") ;
+        foreach (var orderTurns in formatter.FormatTurnOrder(team))
+        {
+            WriteLine(orderTurns);
+        }
         WriteLine(SEPARATOR);
     }
     
@@ -71,21 +71,14 @@ public class View
     public void DisplayShowSelectablesUnit(Team otherTeam,Team currentTeam, TargetType targetType, bool showThemAll = false)
     {
         WriteLine($"Seleccione un objetivo para {currentTeam.GetUnitInTurn().Name}");
-        var counterUnit = 1;
-        var unitsSelected = showThemAll ? currentTeam.GetDefeatedUnits() : targetType == TargetType.Ally ? 
-            currentTeam.GetSelectableUnits(showThemAll)
-            : otherTeam.GetSelectableUnits(showThemAll);
+       
+        var (selectableUnits, cancelOption) = formatter.FormatSelectableUnits(otherTeam, currentTeam, targetType, showThemAll);
 
-        foreach (var unit in unitsSelected)
+        foreach (var unit in selectableUnits)
         {
-            WriteLine($"{counterUnit}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");
-            counterUnit++;
+            WriteLine(unit);
         }
-
-        var finalOption = showThemAll ? $"{currentTeam.GetDefeatedUnits().Length + 1}-Cancelar" : targetType == TargetType.Ally
-            ? $"{currentTeam.GetNumberUnitsInStartingTeam() + 1}-Cancelar"
-            : $"{otherTeam.GetNumberUnitsInStartingTeam() + 1}-Cancelar";
-        WriteLine(finalOption);
+        WriteLine(cancelOption);
     }
     
     public void DisplayCurrentTurnsbyType(Team team)
@@ -99,83 +92,33 @@ public class View
     {
         WriteLine($"Ronda de {team.GetName()}\n{SEPARATOR}");
     }
-
-    public void DisplayAbilitiesForUnit(Unit unit)
-    {
-        var allAbilities = unit.Abilities.Where(x => x != null).ToArray();
-        for (var i = 0; i < allAbilities.Length; i++)
-        {
-            WriteLine($"{i+1}-{allAbilities[i].Name} MP:{allAbilities[i].Cost}");
-        }
-    }
- 
+    
     public void DisplayTeamsUnitsCurrentStatus(Game game)
     {
         var (team1, team2) = game.GetPlayer1AndPlayer2();
-        WriteLine($"Equipo de {team1.GetName()}");
-       
-        for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
+        foreach (var statusLogs in formatter.FormatTeamsStatusTable(team1, team2))
         {
-            if (team1.StartingTeam[i] != null)
-            {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team1.StartingTeam[i].GetStatus()}");
-            }
-            else
-            {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-");
-            }
-        }; 
-        WriteLine($"Equipo de {team2.GetName()}");
-        for (int i = 0; i < LABELMAXUNITSONTABLE.Length; i++)
-        {
-            if (team2.StartingTeam[i] != null)
-            {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-{team2.StartingTeam[i].GetStatus()}");
-            }
-            else
-            {
-                WriteLine($"{LABELMAXUNITSONTABLE[i]}-");
-            }
-          
-        }; 
+            WriteLine(statusLogs);
+        }
         WriteLine(SEPARATOR);
     }
     
     public void DisplayAbilityLogs(int attackDamage, Unit attacker, Unit attacked, AffinityType type, AbilityType abilityType, int numberHits, bool reviveUnit = false )
     {
         var affinityText = type == AffinityType.Weak ? "débil contra" : type == AffinityType.Resist ? "resistente" : string.Empty;
-        var attackType = "";
-        switch (abilityType)
+        var attackType = abilityType switch
         {
-            case  AbilityType.Phys:
-                attackType = "ataca";
-                break;
-            case AbilityType.Gun:
-                attackType = "dispara";
-                break;
-            case AbilityType.Fire:
-                attackType = "lanza fuego";
-                break;
-            case AbilityType.Ice:
-                attackType = "lanza hielo";
-                break;
-            case AbilityType.Elec:
-                attackType = "lanza electricidad";
-                break;
-            case AbilityType.Force:
-                attackType = "lanza viento";
-                break;
-            case AbilityType.Light:
-                attackType = "ataca con luz";
-                break;
-            case AbilityType.Dark:
-                attackType = "ataca con oscuridad";
-                break;
-            case AbilityType.Heal:
-                
-                attackType = reviveUnit ? "revive" : "cura";
-                break;
-        }
+            AbilityType.Phys => "ataca",
+            AbilityType.Gun => "dispara",
+            AbilityType.Fire => "lanza fuego",
+            AbilityType.Ice => "lanza hielo",
+            AbilityType.Elec => "lanza electricidad",
+            AbilityType.Force => "lanza viento",
+            AbilityType.Light => "ataca con luz",
+            AbilityType.Dark => "ataca con oscuridad",
+            AbilityType.Heal => reviveUnit ? "revive" : "cura",
+            _ => ""
+        };
 
         var healOrDamage = abilityType != AbilityType.Heal ? "daño" : "HP";
         
@@ -198,20 +141,16 @@ public class View
                 case AffinityType.Drain:
                     WriteLine($"{attacked.Name} absorbe {Math.Abs(attackDamage)} daño");
                     break;
+                case AffinityType.Neutral:
                 default:
                     WriteLine($"{attacked.Name} recibe {attackDamage} de {healOrDamage}");
                     break;
             }
         }
-        
-        if (type == AffinityType.Repel)
-        {
-            WriteLine($"{attacker.Name} termina con HP:{attacker.Attributes.CurrentHp}/{attacker.Attributes.MaxHp}");
-        }
-        else
-        {
-            WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
-        }
+
+        WriteLine(type == AffinityType.Repel
+            ? $"{attacker.Name} termina con HP:{attacker.Attributes.CurrentHp}/{attacker.Attributes.MaxHp}"
+            : $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
         WriteLine(SEPARATOR);
     }
     
@@ -228,40 +167,23 @@ public class View
         _view.WriteLine(SEPARATOR);
     }
     
-    public void ShowInvocableMonsters(Team team, bool showAll = false)
+    public void ShowInvocableMonsters(Team team, bool showDefeatedUnitsToo = false)
     {
         WriteLine("Seleccione un monstruo para invocar");
-        
-        int counter = 1;
 
-        
-        foreach (var unit in team.GetMonstersInBackup(showAll))
+        foreach (var invocableUnit in formatter.FormatInvocableUnits(team, showDefeatedUnitsToo))
         {
-            WriteLine($"{counter}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp}");
-            counter++;
+            WriteLine(invocableUnit);
         }
-        WriteLine($"{counter}-Cancelar");
     }
 
     public void ShowReplaceableUnits(Team team)
     {
         WriteLine("Seleccione una posición para invocar");
-        int counter = 1;
-        foreach (var unit in team.GetReplaceableTeam())
+        foreach (var replaceableUnit in formatter.FormatReplaceableUnits(team))
         {
-            if (unit != null && unit.Attributes.CurrentHp > 0)
-            {
-                WriteLine(
-                    $"{counter}-{unit.Name} HP:{unit.Attributes.CurrentHp}/{unit.Attributes.MaxHp} MP:{unit.Attributes.CurrentMp}/{unit.Attributes.MaxMp} (Puesto {team.KnowIndexFromUnitInStartingTeam(unit) + 1})");
-            }
-            else
-            {
-                WriteLine(
-                    $"{counter}-Vacío (Puesto {counter + 1})");
-            }
-            counter++;
+            WriteLine(replaceableUnit);
         }
-        WriteLine($"{counter}-Cancelar");
     }
 
     public void InvokeAnUnit(Unit unit, bool revived = false, Unit inTurn = null)
