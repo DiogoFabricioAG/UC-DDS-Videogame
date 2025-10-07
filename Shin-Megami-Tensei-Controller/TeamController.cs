@@ -55,7 +55,7 @@ public class TeamController(View view)
     }
     private void InsertMonsterIntoTeam(Monster monster, Team team)
     {
-        if (team.isMonsterInsertInvalid(monster))
+        if (team.IsMonsterInsertInvalid(monster))
         {
             _hasError = true;
             return;
@@ -73,7 +73,7 @@ public class TeamController(View view)
     private static Monster FromInputGetMonster(string line)
     {
         var name = line.Trim();
-        var monster = DataLoader.GetMonstruoByName(name, MonsterJsonPath,AbilitiesJsonPath);
+        var monster = DataLoader.GetMonsterByName(name, MonsterJsonPath,AbilitiesJsonPath);
         return monster;
     }
     
@@ -88,7 +88,7 @@ public class TeamController(View view)
 
         if (!ProcessAndAssignAbilities(abilityLines, team)) return;
 
-        team.AddTurn(TurnType.Full);
+        team.AddTurns(TurnType.Full);
     }
 
     private (string SamuraiName, IEnumerable<string> AbilityLines) ExtractAndValidateSamuraiData(string line, Team team)
@@ -134,7 +134,7 @@ public class TeamController(View view)
             
             var ability = DataLoader.GetAbilityByName(trimmedAbilityName, AbilitiesJsonPath);
             
-            var insertState = team.Samurai.validateAbilityInsert(ability);
+            var insertState = team.Samurai.ValidateAbilityInsert(ability);
             
             if (insertState == AbilityInsertState.Unviable)
             {

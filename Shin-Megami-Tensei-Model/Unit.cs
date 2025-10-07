@@ -18,20 +18,18 @@ public abstract class Unit
     
     public Ability[] Abilities  { get ; set ; } 
 
-    public string GetStatus()
-    {
-        return $"{Name} HP:{Attributes.CurrentHp}/{Attributes.MaxHp} MP:{Attributes.CurrentMp}/{Attributes.MaxMp}";
-    }
+    public string GetStatus() => $"{Name} HP:{Attributes.CurrentHp}/{Attributes.MaxHp} MP:{Attributes.CurrentMp}/{Attributes.MaxMp}";
+    
     
     public virtual List<ActionType> GetAvailableActions()
     {
-        return new List<ActionType>
-        {
+        return
+        [
             ActionType.Attack,
             ActionType.Spell,
             ActionType.Invoke,
             ActionType.Pass
-        };
+        ];
     }
     
 
@@ -39,7 +37,7 @@ public abstract class Unit
         .Any(a => a.Name == ability.Name);
 
 
-    public AbilityInsertState validateAbilityInsert(Ability ability)
+    public AbilityInsertState ValidateAbilityInsert(Ability ability)
     {
         if (IsAbilityDuplicate(ability) || MAX_AMOUNT_ABILITIES <= AbilityIndex) 
             return  AbilityInsertState.Unviable;
@@ -80,6 +78,14 @@ public abstract class Unit
             Attributes.CurrentHp = Attributes.MaxHp;
         }
     }
-    
+
+    public void ValidUseAbility(Ability ability)
+    {
+        if (Attributes.CurrentMp < ability.Cost)
+        {
+            throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
+        }
+        Attributes.CurrentMp -= ability.Cost;
+    }
     public Ability[] GetTotalAbilities() => Abilities.Where(x => x!= null && x.Cost <= Attributes.CurrentMp).ToArray();
 }

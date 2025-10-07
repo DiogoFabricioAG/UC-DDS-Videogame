@@ -43,23 +43,16 @@ namespace Shin_Megami_Tensei_Model
             Converters = { new JsonStringEnumConverter() } 
         };
 
-        public static List<JsonCharacter> LoadJsonCharacters(string jsonPath)
+        public static List<T> LoadJsonList<T>(string jsonPath)
         {
-            if (!File.Exists(jsonPath)) return new List<JsonCharacter>();
+            if (!File.Exists(jsonPath)) return new List<T>();
             var json = File.ReadAllText(jsonPath);
-            return JsonSerializer.Deserialize<List<JsonCharacter>>(json, _opts) ?? new List<JsonCharacter>();
+            return JsonSerializer.Deserialize<List<T>>(json, _opts) ?? new List<T>();
         }
 
-        
-        public static List<JsonAbility> LoadJsonAbilities(string jsonPath)
-        {
-            if (!File.Exists(jsonPath)) return new List<JsonAbility>();
-            var json = File.ReadAllText(jsonPath);
-            return JsonSerializer.Deserialize<List<JsonAbility>>(json, _opts) ?? new List<JsonAbility>();
-        }
         public static Ability GetAbilityByName(string name, string abilitiesJsonPath)
         {
-            var allAbilities = LoadJsonAbilities(abilitiesJsonPath);
+            var allAbilities = LoadJsonList<JsonAbility>(abilitiesJsonPath);
             
             var foundAbility = allAbilities.FirstOrDefault(
                 a => string.Equals(a.name, name.Trim(), StringComparison.OrdinalIgnoreCase)
@@ -133,16 +126,16 @@ namespace Shin_Megami_Tensei_Model
         
         public static Samurai GetSamuraiByName(string name, string samuraiJsonPath)
         {
-            var list = LoadJsonCharacters(samuraiJsonPath);
+            var list = LoadJsonList<JsonCharacter>(samuraiJsonPath);
             var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
             var s = new Samurai { Name = j.Name, Attributes = MapStats(j.Stats), Affinity = MapAffinity(j.Affinity) };
             return s;
         }
 
-        public static Monster GetMonstruoByName(string name, string monsterJsonPath, string abilitiesJsonPath)
+        public static Monster GetMonsterByName(string name, string monsterJsonPath, string abilitiesJsonPath)
         {
-            var list = LoadJsonCharacters(monsterJsonPath);
+            var list = LoadJsonList<JsonCharacter>(monsterJsonPath);
             var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
             if (j == null) return null;
 

@@ -30,4 +30,10 @@ public class Ability
         Hits = a.hits;
         Effect = a.effect;
     }
+    
+    public static void ValidateMp(Unit user, Ability ability)
+    {
+        if (user.Attributes.CurrentMp < ability.Cost)
+            throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
+    }
 }

@@ -1,4 +1,5 @@
 ﻿using Shin_Megami_Tensei_Model;
+using Shin_Megami_Tensei_Model.dtos;
 using Shin_Megami_Tensei_Model.Enums;
 using Shin_Megami_Tensei_Model.Extensions;
 using Shin_Megami_Tensei_View.ConsoleLib;
@@ -214,10 +215,10 @@ public class View
         WriteLine(SEPARATOR);
     }
     
-    public void TurnUsedDisplayWithParameters(int blinkingTurnLoss, int fullTurnLoss, int blinkingTurnWon)
+    public void TurnUsedDisplayWithParameters(TurnContext ctx)
     {
-        WriteLine($"Se han consumido {fullTurnLoss} Full Turn(s) y {blinkingTurnLoss} Blinking Turn(s)");
-        WriteLine($"Se han obtenido {blinkingTurnWon} Blinking Turn(s)");
+        WriteLine($"Se han consumido {ctx.fullTurnLoss} Full Turn(s) y {ctx.blinkingTurnLoss} Blinking Turn(s)");
+        WriteLine($"Se han obtenido {ctx.blinkingTurnWon} Blinking Turn(s)");
         WriteLine(SEPARATOR);
     }
     

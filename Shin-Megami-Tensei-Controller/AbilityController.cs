@@ -1,82 +1,43 @@
 ﻿using Shin_Megami_Tensei_Model;
+using Shin_Megami_Tensei_Model.dtos;
 using Shin_Megami_Tensei_Model.Enums;
 
 namespace Shin_Megami_Tensei;
 
 public abstract class AbilityController
 {
-    public static (int, AffinityType, int numberHits) UseDamageAbility(Unit user,Unit selectedUnit ,Ability ability, Team team)
+    public static (int damageDone, AffinityType affinityType, int numberHits) UseDamageAbility(DamageContext ctx)
     {
-        if (user.Attributes.CurrentMp < ability.Cost)
-        {
-            throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
-        }
+        Ability.ValidateMp(ctx.User, ctx.Ability);
+        var numberHits = MultiHitController.GetHits(ctx.Ability.Hits, ctx.Team.NumAbilitiesCast);
+        var affinityType = ctx.Target.Affinity.KnowAffinity(ctx.Ability.Type);
+        var modifier = Affinity.AffinityModifier(affinityType);
 
-        var numberHits = 1;
-        if (ability.Hits.Contains('-'))
+        var userDamage = ctx.Ability.Type switch
         {
-            var lowerRange = Convert.ToInt32(ability.Hits.Split('-')[0]);
-            var upperRange = Convert.ToInt32(ability.Hits.Split('-')[1]);
-            numberHits = MultiHitController.HandleMultiHit(team.NumAbilitiesCast, lowerRange, upperRange);
-        }
+            AbilityType.Phys => ctx.User.Attributes.StrikeDmg,
+            AbilityType.Gun => ctx.User.Attributes.SkillDmg,
+            _ => ctx.User.Attributes.MagicDmg
+        };
+        var damageDone = (int)(Math.Sqrt(ctx.Ability.Power * userDamage) * modifier);
 
-        double affinityMofifier = 1;
-        var affinityType = selectedUnit.Affinity.KnowAffinity(ability.Type);
-        switch (affinityType)
-        {
-            case AffinityType.Weak:
-                affinityMofifier = 1.5;
-                break;
-            case AffinityType.Resist:
-                affinityMofifier = 0.5;
-                break;
-            case AffinityType.Null:
-                affinityMofifier = 0;
-                break;
-            case AffinityType.Repel:
-                break;
-            case AffinityType.Drain:
-                affinityMofifier = -1;
-                break;
-            case AffinityType.Neutral:
-                break;
-            default:
-                throw new ArgumentOutOfRangeException();
-        }
-        var userDamageByType = ability.Type == AbilityType.Phys ? user.Attributes.StrikeDmg : 
-            ability.Type == AbilityType.Gun ? user.Attributes.SkillDmg : 
-            user.Attributes.MagicDmg;
-        var damageDone = (int)(Math.Sqrt(ability.Power * userDamageByType) * affinityMofifier);
         for (var i = 0; i < numberHits; i++)
         {
             if (affinityType == AffinityType.Repel)
-            {
-                user.HandleDamage(damageDone);
-            }
+                ctx.User.HandleDamage(damageDone);
             else
-            {
-                selectedUnit.HandleDamage(damageDone);
-            }
+                ctx.Target.HandleDamage(damageDone);
         }
-        
-        user.Attributes.CurrentMp -= ability.Cost;
-        return (damageDone,affinityType, numberHits);
+        ctx.User.Attributes.CurrentMp -= ctx.Ability.Cost;
+        return (damageDone, affinityType, numberHits);
     }
 
     
     public static int UseHealAbility(Unit user, Unit selectedUnit, Ability ability)
     {
-        if (user.Attributes.CurrentMp < ability.Cost)
-        {
-            throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
-        }
-
+        user.ValidUseAbility(ability);
         var healRealized = Convert.ToInt32(ability.Power * selectedUnit.Attributes.MaxHp / 100);
-  
-        
         selectedUnit.HandleDamage(healRealized*-1);
-        
-        user.Attributes.CurrentMp -= ability.Cost;
         return healRealized;
     }
 }

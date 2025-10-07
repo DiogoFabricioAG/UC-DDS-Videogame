@@ -2,39 +2,28 @@
 
 public class Game
 {
-    private Team _currentTeam;
-    public Team CurrentTeam
-    {
-        get => _currentTeam;
-        private set => _currentTeam = value;
-    }
-    private Team _otherTeam;
+    private const int nTeam1 = 1;
+    private const int nTeam2 = 2;
+    public Team CurrentTeam { get; private set; } 
+    public Team OtherTeam { get; private set; }
 
-    public Team OtherTeam
-    {
-        get => _otherTeam;
-        private set => _otherTeam = value;
-    }
-    
     public void ChangeCurrentTeam()
     {
-        if (HandleGameFinished() == null)
-        {
-            (CurrentTeam, OtherTeam) = (OtherTeam, CurrentTeam);
-            CurrentTeam.State = TeamState.WithTurn;
-            OtherTeam.State = TeamState.WithoutTurn;
-        }
+        if (IsGameFinished()) return;
+        (CurrentTeam, OtherTeam) = (OtherTeam, CurrentTeam);
+        CurrentTeam.State = TeamState.WithTurn;
+        OtherTeam.State = TeamState.WithoutTurn;
     }
     
     public Game()
     {
         CurrentTeam = new Team
         {
-            NumberTeam = 1
+            NumberTeam = nTeam1
         };
         OtherTeam = new Team
         {
-            NumberTeam = 2
+            NumberTeam = nTeam2
         };
         CurrentTeam.State = TeamState.WithTurn;
         OtherTeam.State = TeamState.WithoutTurn;
@@ -47,15 +36,15 @@ public class Game
 
     public (Team, Team) GetPlayer1AndPlayer2()
     {
-        var team1 = CurrentTeam.NumberTeam == 1 ? CurrentTeam : OtherTeam;
-        var team2 = CurrentTeam.NumberTeam == 2 ? CurrentTeam : OtherTeam;
+        var team1 = CurrentTeam.NumberTeam == nTeam1 ? CurrentTeam : OtherTeam;
+        var team2 = CurrentTeam.NumberTeam == nTeam2 ? CurrentTeam : OtherTeam;
         return (team1, team2);
     }
 
-    public (Unit, Unit) GetAttackerAndTarget(int indexTarget, Team team, bool ShowDefeated = false)
+    public (Unit, Unit) GetAttackerAndTarget(int indexTarget, Team targetTeam, bool includeDefeated = false)
     {
         var attacker = CurrentTeam.GetUnitInTurn();
-        var attacked = ShowDefeated ? team.GetDefeatedUnits()[indexTarget - 1 ] : team.GetSelectableUnits()[indexTarget-1];
+        var attacked = targetTeam.FindTargetUnit(indexTarget, includeDefeated);
         return (attacker, attacked);
     }
 
@@ -66,25 +55,32 @@ public class Game
         CurrentTeam.ChangeOrder();
         if (CurrentTeam.Turns.Exists(t => t != null && t.Type == TurnType.Blinking))
         {
-            CurrentTeam.DestroyTurn(TurnType.Blinking);
+            CurrentTeam.RemoveTurns(TurnType.Blinking);
             CurrentTeam.TurnRemains();
             return TurnType.Blinking;
         }
-        CurrentTeam.DestroyTurn(TurnType.Full);
-        CurrentTeam.AddTurn(TurnType.Blinking);
+        CurrentTeam.RemoveTurns(TurnType.Full);
+        CurrentTeam.AddTurns(TurnType.Blinking);
         CurrentTeam.TurnRemains();
 
         return TurnType.Full;
         
     }
     
-    public Team? HandleGameFinished()
+    public bool IsGameFinished()
+    {
+        return GetWinningTeam() != null;
+    }
+    
+    public Team? GetWinningTeam()
     {
         if (CurrentTeam.State == TeamState.Surrendered)
         {
             return OtherTeam;
         }
 
-        return OtherTeam.State == TeamState.Defeated ? CurrentTeam : CurrentTeam.State == TeamState.Defeated ? OtherTeam : null;
+        return OtherTeam.State == TeamState.Defeated ? CurrentTeam : 
+            CurrentTeam.State == TeamState.Defeated ? OtherTeam : 
+            null;
     }
 }

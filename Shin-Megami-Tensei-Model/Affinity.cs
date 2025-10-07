@@ -33,4 +33,18 @@ public class Affinity
         
         return Drain.Contains(abilityType) ? AffinityType.Drain : AffinityType.Neutral;
     }
+    
+    public static double AffinityModifier(AffinityType affinityType)
+    {
+        return affinityType switch
+        {
+            AffinityType.Weak => 1.5,
+            AffinityType.Resist => 0.5,
+            AffinityType.Null => 0.0,
+            AffinityType.Drain => -1.0,
+            _ => 1.0,
+        };
+    }
+    
+    
 }

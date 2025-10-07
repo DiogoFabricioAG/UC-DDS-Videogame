@@ -12,7 +12,7 @@ public class Team
     public string Identifier { get; set; } = "0";
     public Samurai Samurai { get; set; } = new Samurai();
     public Unit[] Monsters { get; set; } = new Unit[MAX_MONSTERS_COUNT];
-    public List<Turn> Turns { get; set; } = [];
+    public List<Turn> Turns { get; private set; } = [];
 
     private List<Unit> BackupTeam { get; set; } = [];
     public List<Unit> DestroyedUnits { get; set; } = [];
@@ -105,9 +105,12 @@ public class Team
             .ToList();
     }
     
-    public void AddTurn(TurnType turnType)
+    public void AddTurns(TurnType turnType, int nTurns = 1)
     {
-        Turns.Add(new Turn(turnType));
+        for (var i = 0; i < nTurns; i++)
+        {
+            Turns.Add(new Turn(turnType));
+        }
     }
     public void InitializeTeam()
     {
@@ -116,7 +119,7 @@ public class Team
         GenerateTurnOrder();
     }
     
-    public void SelectStarterTeam()
+    private void SelectStarterTeam()
     {
         if (Samurai == null)
         {
@@ -131,7 +134,7 @@ public class Team
         }
     }
 
-    public void SelectBackupTeam()
+    private void SelectBackupTeam()
     {
         foreach (var monster in Monsters.Where(x => x != null))
         {
@@ -150,8 +153,8 @@ public class Team
    
     public string[] FromInputGetAbilities(string lineText)
     {
-        int startIndex = lineText.IndexOf('(');
-        int endIndex = lineText.LastIndexOf(')');
+        var startIndex = lineText.IndexOf('(');
+        var endIndex = lineText.LastIndexOf(')');
 
         if (startIndex == -1 || endIndex == -1 || endIndex <= startIndex)
         {
@@ -173,13 +176,7 @@ public class Team
     }
     private int GetNumberAliveMonsters()
     {
-        int counter = 0;
-        foreach (var monstruo in Monsters)
-        {
-            if (monstruo != null && monstruo.Attributes.CurrentHp > 0) counter++;
-        }
-
-        return counter;
+        return Enumerable.OfType<Unit>(Monsters).Count(monster => monster.Attributes.CurrentHp > 0);
     }
     
     public void ReloadTurns()
@@ -203,10 +200,14 @@ public class Team
     
     public string GetName() =>  Samurai.Name + $" (J{Identifier})";
     
-    public void DestroyTurn(TurnType type)
+    public void RemoveTurns(TurnType type,int nTurns = 1 )
     {
-        var index = Turns.FindIndex(turn => turn != null && turn.Type == type);
-        Turns.RemoveAt(index);
+        for (var i = 0; i < nTurns; i++)
+        {
+            var index = Turns.FindIndex(turn => turn != null && turn.Type == type);
+            Turns.RemoveAt(index);
+        }
+        
     }
     public int GetCancelOptionInvoke(bool showAll = false) => GetMonstersInBackup(showAll).Count + 1;
 
@@ -285,10 +286,10 @@ public class Team
         return (swappedInUnit, false);
     }
 
-    private Unit GetUnitFromBackup(int indexBackup, bool deadUnitsToo)
-    {
-        return GetMonstersInBackup(deadUnitsToo)[indexBackup - 1]; 
-    }
+    private Unit GetUnitFromBackup(int indexBackup, bool deadUnitsToo) => GetMonstersInBackup(deadUnitsToo)[indexBackup - 1]; 
+    public Unit FindTargetUnit(int targetIndex, bool includeDefeated ) => includeDefeated ? 
+        GetDefeatedUnits()[targetIndex - 1 ] : 
+        GetSelectableUnits()[targetIndex-1];
     
     private bool IsMonsterDuplicate(Monster monster) => Monsters.Contains(monster);
     
@@ -297,6 +298,6 @@ public class Team
     
     public int KnowIndexFromUnitInStartingTeam(Unit unit) => Array.IndexOf(StartingTeam, unit);
 
-    public bool isMonsterInsertInvalid(Monster monster) => IsMonsterDuplicate(monster) || MonsterId == MAX_MONSTERS_COUNT || monster == null;
+    public bool IsMonsterInsertInvalid(Monster monster) => IsMonsterDuplicate(monster) || MonsterId == MAX_MONSTERS_COUNT || monster == null;
 
 }

@@ -2,16 +2,9 @@
 
 namespace Shin_Megami_Tensei_Model;
 
-/*
- Samurai
- -------
- Describe los atributos de la clase Samurai
- Implementando la lógica básica de un personaje 
- */
+
 public class Samurai : Unit
 {
-    
-    
     public override List<ActionType> GetAvailableActions()
     {
         var actions = base.GetAvailableActions();
