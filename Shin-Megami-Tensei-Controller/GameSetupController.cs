@@ -85,17 +85,10 @@ public class GameSetupController(View view, string teamsFolder, TeamController t
 
         team.Identifier = identifier;
         team.State = initialState;
-        TeamController.GenerateTeamForInitGame(team); // Should be on TeamController instance
+        TeamController.GenerateTeamForInitGame(team); 
         
         team.Samurai.ShowAbility(); 
 
         return SEPARATOR; 
-    }
-    
-    // Reload logic belongs to setup
-    public static void ReloadAllTurns(Game game)
-    {
-        game.CurrentTeam.ReloadTurns();
-        game.OtherTeam.ReloadTurns();
     }
 }

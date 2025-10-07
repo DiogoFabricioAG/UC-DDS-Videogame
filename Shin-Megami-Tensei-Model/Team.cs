@@ -118,6 +118,26 @@ public class Team
         SelectBackupTeam();
         GenerateTurnOrder();
     }
+    public void ReviveUnit(Unit unitToRevive, Unit reviverUnit)
+    {
+        
+        if (DestroyedUnits.Contains(unitToRevive))
+        {
+            DestroyedUnits.Remove(unitToRevive);
+        }
+
+        if (unitToRevive is not Shin_Megami_Tensei_Model.Samurai) return;
+        if (OrderForActions.IndexOf(unitToRevive) == OrderForActions.Count)
+        {
+            OrderForActions.Add(unitToRevive);
+        }
+        else
+        {
+                
+            OrderForActions.Insert(OrderForActions.IndexOf(reviverUnit) , unitToRevive);
+            TeamTurnOrder++;
+        }
+    }
     
     private void SelectStarterTeam()
     {
@@ -128,7 +148,7 @@ public class Team
         }
         StartingTeam[0] = Samurai;
         
-        for (int i = 0; i < Math.Min(GetNumberAliveMonsters(), TOTAL_MONSTER_IN_TABLE); i++)
+        for (var i = 0; i < Math.Min(GetNumberAliveMonsters(), TOTAL_MONSTER_IN_TABLE); i++)
         {
             StartingTeam[i + 1] = Monsters[i];
         }
