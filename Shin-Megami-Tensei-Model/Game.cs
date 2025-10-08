@@ -48,20 +48,22 @@ public class Game
         return (attacker, attacked);
     }
 
+    private bool ExistBlinkingTurn() => CurrentTeam.Turns.Exists(t => t != null && t.Type == TurnType.Blinking);
    
 
     public TurnType PassTurn()
     {
         CurrentTeam.ChangeOrder();
-        if (CurrentTeam.Turns.Exists(t => t != null && t.Type == TurnType.Blinking))
+        CurrentTeam.CheckTurnRemains();
+        if (ExistBlinkingTurn())
         {
             CurrentTeam.RemoveTurns(TurnType.Blinking);
-            CurrentTeam.TurnRemains();
+            CurrentTeam.CheckTurnRemains();
             return TurnType.Blinking;
         }
         CurrentTeam.RemoveTurns(TurnType.Full);
         CurrentTeam.AddTurns(TurnType.Blinking);
-        CurrentTeam.TurnRemains();
+        CurrentTeam.CheckTurnRemains();
 
         return TurnType.Full;
         
@@ -72,15 +74,17 @@ public class Game
         return GetWinningTeam() != null;
     }
     
+    private static bool IsTeamSurrendered(Team team) => team.State == TeamState.Surrendered; 
+    private static bool IsTeamDefeated(Team team) => team.State == TeamState.Defeated;
     public Team? GetWinningTeam()
     {
-        if (CurrentTeam.State == TeamState.Surrendered)
+        if (IsTeamSurrendered(CurrentTeam))
         {
             return OtherTeam;
         }
 
-        return OtherTeam.State == TeamState.Defeated ? CurrentTeam : 
-            CurrentTeam.State == TeamState.Defeated ? OtherTeam : 
+        return IsTeamDefeated(OtherTeam) ? CurrentTeam : 
+            IsTeamDefeated(CurrentTeam) ? OtherTeam : 
             null;
     }
 }

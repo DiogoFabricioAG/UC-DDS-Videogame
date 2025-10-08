@@ -1,4 +1,5 @@
 ﻿using Shin_Megami_Tensei_Model;
+using Shin_Megami_Tensei_Model.dtos;
 using Shin_Megami_Tensei_View;
 
 namespace Shin_Megami_Tensei;
@@ -48,14 +49,16 @@ public class GameSetupController(View view, string teamsFolder, TeamController t
         var lineups = ExtractTeamLineups(lines);
         var team1Lines = lineups.team1Lines;
         var team2Lines = lineups.team2Lines;
-
-        var result1 = ConfigureTeam(team1Lines, team1, "1", TeamState.WithTurn);
+        var config1Ctx = new ConfigurationContext(team1Lines, team1, "1", TeamState.WithTurn);
+        var result1 = ConfigureTeam(config1Ctx);
         if (result1 != SEPARATOR)
         {
             return result1; 
         }
 
-        var result2 = ConfigureTeam(team2Lines, team2, "2", TeamState.WithoutTurn);
+        var config2Ctx = new ConfigurationContext(team2Lines, team2, "2", TeamState.WithoutTurn);
+        var result2 = ConfigureTeam(config2Ctx);
+
         return result2 != SEPARATOR ? result2 : SEPARATOR;
     }
     private (string[] team1Lines, string[] team2Lines) ExtractTeamLineups(string[] lines)
@@ -74,20 +77,20 @@ public class GameSetupController(View view, string teamsFolder, TeamController t
         return (team1Lines, team2Lines);
     }
     
-    private string ConfigureTeam(string[] alineations, Team team, string identifier, TeamState initialState)
+    private string ConfigureTeam(ConfigurationContext ctx)
     {
-        var hasError = teamController.EnterUnits(alineations, team);
-        
+        var hasError = teamController.EnterUnits(ctx.alineations, ctx.team);
+        Console.WriteLine("ERRORES?: "  + hasError);
         if (hasError)
         {
             return ERROR_MESSAGE;
         }
-
-        team.Identifier = identifier;
-        team.State = initialState;
-        TeamController.GenerateTeamForInitGame(team); 
+        ctx.team.Identifier = ctx.identifier;
+        ctx.team.State = ctx.initialState;
         
-        team.Samurai.ShowAbility(); 
+        TeamController.GenerateTeamForInitGame(ctx.team); 
+
+        ctx.team.Samurai.ShowAbility(); 
 
         return SEPARATOR; 
     }

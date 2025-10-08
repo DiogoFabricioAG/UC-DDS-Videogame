@@ -7,7 +7,7 @@ public abstract class Unit
 {
     private const int MAX_AMOUNT_ABILITIES = 8;
 
-    public int AbilityIndex
+    private int AbilityIndex
     {
         get;
         set;
@@ -23,12 +23,15 @@ public abstract class Unit
     
     public virtual List<ActionType> GetAvailableActions()
     {
+        // El set más amplio para que solo las subclases lo eliminen.
         return
         [
-            ActionType.Attack,
-            ActionType.Spell,
-            ActionType.Invoke,
-            ActionType.Pass
+            ActionType.Attack, 
+            ActionType.Shoot,    
+            ActionType.Spell,  
+            ActionType.Invoke, 
+            ActionType.Pass,   
+            ActionType.Surrender
         ];
     }
     

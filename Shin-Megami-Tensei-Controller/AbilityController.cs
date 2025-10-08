@@ -9,8 +9,9 @@ public abstract class AbilityController
     public static (int damageDone, AffinityType affinityType, int numberHits) UseDamageAbility(DamageContext ctx)
     {
         var (damageDone, affinityType, numberHits) = CalculateAbilityDamage(ctx);
-        
-        ApplyDamageAbilityEffect(ctx.User, ctx.Target, ctx.Ability, damageDone, affinityType, numberHits);
+        var effectCtx =
+            new AbilityEffectContext(ctx.User, ctx.Target, ctx.Ability, damageDone, affinityType, numberHits);
+        ApplyDamageAbilityEffect(effectCtx);
 
         return (damageDone, affinityType, numberHits);
     }
@@ -35,18 +36,17 @@ public abstract class AbilityController
         return (damageDone, affinityType, numberHits);
     }
     
-    private static void ApplyDamageAbilityEffect(Unit user, Unit target, Ability ability, 
-        int damageDone, AffinityType affinityType, int numberHits)
+    private static void ApplyDamageAbilityEffect(AbilityEffectContext ctx)
     {
-        for (var i = 0; i < numberHits; i++)
+        for (var i = 0; i < ctx.numberHits; i++)
         {
-            if (affinityType == AffinityType.Repel)
-                user.HandleDamage(damageDone);
+            if (ctx.affinityType == AffinityType.Repel)
+                ctx.user.HandleDamage(ctx.damageDone);
             else
-                target.HandleDamage(damageDone);
+                ctx.target.HandleDamage(ctx.damageDone);
         }
         
-        user.Attributes.CurrentMp -= ability.Cost;
+        ctx.user.Attributes.CurrentMp -= ctx.ability.Cost;
     }
 
     

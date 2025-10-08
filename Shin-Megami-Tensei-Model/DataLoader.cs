@@ -43,7 +43,7 @@ namespace Shin_Megami_Tensei_Model
             Converters = { new JsonStringEnumConverter() } 
         };
 
-        public static List<T> LoadJsonList<T>(string jsonPath)
+        private static List<T> LoadJsonList<T>(string jsonPath)
         {
             if (!File.Exists(jsonPath)) return new List<T>();
             var json = File.ReadAllText(jsonPath);

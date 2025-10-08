@@ -165,14 +165,14 @@ public class CombatController(View view)
         var (damageDone, affinityType) = AttackController.ExecuteAttack(attacker, attacked, elementType);
 
         view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType, abilityType, 1);
-
-        var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(abilityType, attacked, game.CurrentTeam);
+        var ctx = new TurnWastedContext(abilityType, attacked, game.CurrentTeam);
+        var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(ctx);
         var turnContext = new TurnContext(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
         
         TurnController.DestroyAndAddTurns(game.CurrentTeam, turnContext);
         
         game.CurrentTeam.ChangeOrder();
-        game.CurrentTeam.TurnRemains();
+        game.CurrentTeam.CheckTurnRemains();
         
         view.TurnUsedDisplayWithParameters(turnContext);
     }
@@ -249,15 +249,16 @@ public class CombatController(View view)
     
     private void ApplyTurnCostAndCleanup(Game game, Unit attacked, Ability ability)
     {
-        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWasted(ability.Type, attacked, game.CurrentTeam);
+        var turnWastedCtx = new TurnWastedContext(ability.Type, attacked, game.CurrentTeam);
+        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWasted(turnWastedCtx);
         var turnContext = new TurnContext(blinkingLoss, fullLoss, blinkingWon);
         view.TurnUsedDisplayWithParameters(turnContext);
 
-        game.CurrentTeam.NumAbilitiesCast++;
-        game.CurrentTeam.ChangeOrder(); 
+        game.CurrentTeam.AddAbilityNumberCast();
     
         TurnController.DestroyAndAddTurns(game.CurrentTeam, turnContext);
-        game.CurrentTeam.TurnRemains();
+        game.CurrentTeam.ChangeOrder(); 
+        game.CurrentTeam.CheckTurnRemains();
 
         DestroyUnitsInTurn(game);
         HandleFinishGame(game);
@@ -304,17 +305,18 @@ public class CombatController(View view)
         if (ability != null)
         {
             actualCurrentUnit.Attributes.CurrentMp -= ability.Cost;
-            game.CurrentTeam.NumAbilitiesCast++;
+            game.CurrentTeam.AddAbilityNumberCast();
 
         }
-        var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(AbilityType.Special, unitReplaced, game.CurrentTeam, ability != null);
+        var turnWastedCtx = new TurnWastedContext(AbilityType.Special, unitReplaced, game.CurrentTeam, ability != null);
+        var (blinkingTurnLoss, fullTurnLoss, blinkingTurnWon) = TurnController.GetTurnWasted(turnWastedCtx);
         var turnContext = new TurnContext(blinkingTurnLoss, fullTurnLoss, blinkingTurnWon);
 
         view.TurnUsedDisplayWithParameters(turnContext);
-        game.CurrentTeam.ChangeOrder();
         
         TurnController.DestroyAndAddTurns(game.CurrentTeam, turnContext);
-        game.CurrentTeam.TurnRemains();
+        game.CurrentTeam.ChangeOrder();
+        game.CurrentTeam.CheckTurnRemains();
     }
 
     private static void DestroyUnitsInTurn(Game game)

@@ -14,11 +14,10 @@ public class TeamController(View view)
     private static readonly string MonsterJsonPath = Path.Combine(AppContext.BaseDirectory, "monsters.json");
     private static readonly string SamuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
 
-
     public bool EnterUnits(string[] inputLines, Team team)
     {
-        _hasError = false; 
-
+        _hasError = false;
+        var hasSamurai = false;
         foreach (var line in inputLines)
         {
             if (string.IsNullOrWhiteSpace(line))
@@ -29,16 +28,18 @@ public class TeamController(View view)
             if (line.Contains("Samurai"))
             {
                 InsertSamuraiIntoTeam(line, team);
+                hasSamurai =  true;
             }
             else
             {
                 InsertMonsterFromInput(line, team);
             }
-        
+            
             if (_hasError) break; 
         }
 
-        return _hasError; 
+
+        return _hasError || !hasSamurai; 
     }
     
     private void InsertMonsterFromInput(string line, Team team)
@@ -55,6 +56,7 @@ public class TeamController(View view)
     }
     private void InsertMonsterIntoTeam(Monster monster, Team team)
     {
+        
         if (team.IsMonsterInsertInvalid(monster))
         {
             _hasError = true;
@@ -168,7 +170,6 @@ public class TeamController(View view)
             team.EliminateUnitFromOrderTurn(unitDestroy);   
         }
     }
-
     public static void GenerateTeamForInitGame(Team team)
     {
         team.InitializeTeam();

@@ -26,30 +26,30 @@ public class Team
     public List<Unit> OrderForActions { get; set; } = [];
 
     private bool _hasError = false;
-
-
+    
     public int  MonsterId { get; set; } = 0;
 
 
     public int NumberTeam { get; set; }
-    
+
+    private bool IsTurnOutOfRange() => TeamTurnOrder == GetNumberUnitsInStartingTeam();
+    private bool IsTeamRunOutOfTurns() => Turns.Count == 0;
     public void ChangeOrder()
     {
         TeamTurnOrder++;
-        if (TeamTurnOrder == GetNumberUnitsInStartingTeam())
-        {
-            TeamTurnOrder = 0;
-            State = TeamState.WithoutTurn;
-        }
-        State = TeamState.WithTurn;
+        CheckRangeOfTurns();
     }
 
-    public void TurnRemains()
+    private void CheckRangeOfTurns()
     {
-        if (!Turns.Any(t => t != null))
+        if (IsTurnOutOfRange())
         {
-            State = TeamState.WithoutTurn;
+            TeamTurnOrder = 0;
         }
+    }
+    public void CheckTurnRemains()
+    {
+        State = IsTeamRunOutOfTurns() ? TeamState.WithoutTurn : TeamState.WithTurn;
     }
 
     public int GetCancelOptionAbilities() => GetUnitInTurn().GetTotalAbilities().Length + 1;
@@ -63,6 +63,11 @@ public class Team
             State = TeamState.Defeated;
         }
         
+    }
+
+    public void AddAbilityNumberCast()
+    {
+        NumAbilitiesCast++;
     }
     
     public static string? FromInputGetSamuraiName(string line) => line.Split(' ')[1];
@@ -139,6 +144,7 @@ public class Team
         }
     }
     
+    
     private void SelectStarterTeam()
     {
         if (Samurai == null)
@@ -202,7 +208,7 @@ public class Team
     public void ReloadTurns()
     {
         Turns = [];
-        for (int i = 0; i < GetNumberUnitsInStartingTeam(); i++)
+        for (var i = 0; i < GetNumberUnitsInStartingTeam(); i++)
         {
             Turns.Add(new Turn(TurnType.Full));
         }
@@ -311,7 +317,7 @@ public class Team
         GetDefeatedUnits()[targetIndex - 1 ] : 
         GetSelectableUnits()[targetIndex-1];
     
-    private bool IsMonsterDuplicate(Monster monster) => Monsters.Contains(monster);
+    public bool IsMonsterDuplicate(Monster monster) => Monsters.Where(monster => monster != null).Select(monster => monster.Name).ToList().Contains(monster.Name);
     
     public bool SamuraiExist() => Samurai.Name != null;
     

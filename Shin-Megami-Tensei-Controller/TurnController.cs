@@ -9,18 +9,18 @@ public abstract class TurnController
     private const int TurnWastedNullAbility = 2;
 
     public static (int blinkingLoss, int fullLoss, int blinkingWon) GetTurnWasted(
-        AbilityType abilityType, Unit unitAffected, Team currentTeam, bool haveAffinity = true)
+        TurnWastedContext ctx)
     {
-        if (!haveAffinity) return GetLossForNoAffinity(currentTeam);
-        var affinity = unitAffected.Affinity.KnowAffinity(abilityType);
+        if (!ctx.haveAffinity) return GetLossForNoAffinity(ctx.currentTeam);
+        var affinity = ctx.unitAffected.Affinity.KnowAffinity(ctx.abilityType);
 
         return affinity switch
         {
-            AffinityType.Resist or AffinityType.Neutral => GetLossForStandardAffinity(currentTeam),
-            AffinityType.Weak => GetLossForWeakAffinity(currentTeam),
-            AffinityType.Null => GetLossForNullAffinity(currentTeam),
-            AffinityType.Repel or AffinityType.Drain => GetLossForReflectingAffinity(currentTeam),
-            _ => GetLossForWeakAffinity(currentTeam)
+            AffinityType.Resist or AffinityType.Neutral => GetLossForStandardAffinity(ctx.currentTeam),
+            AffinityType.Weak => GetLossForWeakAffinity(ctx.currentTeam),
+            AffinityType.Null => GetLossForNullAffinity(ctx.currentTeam),
+            AffinityType.Repel or AffinityType.Drain => GetLossForReflectingAffinity(ctx.currentTeam),
+            _ => GetLossForWeakAffinity(ctx.currentTeam)
         };
     }
     
@@ -47,13 +47,12 @@ public abstract class TurnController
 
     private static (int blinkingLoss, int fullLoss, int blinkingWon) GetLossForNullAffinity(Team team)
     {
-        var neededLoss = TurnWastedNullAbility;
         var currentBlinking = team.GetCurrentBlinkingTurns();
         var currentFull = team.GetCurrentFullTurns();
         
-        var blinkingLoss = Math.Min(currentBlinking, neededLoss);
+        var blinkingLoss = Math.Min(currentBlinking, TurnWastedNullAbility);
         
-        var remainingLoss = neededLoss - blinkingLoss;
+        var remainingLoss = TurnWastedNullAbility - blinkingLoss;
         
         var fullLoss = Math.Min(currentFull, remainingLoss);
 

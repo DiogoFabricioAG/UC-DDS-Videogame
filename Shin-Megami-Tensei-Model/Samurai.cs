@@ -7,9 +7,14 @@ public class Samurai : Unit
 {
     public override List<ActionType> GetAvailableActions()
     {
-        var actions = base.GetAvailableActions();
-        actions.Insert(1, ActionType.Shoot); 
-        actions.Add(ActionType.Surrender); 
-        return actions;
+        return
+        [
+            ActionType.Attack,
+            ActionType.Shoot,    
+            ActionType.Spell,  
+            ActionType.Invoke, 
+            ActionType.Pass, 
+            ActionType.Surrender 
+        ];
     }
 }
