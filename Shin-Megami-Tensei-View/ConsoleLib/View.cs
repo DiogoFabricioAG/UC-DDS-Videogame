@@ -160,7 +160,6 @@ public class View
         int pointer = 0;
         foreach (var attacked in sacrific ?  team.AllUnitsExceptInTurn(attacker) : team.HelperSelectableUnitsForHealAbilities(attacker)  )
         {
-            var affinityText = type == AffinityType.Weak ? "débil contra" : type == AffinityType.Resist ? "resistente" : string.Empty;
             var attackType = abilityType switch
             {
                 AbilityType.Phys => "ataca",
@@ -183,7 +182,6 @@ public class View
             {
                 case AffinityType.Weak:
                 case AffinityType.Resist:
-                    WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
                     WriteLine($"{attacked.Name} recibe {quantityDone[pointer]} de daño");
                     break;
                 case AffinityType.Null:
@@ -209,7 +207,59 @@ public class View
         if (sacrific)
             WriteLine($"{attacker.Name} termina con HP:0/{attacker.Attributes.MaxHp}");
         WriteLine(SEPARATOR);
+    }
 
+    public void DisplayAbilityLightOrDarkAll(List<LightOrDarkState> states, Unit attacker, Team team, AbilityType abilityType)
+    {
+        int pointer = 0;
+    
+        foreach (var attacked in team.GetSelectableUnitsForLightAndDark())
+        {
+            if (states[pointer] != LightOrDarkState.Empty)
+            {
+                AffinityType affinity = attacked.Affinity.GetAffinity(abilityType);
+                Console.WriteLine("Affinity : " + affinity);
+                var affinityText = affinity == AffinityType.Weak ? "débil contra" : affinity == AffinityType.Resist ? "resistente" : string.Empty;
+                var attackType = abilityType switch
+                {
+                    AbilityType.Light => "ataca con luz",
+                    AbilityType.Dark => "ataca con oscuridad",
+                };
+
+                WriteLine($"{attacker.Name} {attackType} a {attacked.Name}");
+                
+                switch (states[pointer])
+                {
+                    case LightOrDarkState.Kill:
+                        if (affinityText != String.Empty)
+                        {
+                            WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
+                        }
+                        WriteLine($"{attacked.Name} ha sido eliminado");
+                        break;
+                    case LightOrDarkState.Miss:
+                        WriteLine($"{attacker.Name} ha fallado el ataque");
+                        break;
+                    case LightOrDarkState.Block:
+                        if (affinity == AffinityType.Resist)
+                        {
+                            WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
+                        }
+                        WriteLine($"{attacked.Name} bloquea el ataque de {attacker.Name}");
+                        break;
+                    case LightOrDarkState.Repel:
+                        WriteLine($"{attacked.Name} serias dudas");
+                        break;
+
+                }
+                WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
+
+            }
+            
+            pointer++;
+        }
+
+        WriteLine(SEPARATOR);
     }
     
     public void TurnUsedDisplayWithParameters(TurnContext ctx)

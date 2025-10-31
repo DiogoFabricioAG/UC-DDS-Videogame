@@ -5,6 +5,7 @@ public enum AffinityType
     Neutral,
     Weak,
     Resist,
+    Miss,
     Null,
     Repel,
     Drain

@@ -224,15 +224,13 @@ public class CombatController(View view)
 
         Unit attacker = game.GetAttacker();
         
-        if (ability.Target == TargetType.Party)
+        if (ability.Target is TargetType.Party or TargetType.All)
         {
-            ApplyForAllAbilityEffect(game, ability, attacker);
-            ApplyTurnCostAndCleanupInAll(game, ability);
+            Team applyTo = ability.Target == TargetType.Party ? game.CurrentTeam : game.OtherTeam; 
+            bool containsMissAttacks = ApplyForAllAbilityEffect(game, ability, attacker);
+            ApplyTurnCostAndCleanupInAll(game, ability, applyTo , containsMissAttacks);
         }
-        else if (ability.Target == TargetType.All)
-        {
-            
-        }
+
         else
         {
             Unit attacked = game.GetAttacked(_inputFromUser, teamSelected, reviveAbility);
@@ -264,16 +262,15 @@ public class CombatController(View view)
         }
     }
 
-    private void ApplyForAllAbilityEffect(Game game, Ability ability, Unit attacker)
+    private bool ApplyForAllAbilityEffect(Game game, Ability ability, Unit attacker)
     {
-
+        bool containMissAttacks = false;
         if (ability.Target == TargetType.Party && !ability.Effect.Contains("exchange"))
         {
-
             List<int> healRealized = AbilityController.UseHealAbilityAllies(attacker, game.CurrentTeam, ability);
             view.DisplayAbilityAllLogs(healRealized,  attacker, game.CurrentTeam, AffinityType.Neutral ,ability.Type);
         }
-        else
+        else if (ability.Target == TargetType.Party && ability.Effect.Contains("exchange"))
         {
             
             // Arreglame esto porfavor 
@@ -281,9 +278,17 @@ public class CombatController(View view)
             List<int> healRealized = AbilityController.HealAndSacrifice(attacker, game.CurrentTeam, ability);
 
             view.DisplayAbilityAllLogs(healRealized,  attacker, game.CurrentTeam, AffinityType.Neutral ,ability.Type ,sacrific: true);
-
         }
-        
+        else if (ability.Target == TargetType.All)
+        {
+            if (AbilityController.IsLightOrDark(ability))
+            {
+                List<LightOrDarkState> states = AbilityController.UseAbilityLightOrDarkAll(game.GetAttacker() ,game.OtherTeam, ability);
+                containMissAttacks = states.Contains(LightOrDarkState.Miss);
+                view.DisplayAbilityLightOrDarkAll(states,  attacker, game.OtherTeam ,ability.Type);
+            }
+        }
+        return containMissAttacks;
     }
     
     private void ApplyTurnCostAndCleanup(Game game, Unit attacked, Ability ability)
@@ -306,9 +311,9 @@ public class CombatController(View view)
     /// <summary>
     ///  Revisame por favor q esta to' feo, ese current Team dio mio
     /// </summary>
-    private void ApplyTurnCostAndCleanupInAll(Game game, Ability ability)
+    private void ApplyTurnCostAndCleanupInAll(Game game, Ability ability, Team team, bool containsMissAttacks)
     {
-        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, game.CurrentTeam, game.CurrentTeam);
+        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, team, game.CurrentTeam, containsMissAttacks);
         var turnContext = new TurnContext(blinkingLoss, fullLoss, blinkingWon);
         view.TurnUsedDisplayWithParameters(turnContext);
 

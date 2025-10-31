@@ -24,9 +24,15 @@ public abstract class TurnController
         };
     }
 
-    public static (int blinkingLoss, int fullLoss, int blinkingWon) GetTurnWastedByTeam(Ability ability, Team team, Team teamOnTurn)
+    public static (int blinkingLoss, int fullLoss, int blinkingWon) GetTurnWastedByTeam(Ability ability, Team team, Team teamOnTurn, bool containsMissAttacks)
     {
+        
         AffinityType affinity = Affinity.GetPrioritizeAffinity(team.StartingTeam, ability);
+        if (containsMissAttacks && affinity is not (AffinityType.Drain or AffinityType.Repel or AffinityType.Null))
+        {
+            Console.WriteLine("ERRRORR");
+            return GetLossForMissAffinity(teamOnTurn);
+        }
         return affinity switch
         {
             AffinityType.Resist or AffinityType.Neutral => GetLossForStandardAffinity(teamOnTurn),
@@ -46,7 +52,11 @@ public abstract class TurnController
     {
         return team.GetCurrentFullTurns() > 0 ? (0, 1, 1) : (1, 0, 0);
     }
-
+    
+    private static (int blinkingLoss, int fullLoss, int blinkingWon) GetLossForMissAffinity(Team team)
+    {
+        return team.GetCurrentBlinkingTurns() > 0 ? (1, 0, 0) : (0, 1, 0);
+    }
     private static (int blinkingLoss, int fullLoss, int blinkingWon) GetLossForReflectingAffinity(Team team)
     {
         return (team.GetCurrentBlinkingTurns(), team.GetCurrentFullTurns(), 0);

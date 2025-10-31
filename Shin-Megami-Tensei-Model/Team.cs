@@ -240,6 +240,7 @@ public class Team
     
     public Unit[] GetSelectableUnits(bool showAll = false) => StartingTeam.Where(x => (x != null && (x.Attributes.CurrentHp > 0 || showAll))).ToArray();
 
+    public Unit[] GetSelectableUnitsForLightAndDark() => StartingTeam.Where(x => x != null).ToArray();
     public Unit[] HelperSelectableUnitsForHealAbilities(Unit unit)
     {
         List<Unit> unitsOrder = StartingTeam.Where(unit => unit != null && unit.Attributes.CurrentHp > 0).ToList();
