@@ -1,0 +1,1645 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 0
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kanbari HP:350/350 MP:68/68
+C-Kama HP:574/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 143 de daño
+Flynn termina con HP:828/971
+Demi-Fiend ataca a Kanbari
+Kanbari es débil contra el ataque de Demi-Fiend
+Kanbari recibe 214 de daño
+Kanbari termina con HP:136/350
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:503/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:709/709 MP:140/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:828/971 MP:527/527
+B-Kanbari HP:136/350 MP:68/68
+C-Kama HP:503/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:709/709 MP:140/140
+3-Girimekhala HP:653/653 MP:130/130
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:709/709 MP:140/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:828/971 MP:527/527
+B-Kanbari HP:136/350 MP:68/68
+C-Kama HP:503/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Kanbari
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:709/709 MP:140/140
+3-Girimekhala HP:653/653 MP:130/130
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:709/709 MP:140/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:828/971 MP:527/527
+B-Kanbari HP:136/350 MP:68/68
+C-Kama HP:503/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:709/709 MP:140/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:828/971 MP:527/527
+B-Kanbari HP:136/350 MP:68/68
+C-Kama HP:503/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Girimekhala
+3-Halphas
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 108 de daño
+Flynn termina con HP:720/971
+Ammut ataca a Kanbari
+Kanbari es débil contra el ataque de Ammut
+Kanbari recibe 163 de daño
+Kanbari termina con HP:0/350
+Ammut ataca a Kama
+Kama es resistente el ataque de Ammut
+Kama recibe 54 de daño
+Kama termina con HP:449/574
+Ammut ataca a Girimekhala
+Girimekhala devuelve 108 daño a Ammut
+Ammut termina con HP:601/709
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:720/971 MP:527/527
+B-
+C-Kama HP:449/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:653/653 MP:130/130
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:720/971 MP:527/527
+B-
+C-Kama HP:449/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:653/653 MP:130/130
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:720/971 MP:527/527
+B-
+C-Kama HP:449/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:720/971 MP:527/527
+B-
+C-Kama HP:449/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Girimekhala
+3-Halphas
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:653/653 MP:130/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:720/971 MP:527/527
+B-
+C-Kama HP:449/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Halphas
+3-Demi-Fiend
+4-Ammut
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Girimekhala ataca a Flynn
+Flynn recibe 125 de daño
+Flynn termina con HP:595/971
+Girimekhala ataca a Kama
+Kama es resistente el ataque de Girimekhala
+Kama recibe 62 de daño
+Kama termina con HP:387/574
+Girimekhala ataca a Girimekhala
+Girimekhala devuelve 125 daño a Girimekhala
+Girimekhala termina con HP:528/653
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:595/971 MP:527/527
+B-
+C-Kama HP:387/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:595/971 MP:527/527
+B-
+C-Kama HP:387/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:595/971 MP:527/527
+B-
+C-Kama HP:387/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:595/971 MP:527/527
+B-
+C-Kama HP:387/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Girimekhala
+3-Halphas
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:595/971 MP:527/527
+B-
+C-Kama HP:387/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Halphas
+3-Demi-Fiend
+4-Ammut
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:275/275 MP:54/54
+Equipo de Flynn (J2)
+A-Flynn HP:595/971 MP:527/527
+B-
+C-Kama HP:387/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Halphas
+2-Demi-Fiend
+3-Ammut
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Halphas use
+1-Tarukaja MP:15
+2-Heat Wave MP:11
+3-Rakukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Halphas ataca a Flynn
+Flynn recibe 44 de daño
+Flynn termina con HP:551/971
+Halphas ataca a Kama
+Kama es resistente el ataque de Halphas
+Kama recibe 22 de daño
+Kama termina con HP:365/574
+Halphas ataca a Girimekhala
+Girimekhala devuelve 44 daño a Halphas
+Halphas termina con HP:231/275
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:551/971 MP:527/527
+B-
+C-Kama HP:365/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:551/971 MP:527/527
+B-
+C-Kama HP:365/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1084/1227 MP:824/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1084/1227 MP:824/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:551/971 MP:527/527
+B-
+C-Kama HP:365/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 143 de daño
+Flynn termina con HP:408/971
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:294/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:941/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:941/1227 MP:814/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:408/971 MP:527/527
+B-
+C-Kama HP:294/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:941/1227 MP:814/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:941/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:941/1227 MP:814/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:408/971 MP:527/527
+B-
+C-Kama HP:294/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:941/1227 MP:814/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:941/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:941/1227 MP:814/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:408/971 MP:527/527
+B-
+C-Kama HP:294/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 143 de daño
+Flynn termina con HP:265/971
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:223/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:798/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:798/1227 MP:804/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:265/971 MP:527/527
+B-
+C-Kama HP:223/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:798/1227 MP:804/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:798/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:798/1227 MP:804/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:265/971 MP:527/527
+B-
+C-Kama HP:223/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:798/1227 MP:804/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:798/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:798/1227 MP:804/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:265/971 MP:527/527
+B-
+C-Kama HP:223/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 143 de daño
+Flynn termina con HP:122/971
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:152/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:655/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:655/1227 MP:794/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:122/971 MP:527/527
+B-
+C-Kama HP:152/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:655/1227 MP:794/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Flynn
+Demi-Fiend termina con HP:655/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:655/1227 MP:794/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:122/971 MP:527/527
+B-
+C-Kama HP:152/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+3-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:655/1227 MP:794/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:655/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:655/1227 MP:794/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:122/971 MP:527/527
+B-
+C-Kama HP:152/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 143 de daño
+Flynn termina con HP:0/971
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:81/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:512/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:512/1227 MP:784/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-Kama HP:81/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:512/1227 MP:784/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:512/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:512/1227 MP:784/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-Kama HP:81/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:10/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:369/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:369/1227 MP:774/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-Kama HP:10/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:369/1227 MP:774/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:369/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:369/1227 MP:774/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-Kama HP:10/574 MP:257/257
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 71 de daño
+Kama termina con HP:0/574
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:226/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:226/1227 MP:764/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Demi-Fiend HP:226/1227 MP:764/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Girimekhala
+Demi-Fiend termina con HP:226/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:226/1227 MP:764/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Critical Wave MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Girimekhala
+Girimekhala devuelve 143 daño a Demi-Fiend
+Demi-Fiend termina con HP:83/1227
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:83/1227 MP:754/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Demi-Fiend HP:83/1227 MP:754/834
+2-Ammut HP:601/709 MP:123/140
+3-Girimekhala HP:528/653 MP:100/130
+4-Halphas HP:231/275 MP:43/54
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Girimekhala
+Demi-Fiend termina con HP:83/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:83/1227 MP:754/834
+B-Ammut HP:601/709 MP:123/140
+C-Girimekhala HP:528/653 MP:100/130
+D-Halphas HP:231/275 MP:43/54
+Equipo de Flynn (J2)
+A-Flynn HP:0/971 MP:527/527
+B-
+C-
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Girimekhala
+4-Halphas
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J1) se rinde
+----------------------------------------
+Ganador: Flynn (J2)

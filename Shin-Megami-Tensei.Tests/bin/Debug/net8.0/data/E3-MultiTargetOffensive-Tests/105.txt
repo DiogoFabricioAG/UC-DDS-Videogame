@@ -1,0 +1,1524 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 104
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Plasma HP:179/179 MP:172/172
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-Metatron HP:879/879 MP:175/175
+C-Trumpeter HP:474/474 MP:460/460
+D-Erlkonig HP:671/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kingu
+3-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Shock MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 119 de daño
+Tamaki termina con HP:880/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:172/172
+C-Kingu HP:464/464 MP:91/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:880/999 MP:542/542
+B-Metatron HP:879/879 MP:175/175
+C-Trumpeter HP:474/474 MP:460/460
+D-Erlkonig HP:671/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Plasma
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 43 de daño
+Tamaki termina con HP:837/999
+Kingu lanza electricidad a Metatron
+Metatron es resistente el ataque de Kingu
+Metatron recibe 43 de daño
+Metatron termina con HP:836/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:172/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:837/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:474/474 MP:460/460
+D-Erlkonig HP:671/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Kingu
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Plasma use
+1-Plasma Discharge MP:22
+2-Fog Breath MP:45
+3-Megidoplasma MP:41
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Plasma
+Tamaki recibe 51 de daño
+Tamaki termina con HP:786/999
+Plasma lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Plasma
+Trumpeter recibe 51 de daño
+Trumpeter termina con HP:423/474
+Plasma lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Plasma
+Erlkonig recibe 51 de daño
+Erlkonig termina con HP:620/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Trumpeter
+3-Erlkonig
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Erlkonig
+3-Tamaki
+4-Metatron
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Trumpeter
+4-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Trumpeter
+3-Erlkonig
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Erlkonig
+3-Tamaki
+4-Metatron
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Trumpeter
+4-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:786/999 MP:542/542
+B-Metatron HP:836/879 MP:175/175
+C-Trumpeter HP:423/474 MP:460/460
+D-Erlkonig HP:620/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kingu
+3-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Shock MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 119 de daño
+Tamaki termina con HP:667/999
+Demi-Fiend lanza electricidad a Metatron
+Metatron es resistente el ataque de Demi-Fiend
+Metatron recibe 119 de daño
+Metatron termina con HP:717/879
+Demi-Fiend lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Demi-Fiend
+Trumpeter recibe 119 de daño
+Trumpeter termina con HP:304/474
+Demi-Fiend lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Demi-Fiend
+Erlkonig recibe 119 de daño
+Erlkonig termina con HP:501/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:70/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:667/999 MP:542/542
+B-Metatron HP:717/879 MP:175/175
+C-Trumpeter HP:304/474 MP:460/460
+D-Erlkonig HP:501/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Plasma
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 43 de daño
+Tamaki termina con HP:624/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:150/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:624/999 MP:542/542
+B-Metatron HP:717/879 MP:175/175
+C-Trumpeter HP:304/474 MP:460/460
+D-Erlkonig HP:501/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Kingu
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Plasma use
+1-Plasma Discharge MP:22
+2-Fog Breath MP:45
+3-Megidoplasma MP:41
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Plasma
+Tamaki recibe 51 de daño
+Plasma lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Plasma
+Tamaki recibe 51 de daño
+Tamaki termina con HP:522/999
+Plasma lanza electricidad a Metatron
+Metatron es resistente el ataque de Plasma
+Metatron recibe 51 de daño
+Plasma lanza electricidad a Metatron
+Metatron es resistente el ataque de Plasma
+Metatron recibe 51 de daño
+Metatron termina con HP:615/879
+Plasma lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Plasma
+Trumpeter recibe 51 de daño
+Trumpeter termina con HP:253/474
+Plasma lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Plasma
+Erlkonig recibe 51 de daño
+Erlkonig termina con HP:450/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Trumpeter
+3-Erlkonig
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Erlkonig
+3-Tamaki
+4-Metatron
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Trumpeter
+4-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Trumpeter
+3-Erlkonig
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Erlkonig
+3-Tamaki
+4-Metatron
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Trumpeter
+4-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:522/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:253/474 MP:460/460
+D-Erlkonig HP:450/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kingu
+3-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Shock MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 119 de daño
+Tamaki termina con HP:403/999
+Demi-Fiend lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Demi-Fiend
+Trumpeter recibe 119 de daño
+Trumpeter termina con HP:134/474
+Demi-Fiend lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Demi-Fiend
+Erlkonig recibe 119 de daño
+Erlkonig termina con HP:331/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:49/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:403/999 MP:542/542
+B-Metatron HP:615/879 MP:175/175
+C-Trumpeter HP:134/474 MP:460/460
+D-Erlkonig HP:331/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Plasma
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 43 de daño
+Tamaki termina con HP:360/999
+Kingu lanza electricidad a Metatron
+Metatron es resistente el ataque de Kingu
+Metatron recibe 43 de daño
+Metatron termina con HP:572/879
+Kingu lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Kingu
+Trumpeter recibe 43 de daño
+Trumpeter termina con HP:91/474
+Kingu lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Kingu
+Erlkonig recibe 43 de daño
+Erlkonig termina con HP:288/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:128/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:360/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Kingu
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Plasma use
+1-Plasma Discharge MP:22
+2-Fog Breath MP:45
+3-Megidoplasma MP:41
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Plasma
+Tamaki recibe 51 de daño
+Tamaki termina con HP:309/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Trumpeter
+3-Erlkonig
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Erlkonig
+3-Tamaki
+4-Metatron
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Trumpeter
+4-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Trumpeter
+3-Erlkonig
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Erlkonig
+3-Tamaki
+4-Metatron
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Trumpeter
+4-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:309/999 MP:542/542
+B-Metatron HP:572/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kingu
+3-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Shock MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 119 de daño
+Tamaki termina con HP:190/999
+Demi-Fiend lanza electricidad a Metatron
+Metatron es resistente el ataque de Demi-Fiend
+Metatron recibe 119 de daño
+Metatron termina con HP:453/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:28/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:190/999 MP:542/542
+B-Metatron HP:453/879 MP:175/175
+C-Trumpeter HP:91/474 MP:460/460
+D-Erlkonig HP:288/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Plasma
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Kingu
+Tamaki recibe 43 de daño
+Tamaki termina con HP:147/999
+Kingu lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Kingu
+Trumpeter recibe 43 de daño
+Trumpeter termina con HP:48/474
+Kingu lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Kingu
+Erlkonig recibe 43 de daño
+Erlkonig termina con HP:245/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-Plasma HP:179/179 MP:106/172
+C-Kingu HP:464/464 MP:7/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:147/999 MP:542/542
+B-Metatron HP:453/879 MP:175/175
+C-Trumpeter HP:48/474 MP:460/460
+D-Erlkonig HP:245/671 MP:134/134
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Kingu
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Plasma use
+1-Plasma Discharge MP:22
+2-Fog Breath MP:45
+3-Megidoplasma MP:41
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Plasma
+Tamaki recibe 51 de daño
+Tamaki termina con HP:96/999
+Plasma lanza electricidad a Metatron
+Metatron es resistente el ataque de Plasma
+Metatron recibe 51 de daño
+Metatron termina con HP:402/879
+Plasma lanza electricidad a Trumpeter
+Trumpeter es resistente el ataque de Plasma
+Trumpeter recibe 51 de daño
+Trumpeter termina con HP:0/474
+Plasma lanza electricidad a Erlkonig
+Erlkonig es resistente el ataque de Plasma
+Erlkonig recibe 51 de daño
+Erlkonig termina con HP:194/671
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-Plasma HP:179/179 MP:84/172
+C-Kingu HP:464/464 MP:7/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:96/999 MP:542/542
+B-Metatron HP:402/879 MP:175/175
+C-
+D-Erlkonig HP:194/671 MP:134/134
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Erlkonig
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-Plasma HP:179/179 MP:84/172
+C-Kingu HP:464/464 MP:7/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:96/999 MP:542/542
+B-Metatron HP:402/879 MP:175/175
+C-
+D-Erlkonig HP:194/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Tamaki
+3-Metatron
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-Plasma HP:179/179 MP:84/172
+C-Kingu HP:464/464 MP:7/91
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:96/999 MP:542/542
+B-Metatron HP:402/879 MP:175/175
+C-
+D-Erlkonig HP:194/671 MP:134/134
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Metatron
+3-Erlkonig
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Tamaki (J2) se rinde
+----------------------------------------
+Ganador: Demi-Fiend (J1)

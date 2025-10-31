@@ -1,0 +1,2585 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 100
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:597/597 MP:347/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:574/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:347/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:574/597 MP:347/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:550/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:550/597 MP:347/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:550/597 MP:347/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:542/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:347/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:388/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:359/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:347/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Dia MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:542/597 MP:347/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto cura a Makoto
+Makoto recibe 149 de HP
+Makoto termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:342/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:597/597 MP:342/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:574/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:342/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:574/597 MP:342/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:550/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:550/597 MP:342/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:550/597 MP:342/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:542/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:342/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:359/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:330/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:330/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:342/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Dia MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Makoto HP:542/597 MP:342/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto cura a Makoto
+Makoto recibe 149 de HP
+Makoto termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:330/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:597/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:574/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:330/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:574/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:574/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:550/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:330/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:550/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:550/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:542/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:330/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:330/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:301/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:301/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:301/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:282/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:282/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:542/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:542/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:519/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:282/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:519/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:519/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:495/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:282/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:495/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:495/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:487/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:282/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:487/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:282/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:253/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:253/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:487/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:253/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:234/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:234/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:487/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:487/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:464/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:234/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:464/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:464/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:440/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:234/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:440/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:440/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:432/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:234/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:432/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:234/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:205/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:205/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:432/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:205/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:186/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:186/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:432/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1 
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:432/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:409/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:186/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:409/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:409/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:385/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:186/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:385/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:385/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:377/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:186/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:377/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:186/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:157/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:157/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:377/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:157/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:138/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:138/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:377/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:377/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:354/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:138/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:354/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:354/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:330/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:138/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:330/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:330/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:322/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:138/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:322/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:138/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:109/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:109/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:322/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:109/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:90/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:90/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:322/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:322/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:299/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:90/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:299/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:299/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:275/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:90/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:275/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:275/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:267/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:90/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:267/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:90/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:61/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:61/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:267/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:61/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:42/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:42/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:267/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+3-Tadano
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:267/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:244/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:42/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:244/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:244/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:220/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:42/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:220/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Quetzalcoatl
+3-Girimekhala
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Makoto HP:220/597 MP:337/347
+2-Cerberus HP:775/775 MP:153/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Makoto
+Makoto es resistente el ataque de Tadano
+Makoto recibe 8 de daño
+Makoto termina con HP:212/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:42/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cerberus
+1-Tadano HP:42/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Cerberus ataca a Tadano
+Tadano es resistente el ataque de Cerberus
+Tadano recibe 29 de daño
+Tadano termina con HP:13/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:13/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Cerberus
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Tadano HP:13/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Quetzalcoatl HP:553/553 MP:247/247
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Tadano
+Tadano es resistente el ataque de Makoto
+Tadano recibe 19 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:775/775 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Cerberus use
+1-Agidyne MP:14
+2-Madness Nails MP:26
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Cerberus ataca a Girimekhala
+Girimekhala devuelve 181 daño a Cerberus
+Cerberus ataca a Girimekhala
+Girimekhala devuelve 181 daño a Cerberus
+Cerberus ataca a Quetzalcoatl
+Quetzalcoatl devuelve 181 daño a Cerberus
+Cerberus termina con HP:232/775
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:212/597 MP:337/347
+B-Cerberus HP:232/775 MP:127/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:212/597 MP:337/347
+2-Cerberus HP:232/775 MP:127/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:189/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:189/597 MP:337/347
+B-Cerberus HP:232/775 MP:127/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:189/597 MP:337/347
+2-Cerberus HP:232/775 MP:127/153
+3-Cancelar
+INPUT: 1 
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:165/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:165/597 MP:337/347
+B-Cerberus HP:232/775 MP:127/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Cerberus use
+1-Agidyne MP:14
+2-Madness Nails MP:26
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Cerberus ataca a Quetzalcoatl
+Quetzalcoatl devuelve 181 daño a Cerberus
+Cerberus termina con HP:51/775
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:165/597 MP:337/347
+B-Cerberus HP:51/775 MP:101/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:165/597 MP:337/347
+2-Cerberus HP:51/775 MP:101/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:142/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:142/597 MP:337/347
+B-Cerberus HP:51/775 MP:101/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:142/597 MP:337/347
+2-Cerberus HP:51/775 MP:101/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:118/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:118/597 MP:337/347
+B-Cerberus HP:51/775 MP:101/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cerberus
+2-Makoto
+----------------------------------------
+Seleccione una acción para Cerberus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Cerberus use
+1-Agidyne MP:14
+2-Madness Nails MP:26
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Cerberus ataca a Girimekhala
+Girimekhala devuelve 181 daño a Cerberus
+Cerberus ataca a Quetzalcoatl
+Quetzalcoatl devuelve 181 daño a Cerberus
+Cerberus termina con HP:0/775
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:118/597 MP:337/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:118/597 MP:337/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:95/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:95/597 MP:337/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:95/597 MP:337/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:71/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:71/597 MP:337/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Girimekhala HP:653/653 MP:130/130
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Girimekhala
+Girimekhala devuelve 38 daño a Makoto
+Makoto termina con HP:33/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:33/597 MP:337/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:33/597 MP:337/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Makoto
+Makoto es resistente el ataque de Quetzalcoatl
+Makoto recibe 23 de daño
+Makoto termina con HP:10/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:10/597 MP:337/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Makoto HP:10/597 MP:337/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Makoto
+Makoto es resistente el ataque de Girimekhala
+Makoto recibe 24 de daño
+Makoto termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tadano (J1)

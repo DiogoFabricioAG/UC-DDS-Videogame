@@ -1,0 +1,7053 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 327
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Heqet HP:91/91 MP:40/40
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:597/597 MP:347/347
+2-Illuyanka HP:427/427 MP:192/192
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Heqet HP:91/91 MP:40/40
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Heqet
+Heqet recibe 45 de daño
+Heqet termina con HP:46/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:597/597 MP:347/347
+2-Illuyanka HP:427/427 MP:192/192
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Heqet HP:46/91 MP:40/40
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Makoto
+Makoto es resistente el ataque de Nadja
+Makoto recibe 16 de daño
+Makoto termina con HP:581/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:581/597 MP:347/347
+2-Illuyanka HP:427/427 MP:192/192
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Heqet HP:46/91 MP:40/40
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Alraune ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Alraune
+Demonee-Ho recibe 17 de daño
+Demonee-Ho termina con HP:787/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:787/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:581/597 MP:347/347
+2-Illuyanka HP:427/427 MP:192/192
+3-Demonee-Ho HP:787/804 MP:160/160
+4-Heqet HP:46/91 MP:40/40
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Goblin ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Goblin
+Demonee-Ho recibe 11 de daño
+Demonee-Ho termina con HP:776/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:776/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Makoto
+3-Illuyanka
+4-Heqet
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Itsuki HP:1136/1136 MP:413/413
+2-Alraune HP:427/427 MP:192/192
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demonee-Ho ataca a Nadja
+Nadja recibe 62 de daño
+Nadja termina con HP:337/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:776/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Illuyanka
+3-Heqet
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Illuyanka HP:427/427 MP:192/192
+C-Demonee-Ho HP:776/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Illuyanka
+2-Heqet
+3-Demonee-Ho
+4-Makoto
+----------------------------------------
+Seleccione una acción para Illuyanka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hamsa HP:91/91 MP:40/40
+2-Apsaras HP:85/85 MP:81/81
+3-Lham Dearg HP:91/91 MP:19/19
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Apsaras ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Demonee-Ho HP:776/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heqet
+2-Demonee-Ho
+3-Makoto
+4-Apsaras
+----------------------------------------
+Seleccione una acción para Heqet
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Demonee-Ho HP:776/804 MP:160/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Makoto
+3-Apsaras
+4-Heqet
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Itsuki HP:1136/1136 MP:413/413
+2-Alraune HP:427/427 MP:192/192
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:337/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho lanza un ataque todo poderoso a Itsuki
+Itsuki recibe 129 de daño
+Itsuki termina con HP:1007/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1007/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Demonee-Ho HP:776/804 MP:120/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Apsaras
+3-Heqet
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Illuyanka HP:427/427 MP:192/192
+2-Hamsa HP:91/91 MP:40/40
+3-Lham Dearg HP:91/91 MP:19/19
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Apsaras HP:85/85 MP:81/81 (Puesto 2)
+2-Demonee-Ho HP:776/804 MP:120/160 (Puesto 3)
+3-Heqet HP:46/91 MP:40/40 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1007/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hamsa
+2-Heqet
+3-Demonee-Ho
+4-Makoto
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1007/1136 MP:413/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:337/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki cura a Alraune
+Alraune recibe 427 de HP
+Alraune termina con HP:427/427
+Itsuki cura a Goblin
+Goblin recibe 322 de HP
+Goblin termina con HP:322/322
+Itsuki cura a Nadja
+Nadja recibe 399 de HP
+Nadja termina con HP:399/399
+Itsuki cura a Itsuki
+Itsuki recibe 1136 de HP
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-Heqet HP:46/91 MP:40/40
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:581/597 MP:347/347
+2-Hamsa HP:91/91 MP:40/40
+3-Demonee-Ho HP:776/804 MP:120/160
+4-Heqet HP:46/91 MP:40/40
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nadja ataca a Heqet
+Heqet recibe 32 de daño
+Heqet termina con HP:14/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:427/427 MP:192/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-Heqet HP:14/91 MP:40/40
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:581/597 MP:347/347
+2-Hamsa HP:91/91 MP:40/40
+3-Demonee-Ho HP:776/804 MP:120/160
+4-Heqet HP:14/91 MP:40/40
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Heqet
+El ataque drena 14 HP de Heqet
+Heqet termina con HP:0/91
+Alraune termina con HP:427/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:427/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:427/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:581/597 MP:347/347
+2-Hamsa HP:91/91 MP:40/40
+3-Demonee-Ho HP:776/804 MP:120/160
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:427/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:120/160
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Makoto
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Itsuki HP:1136/1136 MP:373/413
+2-Alraune HP:427/427 MP:187/192
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demonee-Ho ataca a Alraune
+Alraune recibe 110 de daño
+Alraune termina con HP:317/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:317/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Hamsa
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:373/413
+2-Alraune HP:317/427 MP:187/192
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Alraune
+Alraune es resistente el ataque de Makoto
+Alraune recibe 28 de daño
+Alraune termina con HP:289/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Demonee-Ho
+3-Makoto
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Itsuki HP:1136/1136 MP:373/413
+2-Alraune HP:289/427 MP:187/192
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hamsa lanza electricidad a Goblin
+Goblin es débil contra el ataque de Hamsa
+Goblin recibe 40 de daño
+Goblin termina con HP:282/322
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Makoto
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:91/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:581/597 MP:347/347
+2-Hamsa HP:91/91 MP:35/40
+3-Demonee-Ho HP:776/804 MP:112/160
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Hamsa
+Hamsa recibe 45 de daño
+Hamsa termina con HP:46/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:581/597 MP:347/347
+2-Hamsa HP:46/91 MP:35/40
+3-Demonee-Ho HP:776/804 MP:112/160
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:581/597 MP:347/347
+2-Hamsa HP:46/91 MP:35/40
+3-Demonee-Ho HP:776/804 MP:112/160
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ataca a Makoto
+Makoto es resistente el ataque de Goblin
+Makoto recibe 11 de daño
+Makoto termina con HP:570/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:570/597 MP:347/347
+2-Hamsa HP:46/91 MP:35/40
+3-Demonee-Ho HP:776/804 MP:112/160
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:548/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Makoto
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Demonee-Ho HP:776/804 MP:112/160
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Hamsa
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:373/413
+2-Alraune HP:289/427 MP:187/192
+3-Goblin HP:282/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Illuyanka HP:427/427 MP:192/192
+2-Apsaras HP:85/85 MP:81/81
+3-Lham Dearg HP:91/91 MP:19/19
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Hamsa HP:46/91 MP:35/40 (Puesto 2)
+2-Demonee-Ho HP:776/804 MP:112/160 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Illuyanka ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Hamsa HP:46/91 MP:35/40
+C-Illuyanka HP:427/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Illuyanka
+3-Makoto
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hamsa use
+1-Zio MP:5
+2-Dia MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Makoto HP:548/597 MP:347/347
+2-Hamsa HP:46/91 MP:35/40
+3-Illuyanka HP:427/427 MP:192/192
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hamsa cura a Hamsa
+Hamsa recibe 22 de HP
+Hamsa termina con HP:68/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Hamsa HP:68/91 MP:30/40
+C-Illuyanka HP:427/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Illuyanka
+2-Makoto
+3-Hamsa
+----------------------------------------
+Seleccione una acción para Illuyanka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Hamsa HP:68/91 MP:30/40
+C-Illuyanka HP:427/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Hamsa
+3-Illuyanka
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:776/804 MP:112/160
+2-Apsaras HP:85/85 MP:81/81
+3-Lham Dearg HP:91/91 MP:19/19
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Hamsa HP:68/91 MP:30/40 (Puesto 2)
+2-Illuyanka HP:427/427 MP:192/192 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:373/413
+B-Alraune HP:289/427 MP:187/192
+C-Goblin HP:282/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:427/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki cura a Alraune
+Alraune recibe 427 de HP
+Alraune termina con HP:427/427
+Itsuki cura a Goblin
+Goblin recibe 322 de HP
+Goblin termina con HP:322/322
+Itsuki cura a Nadja
+Nadja recibe 399 de HP
+Nadja termina con HP:399/399
+Itsuki cura a Itsuki
+Itsuki recibe 1136 de HP
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Alraune HP:427/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:427/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:548/597 MP:347/347
+2-Apsaras HP:85/85 MP:81/81
+3-Illuyanka HP:427/427 MP:192/192
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nadja ataca a Illuyanka
+Illuyanka recibe 32 de daño
+Illuyanka termina con HP:395/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Alraune HP:427/427 MP:187/192
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:395/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:331/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Momunofu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:331/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:395/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:331/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:395/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:548/597 MP:347/347
+2-Apsaras HP:85/85 MP:81/81
+3-Illuyanka HP:395/427 MP:192/192
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Illuyanka
+Illuyanka recibe 45 de daño
+Illuyanka termina con HP:350/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:331/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:350/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Illuyanka
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:333/413
+2-Momunofu HP:331/331 MP:66/66
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Momunofu
+Momunofu es resistente el ataque de Makoto
+Momunofu recibe 19 de daño
+Momunofu termina con HP:312/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Illuyanka HP:350/427 MP:192/192
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Illuyanka
+2-Apsaras
+3-Makoto
+----------------------------------------
+Seleccione una acción para Illuyanka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:776/804 MP:112/160
+2-Hamsa HP:68/91 MP:30/40
+3-Lham Dearg HP:91/91 MP:19/19
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Angel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:548/597 MP:347/347
+B-Apsaras HP:85/85 MP:81/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apsaras
+2-Makoto
+3-Angel
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apsaras use
+1-Media MP:12
+2-Dormina MP:4
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apsaras use
+1-Media MP:12
+2-Dormina MP:4
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras cura a Makoto
+Makoto recibe 149 de HP
+Makoto termina con HP:597/597
+Apsaras cura a Angel
+Angel recibe 15 de HP
+Angel termina con HP:61/61
+Apsaras cura a Apsaras
+Apsaras recibe 21 de HP
+Apsaras termina con HP:85/85
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:399/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:85/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Angel
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:333/413
+2-Momunofu HP:312/331 MP:66/66
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Nadja
+Nadja recibe 38 de daño
+Nadja termina con HP:361/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:85/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:597/597 MP:347/347
+2-Apsaras HP:85/85 MP:69/81
+3-Angel HP:61/61 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Apsaras
+Apsaras recibe 45 de daño
+Apsaras termina con HP:40/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:187/192
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:187/192
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:61/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:597/597 MP:347/347
+2-Apsaras HP:40/85 MP:69/81
+3-Angel HP:61/61 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nadja ataca a Angel
+Angel recibe 32 de daño
+Angel termina con HP:29/61
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:361/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Apsaras
+3-Angel
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:333/413
+2-Momunofu HP:312/331 MP:66/66
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:361/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Nadja
+Nadja recibe 38 de daño
+Nadja termina con HP:323/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Angel
+3-Makoto
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:322/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Angel
+2-Makoto
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Angel use
+1-Dia MP:5
+2-Patra MP:5
+3-Rakukaja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Angel
+1-Itsuki HP:1136/1136 MP:333/413
+2-Momunofu HP:312/331 MP:66/66
+3-Goblin HP:322/322 MP:63/63
+4-Nadja HP:323/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Angel ataca a Goblin
+Goblin recibe 5 de daño
+Goblin termina con HP:317/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Apsaras
+3-Angel
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:312/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apsaras
+2-Angel
+3-Makoto
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apsaras
+1-Itsuki HP:1136/1136 MP:333/413
+2-Momunofu HP:312/331 MP:66/66
+3-Goblin HP:317/322 MP:63/63
+4-Nadja HP:323/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Apsaras ataca a Momunofu
+Momunofu es resistente el ataque de Apsaras
+Momunofu recibe 4 de daño
+Momunofu termina con HP:308/331
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Apsaras HP:40/85 MP:69/81
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:597/597 MP:347/347
+2-Apsaras HP:40/85 MP:69/81
+3-Angel HP:29/61 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Apsaras
+Apsaras recibe 45 de daño
+Apsaras termina con HP:0/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:597/597 MP:347/347
+2-Angel HP:29/61 MP:58/58
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Makoto
+Makoto es resistente el ataque de Nadja
+Makoto recibe 16 de daño
+Makoto termina con HP:581/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:187/192
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Momunofu use
+1-Charge MP:9
+2-Fatal Sword MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:187/192
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-
+C-Angel HP:29/61 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:581/597 MP:347/347
+2-Angel HP:29/61 MP:58/58
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Angel
+Angel recibe 61 de daño
+Angel termina con HP:0/61
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:317/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:333/413
+2-Momunofu HP:308/331 MP:66/66
+3-Goblin HP:317/322 MP:63/63
+4-Nadja HP:323/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto lanza hielo a Goblin
+Goblin recibe 93 de daño
+Goblin termina con HP:224/322
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:224/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:581/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:581/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:551/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:224/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:551/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:224/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Goblin HP:224/322 MP:63/63
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:187/192
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Alraune
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Alraune
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Momunofu HP:308/331 MP:66/66
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Alraune
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:224/322 MP:63/63
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:187/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:551/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:551/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Makoto
+El ataque drena 41 HP de Makoto
+Makoto termina con HP:510/597
+Alraune termina con HP:427/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:323/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:510/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:333/413
+2-Goblin HP:224/322 MP:63/63
+3-Alraune HP:427/427 MP:182/192
+4-Nadja HP:323/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto dispara a Nadja
+Nadja recibe 57 de daño
+Nadja termina con HP:266/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:510/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:510/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:510/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:480/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:480/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:480/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:480/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:480/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ataca a Makoto
+Makoto es resistente el ataque de Alraune
+Makoto recibe 17 de daño
+Makoto termina con HP:463/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:463/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:463/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ataca a Makoto
+Makoto es resistente el ataque de Goblin
+Makoto recibe 11 de daño
+Makoto termina con HP:452/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:333/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:452/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 37 de daño
+Makoto termina con HP:415/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:415/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:415/597 MP:339/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:323/413
+2-Goblin HP:224/322 MP:63/63
+3-Alraune HP:427/427 MP:182/192
+4-Nadja HP:266/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Itsuki
+Itsuki recibe 93 de daño
+Itsuki termina con HP:1043/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:415/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:415/597 MP:331/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:385/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:385/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:385/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Momunofu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:385/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:385/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:385/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:385/597 MP:331/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 30 de daño
+Makoto termina con HP:355/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:355/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:355/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Momunofu use
+1-Charge MP:9
+2-Fatal Sword MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:182/192
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:182/192
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:224/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:355/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1043/1136 MP:323/413
+2-Goblin HP:224/322 MP:63/63
+3-Alraune HP:427/427 MP:182/192
+4-Nadja HP:266/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Goblin
+Goblin recibe 38 de daño
+Goblin termina con HP:186/322
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:323/413
+B-Goblin HP:186/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:355/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:355/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 37 de daño
+Makoto termina con HP:318/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Goblin HP:186/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:318/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Goblin HP:186/322 MP:63/63
+C-Alraune HP:427/427 MP:182/192
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:318/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:308/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Momunofu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Goblin HP:186/322 MP:63/63
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:318/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:427/427 MP:182/192
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:318/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Momunofu
+4-Alraune
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:318/597 MP:331/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:296/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:296/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Alraune
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:296/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:296/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Alraune
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Momunofu
+1-Makoto HP:296/597 MP:331/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:313/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:296/597 MP:331/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1043/1136 MP:313/413
+2-Alraune HP:427/427 MP:182/192
+3-Momunofu HP:308/331 MP:66/66
+4-Nadja HP:266/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Itsuki
+Itsuki recibe 93 de daño
+Itsuki termina con HP:950/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:313/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:296/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:296/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:296/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki lanza hielo a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 35 de daño
+Makoto termina con HP:261/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:261/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Momunofu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:261/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:261/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Momunofu
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Momunofu
+1-Makoto HP:261/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Momunofu ataca a Makoto
+Makoto es resistente el ataque de Momunofu
+Makoto recibe 11 de daño
+Makoto termina con HP:250/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:250/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:250/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:250/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Momunofu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:250/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:250/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Makoto
+Makoto es resistente el ataque de Nadja
+Makoto recibe 16 de daño
+Makoto termina con HP:234/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:308/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:234/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:950/1136 MP:308/413
+2-Alraune HP:427/427 MP:182/192
+3-Momunofu HP:308/331 MP:66/66
+4-Nadja HP:266/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Momunofu
+Momunofu recibe 57 de daño
+Momunofu termina con HP:251/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:234/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:234/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Momunofu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:234/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Makoto
+Makoto es resistente el ataque de Nadja
+Makoto recibe 16 de daño
+Makoto termina con HP:218/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:218/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:218/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:218/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:218/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:218/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:218/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Nadja HP:266/399 MP:179/179
+Equipo de Makoto (J2)
+A-Makoto HP:218/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Momunofu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:186/322 MP:63/63
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Goblin HP:186/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:218/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Itsuki
+4-Goblin
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:218/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ataca a Makoto
+Makoto es resistente el ataque de Alraune
+Makoto recibe 17 de daño
+Makoto termina con HP:201/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Goblin HP:186/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:201/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:950/1136 MP:308/413
+2-Alraune HP:427/427 MP:182/192
+3-Momunofu HP:251/331 MP:66/66
+4-Goblin HP:186/322 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Goblin
+Goblin recibe 38 de daño
+Goblin termina con HP:148/322
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:950/1136 MP:308/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:251/331 MP:66/66
+D-Goblin HP:148/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:201/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Alraune
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki cura a Alraune
+Alraune recibe 427 de HP
+Alraune termina con HP:427/427
+Itsuki cura a Momunofu
+Momunofu recibe 331 de HP
+Momunofu termina con HP:331/331
+Itsuki cura a Goblin
+Goblin recibe 322 de HP
+Goblin termina con HP:322/322
+Itsuki cura a Itsuki
+Itsuki recibe 1136 de HP
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:201/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:201/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ataca a Makoto
+Makoto es resistente el ataque de Alraune
+Makoto recibe 17 de daño
+Makoto termina con HP:184/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:184/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Alraune
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Momunofu use
+1-Charge MP:9
+2-Fatal Sword MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:184/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:184/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Alraune
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nadja HP:266/399 MP:179/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Alraune HP:427/427 MP:182/192 (Puesto 2)
+2-Momunofu HP:331/331 MP:66/66 (Puesto 3)
+3-Goblin HP:322/322 MP:63/63 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:184/597 MP:323/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:162/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:268/413
+2-Alraune HP:427/427 MP:182/192
+3-Momunofu HP:331/331 MP:66/66
+4-Goblin HP:322/322 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Goblin
+Goblin recibe 38 de daño
+Goblin termina con HP:284/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:284/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Alraune
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:162/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:284/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:162/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:284/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Alraune
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nadja HP:266/399 MP:179/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:266/399 MP:179/179
+D-Goblin HP:284/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Alraune
+4-Nadja
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:331/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Momunofu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:268/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:266/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Alraune
+3-Nadja
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki cura a Alraune
+Alraune recibe 427 de HP
+Alraune termina con HP:427/427
+Itsuki cura a Nadja
+Nadja recibe 399 de HP
+Nadja termina con HP:399/399
+Itsuki cura a Momunofu
+Momunofu recibe 331 de HP
+Momunofu termina con HP:331/331
+Itsuki cura a Itsuki
+Itsuki recibe 1136 de HP
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Nadja
+3-Momunofu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Momunofu
+3-Itsuki
+4-Alraune
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:162/597 MP:323/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:323/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bouncing Claw MP:4
+2-Ragnarok MP:35
+3-Wind Breath MP:21
+4-Bufula MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:228/413
+2-Alraune HP:427/427 MP:182/192
+3-Nadja HP:399/399 MP:179/179
+4-Momunofu HP:331/331 MP:66/66
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Itsuki
+Itsuki recibe 93 de daño
+Itsuki termina con HP:1043/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:162/597 MP:315/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:162/597 MP:315/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:284/322 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Momunofu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Itsuki
+4-Nadja
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Momunofu HP:331/331 MP:66/66
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Momunofu
+2-Itsuki
+3-Nadja
+4-Alraune
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:284/322 MP:63/63
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1043/1136 MP:228/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Goblin HP:284/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Nadja
+3-Alraune
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki cura a Alraune
+Alraune recibe 427 de HP
+Alraune termina con HP:427/427
+Itsuki cura a Nadja
+Nadja recibe 399 de HP
+Nadja termina con HP:399/399
+Itsuki cura a Goblin
+Goblin recibe 322 de HP
+Goblin termina con HP:322/322
+Itsuki cura a Itsuki
+Itsuki recibe 1136 de HP
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:427/427 MP:182/192
+C-Nadja HP:399/399 MP:179/179
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Alraune
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Makoto HP:162/597 MP:315/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Momunofu HP:331/331 MP:66/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Momunofu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:427/427 MP:182/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:162/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Goblin
+3-Itsuki
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:162/597 MP:315/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Makoto
+El ataque drena 41 HP de Makoto
+Makoto termina con HP:121/597
+Alraune termina con HP:427/427
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:427/427 MP:177/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:121/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1136/1136 MP:188/413
+2-Alraune HP:427/427 MP:177/192
+3-Momunofu HP:331/331 MP:66/66
+4-Goblin HP:322/322 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Alraune
+Alraune es resistente el ataque de Makoto
+Alraune recibe 28 de daño
+Alraune termina con HP:399/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:399/427 MP:177/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:121/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Alraune
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:399/427 MP:177/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:121/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:121/597 MP:315/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Makoto
+El ataque drena 41 HP de Makoto
+Makoto termina con HP:80/597
+Alraune termina con HP:427/427
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:427/427 MP:172/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:80/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Momunofu
+2-Goblin
+3-Itsuki
+4-Alraune
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nadja HP:399/399 MP:179/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Momunofu use
+1-Charge MP:9
+2-Fatal Sword MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Momunofu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:427/427 MP:172/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:80/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Alraune
+4-Momunofu
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nadja HP:399/399 MP:179/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Goblin
+1-Makoto HP:80/597 MP:315/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ataca a Makoto
+Makoto es resistente el ataque de Goblin
+Makoto recibe 11 de daño
+Makoto termina con HP:69/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:188/413
+B-Alraune HP:427/427 MP:172/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:69/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Alraune
+3-Momunofu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Mediarahan MP:40
+2-Bouncing Claw MP:4
+3-Bufu MP:5
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:69/597 MP:315/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki lanza hielo a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 35 de daño
+Makoto termina con HP:34/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:183/413
+B-Alraune HP:427/427 MP:172/192
+C-Momunofu HP:331/331 MP:66/66
+D-Goblin HP:322/322 MP:63/63
+Equipo de Makoto (J2)
+A-Makoto HP:34/597 MP:315/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Momunofu
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Makoto HP:34/597 MP:315/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Makoto
+El ataque drena 34 HP de Makoto
+Makoto termina con HP:0/597
+Alraune termina con HP:427/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

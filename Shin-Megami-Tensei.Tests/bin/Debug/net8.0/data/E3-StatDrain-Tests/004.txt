@@ -1,0 +1,906 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+INPUT: 3
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Energy Drain MP:10
+2-Maragidyne MP:32
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Flynn
+Itsuki recibe 240 de daño
+Itsuki termina con HP:896/1136
+Flynn lanza fuego a Inugami
+Inugami devuelve 160 daño a Flynn
+Flynn lanza fuego a Asherah
+Asherah devuelve 160 daño a Flynn
+Flynn lanza fuego a Karasu Tengu
+Karasu Tengu devuelve 160 daño a Flynn
+Flynn termina con HP:491/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:491/971 MP:495/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:896/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:491/971 MP:495/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:446/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:446/971 MP:495/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:896/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Flynn HP:446/971 MP:495/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Flynn
+Flynn recibe 35 de daño
+Flynn termina con HP:411/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:411/971 MP:495/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:896/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Itsuki
+4-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Flynn HP:411/971 MP:495/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Flynn
+Flynn recibe 18 de daño
+Flynn termina con HP:393/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:393/971 MP:495/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:896/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Asherah
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Flynn HP:393/971 MP:495/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Flynn
+Flynn recibe 17 de daño
+Flynn termina con HP:376/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:376/971 MP:495/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:896/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Energy Drain MP:10
+2-Maragidyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:896/1136 MP:413/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza un ataque todo poderoso a Itsuki
+El ataque drena 65 HP de Itsuki
+Itsuki termina con HP:831/1136
+Flynn termina con HP:441/971
+El ataque drena 65 MP de Itsuki
+Itsuki termina con MP:348/413
+Flynn termina con MP:527/527
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:441/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:441/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:396/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:396/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Flynn HP:396/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Flynn
+Flynn recibe 35 de daño
+Flynn termina con HP:361/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:361/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Itsuki
+4-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Flynn HP:361/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Flynn
+Flynn recibe 18 de daño
+Flynn termina con HP:343/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:343/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Asherah
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Flynn HP:343/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Flynn
+Flynn recibe 17 de daño
+Flynn termina con HP:326/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:326/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Energy Drain MP:10
+2-Maragidyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:831/1136 MP:348/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza un ataque todo poderoso a Inugami
+El ataque drena 65 HP de Inugami
+Inugami termina con HP:149/214
+Flynn termina con HP:391/971
+El ataque drena 65 MP de Inugami
+Inugami termina con MP:44/109
+Flynn termina con MP:527/527
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:391/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:149/214 MP:44/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:391/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:346/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:346/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:149/214 MP:44/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Flynn HP:346/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Flynn
+Flynn recibe 35 de daño
+Flynn termina con HP:311/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:311/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:149/214 MP:44/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Itsuki
+4-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Flynn HP:311/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Flynn
+Flynn recibe 18 de daño
+Flynn termina con HP:293/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:293/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:149/214 MP:44/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Asherah
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Flynn HP:293/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Flynn
+Flynn recibe 17 de daño
+Flynn termina con HP:276/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:276/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:149/214 MP:44/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Energy Drain MP:10
+2-Maragidyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Itsuki HP:831/1136 MP:348/413
+2-Inugami HP:149/214 MP:44/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza un ataque todo poderoso a Inugami
+El ataque drena 65 HP de Inugami
+Inugami termina con HP:84/214
+Flynn termina con HP:341/971
+El ataque drena 44 MP de Inugami
+Inugami termina con MP:0/109
+Flynn termina con MP:527/527
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:341/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:84/214 MP:0/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Flynn HP:341/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Flynn
+Flynn recibe 45 de daño
+Flynn termina con HP:296/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:296/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:84/214 MP:0/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Flynn HP:296/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Flynn
+Flynn recibe 35 de daño
+Flynn termina con HP:261/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:261/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:84/214 MP:0/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Itsuki
+4-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Flynn HP:261/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Flynn
+Flynn recibe 18 de daño
+Flynn termina con HP:243/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:243/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:84/214 MP:0/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Asherah
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Flynn HP:243/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Flynn
+Flynn recibe 17 de daño
+Flynn termina con HP:226/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:226/971 MP:527/527
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:831/1136 MP:348/413
+B-Inugami HP:84/214 MP:0/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Energy Drain MP:10
+2-Maragidyne MP:32
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Flynn
+Itsuki recibe 240 de daño
+Itsuki termina con HP:591/1136
+Flynn lanza fuego a Inugami
+Inugami devuelve 160 daño a Flynn
+Flynn lanza fuego a Asherah
+Asherah devuelve 160 daño a Flynn
+Flynn lanza fuego a Karasu Tengu
+Karasu Tengu devuelve 160 daño a Flynn
+Flynn termina con HP:0/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

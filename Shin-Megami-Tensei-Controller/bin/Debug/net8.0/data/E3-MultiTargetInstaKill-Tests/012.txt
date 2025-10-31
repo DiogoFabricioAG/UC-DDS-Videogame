@@ -1,0 +1,225 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 11
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Scathach HP:343/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Kei
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Scathach HP:343/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Alice
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Mamudo MP:18
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca con oscuridad a Kei
+Kei es resistente el ataque de Kei
+Kei ha sido eliminado
+Kei termina con HP:0/760
+Kei ataca con oscuridad a Scathach
+Kei ha fallado el ataque
+Scathach termina con HP:343/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:398/398
+B-Scathach HP:343/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Kei
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Scathach
+Scathach recibe 29 de daño
+Scathach termina con HP:314/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:398/398
+B-Scathach HP:314/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:760/760 MP:380/398
+2-Alice HP:277/277 MP:269/269
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:747/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:747/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:398/398
+B-Scathach HP:314/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Kei
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:747/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:0/760 MP:398/398
+B-Scathach HP:314/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Alice
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kei (J1) se rinde
+----------------------------------------
+Ganador: Kei (J2)

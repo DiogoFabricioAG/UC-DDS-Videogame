@@ -1,0 +1,1409 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 12
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Rapid Needle MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 86 de daño
+Demi-Fiend termina con HP:1141/1227
+Demi-Fiend dispara a Kanbari
+Kanbari bloquea el ataque de Demi-Fiend
+Kanbari termina con HP:350/350
+Demi-Fiend dispara a Gryphon
+Gryphon es débil contra el ataque de Demi-Fiend
+Gryphon recibe 129 de daño
+Gryphon termina con HP:0/123
+Demi-Fiend dispara a Kukunochi
+Kukunochi absorbe 86 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:257/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1141/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Yurlungur
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama dispara a Demi-Fiend
+Demi-Fiend recibe 113 de daño
+Demi-Fiend termina con HP:1028/1227
+Kama dispara a Kanbari
+Kanbari bloquea el ataque de Kama
+Kanbari termina con HP:350/350
+Kama dispara a Kukunochi
+Kukunochi absorbe 113 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Yurlungur
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:196/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1028/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Demi-Fiend
+3-Kama
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yurlungur use
+1-Blast Arrow MP:16
+2-Ice Breath MP:21
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur dispara a Demi-Fiend
+Demi-Fiend recibe 67 de daño
+Demi-Fiend termina con HP:961/1227
+Yurlungur dispara a Kanbari
+Kanbari bloquea el ataque de Yurlungur
+Kanbari termina con HP:350/350
+Yurlungur dispara a Kukunochi
+Kukunochi absorbe 67 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:825/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:961/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Rapid Needle MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 86 de daño
+Demi-Fiend termina con HP:875/1227
+Demi-Fiend dispara a Kanbari
+Kanbari bloquea el ataque de Demi-Fiend
+Kanbari termina con HP:350/350
+Demi-Fiend dispara a Kukunochi
+Kukunochi absorbe 86 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:816/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:875/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:816/834
+2-Yurlungur HP:202/202 MP:180/196
+3-Kama HP:574/574 MP:231/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:816/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:875/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Demi-Fiend HP:1227/1227 MP:816/834
+2-Yurlungur HP:202/202 MP:180/196
+3-Kama HP:574/574 MP:231/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kukunochi
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:816/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:875/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Rapid Needle MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 86 de daño
+Demi-Fiend termina con HP:789/1227
+Demi-Fiend dispara a Kanbari
+Kanbari bloquea el ataque de Demi-Fiend
+Kanbari termina con HP:350/350
+Demi-Fiend dispara a Kukunochi
+Kukunochi absorbe 86 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:807/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:789/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:807/834
+2-Yurlungur HP:202/202 MP:180/196
+3-Kama HP:574/574 MP:231/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:807/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:789/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Demi-Fiend HP:1227/1227 MP:807/834
+2-Yurlungur HP:202/202 MP:180/196
+3-Kama HP:574/574 MP:231/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kukunochi
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:807/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:789/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Rapid Needle MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 86 de daño
+Demi-Fiend termina con HP:703/1227
+Demi-Fiend dispara a Kanbari
+Kanbari bloquea el ataque de Demi-Fiend
+Kanbari termina con HP:350/350
+Demi-Fiend dispara a Kukunochi
+Kukunochi absorbe 86 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:798/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:703/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:798/834
+2-Yurlungur HP:202/202 MP:180/196
+3-Kama HP:574/574 MP:231/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:1113/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1113/1227 MP:798/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:703/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Demi-Fiend HP:1113/1227 MP:798/834
+2-Yurlungur HP:202/202 MP:180/196
+3-Kama HP:574/574 MP:231/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kukunochi
+Demi-Fiend termina con HP:1113/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1113/1227 MP:798/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:703/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:703/1227 MP:834/834
+2-Kanbari HP:350/350 MP:68/68
+3-Kukunochi HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:589/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1113/1227 MP:798/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:231/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:589/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Yurlungur
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama dispara a Demi-Fiend
+Demi-Fiend recibe 113 de daño
+Demi-Fiend termina con HP:476/1227
+Kama dispara a Kanbari
+Kanbari bloquea el ataque de Kama
+Kanbari termina con HP:350/350
+Kama dispara a Kukunochi
+Kukunochi absorbe 113 daño
+Kukunochi termina con HP:254/254
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1113/1227 MP:798/834
+B-Yurlungur HP:202/202 MP:180/196
+C-Kama HP:574/574 MP:205/257
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:476/1227 MP:834/834
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kukunochi
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Demi-Fiend (J1)

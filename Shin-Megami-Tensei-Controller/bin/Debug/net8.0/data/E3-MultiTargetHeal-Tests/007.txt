@@ -1,0 +1,1138 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 6
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Alciel
+3-Dormarth
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:971/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Flynn
+Flynn recibe 49 de daño
+Flynn termina con HP:922/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:922/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Dormarth
+3-Kanbari
+4-Yu
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Flynn HP:922/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Flynn
+Flynn recibe 55 de daño
+Flynn termina con HP:867/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:867/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Kanbari
+3-Yu
+4-Alciel
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Flynn HP:867/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Flynn
+Flynn recibe 29 de daño
+Flynn termina con HP:838/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:838/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Yu
+3-Alciel
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Flynn HP:838/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Flynn
+Flynn recibe 25 de daño
+Flynn termina con HP:813/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Aniel
+3-Alilat
+4-Scathach
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Kanbari
+Kanbari es débil contra el ataque de Flynn
+Kanbari recibe 132 de daño
+Kanbari termina con HP:218/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:218/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Alilat
+3-Scathach
+4-Flynn
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:218/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Kanbari
+Kanbari es débil contra el ataque de Aniel
+Kanbari recibe 71 de daño
+Kanbari termina con HP:147/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:147/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Alilat
+2-Scathach
+3-Flynn
+4-Aniel
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:147/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ataca a Kanbari
+Kanbari es débil contra el ataque de Alilat
+Kanbari recibe 71 de daño
+Kanbari termina con HP:76/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:76/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Scathach
+2-Flynn
+3-Aniel
+4-Alilat
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:76/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Alciel
+Alciel es débil contra el ataque de Scathach
+Alciel recibe 41 de daño
+Alciel termina con HP:678/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:76/350 MP:68/68
+C-Alciel HP:678/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 4
+----------------------------------------
+Orden:
+1-Flynn
+2-Aniel
+3-Alilat
+4-Scathach
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:76/350 MP:68/68
+3-Alciel HP:678/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Alciel
+Alciel es débil contra el ataque de Flynn
+Alciel recibe 132 de daño
+Alciel termina con HP:546/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:76/350 MP:68/68
+C-Alciel HP:546/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Aniel
+2-Alilat
+3-Scathach
+4-Flynn
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:76/350 MP:68/68
+3-Alciel HP:546/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel ataca a Alciel
+Alciel es débil contra el ataque de Aniel
+Alciel recibe 71 de daño
+Alciel termina con HP:475/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:76/350 MP:68/68
+C-Alciel HP:475/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Alilat
+2-Scathach
+3-Flynn
+4-Aniel
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:76/350 MP:68/68
+3-Alciel HP:475/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat ataca a Alciel
+Alciel es débil contra el ataque de Alilat
+Alciel recibe 71 de daño
+Alciel termina con HP:404/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:76/350 MP:68/68
+C-Alciel HP:404/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Flynn
+3-Aniel
+4-Alilat
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:597/597 MP:347/347
+2-Kanbari HP:76/350 MP:68/68
+3-Alciel HP:404/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Alciel
+Alciel es débil contra el ataque de Scathach
+Alciel recibe 41 de daño
+Alciel termina con HP:363/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kanbari HP:76/350 MP:68/68
+C-Alciel HP:363/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Alciel
+3-Dormarth
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kabuso HP:137/137 MP:131/131
+2-Gryphon HP:123/123 MP:23/23
+3-Kukunochi HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kanbari HP:76/350 MP:68/68 (Puesto 2)
+2-Alciel HP:363/719 MP:143/143 (Puesto 3)
+3-Dormarth HP:277/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-Alciel HP:363/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alciel
+2-Dormarth
+3-Kabuso
+4-Yu
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kanbari HP:76/350 MP:68/68
+2-Gryphon HP:123/123 MP:23/23
+3-Kukunochi HP:254/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kukunochi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:813/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Kabuso
+3-Yu
+4-Kukunochi
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Flynn HP:813/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Flynn
+Flynn recibe 29 de daño
+Flynn termina con HP:784/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:784/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Yu
+3-Kukunochi
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Flynn HP:784/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Flynn
+Flynn recibe 13 de daño
+Flynn termina con HP:771/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:771/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Kukunochi
+3-Dormarth
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Flynn HP:771/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Flynn
+Flynn recibe 49 de daño
+Flynn termina con HP:722/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Aniel
+3-Alilat
+4-Scathach
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Yu HP:597/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Kukunochi HP:254/254 MP:246/246
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Kabuso
+Kabuso recibe 88 de daño
+Kabuso termina con HP:49/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:49/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Alilat
+3-Scathach
+4-Flynn
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Yu HP:597/597 MP:347/347
+2-Kabuso HP:49/137 MP:131/131
+3-Kukunochi HP:254/254 MP:246/246
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel ataca a Kukunochi
+Kukunochi recibe 47 de daño
+Kukunochi termina con HP:207/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:49/137 MP:131/131
+C-Kukunochi HP:207/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Scathach
+3-Flynn
+4-Aniel
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Yu HP:597/597 MP:347/347
+2-Kabuso HP:49/137 MP:131/131
+3-Kukunochi HP:207/254 MP:246/246
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Alilat ataca a Dormarth
+Dormarth recibe 47 de daño
+Dormarth termina con HP:230/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:49/137 MP:131/131
+C-Kukunochi HP:207/254 MP:246/246
+D-Dormarth HP:230/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Flynn
+3-Aniel
+4-Alilat
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:597/597 MP:347/347
+2-Kabuso HP:49/137 MP:131/131
+3-Kukunochi HP:207/254 MP:246/246
+4-Dormarth HP:230/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Scathach ataca a Dormarth
+Dormarth recibe 27 de daño
+Dormarth termina con HP:203/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Kabuso HP:49/137 MP:131/131
+C-Kukunochi HP:207/254 MP:246/246
+D-Dormarth HP:203/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Dormarth
+3-Kukunochi
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarmdra MP:2
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu cura a Kabuso
+Kabuso recibe 68 de HP
+Kabuso termina con HP:117/137
+Yu cura a Kukunochi
+Kukunochi recibe 127 de HP
+Kukunochi termina con HP:254/254
+Yu cura a Dormarth
+Dormarth recibe 138 de HP
+Dormarth termina con HP:277/277
+Yu cura a Kanbari
+Kanbari recibe 175 de HP
+Kanbari termina con HP:251/350
+Yu cura a Alciel
+Alciel recibe 359 de HP
+Alciel termina con HP:719/719
+Yu cura a Gryphon
+Gryphon recibe 61 de HP
+Gryphon termina con HP:123/123
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:345/347
+B-Kabuso HP:117/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:722/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Kukunochi
+3-Kabuso
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Flynn HP:722/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Flynn
+Flynn recibe 29 de daño
+Flynn termina con HP:693/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:345/347
+B-Kabuso HP:117/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:693/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Kabuso
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:693/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Flynn
+Flynn recibe 26 de daño
+Flynn termina con HP:667/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:345/347
+B-Kabuso HP:117/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:667/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Dormarth
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kabuso
+1-Flynn HP:667/971 MP:527/527
+2-Alilat HP:441/441 MP:428/428
+3-Aniel HP:567/567 MP:255/255
+4-Scathach HP:343/343 MP:153/153
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ataca a Flynn
+Flynn recibe 13 de daño
+Flynn termina con HP:654/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:345/347
+B-Kabuso HP:117/137 MP:131/131
+C-Kukunochi HP:254/254 MP:246/246
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Flynn (J2)
+A-Flynn HP:654/971 MP:527/527
+B-Alilat HP:441/441 MP:428/428
+C-Aniel HP:567/567 MP:255/255
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Aniel
+3-Alilat
+4-Scathach
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Flynn (J2) se rinde
+----------------------------------------
+Ganador: Yu (J1)

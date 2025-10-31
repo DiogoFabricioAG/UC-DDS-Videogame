@@ -1,0 +1,144 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 8
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alice HP:277/277 MP:269/269
+C-David HP:224/224 MP:99/99
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alilat HP:441/441 MP:428/428
+C-Tlazolteotl HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Alice
+3-David
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mamudoon MP:30
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca con oscuridad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:1227/1227
+Demi-Fiend ataca con oscuridad a Alilat
+Alilat bloquea el ataque de Demi-Fiend
+Alilat termina con HP:441/441
+Demi-Fiend ataca con oscuridad a Tlazolteotl
+Tlazolteotl bloquea el ataque de Demi-Fiend
+Tlazolteotl termina con HP:315/315
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:804/834
+B-Alice HP:277/277 MP:269/269
+C-David HP:224/224 MP:99/99
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alilat HP:441/441 MP:428/428
+C-Tlazolteotl HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-David
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alice use
+1-Die for Me! MP:45
+2-Dream Needle MP:9
+3-Energy Drain MP:10
+4-Dekunda MP:10
+5-Debilitate MP:50
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca con oscuridad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Alice
+Demi-Fiend termina con HP:1227/1227
+Alice ataca con oscuridad a Alilat
+Alilat bloquea el ataque de Alice
+Alilat termina con HP:441/441
+Alice ataca con oscuridad a Tlazolteotl
+Tlazolteotl bloquea el ataque de Alice
+Tlazolteotl termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:804/834
+B-Alice HP:277/277 MP:224/269
+C-David HP:224/224 MP:99/99
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Alilat HP:441/441 MP:428/428
+C-Tlazolteotl HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Alilat
+3-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Demi-Fiend (J1)

@@ -1,0 +1,822 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 1
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:574/574 MP:257/257
+C-Lham Dearg HP:91/91 MP:19/19
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Javelin Rain MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 97 de daño
+Kei termina con HP:663/760
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 97 de daño
+Kama termina con HP:477/574
+Demi-Fiend ataca a Lham Dearg
+Lham Dearg es resistente el ataque de Demi-Fiend
+Lham Dearg recibe 97 de daño
+Lham Dearg termina con HP:0/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:663/760 MP:398/398
+B-Kama HP:477/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1227/1227 MP:813/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:813/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:663/760 MP:398/398
+B-Kama HP:477/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Javelin Rain MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 97 de daño
+Kei termina con HP:566/760
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 97 de daño
+Kama termina con HP:380/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:566/760 MP:398/398
+B-Kama HP:380/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1227/1227 MP:792/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:792/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:566/760 MP:398/398
+B-Kama HP:380/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Javelin Rain MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 97 de daño
+Kei termina con HP:469/760
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 97 de daño
+Kama termina con HP:283/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:469/760 MP:398/398
+B-Kama HP:283/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1227/1227 MP:771/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:771/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:469/760 MP:398/398
+B-Kama HP:283/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Javelin Rain MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 97 de daño
+Kei termina con HP:372/760
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 97 de daño
+Kama termina con HP:186/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:372/760 MP:398/398
+B-Kama HP:186/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1227/1227 MP:750/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:750/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:372/760 MP:398/398
+B-Kama HP:186/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Javelin Rain MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 97 de daño
+Kei termina con HP:275/760
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 97 de daño
+Kama termina con HP:89/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:275/760 MP:398/398
+B-Kama HP:89/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Demi-Fiend HP:1227/1227 MP:729/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kama
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:275/760 MP:398/398
+B-Kama HP:89/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Javelin Rain MP:21
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 97 de daño
+Kei termina con HP:178/760
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 97 de daño
+Kama termina con HP:0/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:708/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:178/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:708/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kei
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:708/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:178/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:178/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 57 de daño
+Kei termina con HP:121/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:708/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:121/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:708/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kei
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:708/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:121/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:121/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 84 de daño
+Kei termina con HP:37/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:708/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:37/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:708/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kei
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:708/834
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:37/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:37/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 84 de daño
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

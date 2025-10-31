@@ -1,0 +1,119 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 3
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Mahama MP:18
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca con luz a Kyouji
+Kyouji bloquea el ataque de Kei
+Kyouji termina con HP:999/999
+Kei ataca con luz a Yurlungur
+Kei ha fallado el ataque
+Yurlungur termina con HP:202/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Yurlungur
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kyouji (J2) se rinde
+----------------------------------------
+Ganador: Kei (J1)

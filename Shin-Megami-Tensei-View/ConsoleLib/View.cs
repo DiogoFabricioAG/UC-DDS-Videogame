@@ -153,6 +153,64 @@ public class View
             : $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
         WriteLine(SEPARATOR);
     }
+
+    public void DisplayAbilityAllLogs(List<int> quantityDone, Unit attacker, Team team, AffinityType type,
+        AbilityType abilityType,  bool reviveUnit = false, bool sacrific = false)
+    {
+        int pointer = 0;
+        foreach (var attacked in sacrific ?  team.AllUnitsExceptInTurn(attacker) : team.HelperSelectableUnitsForHealAbilities(attacker)  )
+        {
+            var affinityText = type == AffinityType.Weak ? "débil contra" : type == AffinityType.Resist ? "resistente" : string.Empty;
+            var attackType = abilityType switch
+            {
+                AbilityType.Phys => "ataca",
+                AbilityType.Gun => "dispara",
+                AbilityType.Fire => "lanza fuego",
+                AbilityType.Ice => "lanza hielo",
+                AbilityType.Elec => "lanza electricidad",
+                AbilityType.Force => "lanza viento",
+                AbilityType.Light => "ataca con luz",
+                AbilityType.Dark => "ataca con oscuridad",
+                AbilityType.Heal => team.DestroyedUnits.Contains(attacked) ? "revive" : "cura",
+                _ => ""
+            };
+
+            var healOrDamage = abilityType != AbilityType.Heal ? "daño" : "HP";
+            
+
+            WriteLine($"{attacker.Name} {attackType} a {attacked.Name}");
+            switch (type)
+            {
+                case AffinityType.Weak:
+                case AffinityType.Resist:
+                    WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
+                    WriteLine($"{attacked.Name} recibe {quantityDone[pointer]} de daño");
+                    break;
+                case AffinityType.Null:
+                    WriteLine($"{attacked.Name} bloquea el ataque de {attacker.Name}");
+                    break;
+                case AffinityType.Repel:
+                    WriteLine($"{attacked.Name} devuelve {quantityDone[pointer]} daño a {attacker.Name}");
+                    break;
+                case AffinityType.Drain:
+                    WriteLine($"{attacked.Name} absorbe {Math.Abs(quantityDone[pointer])} daño");
+                    break;
+                case AffinityType.Neutral:
+                default:
+                    WriteLine($"{attacked.Name} recibe {quantityDone[pointer]} de {healOrDamage}");
+                    break;
+            }
+
+            WriteLine(type == AffinityType.Repel
+                ? $"{attacker.Name} termina con HP:{attacker.Attributes.CurrentHp}/{attacker.Attributes.MaxHp}"
+                : $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
+            pointer++;
+        }
+        if (sacrific)
+            WriteLine($"{attacker.Name} termina con HP:0/{attacker.Attributes.MaxHp}");
+        WriteLine(SEPARATOR);
+
+    }
     
     public void TurnUsedDisplayWithParameters(TurnContext ctx)
     {

@@ -1,0 +1,680 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 60
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Wendigo HP:331/331 MP:66/66
+C-Hel HP:254/254 MP:246/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Pale Rider HP:693/693 MP:310/310
+C-Red Rider HP:917/917 MP:183/183
+D-Plasma HP:179/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Tadano
+Tadano recibe 232 de daño
+Tadano termina con HP:156/388
+Demi-Fiend lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Demi-Fiend
+Pale Rider recibe 116 de daño
+Pale Rider termina con HP:577/693
+Demi-Fiend lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Demi-Fiend
+Red Rider recibe 348 de daño
+Red Rider termina con HP:569/917
+Demi-Fiend lanza hielo a Plasma
+Plasma es débil contra el ataque de Demi-Fiend
+Plasma recibe 348 de daño
+Plasma termina con HP:0/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:66/66
+C-Hel HP:254/254 MP:246/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:156/388 MP:193/193
+B-Pale Rider HP:577/693 MP:310/310
+C-Red Rider HP:569/917 MP:183/183
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Tadano
+Tadano recibe 86 de daño
+Tadano termina con HP:70/388
+Hel lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Hel
+Pale Rider recibe 43 de daño
+Pale Rider termina con HP:534/693
+Hel lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Hel
+Red Rider recibe 129 de daño
+Red Rider termina con HP:440/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:66/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:70/388 MP:193/193
+B-Pale Rider HP:534/693 MP:310/310
+C-Red Rider HP:440/917 MP:183/183
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Tadano
+Tadano recibe 40 de daño
+Tadano termina con HP:30/388
+Wendigo lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Wendigo
+Pale Rider recibe 20 de daño
+Pale Rider termina con HP:514/693
+Wendigo lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Wendigo
+Red Rider recibe 60 de daño
+Red Rider termina con HP:380/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:30/388 MP:193/193
+B-Pale Rider HP:514/693 MP:310/310
+C-Red Rider HP:380/917 MP:183/183
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Tadano
+Tadano recibe 232 de daño
+Tadano termina con HP:0/388
+Demi-Fiend lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Demi-Fiend
+Pale Rider recibe 116 de daño
+Pale Rider termina con HP:398/693
+Demi-Fiend lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Demi-Fiend
+Red Rider recibe 348 de daño
+Red Rider termina con HP:32/917
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:398/693 MP:310/310
+C-Red Rider HP:32/917 MP:183/183
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Hel
+Pale Rider recibe 43 de daño
+Pale Rider termina con HP:355/693
+Hel lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Hel
+Red Rider recibe 129 de daño
+Red Rider termina con HP:0/917
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:355/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Wendigo
+Pale Rider recibe 20 de daño
+Pale Rider termina con HP:335/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:335/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Demi-Fiend HP:1227/1227 MP:770/834
+2-Wendigo HP:331/331 MP:44/66
+3-Hel HP:254/254 MP:206/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Pale Rider
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:335/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Demi-Fiend
+Pale Rider recibe 116 de daño
+Pale Rider termina con HP:219/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:219/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Hel
+Pale Rider recibe 43 de daño
+Pale Rider termina con HP:176/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:176/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Wendigo
+Pale Rider recibe 20 de daño
+Pale Rider termina con HP:156/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:156/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Demi-Fiend HP:1227/1227 MP:738/834
+2-Wendigo HP:331/331 MP:33/66
+3-Hel HP:254/254 MP:186/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Pale Rider
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:156/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Demi-Fiend
+Pale Rider recibe 116 de daño
+Pale Rider termina con HP:40/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Pale Rider HP:40/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Pale Rider
+Pale Rider es resistente el ataque de Hel
+Pale Rider recibe 43 de daño
+Pale Rider termina con HP:0/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

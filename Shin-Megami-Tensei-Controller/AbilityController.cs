@@ -21,7 +21,7 @@ public abstract class AbilityController
         Ability.ValidateMp(ctx.User, ctx.Ability); 
         
         var numberHits = MultiHitController.GetHits(ctx.Ability.Hits, ctx.Team.NumAbilitiesCast);
-        var affinityType = ctx.Target.Affinity.KnowAffinity(ctx.Ability.Type);
+        var affinityType = ctx.Target.Affinity.GetAffinity(ctx.Ability.Type);
         var modifier = Affinity.AffinityModifier(affinityType);
 
         var userDamageStat = ctx.Ability.Type switch
@@ -49,14 +49,38 @@ public abstract class AbilityController
         ctx.user.Attributes.CurrentMp -= ctx.ability.Cost;
     }
 
+    public static List<int> HealAndSacrifice(Unit user, Team team,Ability ability)
+    {
+        user.HandleDamage(user.Attributes.CurrentHp);
+        
+        return UseHealAbilityAllies(user, team, ability, true);
+    }
+
     
     public static int UseHealAbility(Unit user, Unit selectedUnit, Ability ability)
     {
         var healRealized = CalculateHealAmount(user, selectedUnit, ability);
+        user.BurnManaPoints(ability);
         
         ApplyHealEffect(selectedUnit, healRealized);
         
         return healRealized;
+    }
+
+    public static List<int> UseHealAbilityAllies(Unit user, Team team,Ability ability, bool revive = false)
+    {
+        List<int> healAllies = [];
+        foreach (var unit in revive ? team.AllUnitsExceptInTurn(user): team.HelperSelectableUnitsForHealAbilities(user) )
+        {
+            var healRealized = CalculateHealAmount(user, unit, ability);
+
+            ApplyHealEffect(unit, healRealized);
+
+            healAllies.Add(healRealized);
+        }
+        user.BurnManaPoints(ability);
+
+        return healAllies;
     }
 
     private static int CalculateHealAmount(Unit user, Unit selectedUnit, Ability ability)

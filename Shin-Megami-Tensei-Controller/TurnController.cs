@@ -12,7 +12,7 @@ public abstract class TurnController
         TurnWastedContext ctx)
     {
         if (!ctx.haveAffinity) return GetLossForNoAffinity(ctx.currentTeam);
-        var affinity = ctx.unitAffected.Affinity.KnowAffinity(ctx.abilityType);
+        var affinity = ctx.unitAffected.Affinity.GetAffinity(ctx.abilityType);
 
         return affinity switch
         {
@@ -23,7 +23,19 @@ public abstract class TurnController
             _ => GetLossForWeakAffinity(ctx.currentTeam)
         };
     }
-    
+
+    public static (int blinkingLoss, int fullLoss, int blinkingWon) GetTurnWastedByTeam(Ability ability, Team team, Team teamOnTurn)
+    {
+        AffinityType affinity = Affinity.GetPrioritizeAffinity(team.StartingTeam, ability);
+        return affinity switch
+        {
+            AffinityType.Resist or AffinityType.Neutral => GetLossForStandardAffinity(teamOnTurn),
+            AffinityType.Weak => GetLossForWeakAffinity(teamOnTurn),
+            AffinityType.Null => GetLossForNullAffinity(teamOnTurn),
+            AffinityType.Repel or AffinityType.Drain => GetLossForReflectingAffinity(teamOnTurn),
+            _ => GetLossForWeakAffinity(teamOnTurn)
+        };
+    }
 
     private static (int blinkingLoss, int fullLoss, int blinkingWon) GetLossForStandardAffinity(Team team)
     {

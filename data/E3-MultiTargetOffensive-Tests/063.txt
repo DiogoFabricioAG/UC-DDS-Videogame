@@ -1,0 +1,2077 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 62
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Odin HP:352/352 MP:342/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Lailah HP:212/212 MP:205/205
+C-Metatron HP:879/879 MP:175/175
+D-Kanbari HP:350/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+3-Dominion
+4-Quicksilver
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Lailah
+Lailah es débil contra el ataque de Yu
+Lailah recibe 180 de daño
+Lailah termina con HP:32/212
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:819/879
+Yu lanza electricidad a Kanbari
+Kanbari recibe 120 de daño
+Kanbari termina con HP:230/350
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:342/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Lailah HP:32/212 MP:205/205
+C-Metatron HP:819/879 MP:175/175
+D-Kanbari HP:230/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Odin
+2-Dominion
+3-Quicksilver
+4-Yu
+----------------------------------------
+Seleccione una acción para Odin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Odin use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Odin lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Odin
+Demi-Fiend termina con HP:1227/1227
+Odin lanza electricidad a Lailah
+Lailah es débil contra el ataque de Odin
+Lailah recibe 217 de daño
+Lailah termina con HP:0/212
+Odin lanza electricidad a Metatron
+Metatron es resistente el ataque de Odin
+Metatron recibe 72 de daño
+Metatron termina con HP:747/879
+Odin lanza electricidad a Kanbari
+Kanbari recibe 145 de daño
+Kanbari termina con HP:85/350
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Metatron
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Metatron
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kanbari
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Demi-Fiend
+3-Metatron
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+3-Dominion
+4-Quicksilver
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Odin
+2-Dominion
+3-Quicksilver
+4-Yu
+----------------------------------------
+Seleccione una acción para Odin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:278/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:747/879 MP:175/175
+D-Kanbari HP:85/350 MP:68/68
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Quicksilver
+3-Yu
+4-Odin
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dominion use
+1-Mazionga MP:20
+2-Megido MP:25
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dominion lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Dominion
+Demi-Fiend termina con HP:1227/1227
+Dominion lanza electricidad a Metatron
+Metatron es resistente el ataque de Dominion
+Metatron recibe 40 de daño
+Metatron termina con HP:707/879
+Dominion lanza electricidad a Kanbari
+Kanbari recibe 81 de daño
+Kanbari termina con HP:4/350
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:90/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:707/879 MP:175/175
+D-Kanbari HP:4/350 MP:68/68
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quicksilver
+2-Yu
+3-Odin
+4-Dominion
+----------------------------------------
+Seleccione una acción para Quicksilver
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quicksilver use
+1-Mazio MP:11
+2-Panic Caster MP:10
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Quicksilver lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Quicksilver
+Demi-Fiend termina con HP:1227/1227
+Quicksilver lanza electricidad a Metatron
+Metatron es resistente el ataque de Quicksilver
+Metatron recibe 18 de daño
+Metatron termina con HP:689/879
+Quicksilver lanza electricidad a Kanbari
+Kanbari recibe 37 de daño
+Kanbari termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:689/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:689/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:689/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:689/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:315/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:689/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+3-Dominion
+4-Quicksilver
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:629/879
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:283/347
+B-Odin HP:352/352 MP:320/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:629/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Odin
+2-Dominion
+3-Quicksilver
+4-Yu
+----------------------------------------
+Seleccione una acción para Odin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Odin use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Odin lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Odin
+Demi-Fiend termina con HP:1227/1227
+Odin lanza electricidad a Metatron
+Metatron es resistente el ataque de Odin
+Metatron recibe 72 de daño
+Metatron termina con HP:557/879
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:283/347
+B-Odin HP:352/352 MP:298/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:287/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:557/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:597/597 MP:283/347
+2-Odin HP:352/352 MP:298/342
+3-Quicksilver HP:203/203 MP:79/90
+4-Dominion HP:287/287 MP:258/278
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend ataca a Dominion
+Dominion recibe 168 de daño
+Dominion termina con HP:119/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:283/347
+B-Odin HP:352/352 MP:298/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:119/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:557/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:597/597 MP:283/347
+2-Odin HP:352/352 MP:298/342
+3-Quicksilver HP:203/203 MP:79/90
+4-Dominion HP:119/287 MP:258/278
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Metatron ataca a Dominion
+Dominion recibe 68 de daño
+Dominion termina con HP:51/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:283/347
+B-Odin HP:352/352 MP:298/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:51/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:557/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+3-Dominion
+4-Quicksilver
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:497/879
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:251/347
+B-Odin HP:352/352 MP:298/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:51/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:497/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Odin
+2-Dominion
+3-Quicksilver
+4-Yu
+----------------------------------------
+Seleccione una acción para Odin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Odin use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Odin lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Odin
+Demi-Fiend termina con HP:1227/1227
+Odin lanza electricidad a Metatron
+Metatron es resistente el ataque de Odin
+Metatron recibe 72 de daño
+Metatron termina con HP:425/879
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:251/347
+B-Odin HP:352/352 MP:276/342
+C-Quicksilver HP:203/203 MP:79/90
+D-Dominion HP:51/287 MP:258/278
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:425/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:597/597 MP:251/347
+2-Odin HP:352/352 MP:276/342
+3-Quicksilver HP:203/203 MP:79/90
+4-Dominion HP:51/287 MP:258/278
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend ataca a Dominion
+Dominion recibe 168 de daño
+Dominion termina con HP:0/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:251/347
+B-Odin HP:352/352 MP:276/342
+C-Quicksilver HP:203/203 MP:79/90
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:425/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:597/597 MP:251/347
+2-Odin HP:352/352 MP:276/342
+3-Quicksilver HP:203/203 MP:79/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Metatron ataca a Quicksilver
+Quicksilver recibe 68 de daño
+Quicksilver termina con HP:135/203
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:251/347
+B-Odin HP:352/352 MP:276/342
+C-Quicksilver HP:135/203 MP:79/90
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:425/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+3-Quicksilver
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:365/879
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:219/347
+B-Odin HP:352/352 MP:276/342
+C-Quicksilver HP:135/203 MP:79/90
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:365/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Odin
+2-Quicksilver
+3-Yu
+----------------------------------------
+Seleccione una acción para Odin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Odin use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Odin lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Odin
+Demi-Fiend termina con HP:1227/1227
+Odin lanza electricidad a Metatron
+Metatron es resistente el ataque de Odin
+Metatron recibe 72 de daño
+Metatron termina con HP:293/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:219/347
+B-Odin HP:352/352 MP:254/342
+C-Quicksilver HP:135/203 MP:79/90
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:293/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:597/597 MP:219/347
+2-Odin HP:352/352 MP:254/342
+3-Quicksilver HP:135/203 MP:79/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Quicksilver
+Quicksilver recibe 168 de daño
+Quicksilver termina con HP:0/203
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:219/347
+B-Odin HP:352/352 MP:254/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:293/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:597/597 MP:219/347
+2-Odin HP:352/352 MP:254/342
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Metatron ataca a Odin
+Odin recibe 68 de daño
+Odin termina con HP:284/352
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:219/347
+B-Odin HP:284/352 MP:254/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:293/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:233/879
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:187/347
+B-Odin HP:284/352 MP:254/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:233/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:597/597 MP:187/347
+2-Odin HP:284/352 MP:254/342
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Odin
+Odin recibe 168 de daño
+Odin termina con HP:116/352
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:187/347
+B-Odin HP:116/352 MP:254/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:233/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:597/597 MP:187/347
+2-Odin HP:116/352 MP:254/342
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Metatron ataca a Odin
+Odin recibe 68 de daño
+Odin termina con HP:48/352
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:187/347
+B-Odin HP:48/352 MP:254/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:233/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Odin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:187/347
+B-Odin HP:48/352 MP:254/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:233/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Odin
+2-Yu
+----------------------------------------
+Seleccione una acción para Odin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Odin use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Odin lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Odin
+Demi-Fiend termina con HP:1227/1227
+Odin lanza electricidad a Metatron
+Metatron es resistente el ataque de Odin
+Metatron recibe 72 de daño
+Metatron termina con HP:161/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:187/347
+B-Odin HP:48/352 MP:232/342
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:161/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:597/597 MP:187/347
+2-Odin HP:48/352 MP:232/342
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Odin
+Odin recibe 168 de daño
+Odin termina con HP:0/352
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:187/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:161/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:597/597 MP:187/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Yu
+Yu es resistente el ataque de Metatron
+Yu recibe 34 de daño
+Yu termina con HP:563/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:563/597 MP:187/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:161/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:101/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:563/597 MP:155/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:101/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:563/597 MP:155/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Yu
+Yu es resistente el ataque de Demi-Fiend
+Yu recibe 84 de daño
+Yu termina con HP:479/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:479/597 MP:155/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:101/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:479/597 MP:155/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Yu
+Yu es resistente el ataque de Metatron
+Yu recibe 34 de daño
+Yu termina con HP:445/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:445/597 MP:155/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:101/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:41/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:445/597 MP:123/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:41/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Metatron
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:445/597 MP:123/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Yu
+Yu es resistente el ataque de Demi-Fiend
+Yu recibe 84 de daño
+Yu termina con HP:361/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:361/597 MP:123/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:41/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Yu HP:361/597 MP:123/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Yu
+Yu es resistente el ataque de Metatron
+Yu recibe 34 de daño
+Yu termina con HP:327/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:327/597 MP:123/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Metatron HP:41/879 MP:175/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+Yu lanza electricidad a Metatron
+Metatron es resistente el ataque de Yu
+Metatron recibe 60 de daño
+Metatron termina con HP:0/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:327/597 MP:91/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:327/597 MP:91/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Yu
+Yu es resistente el ataque de Demi-Fiend
+Yu recibe 84 de daño
+Yu termina con HP:243/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:243/597 MP:91/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:243/597 MP:59/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:243/597 MP:59/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Yu
+Yu es resistente el ataque de Demi-Fiend
+Yu recibe 84 de daño
+Yu termina con HP:159/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:159/597 MP:59/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Maziodyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:159/597 MP:27/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:159/597 MP:27/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Yu
+Yu es resistente el ataque de Demi-Fiend
+Yu recibe 84 de daño
+Yu termina con HP:75/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:75/597 MP:27/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Yu
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:75/597 MP:27/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Yu HP:75/597 MP:27/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Yu
+Yu es resistente el ataque de Demi-Fiend
+Yu recibe 84 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J2)

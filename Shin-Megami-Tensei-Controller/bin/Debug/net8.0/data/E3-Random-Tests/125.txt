@@ -1,0 +1,4139 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 124
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:624/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Suparna HP:175/175 MP:77/77
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Taraka
+3-Tlazolteotl
+4-Haoma
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:971/971 MP:527/527
+2-Suparna HP:175/175 MP:77/77
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Suparna
+Suparna recibe 38 de daño
+Suparna termina con HP:137/175
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:624/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Suparna HP:137/175 MP:77/77
+C-Magatsuhi HP:851/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taraka
+2-Tlazolteotl
+3-Haoma
+4-Makoto
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taraka
+1-Flynn HP:971/971 MP:527/527
+2-Suparna HP:137/175 MP:77/77
+3-Magatsuhi HP:851/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Taraka ataca a Magatsuhi
+Magatsuhi recibe 47 de daño
+Magatsuhi termina con HP:804/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:624/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Suparna HP:137/175 MP:77/77
+C-Magatsuhi HP:804/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Haoma
+3-Makoto
+4-Taraka
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Flynn HP:971/971 MP:527/527
+2-Suparna HP:137/175 MP:77/77
+3-Magatsuhi HP:804/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ataca a Magatsuhi
+Magatsuhi recibe 33 de daño
+Magatsuhi termina con HP:771/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:624/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Suparna HP:137/175 MP:77/77
+C-Magatsuhi HP:771/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Makoto
+3-Taraka
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Haoma dispara a Flynn
+Flynn recibe 84 de daño
+Flynn termina con HP:887/971
+Haoma dispara a Suparna
+Suparna recibe 84 de daño
+Suparna termina con HP:53/175
+Haoma dispara a Magatsuhi
+Magatsuhi recibe 84 de daño
+Magatsuhi termina con HP:687/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:280/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:624/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:597/597 MP:347/347
+2-Haoma HP:305/305 MP:280/296
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Taraka HP:624/624 MP:124/124
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Taraka
+Taraka es débil contra el ataque de Flynn
+Taraka recibe 165 de daño
+Taraka termina con HP:459/624
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:280/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:459/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Suparna
+3-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:280/296
+C-Tlazolteotl HP:315/315 MP:306/306
+D-Taraka HP:459/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Flynn
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Suparna use
+1-Rakukaja MP:15
+2-Media MP:12
+3-Spirit Drain MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Makoto HP:597/597 MP:347/347
+2-Haoma HP:305/305 MP:280/296
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Taraka HP:459/624 MP:124/124
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Suparna ataca a Tlazolteotl
+Tlazolteotl recibe 12 de daño
+Tlazolteotl termina con HP:303/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:280/296
+C-Tlazolteotl HP:303/315 MP:306/306
+D-Taraka HP:459/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:597/597 MP:347/347
+2-Haoma HP:305/305 MP:280/296
+3-Tlazolteotl HP:303/315 MP:306/306
+4-Taraka HP:459/624 MP:124/124
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Haoma
+Haoma es resistente el ataque de Flynn
+Haoma recibe 55 de daño
+Haoma termina con HP:250/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:250/305 MP:280/296
+C-Tlazolteotl HP:303/315 MP:306/306
+D-Taraka HP:459/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Taraka
+3-Tlazolteotl
+4-Haoma
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:250/305 MP:280/296
+C-Tlazolteotl HP:303/315 MP:306/306
+D-Taraka HP:459/624 MP:124/124
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taraka
+2-Tlazolteotl
+3-Haoma
+4-Makoto
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koumokuten HP:378/378 MP:170/170
+2-Dantalion HP:197/197 MP:190/190
+3-Yurlungur HP:202/202 MP:196/196
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dantalion ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:250/305 MP:280/296
+C-Tlazolteotl HP:303/315 MP:306/306
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Haoma
+3-Makoto
+4-Dantalion
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:459/624 MP:124/124
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:202/202 MP:196/196
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Haoma HP:250/305 MP:280/296
+C-Yurlungur HP:202/202 MP:196/196
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Makoto
+3-Dantalion
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tlazolteotl HP:303/315 MP:306/306
+2-Taraka HP:459/624 MP:124/124
+3-Koumokuten HP:378/378 MP:170/170
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Koumokuten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Dantalion
+3-Yurlungur
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Dantalion HP:197/197 MP:190/190
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dantalion
+2-Yurlungur
+3-Koumokuten
+4-Makoto
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dantalion
+1-Flynn HP:887/971 MP:527/527
+2-Suparna HP:53/175 MP:77/77
+3-Magatsuhi HP:687/851 MP:170/170
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:250/305 MP:280/296
+2-Tlazolteotl HP:303/315 MP:306/306
+3-Taraka HP:459/624 MP:124/124
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:687/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Koumokuten
+3-Makoto
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Flynn HP:887/971 MP:527/527
+2-Suparna HP:53/175 MP:77/77
+3-Magatsuhi HP:687/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Magatsuhi
+Magatsuhi recibe 20 de daño
+Magatsuhi termina con HP:667/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:597/597 MP:347/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:202/202 MP:196/196
+4-Tlazolteotl HP:303/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Suparna
+3-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:347/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:202/202 MP:196/196
+4-Tlazolteotl HP:303/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Makoto
+Makoto es resistente el ataque de Magatsuhi
+Makoto recibe 32 de daño
+Makoto termina con HP:565/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Flynn
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Suparna use
+1-Rakukaja MP:15
+2-Media MP:12
+3-Spirit Drain MP:5
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Makoto HP:565/597 MP:347/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:202/202 MP:196/196
+4-Tlazolteotl HP:303/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Suparna lanza un ataque todo poderoso a Makoto
+El ataque drena 24 MP de Makoto
+Makoto termina con MP:323/347
+Suparna termina con MP:77/77
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Suparna
+3-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Koumokuten
+3-Tlazolteotl
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Tlazolteotl
+3-Yurlungur
+4-Makoto
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-Tlazolteotl HP:303/315 MP:306/306
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Yurlungur
+3-Makoto
+4-Koumokuten
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl cura a Makoto
+Makoto recibe 298 de HP
+Makoto termina con HP:597/597
+Tlazolteotl cura a Koumokuten
+Koumokuten recibe 189 de HP
+Koumokuten termina con HP:378/378
+Tlazolteotl cura a Yurlungur
+Yurlungur recibe 101 de HP
+Yurlungur termina con HP:202/202
+Tlazolteotl cura a Haoma
+Haoma recibe 152 de HP
+Haoma termina con HP:305/305
+Tlazolteotl cura a Taraka
+Taraka recibe 312 de HP
+Taraka termina con HP:624/624
+Tlazolteotl cura a Dantalion
+Dantalion recibe 98 de HP
+Dantalion termina con HP:197/197
+Tlazolteotl cura a Samael
+Samael recibe 472 de HP
+Samael termina con HP:945/945
+Tlazolteotl termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makoto
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Dantalion HP:197/197 MP:190/190
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dantalion ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Dantalion HP:197/197 MP:190/190
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:667/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Koumokuten
+3-Dantalion
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:527/527
+2-Suparna HP:53/175 MP:77/77
+3-Magatsuhi HP:667/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Magatsuhi
+Magatsuhi recibe 57 de daño
+Magatsuhi termina con HP:610/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Dantalion HP:197/197 MP:190/190
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Dantalion
+3-Makoto
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Dantalion HP:197/197 MP:190/190
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dantalion
+2-Makoto
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Dantalion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Yurlungur HP:202/202 MP:196/196
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:202/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:527/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:597/597 MP:323/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:202/202 MP:196/196
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn lanza viento a Yurlungur
+Yurlungur recibe 141 de daño
+Yurlungur termina con HP:61/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:378/378 MP:170/170
+C-Yurlungur HP:61/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:519/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Suparna
+3-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:323/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:61/202 MP:196/196
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:323/347
+2-Koumokuten HP:378/378 MP:170/170
+3-Yurlungur HP:61/202 MP:196/196
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Koumokuten
+Koumokuten recibe 65 de daño
+Koumokuten termina con HP:313/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:313/378 MP:170/170
+C-Yurlungur HP:61/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:519/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Flynn
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Suparna use
+1-Rakukaja MP:15
+2-Media MP:12
+3-Spirit Drain MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:323/347
+B-Koumokuten HP:313/378 MP:170/170
+C-Yurlungur HP:61/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:519/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 65 de daño
+Makoto termina con HP:532/597
+Flynn lanza hielo a Koumokuten
+Koumokuten recibe 130 de daño
+Koumokuten termina con HP:183/378
+Flynn lanza hielo a Yurlungur
+Yurlungur absorbe 130 daño
+Yurlungur termina con HP:191/202
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:323/347
+B-Koumokuten HP:183/378 MP:170/170
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Koumokuten
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Dantalion HP:197/197 MP:190/190
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Koumokuten HP:183/378 MP:170/170 (Puesto 2)
+2-Yurlungur HP:191/202 MP:196/196 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:323/347
+B-Koumokuten HP:183/378 MP:170/170
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:610/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koumokuten use
+1-Megaton Press MP:17
+2-Ziodyne MP:14
+3-Mortal Jihad MP:13
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:887/971 MP:499/527
+2-Suparna HP:53/175 MP:77/77
+3-Magatsuhi HP:610/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Koumokuten ataca a Magatsuhi
+Magatsuhi recibe 109 de daño
+Magatsuhi termina con HP:501/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:323/347
+B-Koumokuten HP:183/378 MP:157/170
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makoto
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yurlungur use
+1-Blast Arrow MP:16
+2-Ice Breath MP:21
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Dantalion HP:197/197 MP:190/190
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Taraka ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:323/347
+B-Koumokuten HP:183/378 MP:157/170
+C-Taraka HP:624/624 MP:124/124
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Koumokuten
+3-Taraka
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Dantalion HP:197/197 MP:190/190
+3-Yurlungur HP:191/202 MP:196/196
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Koumokuten HP:183/378 MP:157/170 (Puesto 2)
+2-Taraka HP:624/624 MP:124/124 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:323/347
+B-Koumokuten HP:183/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:53/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Samael
+3-Makoto
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Dantalion HP:197/197 MP:190/190
+4-Yurlungur HP:191/202 MP:196/196
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koumokuten
+1-Flynn HP:887/971 MP:499/527
+2-Suparna HP:53/175 MP:77/77
+3-Magatsuhi HP:501/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Koumokuten ataca a Suparna
+Suparna recibe 30 de daño
+Suparna termina con HP:23/175
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:323/347
+B-Koumokuten HP:183/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+3-Suparna
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:532/597 MP:323/347
+2-Koumokuten HP:183/378 MP:157/170
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:532/597 MP:323/347
+2-Koumokuten HP:183/378 MP:157/170
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 44 de daño
+Makoto termina con HP:488/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:488/597 MP:323/347
+B-Koumokuten HP:183/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Suparna
+3-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:488/597 MP:323/347
+2-Koumokuten HP:183/378 MP:157/170
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Koumokuten
+Koumokuten recibe 65 de daño
+Koumokuten termina con HP:118/378
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:488/597 MP:323/347
+B-Koumokuten HP:118/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Suparna
+2-Flynn
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Suparna use
+1-Rakukaja MP:15
+2-Media MP:12
+3-Spirit Drain MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Makoto HP:488/597 MP:323/347
+2-Koumokuten HP:118/378 MP:157/170
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Suparna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Suparna
+1-Makoto HP:488/597 MP:323/347
+2-Koumokuten HP:118/378 MP:157/170
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Suparna ataca a Makoto
+Makoto es resistente el ataque de Suparna
+Makoto recibe 6 de daño
+Makoto termina con HP:482/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Koumokuten HP:118/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Makoto
+3-Koumokuten
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Koumokuten HP:118/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:501/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Koumokuten
+3-Samael
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:499/527
+2-Suparna HP:23/175 MP:77/77
+3-Magatsuhi HP:501/851 MP:170/170
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Magatsuhi
+Magatsuhi recibe 57 de daño
+Magatsuhi termina con HP:444/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Koumokuten HP:118/378 MP:157/170
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koumokuten
+2-Samael
+3-Makoto
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Dantalion HP:197/197 MP:190/190
+4-Yurlungur HP:191/202 MP:196/196
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Koumokuten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:305/305 MP:280/296
+2-Taraka HP:624/624 MP:124/124
+3-Dantalion HP:197/197 MP:190/190
+4-Yurlungur HP:191/202 MP:196/196
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:305/305 MP:280/296
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+2-Makoto
+3-Haoma
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:305/305 MP:280/296
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-Suparna HP:23/175 MP:77/77
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Samael
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:499/527
+2-Suparna HP:23/175 MP:77/77
+3-Magatsuhi HP:444/851 MP:170/170
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Suparna
+Suparna recibe 57 de daño
+Suparna termina con HP:0/175
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:305/305 MP:280/296
+C-Samael HP:945/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:482/597 MP:323/347
+2-Haoma HP:305/305 MP:280/296
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Samael
+Samael recibe 110 de daño
+Samael termina con HP:835/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:305/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:305/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:482/597 MP:323/347
+2-Haoma HP:305/305 MP:280/296
+3-Samael HP:835/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Haoma
+Haoma recibe 88 de daño
+Haoma termina con HP:217/305
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Makoto
+3-Haoma
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Samael
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:499/527
+2-Magatsuhi HP:444/851 MP:170/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:444/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Samael
+3-Makoto
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:887/971 MP:499/527
+2-Magatsuhi HP:444/851 MP:170/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Haoma ataca a Magatsuhi
+Magatsuhi recibe 32 de daño
+Magatsuhi termina con HP:412/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:412/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Makoto
+3-Haoma
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:323/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:887/971 MP:499/527
+B-
+C-Magatsuhi HP:412/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Samael
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:499/527
+2-Magatsuhi HP:412/851 MP:170/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:499/527
+2-Magatsuhi HP:412/851 MP:170/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:887/971 MP:499/527
+2-Magatsuhi HP:412/851 MP:170/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Megidola MP:40
+2-Mahama MP:18
+3-Berserker God MP:12
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza un ataque todo poderoso a Flynn
+Flynn recibe 122 de daño
+Flynn termina con HP:765/971
+Makoto lanza un ataque todo poderoso a Magatsuhi
+Magatsuhi recibe 122 de daño
+Magatsuhi termina con HP:290/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:283/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:835/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:765/971 MP:499/527
+B-
+C-Magatsuhi HP:290/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:482/597 MP:283/347
+2-Haoma HP:217/305 MP:280/296
+3-Samael HP:835/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Samael
+Samael recibe 110 de daño
+Samael termina con HP:725/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:482/597 MP:283/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:725/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:765/971 MP:499/527
+B-
+C-Magatsuhi HP:290/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Flynn
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:482/597 MP:283/347
+2-Haoma HP:217/305 MP:280/296
+3-Samael HP:725/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Makoto
+Makoto es resistente el ataque de Magatsuhi
+Makoto recibe 32 de daño
+Makoto termina con HP:450/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:283/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:725/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:765/971 MP:499/527
+B-
+C-Magatsuhi HP:290/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Makoto
+3-Haoma
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:624/624 MP:124/124
+2-Koumokuten HP:118/378 MP:157/170
+3-Dantalion HP:197/197 MP:190/190
+4-Yurlungur HP:191/202 MP:196/196
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yurlungur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:283/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:765/971 MP:499/527
+B-
+C-Magatsuhi HP:290/851 MP:170/170
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Megidola MP:40
+2-Mahama MP:18
+3-Berserker God MP:12
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca con luz a Flynn
+Flynn bloquea el ataque de Makoto
+Flynn termina con HP:765/971
+Makoto ataca con luz a Magatsuhi
+Magatsuhi ha sido eliminado
+Magatsuhi termina con HP:0/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:265/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:765/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:765/971 MP:499/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:765/971 MP:499/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:765/971 MP:499/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:733/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:265/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:733/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:265/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:733/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:265/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:733/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Megidola MP:40
+2-Mahama MP:18
+3-Berserker God MP:12
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza un ataque todo poderoso a Flynn
+Flynn recibe 122 de daño
+Flynn termina con HP:611/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:225/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:611/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:225/347
+B-Haoma HP:217/305 MP:280/296
+C-Yurlungur HP:191/202 MP:196/196
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:611/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makoto
+3-Haoma
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:624/624 MP:124/124
+2-Koumokuten HP:118/378 MP:157/170
+3-Dantalion HP:197/197 MP:190/190
+4-Samael HP:725/945 MP:189/189
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Taraka ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:225/347
+B-Haoma HP:217/305 MP:280/296
+C-Taraka HP:624/624 MP:124/124
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:611/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Taraka
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koumokuten HP:118/378 MP:157/170
+2-Dantalion HP:197/197 MP:190/190
+3-Yurlungur HP:191/202 MP:196/196
+4-Samael HP:725/945 MP:189/189
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Haoma HP:217/305 MP:280/296 (Puesto 2)
+2-Taraka HP:624/624 MP:124/124 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:225/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:725/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:611/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Samael
+3-Makoto
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:611/971 MP:499/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:579/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:225/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:725/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:579/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:450/597 MP:225/347
+B-Haoma HP:217/305 MP:280/296
+C-Samael HP:725/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:579/971 MP:499/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 65 de daño
+Makoto termina con HP:385/597
+Flynn lanza hielo a Haoma
+Haoma recibe 130 de daño
+Haoma termina con HP:87/305
+Flynn lanza hielo a Samael
+Samael recibe 130 de daño
+Samael termina con HP:595/945
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:385/597 MP:225/347
+B-Haoma HP:87/305 MP:280/296
+C-Samael HP:595/945 MP:189/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:579/971 MP:479/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Makoto
+3-Haoma
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Makoto HP:385/597 MP:225/347
+2-Haoma HP:87/305 MP:280/296
+3-Samael HP:595/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Samael cura a Makoto
+Makoto recibe 597 de HP
+Makoto termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:225/347
+B-Haoma HP:87/305 MP:280/296
+C-Samael HP:595/945 MP:173/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:579/971 MP:479/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Haoma
+3-Samael
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:579/971 MP:479/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:522/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:225/347
+B-Haoma HP:87/305 MP:280/296
+C-Samael HP:595/945 MP:173/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:522/971 MP:479/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Samael
+3-Makoto
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:522/971 MP:479/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:490/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:225/347
+B-Haoma HP:87/305 MP:280/296
+C-Samael HP:595/945 MP:173/189
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:490/971 MP:479/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:597/597 MP:225/347
+2-Haoma HP:87/305 MP:280/296
+3-Samael HP:595/945 MP:173/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca con luz a Samael
+Samael es débil contra el ataque de Flynn
+Samael ha sido eliminado
+Samael termina con HP:0/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:225/347
+B-Haoma HP:87/305 MP:280/296
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:490/971 MP:473/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:490/971 MP:473/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 65 de daño
+Makoto termina con HP:532/597
+Flynn lanza hielo a Haoma
+Haoma recibe 130 de daño
+Haoma termina con HP:0/305
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:225/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:490/971 MP:453/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:225/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:490/971 MP:453/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:490/971 MP:453/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Megidola MP:40
+2-Mahama MP:18
+3-Berserker God MP:12
+4-Critical Wave MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:225/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:490/971 MP:453/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:532/597 MP:225/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:532/597 MP:225/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 44 de daño
+Makoto termina con HP:488/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:488/597 MP:225/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:490/971 MP:453/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:490/971 MP:453/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:433/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:488/597 MP:225/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:433/971 MP:453/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Plasma Discharge MP:22
+2-Mabufula MP:20
+3-Hama MP:6
+4-Diarama MP:9
+5-Zanma MP:8
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Flynn lanza electricidad a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 94 de daño
+Makoto termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

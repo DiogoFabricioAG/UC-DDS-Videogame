@@ -1,0 +1,2130 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 10
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:388/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:354/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:354/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:354/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:340/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:340/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:340/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Tadano
+Tadano es resistente el ataque de Lailah
+Tadano recibe 11 de daño
+Tadano termina con HP:329/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:329/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:329/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:320/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:320/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Ishtar
+3-Tadano
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:760/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:747/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:747/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:320/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+3-Scathach
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:747/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Kei
+Kei es resistente el ataque de Ishtar
+Kei recibe 13 de daño
+Kei termina con HP:734/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:734/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:320/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Scathach
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:734/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 8 de daño
+Kei termina con HP:726/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:726/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:320/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:320/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:286/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:726/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:286/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:286/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:272/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:726/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:272/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:272/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Tadano
+Tadano es resistente el ataque de Lailah
+Tadano recibe 11 de daño
+Tadano termina con HP:261/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:726/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:261/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:261/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:252/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:726/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Ishtar
+3-Tadano
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:726/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:713/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:713/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+3-Scathach
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:713/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Kei
+Kei es resistente el ataque de Ishtar
+Kei recibe 13 de daño
+Kei termina con HP:700/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Scathach
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:700/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 8 de daño
+Kei termina con HP:692/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:692/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:252/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:218/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:692/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:218/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:218/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:204/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:692/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:204/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:204/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Tadano
+Tadano es resistente el ataque de Lailah
+Tadano recibe 11 de daño
+Tadano termina con HP:193/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:692/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:193/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:193/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:184/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:692/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:184/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Ishtar
+3-Tadano
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:692/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:679/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:679/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:184/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+3-Scathach
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:679/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Kei
+Kei es resistente el ataque de Ishtar
+Kei recibe 13 de daño
+Kei termina con HP:666/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:666/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:184/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Scathach
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:666/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 8 de daño
+Kei termina con HP:658/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:658/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:184/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:184/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:150/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:658/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:150/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:150/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:136/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:658/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:136/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:136/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Tadano
+Tadano es resistente el ataque de Lailah
+Tadano recibe 11 de daño
+Tadano termina con HP:125/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:658/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:125/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:125/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:116/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:658/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:116/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Ishtar
+3-Tadano
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:658/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:645/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:645/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:116/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+3-Scathach
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:645/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Kei
+Kei es resistente el ataque de Ishtar
+Kei recibe 13 de daño
+Kei termina con HP:632/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:632/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:116/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Scathach
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:632/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 8 de daño
+Kei termina con HP:624/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:624/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:116/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:116/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:82/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:624/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:82/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:82/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:68/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:624/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:68/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:68/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Tadano
+Tadano es resistente el ataque de Lailah
+Tadano recibe 11 de daño
+Tadano termina con HP:57/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:624/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:57/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:57/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:48/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:624/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:48/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Ishtar
+3-Tadano
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:624/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:611/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:611/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:48/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Tadano
+3-Scathach
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:611/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Kei
+Kei es resistente el ataque de Ishtar
+Kei recibe 13 de daño
+Kei termina con HP:598/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:598/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:48/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Scathach
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:598/760 MP:398/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 8 de daño
+Kei termina con HP:590/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:590/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:48/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:48/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:14/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:590/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:14/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Tadano HP:14/388 MP:193/193
+2-Scathach HP:343/343 MP:153/153
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Tadano
+Tadano es resistente el ataque de Alice
+Tadano recibe 14 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:590/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:590/760 MP:398/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Mamudo MP:18
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca con oscuridad a Scathach
+Kei ha fallado el ataque
+Scathach termina con HP:343/343
+Kei ataca con oscuridad a Ishtar
+Ishtar es débil contra el ataque de Kei
+Ishtar ha sido eliminado
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:590/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:343/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Scathach
+Scathach recibe 68 de daño
+Scathach termina con HP:275/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:590/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:275/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:590/760 MP:380/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:577/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:577/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:275/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Scathach HP:275/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Scathach
+Scathach recibe 68 de daño
+Scathach termina con HP:207/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:577/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:207/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Scathach HP:207/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Scathach
+Scathach recibe 29 de daño
+Scathach termina con HP:178/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:577/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:178/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Scathach HP:178/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Scathach
+Scathach recibe 22 de daño
+Scathach termina con HP:156/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:577/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:156/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Scathach HP:156/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Scathach
+Scathach recibe 19 de daño
+Scathach termina con HP:137/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:577/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:137/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Kei HP:577/760 MP:380/398
+2-Alice HP:277/277 MP:269/269
+3-Metatron HP:879/879 MP:175/175
+4-Lailah HP:212/212 MP:205/205
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Kei
+Kei es resistente el ataque de Scathach
+Kei recibe 13 de daño
+Kei termina con HP:564/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:564/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:137/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alice
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Scathach HP:137/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Scathach
+Scathach recibe 68 de daño
+Scathach termina con HP:69/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:564/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:69/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Lailah
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Scathach HP:69/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca a Scathach
+Scathach recibe 29 de daño
+Scathach termina con HP:40/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:564/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:40/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Metatron
+4-Alice
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Scathach HP:40/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Scathach
+Scathach recibe 22 de daño
+Scathach termina con HP:18/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:564/760 MP:380/398
+B-Alice HP:277/277 MP:269/269
+C-Metatron HP:879/879 MP:175/175
+D-Lailah HP:212/212 MP:205/205
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Scathach HP:18/343 MP:153/153
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alice
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Scathach HP:18/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Scathach
+Scathach recibe 19 de daño
+Scathach termina con HP:0/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J1)

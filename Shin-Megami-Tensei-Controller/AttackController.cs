@@ -14,7 +14,7 @@ public abstract class AttackController
     {
         var abilityType = elementType == ElementType.Physics ? AbilityType.Phys : AbilityType.Gun;
     
-        var affinityType = target.Affinity.KnowAffinity(abilityType);
+        var affinityType = target.Affinity.GetAffinity(abilityType);
         var affinityModifier = Affinity.AffinityModifier(affinityType);
     
         var baseModifier = elementType == ElementType.Physics ? PHYSICS_MODIFIER : GUN_MODIFIER;

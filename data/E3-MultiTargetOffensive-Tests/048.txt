@@ -1,0 +1,1450 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 47
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Wendigo HP:331/331 MP:66/66
+C-Hel HP:254/254 MP:246/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-Orcus HP:567/567 MP:112/112
+C-Heimdall HP:581/581 MP:261/261
+D-Lilith HP:380/380 MP:369/369
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 116 de daño
+Tamaki termina con HP:883/999
+Demi-Fiend lanza hielo a Orcus
+Orcus es resistente el ataque de Demi-Fiend
+Orcus recibe 116 de daño
+Orcus termina con HP:451/567
+Demi-Fiend lanza hielo a Heimdall
+Heimdall es resistente el ataque de Demi-Fiend
+Heimdall recibe 116 de daño
+Heimdall termina con HP:465/581
+Demi-Fiend lanza hielo a Lilith
+Lilith es resistente el ataque de Demi-Fiend
+Lilith recibe 116 de daño
+Lilith termina con HP:264/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:66/66
+C-Hel HP:254/254 MP:246/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:883/999 MP:542/542
+B-Orcus HP:451/567 MP:112/112
+C-Heimdall HP:465/581 MP:261/261
+D-Lilith HP:264/380 MP:369/369
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 43 de daño
+Tamaki termina con HP:840/999
+Hel lanza hielo a Orcus
+Orcus es resistente el ataque de Hel
+Orcus recibe 43 de daño
+Orcus termina con HP:408/567
+Hel lanza hielo a Heimdall
+Heimdall es resistente el ataque de Hel
+Heimdall recibe 43 de daño
+Heimdall termina con HP:422/581
+Hel lanza hielo a Lilith
+Lilith es resistente el ataque de Hel
+Lilith recibe 43 de daño
+Lilith termina con HP:221/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:66/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:840/999 MP:542/542
+B-Orcus HP:408/567 MP:112/112
+C-Heimdall HP:422/581 MP:261/261
+D-Lilith HP:221/380 MP:369/369
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 20 de daño
+Tamaki termina con HP:820/999
+Wendigo lanza hielo a Orcus
+Orcus es resistente el ataque de Wendigo
+Orcus recibe 20 de daño
+Orcus termina con HP:388/567
+Wendigo lanza hielo a Heimdall
+Heimdall es resistente el ataque de Wendigo
+Heimdall recibe 20 de daño
+Heimdall termina con HP:402/581
+Wendigo lanza hielo a Lilith
+Lilith es resistente el ataque de Wendigo
+Lilith recibe 20 de daño
+Lilith termina con HP:201/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:820/999 MP:542/542
+B-Orcus HP:388/567 MP:112/112
+C-Heimdall HP:402/581 MP:261/261
+D-Lilith HP:201/380 MP:369/369
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Lilith
+3-Orcus
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Demi-Fiend HP:1227/1227 MP:802/834
+2-Wendigo HP:331/331 MP:55/66
+3-Hel HP:254/254 MP:226/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Heimdall
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:820/999 MP:542/542
+B-Orcus HP:388/567 MP:112/112
+C-Heimdall HP:402/581 MP:261/261
+D-Lilith HP:201/380 MP:369/369
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Orcus
+3-Tamaki
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Demi-Fiend HP:1227/1227 MP:802/834
+2-Wendigo HP:331/331 MP:55/66
+3-Hel HP:254/254 MP:226/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Lilith
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:802/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:820/999 MP:542/542
+B-Orcus HP:388/567 MP:112/112
+C-Heimdall HP:402/581 MP:261/261
+D-Lilith HP:201/380 MP:369/369
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 116 de daño
+Tamaki termina con HP:704/999
+Demi-Fiend lanza hielo a Orcus
+Orcus es resistente el ataque de Demi-Fiend
+Orcus recibe 116 de daño
+Orcus termina con HP:272/567
+Demi-Fiend lanza hielo a Heimdall
+Heimdall es resistente el ataque de Demi-Fiend
+Heimdall recibe 116 de daño
+Heimdall termina con HP:286/581
+Demi-Fiend lanza hielo a Lilith
+Lilith es resistente el ataque de Demi-Fiend
+Lilith recibe 116 de daño
+Lilith termina con HP:85/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:226/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:704/999 MP:542/542
+B-Orcus HP:272/567 MP:112/112
+C-Heimdall HP:286/581 MP:261/261
+D-Lilith HP:85/380 MP:369/369
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 43 de daño
+Tamaki termina con HP:661/999
+Hel lanza hielo a Orcus
+Orcus es resistente el ataque de Hel
+Orcus recibe 43 de daño
+Orcus termina con HP:229/567
+Hel lanza hielo a Heimdall
+Heimdall es resistente el ataque de Hel
+Heimdall recibe 43 de daño
+Heimdall termina con HP:243/581
+Hel lanza hielo a Lilith
+Lilith es resistente el ataque de Hel
+Lilith recibe 43 de daño
+Lilith termina con HP:42/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:55/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:661/999 MP:542/542
+B-Orcus HP:229/567 MP:112/112
+C-Heimdall HP:243/581 MP:261/261
+D-Lilith HP:42/380 MP:369/369
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 20 de daño
+Tamaki termina con HP:641/999
+Wendigo lanza hielo a Orcus
+Orcus es resistente el ataque de Wendigo
+Orcus recibe 20 de daño
+Orcus termina con HP:209/567
+Wendigo lanza hielo a Heimdall
+Heimdall es resistente el ataque de Wendigo
+Heimdall recibe 20 de daño
+Heimdall termina con HP:223/581
+Wendigo lanza hielo a Lilith
+Lilith es resistente el ataque de Wendigo
+Lilith recibe 20 de daño
+Lilith termina con HP:22/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:641/999 MP:542/542
+B-Orcus HP:209/567 MP:112/112
+C-Heimdall HP:223/581 MP:261/261
+D-Lilith HP:22/380 MP:369/369
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Lilith
+3-Orcus
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Demi-Fiend HP:1227/1227 MP:770/834
+2-Wendigo HP:331/331 MP:44/66
+3-Hel HP:254/254 MP:206/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Heimdall
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:641/999 MP:542/542
+B-Orcus HP:209/567 MP:112/112
+C-Heimdall HP:223/581 MP:261/261
+D-Lilith HP:22/380 MP:369/369
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Orcus
+3-Tamaki
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Demi-Fiend HP:1227/1227 MP:770/834
+2-Wendigo HP:331/331 MP:44/66
+3-Hel HP:254/254 MP:206/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Lilith
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:770/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:641/999 MP:542/542
+B-Orcus HP:209/567 MP:112/112
+C-Heimdall HP:223/581 MP:261/261
+D-Lilith HP:22/380 MP:369/369
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 116 de daño
+Tamaki termina con HP:525/999
+Demi-Fiend lanza hielo a Orcus
+Orcus es resistente el ataque de Demi-Fiend
+Orcus recibe 116 de daño
+Orcus termina con HP:93/567
+Demi-Fiend lanza hielo a Heimdall
+Heimdall es resistente el ataque de Demi-Fiend
+Heimdall recibe 116 de daño
+Heimdall termina con HP:107/581
+Demi-Fiend lanza hielo a Lilith
+Lilith es resistente el ataque de Demi-Fiend
+Lilith recibe 116 de daño
+Lilith termina con HP:0/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:206/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:525/999 MP:542/542
+B-Orcus HP:93/567 MP:112/112
+C-Heimdall HP:107/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 43 de daño
+Tamaki termina con HP:482/999
+Hel lanza hielo a Orcus
+Orcus es resistente el ataque de Hel
+Orcus recibe 43 de daño
+Orcus termina con HP:50/567
+Hel lanza hielo a Heimdall
+Heimdall es resistente el ataque de Hel
+Heimdall recibe 43 de daño
+Heimdall termina con HP:64/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:44/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:482/999 MP:542/542
+B-Orcus HP:50/567 MP:112/112
+C-Heimdall HP:64/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 20 de daño
+Tamaki termina con HP:462/999
+Wendigo lanza hielo a Orcus
+Orcus es resistente el ataque de Wendigo
+Orcus recibe 20 de daño
+Orcus termina con HP:30/567
+Wendigo lanza hielo a Heimdall
+Heimdall es resistente el ataque de Wendigo
+Heimdall recibe 20 de daño
+Heimdall termina con HP:44/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:462/999 MP:542/542
+B-Orcus HP:30/567 MP:112/112
+C-Heimdall HP:44/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Orcus
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Demi-Fiend HP:1227/1227 MP:738/834
+2-Wendigo HP:331/331 MP:33/66
+3-Hel HP:254/254 MP:186/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Heimdall
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:462/999 MP:542/542
+B-Orcus HP:30/567 MP:112/112
+C-Heimdall HP:44/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orcus
+2-Tamaki
+3-Heimdall
+----------------------------------------
+Seleccione una acción para Orcus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orcus
+1-Demi-Fiend HP:1227/1227 MP:738/834
+2-Wendigo HP:331/331 MP:33/66
+3-Hel HP:254/254 MP:186/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Orcus ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Orcus
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:738/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:462/999 MP:542/542
+B-Orcus HP:30/567 MP:112/112
+C-Heimdall HP:44/581 MP:261/261
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mabufudyne MP:32
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 116 de daño
+Tamaki termina con HP:346/999
+Demi-Fiend lanza hielo a Orcus
+Orcus es resistente el ataque de Demi-Fiend
+Orcus recibe 116 de daño
+Orcus termina con HP:0/567
+Demi-Fiend lanza hielo a Heimdall
+Heimdall es resistente el ataque de Demi-Fiend
+Heimdall recibe 116 de daño
+Heimdall termina con HP:0/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:346/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Tamaki HP:346/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:333/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:333/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Tamaki HP:333/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 11 de daño
+Tamaki termina con HP:322/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:322/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Demi-Fiend HP:1227/1227 MP:706/834
+2-Wendigo HP:331/331 MP:33/66
+3-Hel HP:254/254 MP:186/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tamaki
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:322/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tamaki HP:322/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 84 de daño
+Tamaki termina con HP:238/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:238/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Tamaki HP:238/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:225/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:225/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Tamaki HP:225/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 11 de daño
+Tamaki termina con HP:214/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:214/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Demi-Fiend HP:1227/1227 MP:706/834
+2-Wendigo HP:331/331 MP:33/66
+3-Hel HP:254/254 MP:186/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tamaki
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:214/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tamaki HP:214/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 84 de daño
+Tamaki termina con HP:130/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:130/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Tamaki HP:130/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:117/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:117/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Tamaki HP:117/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 11 de daño
+Tamaki termina con HP:106/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:106/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Demi-Fiend HP:1227/1227 MP:706/834
+2-Wendigo HP:331/331 MP:33/66
+3-Hel HP:254/254 MP:186/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tamaki
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:106/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tamaki HP:106/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tamaki
+Tamaki es resistente el ataque de Demi-Fiend
+Tamaki recibe 84 de daño
+Tamaki termina con HP:22/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:22/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wendigo
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Tamaki HP:22/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Tamaki
+Tamaki es resistente el ataque de Hel
+Tamaki recibe 13 de daño
+Tamaki termina con HP:9/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:706/834
+B-Wendigo HP:331/331 MP:33/66
+C-Hel HP:254/254 MP:186/246
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:9/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wendigo
+1-Tamaki HP:9/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo ataca a Tamaki
+Tamaki es resistente el ataque de Wendigo
+Tamaki recibe 11 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

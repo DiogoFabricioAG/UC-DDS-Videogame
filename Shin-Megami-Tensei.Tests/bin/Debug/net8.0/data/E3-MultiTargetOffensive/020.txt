@@ -1,0 +1,9 @@
+Player 1 Team
+[Samurai] Demi-Fiend (Blast Arrow)
+Yurlungur
+Kama
+Player 2 Team
+[Samurai] Kotone
+Patriot
+Arachne
+Garrote

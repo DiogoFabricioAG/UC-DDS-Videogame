@@ -1,0 +1,1734 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+INPUT: 0
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:1136/1136 MP:413/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Itsuki
+El ataque drena 94 HP de Itsuki
+Itsuki termina con HP:1042/1136
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:829/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1042/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:1227/1227 MP:829/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:829/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1042/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:1227/1227 MP:829/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:829/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1042/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Demi-Fiend
+Itsuki recibe 348 de daño
+Itsuki termina con HP:694/1136
+Demi-Fiend lanza fuego a Inugami
+Inugami devuelve 232 daño a Demi-Fiend
+Demi-Fiend lanza fuego a Asherah
+Asherah devuelve 232 daño a Demi-Fiend
+Demi-Fiend lanza fuego a Karasu Tengu
+Karasu Tengu devuelve 232 daño a Demi-Fiend
+Demi-Fiend termina con HP:531/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:531/1227 MP:797/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:694/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:531/1227 MP:797/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:531/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:531/1227 MP:797/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:694/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:531/1227 MP:797/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:531/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:531/1227 MP:797/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:694/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:694/1136 MP:413/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Itsuki
+El ataque drena 94 HP de Itsuki
+Itsuki termina con HP:600/1136
+Demi-Fiend termina con HP:625/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:625/1227 MP:792/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:600/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:625/1227 MP:792/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:625/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:625/1227 MP:792/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:600/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:625/1227 MP:792/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:625/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:625/1227 MP:792/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:600/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:600/1136 MP:413/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Itsuki
+El ataque drena 94 HP de Itsuki
+Itsuki termina con HP:506/1136
+Demi-Fiend termina con HP:719/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:719/1227 MP:787/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:506/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:719/1227 MP:787/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:719/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:719/1227 MP:787/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:506/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:719/1227 MP:787/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:719/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:719/1227 MP:787/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:506/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Demi-Fiend
+Itsuki recibe 348 de daño
+Itsuki termina con HP:158/1136
+Demi-Fiend lanza fuego a Inugami
+Inugami devuelve 232 daño a Demi-Fiend
+Demi-Fiend lanza fuego a Asherah
+Asherah devuelve 232 daño a Demi-Fiend
+Demi-Fiend lanza fuego a Karasu Tengu
+Karasu Tengu devuelve 232 daño a Demi-Fiend
+Demi-Fiend termina con HP:23/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:23/1227 MP:755/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:158/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:23/1227 MP:755/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:23/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:23/1227 MP:755/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:158/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:23/1227 MP:755/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:23/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:23/1227 MP:755/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:158/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:158/1136 MP:413/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Itsuki
+El ataque drena 94 HP de Itsuki
+Itsuki termina con HP:64/1136
+Demi-Fiend termina con HP:117/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:117/1227 MP:750/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:64/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Asherah
+3-Karasu Tengu
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Demi-Fiend HP:117/1227 MP:750/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Itsuki
+Demi-Fiend termina con HP:117/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:117/1227 MP:750/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:64/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:117/1227 MP:750/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:117/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:117/1227 MP:750/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:64/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:64/1136 MP:413/413
+2-Inugami HP:214/214 MP:109/109
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Itsuki
+El ataque drena 64 HP de Itsuki
+Itsuki termina con HP:0/1136
+Demi-Fiend termina con HP:181/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:181/1227 MP:745/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:181/1227 MP:745/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:181/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:181/1227 MP:745/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Demi-Fiend HP:181/1227 MP:745/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Karasu Tengu
+Demi-Fiend termina con HP:181/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:181/1227 MP:745/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:214/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Inugami HP:214/214 MP:109/109
+2-Asherah HP:433/433 MP:195/195
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Inugami
+El ataque drena 94 HP de Inugami
+Inugami termina con HP:120/214
+Demi-Fiend termina con HP:275/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:275/1227 MP:740/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:120/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:275/1227 MP:740/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:275/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:275/1227 MP:740/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:120/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Demi-Fiend HP:275/1227 MP:740/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Karasu Tengu
+Demi-Fiend termina con HP:275/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:275/1227 MP:740/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:120/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Inugami HP:120/214 MP:109/109
+2-Asherah HP:433/433 MP:195/195
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Inugami
+El ataque drena 94 HP de Inugami
+Inugami termina con HP:26/214
+Demi-Fiend termina con HP:369/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:369/1227 MP:735/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:26/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+3-Inugami
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:369/1227 MP:735/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:369/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:369/1227 MP:735/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:26/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Inugami
+3-Asherah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Demi-Fiend HP:369/1227 MP:735/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Karasu Tengu
+Demi-Fiend termina con HP:369/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:369/1227 MP:735/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Inugami HP:26/214 MP:109/109
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Inugami HP:26/214 MP:109/109
+2-Asherah HP:433/433 MP:195/195
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Inugami
+El ataque drena 26 HP de Inugami
+Inugami termina con HP:0/214
+Demi-Fiend termina con HP:395/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:395/1227 MP:730/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:395/1227 MP:730/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:395/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:395/1227 MP:730/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Asherah HP:433/433 MP:195/195
+2-Karasu Tengu HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Asherah
+El ataque drena 94 HP de Asherah
+Asherah termina con HP:339/433
+Demi-Fiend termina con HP:489/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:489/1227 MP:725/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:339/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:489/1227 MP:725/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:489/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:489/1227 MP:725/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:339/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Asherah HP:339/433 MP:195/195
+2-Karasu Tengu HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Asherah
+Asherah recibe 168 de daño
+Asherah termina con HP:171/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:489/1227 MP:725/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:171/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:489/1227 MP:725/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:489/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:489/1227 MP:725/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:171/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Asherah HP:171/433 MP:195/195
+2-Karasu Tengu HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Asherah
+El ataque drena 94 HP de Asherah
+Asherah termina con HP:77/433
+Demi-Fiend termina con HP:583/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:583/1227 MP:720/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:77/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:583/1227 MP:720/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:583/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:583/1227 MP:720/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-Asherah HP:77/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Asherah HP:77/433 MP:195/195
+2-Karasu Tengu HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Asherah
+El ataque drena 77 HP de Asherah
+Asherah termina con HP:0/433
+Demi-Fiend termina con HP:660/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:660/1227 MP:715/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Demi-Fiend HP:660/1227 MP:715/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Karasu Tengu
+Demi-Fiend termina con HP:660/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:660/1227 MP:715/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Karasu Tengu
+Karasu Tengu recibe 168 de daño
+Karasu Tengu termina con HP:70/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:660/1227 MP:715/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-
+D-Karasu Tengu HP:70/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Demi-Fiend HP:660/1227 MP:715/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Karasu Tengu
+Demi-Fiend termina con HP:660/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:660/1227 MP:715/834
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-
+C-
+D-Karasu Tengu HP:70/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Maragidyne MP:32
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Karasu Tengu HP:70/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Karasu Tengu
+El ataque drena 70 HP de Karasu Tengu
+Karasu Tengu termina con HP:0/238
+Demi-Fiend termina con HP:730/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

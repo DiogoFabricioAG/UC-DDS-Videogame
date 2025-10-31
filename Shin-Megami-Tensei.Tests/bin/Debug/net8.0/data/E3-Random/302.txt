@@ -1,0 +1,11 @@
+Player 1 Team
+[Samurai] Shujinko (Spirit Drain,Rapid Needle,Javelin Rain)
+Python
+Alice
+Gremlin
+Dakini
+Player 2 Team
+[Samurai] Itsuki (Hamaon,Recarm)
+Mithra
+Pallas Athena
+Alilat

@@ -1,0 +1,4914 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 235
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-Sphinx HP:376/376 MP:364/364
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:437/437 MP:423/423
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+4-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:971/971 MP:527/527
+2-Mokoi HP:74/74 MP:36/36
+3-Chemtrail HP:437/437 MP:423/423
+4-Vivian HP:319/319 MP:310/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Chemtrail
+Chemtrail recibe 57 de daño
+Chemtrail termina con HP:380/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-Sphinx HP:376/376 MP:364/364
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:380/437 MP:423/423
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Apsaras
+4-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Makara HP:161/161 MP:72/72
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makara ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-Makara HP:161/161 MP:72/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:380/437 MP:423/423
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Apsaras
+3-Makoto
+4-Makara
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-Makara HP:161/161 MP:72/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:380/437 MP:423/423
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Makoto
+3-Makara
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:161/161 MP:72/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:380/437 MP:423/423
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Makara
+3-Yurlungur
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:971/971 MP:527/527
+2-Mokoi HP:74/74 MP:36/36
+3-Chemtrail HP:380/437 MP:423/423
+4-Vivian HP:319/319 MP:310/310
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Vivian
+Vivian recibe 38 de daño
+Vivian termina con HP:281/319
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:161/161 MP:72/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:380/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makara
+2-Yurlungur
+3-Sphinx
+4-Makoto
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Makara use
+1-Bufu MP:5
+2-Zio MP:5
+3-Tarunda MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makara
+1-Flynn HP:971/971 MP:527/527
+2-Mokoi HP:74/74 MP:36/36
+3-Chemtrail HP:380/437 MP:423/423
+4-Vivian HP:281/319 MP:310/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makara lanza hielo a Chemtrail
+Chemtrail recibe 37 de daño
+Chemtrail termina con HP:343/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:161/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Chemtrail
+3-Vivian
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:161/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Mokoi
+4-Flynn
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:597/597 MP:347/347
+2-Yurlungur HP:202/202 MP:196/196
+3-Sphinx HP:376/376 MP:364/364
+4-Makara HP:161/161 MP:67/72
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chemtrail ataca a Makara
+Makara recibe 47 de daño
+Makara termina con HP:114/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Mokoi
+3-Flynn
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Flynn
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:851/851 MP:170/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Chemtrail
+3-Vivian
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Hachiman
+4-Flynn
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Hachiman
+3-Flynn
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Flynn
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:597/597 MP:347/347
+2-Yurlungur HP:202/202 MP:196/196
+3-Sphinx HP:376/376 MP:364/364
+4-Makara HP:114/161 MP:67/72
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hachiman ataca a Yurlungur
+Yurlungur recibe 65 de daño
+Yurlungur termina con HP:137/202
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+4-Makara
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bar Toss MP:35
+2-Judgement MP:45
+3-Thunder Reign MP:22
+4-Trisagion MP:22
+5-Mahama MP:18
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Makoto ataca con luz a Flynn
+Flynn bloquea el ataque de Makoto
+Flynn termina con HP:971/971
+Makoto ataca con luz a Hachiman
+Hachiman bloquea el ataque de Makoto
+Hachiman termina con HP:851/851
+Makoto ataca con luz a Chemtrail
+Makoto ha fallado el ataque
+Chemtrail termina con HP:343/437
+Makoto ataca con luz a Vivian
+Makoto ha fallado el ataque
+Vivian termina con HP:281/319
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Makara
+4-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Flynn HP:971/971 MP:527/527
+2-Hachiman HP:851/851 MP:170/170
+3-Chemtrail HP:343/437 MP:423/423
+4-Vivian HP:281/319 MP:310/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:919/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:919/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makara
+3-Makoto
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:919/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:281/319 MP:310/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makara
+2-Makoto
+3-Sphinx
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsaras HP:85/85 MP:81/81
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makara
+1-Flynn HP:919/971 MP:527/527
+2-Hachiman HP:851/851 MP:170/170
+3-Chemtrail HP:343/437 MP:423/423
+4-Vivian HP:281/319 MP:310/310
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makara
+1-Flynn HP:919/971 MP:527/527
+2-Hachiman HP:851/851 MP:170/170
+3-Chemtrail HP:343/437 MP:423/423
+4-Vivian HP:281/319 MP:310/310
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makara ataca a Vivian
+Vivian recibe 11 de daño
+Vivian termina con HP:270/319
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:919/971 MP:527/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:270/319 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:919/971 MP:527/527
+2-Hachiman HP:851/851 MP:170/170
+3-Chemtrail HP:343/437 MP:423/423
+4-Vivian HP:270/319 MP:310/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn cura a Flynn
+Flynn recibe 242 de HP
+Flynn termina con HP:971/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:270/319 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-Makara HP:114/161 MP:67/72
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:423/423
+D-Vivian HP:270/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:597/597 MP:329/347
+2-Yurlungur HP:137/202 MP:196/196
+3-Sphinx HP:376/376 MP:364/364
+4-Makara HP:114/161 MP:67/72
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chemtrail dispara a Makara
+Makara recibe 172 de daño
+Makara termina con HP:0/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:329/347
+B-Yurlungur HP:137/202 MP:196/196
+C-Sphinx HP:376/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:393/423
+D-Vivian HP:270/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Hachiman
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vivian use
+1-Lullaby MP:11
+2-Mabufula MP:20
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Vivian lanza hielo a Makoto
+Makoto es resistente el ataque de Vivian
+Makoto recibe 48 de daño
+Makoto termina con HP:549/597
+Vivian lanza hielo a Yurlungur
+Yurlungur absorbe 97 daño
+Yurlungur termina con HP:202/202
+Vivian lanza hielo a Sphinx
+Sphinx recibe 97 de daño
+Sphinx termina con HP:279/376
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:329/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:279/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Hachiman HP:851/851 MP:170/170
+C-Chemtrail HP:343/437 MP:393/423
+D-Vivian HP:270/319 MP:290/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bar Toss MP:35
+2-Judgement MP:45
+3-Thunder Reign MP:22
+4-Trisagion MP:22
+5-Mahama MP:18
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza un ataque todo poderoso a Flynn
+Flynn recibe 100 de daño
+Flynn termina con HP:871/971
+Makoto lanza un ataque todo poderoso a Hachiman
+Hachiman recibe 100 de daño
+Hachiman termina con HP:751/851
+Makoto lanza un ataque todo poderoso a Chemtrail
+Chemtrail recibe 100 de daño
+Chemtrail termina con HP:243/437
+Makoto lanza un ataque todo poderoso a Vivian
+Vivian recibe 100 de daño
+Vivian termina con HP:170/319
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Sphinx HP:279/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Hachiman HP:751/851 MP:170/170
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:170/319 MP:290/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsaras HP:85/85 MP:81/81
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Hachiman HP:751/851 MP:170/170
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:170/319 MP:290/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makoto
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Hachiman HP:751/851 MP:170/170
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:170/319 MP:290/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Apsaras
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:279/376 MP:364/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:871/971 MP:522/527
+2-Hachiman HP:751/851 MP:170/170
+3-Chemtrail HP:243/437 MP:393/423
+4-Vivian HP:170/319 MP:290/310
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Vivian
+Vivian recibe 38 de daño
+Vivian termina con HP:132/319
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Hachiman HP:751/851 MP:170/170
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:132/319 MP:290/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Hachiman HP:751/851 MP:170/170
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:132/319 MP:290/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:549/597 MP:284/347
+2-Yurlungur HP:202/202 MP:196/196
+3-Apsaras HP:85/85 MP:81/81
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:132/319 MP:290/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:751/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:751/851 MP:170/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:549/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Hachiman HP:751/851 MP:170/170
+D-Vivian HP:132/319 MP:290/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Mokoi
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vivian use
+1-Lullaby MP:11
+2-Mabufula MP:20
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Vivian lanza hielo a Makoto
+Makoto es resistente el ataque de Vivian
+Makoto recibe 48 de daño
+Makoto termina con HP:501/597
+Vivian lanza hielo a Yurlungur
+Yurlungur absorbe 97 daño
+Yurlungur termina con HP:202/202
+Vivian lanza hielo a Apsaras
+Apsaras absorbe 97 daño
+Apsaras termina con HP:85/85
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Hachiman HP:751/851 MP:170/170
+D-Vivian HP:132/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Yurlungur
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:871/971 MP:522/527
+2-Mokoi HP:74/74 MP:36/36
+3-Hachiman HP:751/851 MP:170/170
+4-Vivian HP:132/319 MP:270/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Hachiman
+Hachiman recibe 57 de daño
+Hachiman termina con HP:694/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Hachiman HP:694/851 MP:170/170
+D-Vivian HP:132/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Apsaras
+3-Makoto
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Hachiman HP:694/851 MP:170/170
+D-Vivian HP:132/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apsaras
+2-Makoto
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Hachiman HP:694/851 MP:170/170
+D-Vivian HP:132/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Yurlungur
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:522/527
+B-Mokoi HP:74/74 MP:36/36
+C-Hachiman HP:694/851 MP:170/170
+D-Vivian HP:132/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Apsaras
+3-Makoto
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:279/376 MP:364/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yurlungur use
+1-Blast Arrow MP:16
+2-Ice Breath MP:21
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur lanza hielo a Flynn
+Flynn recibe 95 de daño
+Flynn termina con HP:776/971
+Yurlungur lanza hielo a Mokoi
+Mokoi recibe 95 de daño
+Mokoi termina con HP:0/74
+Yurlungur lanza hielo a Hachiman
+Hachiman recibe 95 de daño
+Hachiman termina con HP:599/851
+Yurlungur lanza hielo a Vivian
+Vivian absorbe 95 daño
+Vivian termina con HP:227/319
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:776/971 MP:522/527
+B-
+C-Hachiman HP:599/851 MP:170/170
+D-Vivian HP:227/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:501/597 MP:284/347
+2-Yurlungur HP:202/202 MP:175/196
+3-Apsaras HP:85/85 MP:81/81
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Yurlungur
+Yurlungur recibe 88 de daño
+Yurlungur termina con HP:114/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:114/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:776/971 MP:522/527
+B-
+C-Hachiman HP:599/851 MP:170/170
+D-Vivian HP:227/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vivian
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:114/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:776/971 MP:522/527
+B-
+C-Hachiman HP:599/851 MP:170/170
+D-Vivian HP:227/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vivian
+1-Makoto HP:501/597 MP:284/347
+2-Yurlungur HP:114/202 MP:175/196
+3-Apsaras HP:85/85 MP:81/81
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vivian
+1-Makoto HP:501/597 MP:284/347
+2-Yurlungur HP:114/202 MP:175/196
+3-Apsaras HP:85/85 MP:81/81
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Vivian ataca a Yurlungur
+Yurlungur recibe 33 de daño
+Yurlungur termina con HP:81/202
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:81/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:776/971 MP:522/527
+B-
+C-Hachiman HP:599/851 MP:170/170
+D-Vivian HP:227/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:81/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:776/971 MP:522/527
+B-
+C-Hachiman HP:599/851 MP:170/170
+D-Vivian HP:227/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Vivian
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:243/437 MP:393/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:284/347
+B-Yurlungur HP:81/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:776/971 MP:522/527
+B-
+C-Chemtrail HP:243/437 MP:393/423
+D-Vivian HP:227/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Yurlungur
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:776/971 MP:522/527
+2-Chemtrail HP:243/437 MP:393/423
+3-Vivian HP:227/319 MP:270/310
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bar Toss MP:35
+2-Judgement MP:45
+3-Thunder Reign MP:22
+4-Trisagion MP:22
+5-Mahama MP:18
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza un ataque todo poderoso a Flynn
+Flynn recibe 100 de daño
+Flynn termina con HP:676/971
+Makoto lanza un ataque todo poderoso a Chemtrail
+Chemtrail recibe 100 de daño
+Chemtrail termina con HP:143/437
+Makoto lanza un ataque todo poderoso a Vivian
+Vivian recibe 100 de daño
+Vivian termina con HP:127/319
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:239/347
+B-Yurlungur HP:81/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:676/971 MP:522/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Apsaras
+3-Makoto
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Flynn HP:676/971 MP:522/527
+2-Chemtrail HP:143/437 MP:393/423
+3-Vivian HP:127/319 MP:270/310
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ataca a Flynn
+Flynn recibe 20 de daño
+Flynn termina con HP:656/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:239/347
+B-Yurlungur HP:81/202 MP:175/196
+C-Apsaras HP:85/85 MP:81/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:522/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Makoto
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apsaras use
+1-Media MP:12
+2-Dormina MP:4
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras cura a Makoto
+Makoto recibe 149 de HP
+Makoto termina con HP:597/597
+Apsaras cura a Yurlungur
+Yurlungur recibe 50 de HP
+Yurlungur termina con HP:131/202
+Apsaras cura a Apsaras
+Apsaras recibe 21 de HP
+Apsaras termina con HP:85/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:239/347
+B-Yurlungur HP:131/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:522/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Chemtrail
+3-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:239/347
+B-Yurlungur HP:131/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:522/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:239/347
+B-Yurlungur HP:131/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:522/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vivian use
+1-Lullaby MP:11
+2-Mabufula MP:20
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vivian
+1-Makoto HP:597/597 MP:239/347
+2-Yurlungur HP:131/202 MP:175/196
+3-Apsaras HP:85/85 MP:69/81
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Vivian ataca a Makoto
+Makoto es resistente el ataque de Vivian
+Makoto recibe 16 de daño
+Makoto termina con HP:581/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:581/597 MP:239/347
+B-Yurlungur HP:131/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:522/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Chemtrail
+3-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza hielo a Yurlungur
+Yurlungur absorbe 210 daño
+Yurlungur termina con HP:202/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:581/597 MP:239/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:500/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:127/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Yurlungur
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:656/971 MP:500/527
+2-Chemtrail HP:143/437 MP:393/423
+3-Vivian HP:127/319 MP:270/310
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Vivian
+Vivian recibe 38 de daño
+Vivian termina con HP:89/319
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:581/597 MP:239/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:500/527
+B-
+C-Chemtrail HP:143/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Apsaras
+3-Makoto
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Flynn HP:656/971 MP:500/527
+2-Chemtrail HP:143/437 MP:393/423
+3-Vivian HP:89/319 MP:270/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yurlungur ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:123/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:581/597 MP:239/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:500/527
+B-
+C-Chemtrail HP:123/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsaras
+2-Makoto
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:279/376 MP:364/364
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:581/597 MP:239/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Sphinx HP:279/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:500/527
+B-
+C-Chemtrail HP:123/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Yurlungur
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:656/971 MP:500/527
+2-Chemtrail HP:123/437 MP:393/423
+3-Vivian HP:89/319 MP:270/310
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:656/971 MP:500/527
+2-Chemtrail HP:123/437 MP:393/423
+3-Vivian HP:89/319 MP:270/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Chemtrail
+Chemtrail recibe 38 de daño
+Chemtrail termina con HP:85/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:581/597 MP:239/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Sphinx HP:279/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:500/527
+B-
+C-Chemtrail HP:85/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Chemtrail
+3-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 105 de daño
+Makoto termina con HP:476/597
+Flynn lanza hielo a Sphinx
+Sphinx recibe 210 de daño
+Sphinx termina con HP:69/376
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:202/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-
+C-Chemtrail HP:85/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:599/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:599/851 MP:170/170
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:476/597 MP:239/347
+2-Yurlungur HP:202/202 MP:175/196
+3-Sphinx HP:69/376 MP:364/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ataca a Yurlungur
+Yurlungur recibe 47 de daño
+Yurlungur termina con HP:155/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-
+C-Chemtrail HP:85/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-
+C-Chemtrail HP:85/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Chemtrail
+3-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hachiman HP:599/851 MP:170/170
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Chemtrail HP:85/437 MP:393/423 (Puesto 3)
+3-Vivian HP:89/319 MP:270/310 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:599/851 MP:170/170
+C-Chemtrail HP:85/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:599/851 MP:170/170
+C-Chemtrail HP:85/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Flynn HP:656/971 MP:478/527
+2-Hachiman HP:599/851 MP:170/170
+3-Chemtrail HP:85/437 MP:393/423
+4-Vivian HP:89/319 MP:270/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sphinx ataca a Chemtrail
+Chemtrail recibe 52 de daño
+Chemtrail termina con HP:33/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:599/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makoto
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:599/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:89/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:656/971 MP:478/527
+2-Hachiman HP:599/851 MP:170/170
+3-Chemtrail HP:33/437 MP:393/423
+4-Vivian HP:89/319 MP:270/310
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Vivian
+Vivian recibe 38 de daño
+Vivian termina con HP:51/319
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:599/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsaras HP:85/85 MP:69/81
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Flynn HP:656/971 MP:478/527
+2-Hachiman HP:599/851 MP:170/170
+3-Chemtrail HP:33/437 MP:393/423
+4-Vivian HP:51/319 MP:270/310
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx ataca a Hachiman
+Hachiman recibe 52 de daño
+Hachiman termina con HP:547/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:155/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:547/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:476/597 MP:239/347
+2-Yurlungur HP:155/202 MP:175/196
+3-Sphinx HP:69/376 MP:364/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Yurlungur
+Yurlungur recibe 88 de daño
+Yurlungur termina con HP:67/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:67/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:547/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:67/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:547/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:476/597 MP:239/347
+2-Yurlungur HP:67/202 MP:175/196
+3-Sphinx HP:69/376 MP:364/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ataca a Yurlungur
+Yurlungur recibe 47 de daño
+Yurlungur termina con HP:20/202
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:547/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Hachiman
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:478/527
+B-Hachiman HP:547/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:656/971 MP:478/527
+2-Hachiman HP:547/851 MP:170/170
+3-Chemtrail HP:33/437 MP:393/423
+4-Vivian HP:51/319 MP:270/310
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn cura a Hachiman
+Hachiman recibe 212 de HP
+Hachiman termina con HP:759/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:476/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:473/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:476/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Sphinx HP:69/376 MP:364/364
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:476/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Sphinx HP:69/376 MP:364/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Makoto
+Makoto es resistente el ataque de Hachiman
+Makoto recibe 32 de daño
+Makoto termina con HP:444/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:444/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:656/971 MP:473/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:656/971 MP:473/527
+2-Hachiman HP:759/851 MP:170/170
+3-Chemtrail HP:33/437 MP:393/423
+4-Vivian HP:51/319 MP:270/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Flynn
+Flynn recibe 38 de daño
+Flynn termina con HP:618/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:444/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:364/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:473/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx ataca con luz a Flynn
+Flynn bloquea el ataque de Sphinx
+Flynn termina con HP:618/971
+Sphinx ataca con luz a Hachiman
+Hachiman bloquea el ataque de Sphinx
+Hachiman termina con HP:759/851
+Sphinx ataca con luz a Chemtrail
+Sphinx ha fallado el ataque
+Chemtrail termina con HP:33/437
+Sphinx ataca con luz a Vivian
+Sphinx ha fallado el ataque
+Vivian termina con HP:51/319
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:444/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:473/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:444/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Sphinx HP:69/376 MP:334/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 75 de daño
+Makoto termina con HP:369/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:369/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:369/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Sphinx HP:69/376 MP:334/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Makoto
+Makoto es resistente el ataque de Hachiman
+Makoto recibe 32 de daño
+Makoto termina con HP:337/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:337/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:393/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:337/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Sphinx HP:69/376 MP:334/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Makoto
+Makoto es resistente el ataque de Chemtrail
+Makoto recibe 86 de daño
+Makoto termina con HP:251/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Hachiman
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vivian use
+1-Lullaby MP:11
+2-Mabufula MP:20
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:51/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Sphinx
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsaras HP:85/85 MP:69/81
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsaras HP:85/85 MP:69/81
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:618/971 MP:465/527
+2-Hachiman HP:759/851 MP:170/170
+3-Chemtrail HP:33/437 MP:363/423
+4-Vivian HP:51/319 MP:270/310
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Vivian
+Vivian recibe 38 de daño
+Vivian termina con HP:13/319
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Sphinx HP:69/376 MP:334/364
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsaras HP:85/85 MP:69/81
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Makoto
+3-Apsaras
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:69/376 MP:334/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yurlungur use
+1-Blast Arrow MP:16
+2-Ice Breath MP:21
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Apsaras
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:69/376 MP:334/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:618/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apsaras
+2-Yurlungur
+3-Makoto
+----------------------------------------
+Seleccione una acción para Apsaras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apsaras
+1-Flynn HP:618/971 MP:465/527
+2-Hachiman HP:759/851 MP:170/170
+3-Chemtrail HP:33/437 MP:363/423
+4-Vivian HP:13/319 MP:270/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Apsaras ataca a Flynn
+Flynn recibe 8 de daño
+Flynn termina con HP:610/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-Apsaras HP:85/85 MP:69/81
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:251/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Apsaras HP:85/85 MP:69/81
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Apsaras
+Apsaras recibe 110 de daño
+Apsaras termina con HP:0/85
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Hachiman
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-Yurlungur HP:20/202 MP:175/196
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:251/597 MP:239/347
+2-Yurlungur HP:20/202 MP:175/196
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Yurlungur
+Yurlungur recibe 88 de daño
+Yurlungur termina con HP:0/202
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:610/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:610/971 MP:465/527
+2-Hachiman HP:759/851 MP:170/170
+3-Chemtrail HP:33/437 MP:363/423
+4-Vivian HP:13/319 MP:270/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:553/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:251/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:251/597 MP:239/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 44 de daño
+Makoto termina con HP:207/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:207/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Vivian
+4-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:207/597 MP:239/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:207/597 MP:239/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hachiman use
+1-Maziodyne MP:32
+2-Tetrakarn MP:50
+3-Berserker God MP:12
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:207/597 MP:239/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:207/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Vivian
+3-Flynn
+4-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:207/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:270/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vivian
+2-Flynn
+3-Hachiman
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vivian use
+1-Lullaby MP:11
+2-Mabufula MP:20
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Vivian lanza hielo a Makoto
+Makoto es resistente el ataque de Vivian
+Makoto recibe 48 de daño
+Makoto termina con HP:159/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:159/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:250/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+4-Vivian
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:159/597 MP:239/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 55 de daño
+Makoto termina con HP:104/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:104/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-Vivian HP:13/319 MP:250/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bar Toss MP:35
+2-Judgement MP:45
+3-Thunder Reign MP:22
+4-Trisagion MP:22
+5-Mahama MP:18
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:553/971 MP:465/527
+2-Hachiman HP:759/851 MP:170/170
+3-Chemtrail HP:33/437 MP:363/423
+4-Vivian HP:13/319 MP:250/310
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto dispara a Vivian
+Vivian recibe 57 de daño
+Vivian termina con HP:0/319
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:104/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:104/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hachiman
+2-Chemtrail
+3-Flynn
+----------------------------------------
+Seleccione una acción para Hachiman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hachiman
+1-Makoto HP:104/597 MP:239/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hachiman ataca a Makoto
+Makoto es resistente el ataque de Hachiman
+Makoto recibe 32 de daño
+Makoto termina con HP:72/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:72/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Flynn
+3-Hachiman
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:72/597 MP:239/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:72/597 MP:239/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:72/597 MP:239/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Makoto HP:72/597 MP:239/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Makoto
+Makoto es resistente el ataque de Chemtrail
+Makoto recibe 23 de daño
+Makoto termina con HP:49/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:49/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Makoto HP:49/597 MP:239/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 44 de daño
+Makoto termina con HP:5/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:5/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:5/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:553/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Flynn HP:553/971 MP:465/527
+2-Hachiman HP:759/851 MP:170/170
+3-Chemtrail HP:33/437 MP:363/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Flynn
+Flynn recibe 57 de daño
+Flynn termina con HP:496/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:5/597 MP:239/347
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:496/971 MP:465/527
+B-Hachiman HP:759/851 MP:170/170
+C-Chemtrail HP:33/437 MP:363/423
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Hachiman
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Glacial Blast MP:22
+2-Fatal Sword MP:8
+3-Dia MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 105 de daño
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 105 de daño
+Flynn lanza hielo a Makoto
+Makoto es resistente el ataque de Flynn
+Makoto recibe 105 de daño
+Makoto termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

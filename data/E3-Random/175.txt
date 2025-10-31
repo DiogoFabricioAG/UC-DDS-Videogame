@@ -1,0 +1,10 @@
+Player 1 Team
+[Samurai] Kotone (Fatal Sword,Mamudoon,Bar Toss,Bouncing Claw,Diarama,Holy Wrath,Refrigerate,Hamaon)
+Astaroth
+Berserker
+Hel
+Player 2 Team
+[Samurai] Tadano (Ziodyne,Mamudo,Mazanma,Stigma Attack,Agi,Megidoplasma)
+Camazotz
+Nadja
+Pales

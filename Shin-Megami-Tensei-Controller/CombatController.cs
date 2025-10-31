@@ -150,8 +150,7 @@ public class CombatController(View view)
             return false;
         }
         
-        var (_, target) = game.GetAttackerAndTarget(_inputFromUser, game.OtherTeam);
-        
+        Unit target = game.GetAttacked(_inputFromUser, game.OtherTeam);
         attacked = target;
         return true;
     }
@@ -207,24 +206,42 @@ public class CombatController(View view)
     private void ProcessTargetedAbility(Game game, Ability ability)
     {
         var reviveAbility = ability.Effect.Contains("Revive");
-    
-        view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, ability.Target, reviveAbility);
-        InputText(view.ReadLine());
+        var needToShowSelectableUnits = false;
+        if (ability.Target != TargetType.Party && ability.Target != TargetType.All)
+        {
+            view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, ability.Target, reviveAbility);
+            InputText(view.ReadLine());
+            needToShowSelectableUnits = true;
+        }
     
         var teamSelected = ability.Target == TargetType.Ally ? game.CurrentTeam : game.OtherTeam;
-    
-        if (_inputFromUser == teamSelected.CancelOptionInSelectableTeam() || 
-            (reviveAbility && _inputFromUser == game.CurrentTeam.GetCancelButtonReviveUnits()))
+        if (needToShowSelectableUnits && (_inputFromUser == teamSelected.CancelOptionInSelectableTeam() || 
+            (reviveAbility && _inputFromUser == game.CurrentTeam.GetCancelButtonReviveUnits())))
         {
             _executionRunning = true;
             return;
         }
 
-        var (attacker, attacked) = game.GetAttackerAndTarget(_inputFromUser, teamSelected, reviveAbility);
+        Unit attacker = game.GetAttacker();
+        
+        if (ability.Target == TargetType.Party)
+        {
+            ApplyForAllAbilityEffect(game, ability, attacker);
+            ApplyTurnCostAndCleanupInAll(game, ability);
+        }
+        else if (ability.Target == TargetType.All)
+        {
+            
+        }
+        else
+        {
+            Unit attacked = game.GetAttacked(_inputFromUser, teamSelected, reviveAbility);
+
+            ApplyAbilityEffect(game, attacker, attacked, ability, reviveAbility);
+            ApplyTurnCostAndCleanup(game, attacked, ability);
+
+        }
     
-        ApplyAbilityEffect(game, attacker, attacked, ability, reviveAbility);
-    
-        ApplyTurnCostAndCleanup(game, attacked, ability);
     }
     
     private void ApplyAbilityEffect(Game game, Unit attacker, Unit attacked, Ability ability, bool isReviveAbility)
@@ -246,6 +263,28 @@ public class CombatController(View view)
             view.DisplayAbilityLogs(healRealized, attacker, attacked, AffinityType.Neutral, ability.Type, 1, isReviveAbility);
         }
     }
+
+    private void ApplyForAllAbilityEffect(Game game, Ability ability, Unit attacker)
+    {
+
+        if (ability.Target == TargetType.Party && !ability.Effect.Contains("exchange"))
+        {
+
+            List<int> healRealized = AbilityController.UseHealAbilityAllies(attacker, game.CurrentTeam, ability);
+            view.DisplayAbilityAllLogs(healRealized,  attacker, game.CurrentTeam, AffinityType.Neutral ,ability.Type);
+        }
+        else
+        {
+            
+            // Arreglame esto porfavor 
+            game.CurrentTeam.TeamTurnOrder--;
+            List<int> healRealized = AbilityController.HealAndSacrifice(attacker, game.CurrentTeam, ability);
+
+            view.DisplayAbilityAllLogs(healRealized,  attacker, game.CurrentTeam, AffinityType.Neutral ,ability.Type ,sacrific: true);
+
+        }
+        
+    }
     
     private void ApplyTurnCostAndCleanup(Game game, Unit attacked, Ability ability)
     {
@@ -263,6 +302,26 @@ public class CombatController(View view)
         DestroyUnitsInTurn(game);
         HandleFinishGame(game);
     }
+
+    /// <summary>
+    ///  Revisame por favor q esta to' feo, ese current Team dio mio
+    /// </summary>
+    private void ApplyTurnCostAndCleanupInAll(Game game, Ability ability)
+    {
+        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, game.CurrentTeam, game.CurrentTeam);
+        var turnContext = new TurnContext(blinkingLoss, fullLoss, blinkingWon);
+        view.TurnUsedDisplayWithParameters(turnContext);
+
+        game.CurrentTeam.AddAbilityNumberCast();
+    
+        TurnController.DestroyAndAddTurns(game.CurrentTeam, turnContext);
+        game.CurrentTeam.ChangeOrder(); 
+        game.CurrentTeam.CheckTurnRemains();
+
+        DestroyUnitsInTurn(game);
+        HandleFinishGame(game);
+    }
+    
 
     private void HandleInvokeUse(Game game, Ability ability = null, bool showAll = false)
     {

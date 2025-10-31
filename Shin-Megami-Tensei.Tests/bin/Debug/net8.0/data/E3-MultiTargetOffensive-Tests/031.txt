@@ -1,0 +1,648 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 30
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Kukunochi HP:254/254 MP:246/246
+C-Haoma HP:305/305 MP:296/296
+D-Wendigo HP:331/331 MP:66/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Tadano
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:974/1136
+Peri lanza fuego a Kukunochi
+Kukunochi es débil contra el ataque de Peri
+Kukunochi recibe 162 de daño
+Kukunochi termina con HP:92/254
+Peri lanza fuego a Haoma
+Haoma es débil contra el ataque de Peri
+Haoma recibe 162 de daño
+Haoma termina con HP:143/305
+Peri lanza fuego a Wendigo
+Wendigo es débil contra el ataque de Peri
+Wendigo recibe 162 de daño
+Wendigo termina con HP:169/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:184/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:974/1136 MP:413/413
+B-Kukunochi HP:92/254 MP:246/246
+C-Haoma HP:143/305 MP:296/296
+D-Wendigo HP:169/331 MP:66/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Orias
+2-Tadano
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Orias use
+1-Pandemic Bomb MP:11
+2-Me Patra MP:15
+3-Maragion MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Orias lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Orias
+Itsuki recibe 92 de daño
+Itsuki termina con HP:882/1136
+Orias lanza fuego a Kukunochi
+Kukunochi es débil contra el ataque de Orias
+Kukunochi recibe 92 de daño
+Kukunochi termina con HP:0/254
+Orias lanza fuego a Haoma
+Haoma es débil contra el ataque de Orias
+Haoma recibe 92 de daño
+Haoma termina con HP:51/305
+Orias lanza fuego a Wendigo
+Wendigo es débil contra el ataque de Orias
+Wendigo recibe 92 de daño
+Wendigo termina con HP:77/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Orias HP:252/252 MP:92/112
+C-Peri HP:483/483 MP:184/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:882/1136 MP:413/413
+B-
+C-Haoma HP:51/305 MP:296/296
+D-Wendigo HP:77/331 MP:66/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Tadano
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Maragi MP:11
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Tadano
+Itsuki recibe 61 de daño
+Itsuki termina con HP:821/1136
+Tadano lanza fuego a Haoma
+Haoma es débil contra el ataque de Tadano
+Haoma recibe 61 de daño
+Haoma termina con HP:0/305
+Tadano lanza fuego a Wendigo
+Wendigo es débil contra el ataque de Tadano
+Wendigo recibe 61 de daño
+Wendigo termina con HP:16/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:182/193
+B-Orias HP:252/252 MP:92/112
+C-Peri HP:483/483 MP:184/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:413/413
+B-
+C-
+D-Wendigo HP:16/331 MP:66/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Tadano
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:659/1136
+Peri lanza fuego a Wendigo
+Wendigo es débil contra el ataque de Peri
+Wendigo recibe 162 de daño
+Wendigo termina con HP:0/331
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:182/193
+B-Orias HP:252/252 MP:92/112
+C-Peri HP:483/483 MP:152/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:659/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Orias
+2-Tadano
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Orias use
+1-Pandemic Bomb MP:11
+2-Me Patra MP:15
+3-Maragion MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Orias lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Orias
+Itsuki recibe 92 de daño
+Itsuki termina con HP:567/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:182/193
+B-Orias HP:252/252 MP:72/112
+C-Peri HP:483/483 MP:152/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:567/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Maragi MP:11
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Tadano
+Itsuki recibe 61 de daño
+Itsuki termina con HP:506/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:171/193
+B-Orias HP:252/252 MP:72/112
+C-Peri HP:483/483 MP:152/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:506/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tadano HP:388/388 MP:171/193
+2-Orias HP:252/252 MP:72/112
+3-Peri HP:483/483 MP:152/216
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Tadano
+Tadano es resistente el ataque de Itsuki
+Tadano recibe 22 de daño
+Tadano termina con HP:366/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:366/388 MP:171/193
+B-Orias HP:252/252 MP:72/112
+C-Peri HP:483/483 MP:152/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:506/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Tadano
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:344/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:366/388 MP:171/193
+B-Orias HP:252/252 MP:72/112
+C-Peri HP:483/483 MP:120/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:344/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Orias
+2-Tadano
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Orias use
+1-Pandemic Bomb MP:11
+2-Me Patra MP:15
+3-Maragion MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Orias lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Orias
+Itsuki recibe 92 de daño
+Itsuki termina con HP:252/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:366/388 MP:171/193
+B-Orias HP:252/252 MP:52/112
+C-Peri HP:483/483 MP:120/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:252/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Tadano
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Maragi MP:11
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Tadano
+Itsuki recibe 61 de daño
+Itsuki termina con HP:191/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:366/388 MP:160/193
+B-Orias HP:252/252 MP:52/112
+C-Peri HP:483/483 MP:120/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:191/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Tadano
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:29/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:366/388 MP:160/193
+B-Orias HP:252/252 MP:52/112
+C-Peri HP:483/483 MP:88/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:29/1136 MP:413/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Orias
+2-Tadano
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Orias use
+1-Pandemic Bomb MP:11
+2-Me Patra MP:15
+3-Maragion MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Orias lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Orias
+Itsuki recibe 92 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tadano (J1)

@@ -1,0 +1,1823 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 5
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:388/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:354/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:354/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Tadano HP:354/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Tadano
+Tadano es resistente el ataque de Alciel
+Tadano recibe 27 de daño
+Tadano termina con HP:327/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:327/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+3-Metatron
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Tadano HP:327/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Tadano
+Tadano es resistente el ataque de Kanbari
+Tadano recibe 12 de daño
+Tadano termina con HP:315/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:315/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alciel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:315/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:306/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:306/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:272/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:272/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Tadano HP:272/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Tadano
+Tadano es resistente el ataque de Alciel
+Tadano recibe 27 de daño
+Tadano termina con HP:245/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:245/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+3-Metatron
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Tadano HP:245/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Tadano
+Tadano es resistente el ataque de Kanbari
+Tadano recibe 12 de daño
+Tadano termina con HP:233/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:233/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alciel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:233/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:224/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:224/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:224/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:190/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:190/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Tadano HP:190/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Tadano
+Tadano es resistente el ataque de Alciel
+Tadano recibe 27 de daño
+Tadano termina con HP:163/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:163/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+3-Metatron
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Tadano HP:163/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Tadano
+Tadano es resistente el ataque de Kanbari
+Tadano recibe 12 de daño
+Tadano termina con HP:151/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:151/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alciel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:151/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:142/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:142/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:142/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:108/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:108/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Tadano HP:108/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Tadano
+Tadano es resistente el ataque de Alciel
+Tadano recibe 27 de daño
+Tadano termina con HP:81/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:81/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+3-Metatron
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Tadano HP:81/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Tadano
+Tadano es resistente el ataque de Kanbari
+Tadano recibe 12 de daño
+Tadano termina con HP:69/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:69/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alciel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:69/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:60/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kelpie
+2-Yurlungur
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Kelpie
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Kelpie
+3-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:60/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Tadano HP:60/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Tadano
+Tadano es resistente el ataque de Metatron
+Tadano recibe 34 de daño
+Tadano termina con HP:26/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:26/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Tadano HP:26/388 MP:193/193
+2-Yurlungur HP:202/202 MP:196/196
+3-Kelpie HP:322/322 MP:144/144
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Tadano
+Tadano es resistente el ataque de Alciel
+Tadano recibe 27 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+3-Metatron
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-Kelpie HP:322/322 MP:144/144
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alciel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Mahama MP:18
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca con luz a Yurlungur
+Kei ha fallado el ataque
+Yurlungur termina con HP:202/202
+Kei ataca con luz a Kelpie
+Kelpie ha sido eliminado
+Kelpie termina con HP:0/322
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Alciel
+3-Kanbari
+4-Kei
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alciel
+2-Kanbari
+3-Kei
+4-Metatron
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kei
+3-Metatron
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:380/398
+B-Kanbari HP:350/350 MP:68/68
+C-Metatron HP:879/879 MP:175/175
+D-Alciel HP:719/719 MP:143/143
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:193/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Metatron
+3-Alciel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kei (J1) se rinde
+----------------------------------------
+Ganador: Tadano (J2)

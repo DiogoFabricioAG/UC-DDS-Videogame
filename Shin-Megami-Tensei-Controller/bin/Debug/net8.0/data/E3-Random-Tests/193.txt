@@ -1,0 +1,5756 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 192
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Valkyrie HP:455/455 MP:103/103
+C-Da Peng HP:634/634 MP:126/126
+D-Alice HP:277/277 MP:269/269
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:497/497 MP:223/223
+C-Magatsuhi HP:851/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Valkyrie
+4-Alice
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:221/221 MP:214/214
+2-Pales HP:390/390 MP:378/378
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:453/453 MP:389/389
+2-Anubis HP:497/497 MP:223/223
+3-Magatsuhi HP:851/851 MP:170/170
+4-Pachacamac HP:287/287 MP:278/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Anubis
+Anubis recibe 57 de daño
+Anubis termina con HP:440/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Valkyrie HP:455/455 MP:103/103
+C-Da Peng HP:634/634 MP:126/126
+D-Alice HP:277/277 MP:269/269
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:440/497 MP:223/223
+C-Magatsuhi HP:851/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Valkyrie
+3-Alice
+4-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Nahobino HP:453/453 MP:389/389
+2-Anubis HP:440/497 MP:223/223
+3-Magatsuhi HP:851/851 MP:170/170
+4-Pachacamac HP:287/287 MP:278/278
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza viento a Magatsuhi
+Magatsuhi recibe 106 de daño
+Magatsuhi termina con HP:745/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Valkyrie HP:455/455 MP:103/103
+C-Da Peng HP:634/634 MP:112/126
+D-Alice HP:277/277 MP:269/269
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:440/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Alice
+3-Kotone
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:221/221 MP:214/214
+2-Pales HP:390/390 MP:378/378
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Nidhoggr HP:681/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Alice HP:277/277 MP:269/269
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:440/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alice
+2-Kotone
+3-Da Peng
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Zouchouten HP:221/221 MP:214/214
+3-Pales HP:390/390 MP:378/378
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pales ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Nidhoggr HP:681/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:390/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:440/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Nidhoggr
+4-Pales
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:453/453 MP:389/389
+2-Anubis HP:440/497 MP:223/223
+3-Magatsuhi HP:745/851 MP:170/170
+4-Pachacamac HP:287/287 MP:278/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Anubis
+Anubis recibe 57 de daño
+Anubis termina con HP:383/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Nidhoggr HP:681/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:390/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Anubis
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Nidhoggr HP:681/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:390/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Nahobino
+3-Pachacamac
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:597/597 MP:347/347
+2-Nidhoggr HP:681/681 MP:135/135
+3-Da Peng HP:634/634 MP:112/126
+4-Pales HP:390/390 MP:378/378
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anubis ataca a Pales
+Pales recibe 41 de daño
+Pales termina con HP:349/390
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Nidhoggr HP:681/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:349/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Magatsuhi
+4-Anubis
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Nidhoggr HP:681/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:349/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:278/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Magatsuhi
+3-Anubis
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pachacamac use
+1-Mazanma MP:20
+2-Concentrate MP:11
+3-Bind Voice MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac lanza viento a Kotone
+Kotone es resistente el ataque de Pachacamac
+Kotone recibe 46 de daño
+Kotone termina con HP:551/597
+Pachacamac lanza viento a Nidhoggr
+Nidhoggr recibe 92 de daño
+Nidhoggr termina con HP:589/681
+Pachacamac lanza viento a Da Peng
+Da Peng absorbe 92 daño
+Da Peng termina con HP:634/634
+Pachacamac lanza viento a Pales
+Pales recibe 92 de daño
+Pales termina con HP:257/390
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:551/597 MP:347/347
+B-Nidhoggr HP:589/681 MP:135/135
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:257/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:258/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Pales
+3-Kotone
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Alice HP:277/277 MP:269/269
+3-Zouchouten HP:221/221 MP:214/214
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:551/597 MP:347/347
+B-Zouchouten HP:221/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-Pales HP:257/390 MP:378/378
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:258/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Kotone
+3-Da Peng
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Nahobino
+Nahobino devuelve el ataque a Pales y lo elimina
+Pales termina con HP:0/390
+Pales ataca con oscuridad a Anubis
+Anubis bloquea el ataque de Pales
+Anubis termina con HP:383/497
+Pales ataca con oscuridad a Magatsuhi
+Magatsuhi bloquea el ataque de Pales
+Magatsuhi termina con HP:745/851
+Pales ataca con oscuridad a Pachacamac
+Pachacamac bloquea el ataque de Pales
+Pachacamac termina con HP:287/287
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:551/597 MP:347/347
+B-Zouchouten HP:221/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Magatsuhi HP:745/851 MP:170/170
+D-Pachacamac HP:287/287 MP:258/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Anubis
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:551/597 MP:347/347
+2-Zouchouten HP:221/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Shax HP:371/371 MP:360/360
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:551/597 MP:347/347
+B-Zouchouten HP:221/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:258/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:745/851 MP:170/170
+2-Kazfiel HP:469/469 MP:211/211
+3-Shax HP:371/371 MP:360/360
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:551/597 MP:347/347
+B-Zouchouten HP:221/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Kazfiel HP:469/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:258/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:551/597 MP:347/347
+2-Zouchouten HP:221/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 14 de daño
+Kotone termina con HP:537/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:537/597 MP:347/347
+B-Zouchouten HP:221/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Kazfiel HP:469/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:258/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Kazfiel
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pachacamac use
+1-Mazanma MP:20
+2-Concentrate MP:11
+3-Bind Voice MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac lanza viento a Kotone
+Kotone es resistente el ataque de Pachacamac
+Kotone recibe 46 de daño
+Kotone termina con HP:491/597
+Pachacamac lanza viento a Zouchouten
+Zouchouten recibe 92 de daño
+Zouchouten termina con HP:129/221
+Pachacamac lanza viento a Da Peng
+Da Peng absorbe 92 daño
+Da Peng termina con HP:634/634
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Kazfiel HP:469/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Zouchouten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Kazfiel HP:469/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Zouchouten
+3-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Nahobino HP:453/453 MP:389/389
+2-Kazfiel HP:469/469 MP:211/211
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:453/453 MP:389/389
+B-Kazfiel HP:469/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kotone
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Nahobino HP:453/453 MP:389/389
+2-Kazfiel HP:469/469 MP:211/211
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ataca a Nahobino
+Nahobino recibe 22 de daño
+Nahobino termina con HP:431/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Kazfiel HP:469/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Zouchouten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Kazfiel HP:469/469 MP:211/211
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Kazfiel
+Kazfiel recibe 57 de daño
+Kazfiel termina con HP:412/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Kazfiel HP:412/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Kazfiel HP:412/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Kazfiel HP:412/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Kazfiel
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:383/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Shax HP:371/371 MP:360/360
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Kazfiel HP:412/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Anubis HP:383/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kazfiel
+3-Nahobino
+4-Anubis
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Kazfiel HP:412/469 MP:211/211
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Anubis HP:383/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Nahobino
+3-Anubis
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:745/851 MP:170/170
+2-Pachacamac HP:287/287 MP:238/278
+3-Shax HP:371/371 MP:360/360
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:491/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Anubis HP:383/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Anubis
+3-Tsuchigumo
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:491/597 MP:347/347
+2-Zouchouten HP:129/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 41 de daño
+Kotone termina con HP:450/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:450/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Anubis HP:383/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Tsuchigumo
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:745/851 MP:170/170
+2-Pachacamac HP:287/287 MP:238/278
+3-Kazfiel HP:412/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:450/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Shax
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Kotone HP:450/597 MP:347/347
+2-Zouchouten HP:129/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Kotone
+Kotone es resistente el ataque de Tsuchigumo
+Kotone recibe 11 de daño
+Kotone termina con HP:439/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:371/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Zouchouten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Shax HP:371/371 MP:360/360
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Shax
+Shax recibe 57 de daño
+Shax termina con HP:314/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:314/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Zouchouten
+3-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:314/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kotone
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Nahobino HP:431/453 MP:389/389
+2-Shax HP:314/371 MP:360/360
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ataca a Shax
+Shax recibe 22 de daño
+Shax termina con HP:292/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:292/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Zouchouten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Alice HP:277/277 MP:269/269
+3-Nidhoggr HP:589/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Zouchouten HP:129/221 MP:214/214 (Puesto 2)
+2-Da Peng HP:634/634 MP:112/126 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Shax HP:292/371 MP:360/360
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Shax HP:292/371 MP:360/360
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Shax HP:292/371 MP:360/360
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Shax
+Shax recibe 38 de daño
+Shax termina con HP:254/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Shax HP:254/371 MP:360/360
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:439/597 MP:347/347
+2-Zouchouten HP:129/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:383/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Kazfiel HP:412/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:129/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:439/597 MP:347/347
+2-Zouchouten HP:129/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Zouchouten
+Zouchouten recibe 83 de daño
+Zouchouten termina con HP:46/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:46/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Magatsuhi
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:383/497 MP:223/223
+2-Kazfiel HP:412/469 MP:211/211
+3-Shax HP:254/371 MP:360/360
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:46/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Magatsuhi
+3-Nahobino
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-Zouchouten HP:46/221 MP:214/214
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nahobino
+3-Kazfiel
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:439/597 MP:347/347
+2-Zouchouten HP:46/221 MP:214/214
+3-Da Peng HP:634/634 MP:112/126
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Zouchouten
+Zouchouten recibe 65 de daño
+Zouchouten termina con HP:0/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kazfiel
+3-Tsuchigumo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:383/497 MP:223/223
+2-Pachacamac HP:287/287 MP:238/278
+3-Shax HP:254/371 MP:360/360
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Magatsuhi HP:745/851 MP:170/170 (Puesto 2)
+2-Tsuchigumo HP:280/280 MP:126/126 (Puesto 3)
+3-Kazfiel HP:412/469 MP:211/211 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Tsuchigumo
+3-Anubis
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:431/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Alice HP:277/277 MP:269/269
+3-Nidhoggr HP:589/681 MP:135/135
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Da Peng HP:634/634 MP:112/126 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Anubis HP:383/497 MP:223/223
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Kazfiel HP:412/469 MP:211/211
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:431/453 MP:389/389
+2-Anubis HP:383/497 MP:223/223
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Kazfiel HP:412/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Nahobino
+Nahobino recibe 57 de daño
+Nahobino termina con HP:374/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:374/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:347/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:374/453 MP:389/389
+B-Anubis HP:383/497 MP:223/223
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Kazfiel HP:412/469 MP:211/211
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Agi MP:5
+3-Diarahan MP:16
+4-Mazandyne MP:32
+5-Holy Wrath MP:45
+6-Zio MP:5
+7-Spirit Drain MP:5
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Kotone lanza un ataque todo poderoso a Nahobino
+Nahobino recibe 100 de daño
+Nahobino termina con HP:274/453
+Kotone lanza un ataque todo poderoso a Anubis
+Anubis recibe 100 de daño
+Anubis termina con HP:283/497
+Kotone lanza un ataque todo poderoso a Tsuchigumo
+Tsuchigumo recibe 100 de daño
+Tsuchigumo termina con HP:180/280
+Kotone lanza un ataque todo poderoso a Kazfiel
+Kazfiel recibe 100 de daño
+Kazfiel termina con HP:312/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Kazfiel HP:312/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Anubis
+3-Nahobino
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:439/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Kazfiel HP:312/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Nahobino
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:439/597 MP:302/347
+2-Da Peng HP:634/634 MP:112/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Kotone
+Kotone es resistente el ataque de Anubis
+Kotone recibe 20 de daño
+Kotone termina con HP:419/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:419/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Kazfiel HP:312/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tsuchigumo
+3-Kazfiel
+4-Anubis
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:419/597 MP:302/347
+2-Da Peng HP:634/634 MP:112/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 41 de daño
+Kotone termina con HP:378/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:378/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Kazfiel HP:312/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kazfiel
+3-Anubis
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:378/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Kazfiel HP:312/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Anubis
+3-Nahobino
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:745/851 MP:170/170
+2-Pachacamac HP:287/287 MP:238/278
+3-Shax HP:254/371 MP:360/360
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:378/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Nahobino
+3-Tsuchigumo
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:378/597 MP:302/347
+2-Da Peng HP:634/634 MP:112/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Kotone
+Kotone es resistente el ataque de Anubis
+Kotone recibe 20 de daño
+Kotone termina con HP:358/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:274/453 MP:389/389
+2-Anubis HP:283/497 MP:223/223
+3-Tsuchigumo HP:180/280 MP:126/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Alice HP:277/277 MP:269/269
+3-Nidhoggr HP:589/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-Nidhoggr HP:589/681 MP:135/135
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Da Peng HP:634/634 MP:112/126
+3-Alice HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Nidhoggr HP:589/681 MP:135/135 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-Da Peng HP:634/634 MP:112/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Alice HP:277/277 MP:269/269
+3-Nidhoggr HP:589/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-Nidhoggr HP:589/681 MP:135/135
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Anubis HP:283/497 MP:223/223
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:745/851 MP:170/170
+2-Kazfiel HP:312/469 MP:211/211
+3-Shax HP:254/371 MP:360/360
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-Nidhoggr HP:589/681 MP:135/135
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:389/389
+B-Shax HP:254/371 MP:360/360
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Shax HP:254/371 MP:360/360 (Puesto 2)
+2-Tsuchigumo HP:180/280 MP:126/126 (Puesto 3)
+3-Pachacamac HP:287/287 MP:238/278 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Breath MP:24
+2-Megidoplasma MP:41
+3-Mamudoon MP:30
+4-Iron Judgement MP:8
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca con oscuridad a Kotone
+Nahobino ha fallado el ataque
+Kotone termina con HP:358/597
+Nahobino ataca con oscuridad a Nidhoggr
+Nidhoggr ha sido eliminado
+Nidhoggr termina con HP:0/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Shax HP:254/371 MP:360/360
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Shax HP:254/371 MP:360/360
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Shax
+3-Nahobino
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Shax HP:254/371 MP:360/360
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Magatsuhi
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:358/597 MP:302/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Pachacamac HP:287/287 MP:238/278
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pachacamac ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:358/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Magatsuhi
+3-Tsuchigumo
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:358/597 MP:302/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 41 de daño
+Kotone termina con HP:317/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:317/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Tsuchigumo
+3-Pachacamac
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:317/597 MP:302/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kotone
+Kotone es resistente el ataque de Magatsuhi
+Kotone recibe 32 de daño
+Kotone termina con HP:285/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:285/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:180/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:274/453 MP:359/389
+2-Pachacamac HP:287/287 MP:238/278
+3-Tsuchigumo HP:180/280 MP:126/126
+4-Magatsuhi HP:745/851 MP:170/170
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone ataca a Tsuchigumo
+Tsuchigumo recibe 38 de daño
+Tsuchigumo termina con HP:142/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:285/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kotone HP:285/597 MP:302/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kotone
+Kotone es resistente el ataque de Magatsuhi
+Kotone recibe 32 de daño
+Kotone termina con HP:253/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:253/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:253/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Magatsuhi
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Kotone HP:253/597 MP:302/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac ataca a Kotone
+Kotone es resistente el ataque de Pachacamac
+Kotone recibe 15 de daño
+Kotone termina con HP:238/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:238/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:126/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Magatsuhi
+3-Nahobino
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Kotone HP:238/597 MP:302/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo lanza electricidad a Kotone
+Kotone es resistente el ataque de Tsuchigumo
+Kotone recibe 35 de daño
+Kotone termina con HP:203/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:203/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:203/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:203/597 MP:302/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 14 de daño
+Kotone termina con HP:189/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:189/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Da Peng HP:634/634 MP:112/126
+3-Alice HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:274/453 MP:359/389
+2-Pachacamac HP:287/287 MP:238/278
+3-Tsuchigumo HP:142/280 MP:118/126
+4-Magatsuhi HP:745/851 MP:170/170
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:189/597 MP:302/347
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:455/455 MP:103/103
+2-Da Peng HP:634/634 MP:112/126
+3-Alice HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Valkyrie ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:189/597 MP:302/347
+B-
+C-Valkyrie HP:455/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Kazfiel HP:312/469 MP:211/211
+3-Shax HP:254/371 MP:360/360
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:189/597 MP:302/347
+B-
+C-Valkyrie HP:455/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Magatsuhi HP:745/851 MP:170/170
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Kazfiel HP:312/469 MP:211/211
+3-Shax HP:254/371 MP:360/360
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Pachacamac HP:287/287 MP:238/278 (Puesto 2)
+2-Tsuchigumo HP:142/280 MP:118/126 (Puesto 3)
+3-Magatsuhi HP:745/851 MP:170/170 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:189/597 MP:302/347
+B-
+C-Valkyrie HP:455/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Pachacamac HP:287/287 MP:238/278
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:189/597 MP:302/347
+B-
+C-Valkyrie HP:455/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:118/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Shax
+3-Nahobino
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Kotone HP:189/597 MP:302/347
+2-Valkyrie HP:455/455 MP:103/103
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo lanza electricidad a Kotone
+Kotone es resistente el ataque de Tsuchigumo
+Kotone recibe 35 de daño
+Kotone termina con HP:154/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:302/347
+B-
+C-Valkyrie HP:455/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:110/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Magatsuhi
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:154/597 MP:302/347
+2-Valkyrie HP:455/455 MP:103/103
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:154/597 MP:302/347
+2-Valkyrie HP:455/455 MP:103/103
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shax ataca a Valkyrie
+Valkyrie es resistente el ataque de Shax
+Valkyrie recibe 20 de daño
+Valkyrie termina con HP:435/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:302/347
+B-
+C-Valkyrie HP:435/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:110/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Magatsuhi
+3-Tsuchigumo
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:154/597 MP:302/347
+2-Valkyrie HP:435/455 MP:103/103
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Valkyrie
+Valkyrie recibe 83 de daño
+Valkyrie termina con HP:352/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:302/347
+B-
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:110/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:274/453 MP:359/389
+2-Magatsuhi HP:745/851 MP:170/170
+3-Tsuchigumo HP:142/280 MP:110/126
+4-Shax HP:254/371 MP:360/360
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Alice HP:277/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Alice HP:277/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Valkyrie HP:352/455 MP:103/103 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:302/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:110/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Alice
+3-Kotone
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:302/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:110/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Kotone
+3-Valkyrie
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:302/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:110/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Valkyrie
+3-Alice
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Agi MP:5
+3-Diarahan MP:16
+4-Mazandyne MP:32
+5-Holy Wrath MP:45
+6-Zio MP:5
+7-Spirit Drain MP:5
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:274/453 MP:359/389
+2-Magatsuhi HP:745/851 MP:170/170
+3-Tsuchigumo HP:142/280 MP:110/126
+4-Shax HP:254/371 MP:360/360
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone lanza un ataque todo poderoso a Tsuchigumo
+El ataque drena 43 MP de Tsuchigumo
+Tsuchigumo termina con MP:67/126
+Kotone termina con MP:340/347
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:340/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:67/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Shax
+3-Nahobino
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:154/597 MP:340/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:67/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Tsuchigumo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Pachacamac HP:287/287 MP:238/278
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:154/597 MP:340/347
+2-Alice HP:277/277 MP:269/269
+3-Valkyrie HP:352/455 MP:103/103
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Kotone
+Kotone es resistente el ataque de Shax
+Kotone recibe 20 de daño
+Kotone termina con HP:134/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:134/597 MP:340/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:352/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:67/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tsuchigumo
+3-Magatsuhi
+4-Shax
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:134/597 MP:340/347
+2-Alice HP:277/277 MP:269/269
+3-Valkyrie HP:352/455 MP:103/103
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Valkyrie
+Valkyrie recibe 83 de daño
+Valkyrie termina con HP:269/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:134/597 MP:340/347
+B-Alice HP:277/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:67/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Magatsuhi
+3-Shax
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Kotone HP:134/597 MP:340/347
+2-Alice HP:277/277 MP:269/269
+3-Valkyrie HP:269/455 MP:103/103
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo lanza electricidad a Alice
+Alice recibe 70 de daño
+Alice termina con HP:207/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:134/597 MP:340/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Magatsuhi HP:745/851 MP:170/170
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Shax
+3-Nahobino
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Pachacamac HP:287/287 MP:238/278
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Pachacamac HP:287/287 MP:238/278
+3-Kazfiel HP:312/469 MP:211/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:134/597 MP:340/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:134/597 MP:340/347
+2-Alice HP:207/277 MP:269/269
+3-Valkyrie HP:269/455 MP:103/103
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Kotone
+Kotone es resistente el ataque de Shax
+Kotone recibe 20 de daño
+Kotone termina con HP:114/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:114/597 MP:340/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Valkyrie
+3-Alice
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:114/597 MP:340/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Alice
+3-Kotone
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:114/597 MP:340/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:254/371 MP:360/360
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alice
+2-Kotone
+3-Valkyrie
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alice use
+1-Die for Me! MP:45
+2-Dream Needle MP:9
+3-Energy Drain MP:10
+4-Dekunda MP:10
+5-Debilitate MP:50
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Nahobino HP:274/453 MP:359/389
+2-Kazfiel HP:312/469 MP:211/211
+3-Tsuchigumo HP:142/280 MP:59/126
+4-Shax HP:254/371 MP:360/360
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Alice ataca a Shax
+Shax recibe 29 de daño
+Shax termina con HP:225/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:114/597 MP:340/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:225/371 MP:360/360
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Valkyrie
+3-Alice
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Alice HP:207/277 MP:269/269 (Puesto 2)
+2-Valkyrie HP:269/455 MP:103/103 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:114/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:225/371 MP:360/360
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Da Peng
+3-Kotone
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alice HP:207/277 MP:269/269
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alice HP:207/277 MP:269/269
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:114/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:225/371 MP:360/360
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Shax
+3-Nahobino
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kotone HP:114/597 MP:340/347
+2-Da Peng HP:634/634 MP:112/126
+3-Valkyrie HP:269/455 MP:103/103
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Kotone
+Kotone es resistente el ataque de Kazfiel
+Kotone recibe 19 de daño
+Kotone termina con HP:95/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:95/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Shax HP:225/371 MP:360/360
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Nahobino
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Pachacamac HP:287/287 MP:238/278
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pachacamac ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:95/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Tsuchigumo
+3-Kazfiel
+4-Pachacamac
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:283/497 MP:223/223
+2-Magatsuhi HP:745/851 MP:170/170
+3-Shax HP:225/371 MP:360/360
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:95/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kazfiel
+3-Pachacamac
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:95/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Pachacamac
+3-Nahobino
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kotone HP:95/597 MP:340/347
+2-Da Peng HP:634/634 MP:112/126
+3-Valkyrie HP:269/455 MP:103/103
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Kotone
+Kotone es resistente el ataque de Kazfiel
+Kotone recibe 19 de daño
+Kotone termina con HP:76/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:269/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Nahobino
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Kotone HP:76/597 MP:340/347
+2-Da Peng HP:634/634 MP:112/126
+3-Valkyrie HP:269/455 MP:103/103
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pachacamac ataca a Valkyrie
+Valkyrie es resistente el ataque de Pachacamac
+Valkyrie recibe 15 de daño
+Valkyrie termina con HP:254/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Valkyrie
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:340/347
+B-Da Peng HP:634/634 MP:112/126
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:274/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Valkyrie
+3-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Nahobino HP:274/453 MP:359/389
+2-Kazfiel HP:312/469 MP:211/211
+3-Tsuchigumo HP:142/280 MP:59/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng lanza viento a Nahobino
+Nahobino recibe 106 de daño
+Nahobino termina con HP:168/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:340/347
+B-Da Peng HP:634/634 MP:98/126
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Kotone
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:340/347
+B-Da Peng HP:634/634 MP:98/126
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:312/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Valkyrie
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Zan MP:5
+2-Agi MP:5
+3-Diarahan MP:16
+4-Mazandyne MP:32
+5-Holy Wrath MP:45
+6-Zio MP:5
+7-Spirit Drain MP:5
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:168/453 MP:359/389
+2-Kazfiel HP:312/469 MP:211/211
+3-Tsuchigumo HP:142/280 MP:59/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone lanza fuego a Kazfiel
+Kazfiel es débil contra el ataque de Kotone
+Kazfiel recibe 106 de daño
+Kazfiel termina con HP:206/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:335/347
+B-Da Peng HP:634/634 MP:98/126
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Da Peng
+2-Valkyrie
+3-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alice HP:207/277 MP:269/269
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:335/347
+B-Alice HP:207/277 MP:269/269
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Kotone
+3-Alice
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Valkyrie
+1-Nahobino HP:168/453 MP:359/389
+2-Kazfiel HP:206/469 MP:211/211
+3-Tsuchigumo HP:142/280 MP:59/126
+4-Pachacamac HP:287/287 MP:238/278
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:98/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:335/347
+B-Alice HP:207/277 MP:269/269
+C-Da Peng HP:634/634 MP:98/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Nahobino
+3-Pachacamac
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:335/347
+B-Alice HP:207/277 MP:269/269
+C-Da Peng HP:634/634 MP:98/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Tsuchigumo
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:76/597 MP:335/347
+B-Alice HP:207/277 MP:269/269
+C-Da Peng HP:634/634 MP:98/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:238/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Tsuchigumo
+3-Kazfiel
+4-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pachacamac use
+1-Mazanma MP:20
+2-Concentrate MP:11
+3-Bind Voice MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pachacamac lanza viento a Kotone
+Kotone es resistente el ataque de Pachacamac
+Kotone recibe 46 de daño
+Kotone termina con HP:30/597
+Pachacamac lanza viento a Alice
+Alice recibe 92 de daño
+Alice termina con HP:115/277
+Pachacamac lanza viento a Da Peng
+Da Peng absorbe 92 daño
+Da Peng termina con HP:634/634
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Da Peng HP:634/634 MP:98/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:142/280 MP:59/126
+D-Pachacamac HP:287/287 MP:218/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Da Peng
+3-Alice
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:168/453 MP:359/389
+2-Kazfiel HP:206/469 MP:211/211
+3-Tsuchigumo HP:142/280 MP:59/126
+4-Pachacamac HP:287/287 MP:218/278
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone dispara a Tsuchigumo
+Tsuchigumo recibe 57 de daño
+Tsuchigumo termina con HP:85/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Da Peng HP:634/634 MP:98/126
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:85/280 MP:59/126
+D-Pachacamac HP:287/287 MP:218/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Alice
+3-Kotone
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Valkyrie HP:254/455 MP:103/103
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Valkyrie ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:85/280 MP:59/126
+D-Pachacamac HP:287/287 MP:218/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alice
+2-Kotone
+3-Valkyrie
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alice use
+1-Die for Me! MP:45
+2-Dream Needle MP:9
+3-Energy Drain MP:10
+4-Dekunda MP:10
+5-Debilitate MP:50
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:98/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:98/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Da Peng HP:634/634 MP:98/126
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:85/280 MP:59/126
+D-Pachacamac HP:287/287 MP:218/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Valkyrie
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alice HP:115/277 MP:269/269
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Da Peng HP:634/634 MP:98/126 (Puesto 2)
+2-Valkyrie HP:254/455 MP:103/103 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Valkyrie HP:254/455 MP:103/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:168/453 MP:359/389
+B-Kazfiel HP:206/469 MP:211/211
+C-Tsuchigumo HP:85/280 MP:59/126
+D-Pachacamac HP:287/287 MP:218/278
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Alice
+3-Kotone
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Valkyrie use
+1-Tetrakarn MP:50
+2-Javelin Rain MP:21
+3-Mortal Jihad MP:13
+4-Blood Ritual MP:25
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Valkyrie ataca a Nahobino
+Nahobino recibe 91 de daño
+Nahobino termina con HP:77/453
+Valkyrie ataca a Kazfiel
+Kazfiel recibe 91 de daño
+Kazfiel termina con HP:115/469
+Valkyrie ataca a Tsuchigumo
+Tsuchigumo recibe 91 de daño
+Tsuchigumo termina con HP:0/280
+Valkyrie ataca a Pachacamac
+Pachacamac recibe 91 de daño
+Pachacamac termina con HP:196/287
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Valkyrie HP:254/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:115/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Nahobino
+3-Pachacamac
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:30/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Valkyrie HP:254/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:115/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:30/597 MP:335/347
+2-Alice HP:115/277 MP:269/269
+3-Valkyrie HP:254/455 MP:82/103
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 14 de daño
+Kotone termina con HP:16/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:16/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Valkyrie HP:254/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:115/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Kazfiel
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pachacamac
+1-Kotone HP:16/597 MP:335/347
+2-Alice HP:115/277 MP:269/269
+3-Valkyrie HP:254/455 MP:82/103
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pachacamac ataca a Valkyrie
+Valkyrie es resistente el ataque de Pachacamac
+Valkyrie recibe 15 de daño
+Valkyrie termina con HP:239/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:16/597 MP:335/347
+B-Alice HP:115/277 MP:269/269
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:115/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Nahobino
+3-Pachacamac
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kotone HP:16/597 MP:335/347
+2-Alice HP:115/277 MP:269/269
+3-Valkyrie HP:239/455 MP:82/103
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ataca a Alice
+Alice es resistente el ataque de Kazfiel
+Alice recibe 19 de daño
+Alice termina con HP:96/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:16/597 MP:335/347
+B-Alice HP:96/277 MP:269/269
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:115/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Valkyrie
+3-Alice
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Nahobino HP:77/453 MP:359/389
+2-Kazfiel HP:115/469 MP:211/211
+3-Pachacamac HP:196/287 MP:218/278
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Kazfiel
+Kazfiel recibe 38 de daño
+Kazfiel termina con HP:77/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:16/597 MP:335/347
+B-Alice HP:96/277 MP:269/269
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:77/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Alice
+3-Kotone
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:16/597 MP:335/347
+B-Alice HP:96/277 MP:269/269
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-Kazfiel HP:77/469 MP:211/211
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alice
+2-Kotone
+3-Valkyrie
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Nahobino HP:77/453 MP:359/389
+2-Kazfiel HP:77/469 MP:211/211
+3-Pachacamac HP:196/287 MP:218/278
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alice
+1-Nahobino HP:77/453 MP:359/389
+2-Kazfiel HP:77/469 MP:211/211
+3-Pachacamac HP:196/287 MP:218/278
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alice
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alice use
+1-Die for Me! MP:45
+2-Dream Needle MP:9
+3-Energy Drain MP:10
+4-Dekunda MP:10
+5-Debilitate MP:50
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Alice ataca con oscuridad a Nahobino
+Nahobino devuelve el ataque a Alice y lo elimina
+Alice termina con HP:0/277
+Alice ataca con oscuridad a Kazfiel
+Kazfiel es resistente el ataque de Alice
+Kazfiel ha sido eliminado
+Kazfiel termina con HP:0/469
+Alice ataca con oscuridad a Pachacamac
+Pachacamac bloquea el ataque de Alice
+Pachacamac termina con HP:196/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:16/597 MP:335/347
+B-
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Breath MP:24
+2-Megidoplasma MP:41
+3-Mamudoon MP:30
+4-Iron Judgement MP:8
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kotone HP:16/597 MP:335/347
+2-Valkyrie HP:239/455 MP:82/103
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Kotone
+Kotone es resistente el ataque de Nahobino
+Kotone recibe 41 de daño
+Kotone termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:335/347
+B-
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pachacamac
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Pachacamac
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:335/347
+B-
+C-Valkyrie HP:239/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Valkyrie HP:239/455 MP:82/103
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Valkyrie
+Valkyrie es resistente el ataque de Nahobino
+Valkyrie recibe 14 de daño
+Valkyrie termina con HP:225/455
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:335/347
+B-
+C-Valkyrie HP:225/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-
+C-
+D-Pachacamac HP:196/287 MP:218/278
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Valkyrie
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Valkyrie
+1-Nahobino HP:77/453 MP:359/389
+2-Pachacamac HP:196/287 MP:218/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Valkyrie ataca a Pachacamac
+Pachacamac recibe 36 de daño
+Pachacamac termina con HP:160/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:335/347
+B-
+C-Valkyrie HP:225/455 MP:82/103
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:77/453 MP:359/389
+B-
+C-
+D-Pachacamac HP:160/287 MP:218/278
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Pachacamac
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Breath MP:24
+2-Megidoplasma MP:41
+3-Mamudoon MP:30
+4-Iron Judgement MP:8
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino lanza hielo a Valkyrie
+Valkyrie recibe 202 de daño
+Nahobino lanza hielo a Valkyrie
+Valkyrie recibe 202 de daño
+Nahobino lanza hielo a Valkyrie
+Valkyrie recibe 202 de daño
+Valkyrie termina con HP:0/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nahobino (J2)

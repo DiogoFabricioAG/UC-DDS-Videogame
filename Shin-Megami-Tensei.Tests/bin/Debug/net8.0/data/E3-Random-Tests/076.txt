@@ -1,0 +1,2969 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 75
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:283/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Lorelei
+4-Tadano
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:283/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Lorelei
+3-Tadano
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:283/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tadano
+3-Susano-o
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei cura a Tadano
+Tadano recibe 194 de HP
+Tadano termina con HP:388/388
+Lorelei cura a Red Rider
+Red Rider recibe 458 de HP
+Red Rider termina con HP:917/917
+Lorelei cura a Susano-o
+Susano-o recibe 463 de HP
+Susano-o termina con HP:927/927
+Lorelei cura a Lorelei
+Lorelei recibe 145 de HP
+Lorelei termina con HP:291/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:261/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Susano-o
+3-Red Rider
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nozuchi HP:232/232 MP:52/52
+2-Plasma HP:179/179 MP:172/172
+3-Patrimpas HP:155/155 MP:149/149
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Lorelei HP:291/291 MP:261/283 (Puesto 2)
+2-Red Rider HP:917/917 MP:183/183 (Puesto 3)
+3-Susano-o HP:927/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Patrimpas ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:261/283
+C-Patrimpas HP:155/155 MP:149/149
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Patrimpas
+3-Lorelei
+4-Tadano
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:261/283
+C-Patrimpas HP:155/155 MP:149/149
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Lorelei
+3-Tadano
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:261/283
+C-Patrimpas HP:155/155 MP:149/149
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:254/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tadano
+3-Susano-o
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Joker HP:597/597 MP:347/347
+2-Zhu Tun She HP:180/180 MP:35/35
+3-Hel HP:254/254 MP:246/246
+4-Tlazolteotl HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Joker HP:597/597 MP:347/347
+2-Zhu Tun She HP:180/180 MP:35/35
+3-Hel HP:254/254 MP:246/246
+4-Tlazolteotl HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lorelei ataca a Hel
+Hel recibe 30 de daño
+Hel termina con HP:224/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:261/283
+C-Patrimpas HP:155/155 MP:149/149
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Tlazolteotl
+3-Hel
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Lorelei HP:291/291 MP:261/283
+C-Patrimpas HP:155/155 MP:149/149
+D-Susano-o HP:927/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Hel
+3-Zhu Tun She
+4-Joker
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl lanza hielo a Tadano
+Tadano recibe 96 de daño
+Tadano termina con HP:292/388
+Tlazolteotl lanza hielo a Lorelei
+Lorelei recibe 96 de daño
+Lorelei termina con HP:195/291
+Tlazolteotl lanza hielo a Patrimpas
+Patrimpas es resistente el ataque de Tlazolteotl
+Patrimpas recibe 48 de daño
+Patrimpas termina con HP:107/155
+Tlazolteotl lanza hielo a Susano-o
+Susano-o recibe 96 de daño
+Susano-o termina con HP:831/927
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:195/291 MP:261/283
+C-Patrimpas HP:107/155 MP:149/149
+D-Susano-o HP:831/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Zhu Tun She
+3-Joker
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Tadano HP:292/388 MP:193/193
+2-Lorelei HP:195/291 MP:261/283
+3-Patrimpas HP:107/155 MP:149/149
+4-Susano-o HP:831/927 MP:184/184
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Hel ataca a Susano-o
+Susano-o es resistente el ataque de Hel
+Susano-o recibe 13 de daño
+Susano-o termina con HP:818/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:195/291 MP:261/283
+C-Patrimpas HP:107/155 MP:149/149
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhu Tun She
+2-Joker
+3-Tlazolteotl
+4-Hel
+----------------------------------------
+Seleccione una acción para Zhu Tun She
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhu Tun She
+1-Tadano HP:292/388 MP:193/193
+2-Lorelei HP:195/291 MP:261/283
+3-Patrimpas HP:107/155 MP:149/149
+4-Susano-o HP:818/927 MP:184/184
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Zhu Tun She ataca a Lorelei
+Lorelei recibe 9 de daño
+Lorelei termina con HP:186/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Patrimpas HP:107/155 MP:149/149
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Tlazolteotl
+3-Hel
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:292/388 MP:193/193
+2-Lorelei HP:186/291 MP:261/283
+3-Patrimpas HP:107/155 MP:149/149
+4-Susano-o HP:818/927 MP:184/184
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Patrimpas
+Patrimpas recibe 28 de daño
+Patrimpas termina con HP:79/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Patrimpas HP:79/155 MP:149/149
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Lorelei
+3-Tadano
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Patrimpas HP:79/155 MP:149/149
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tadano
+3-Patrimpas
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Patrimpas HP:79/155 MP:149/149
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Patrimpas
+3-Susano-o
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Red Rider HP:917/917 MP:183/183
+2-Nozuchi HP:232/232 MP:52/52
+3-Plasma HP:179/179 MP:172/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lorelei HP:186/291 MP:261/283 (Puesto 2)
+2-Patrimpas HP:79/155 MP:149/149 (Puesto 3)
+3-Susano-o HP:818/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Red Rider ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Susano-o
+3-Lorelei
+4-Tadano
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Lorelei
+3-Tadano
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Joker HP:597/597 MP:347/347
+2-Zhu Tun She HP:180/180 MP:35/35
+3-Hel HP:224/254 MP:246/246
+4-Tlazolteotl HP:315/315 MP:286/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Lorelei HP:186/291 MP:261/283
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tadano
+3-Red Rider
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nozuchi HP:232/232 MP:52/52
+2-Plasma HP:179/179 MP:172/172
+3-Patrimpas HP:79/155 MP:149/149
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Plasma ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Plasma HP:179/179 MP:172/172
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:315/315 MP:286/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Red Rider
+3-Susano-o
+4-Plasma
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:597/597 MP:347/347
+2-Zhu Tun She HP:180/180 MP:35/35
+3-Hel HP:224/254 MP:246/246
+4-Tlazolteotl HP:315/315 MP:286/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tadano ataca a Tlazolteotl
+Tlazolteotl recibe 16 de daño
+Tlazolteotl termina con HP:299/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Plasma HP:179/179 MP:172/172
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Hel HP:224/254 MP:246/246
+D-Tlazolteotl HP:299/315 MP:286/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Tlazolteotl
+3-Hel
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Ippon-Datara HP:256/256 MP:56/56
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Zhu Tun She HP:180/180 MP:35/35 (Puesto 2)
+2-Hel HP:224/254 MP:246/246 (Puesto 3)
+3-Tlazolteotl HP:299/315 MP:286/306 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ippon-Datara ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:292/388 MP:193/193
+B-Plasma HP:179/179 MP:172/172
+C-Red Rider HP:917/917 MP:183/183
+D-Susano-o HP:818/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Tlazolteotl HP:299/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Ippon-Datara
+3-Zhu Tun She
+4-Joker
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl lanza hielo a Tadano
+Tadano recibe 96 de daño
+Tadano termina con HP:196/388
+Tlazolteotl lanza hielo a Plasma
+Plasma es débil contra el ataque de Tlazolteotl
+Plasma recibe 145 de daño
+Plasma termina con HP:34/179
+Tlazolteotl lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Tlazolteotl
+Red Rider recibe 145 de daño
+Red Rider termina con HP:772/917
+Tlazolteotl lanza hielo a Susano-o
+Susano-o recibe 96 de daño
+Susano-o termina con HP:722/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:196/388 MP:193/193
+B-Plasma HP:34/179 MP:172/172
+C-Red Rider HP:772/917 MP:183/183
+D-Susano-o HP:722/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Tlazolteotl HP:299/315 MP:266/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Ippon-Datara
+2-Zhu Tun She
+3-Joker
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:196/388 MP:193/193
+B-Plasma HP:34/179 MP:172/172
+C-Red Rider HP:772/917 MP:183/183
+D-Susano-o HP:722/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Zhu Tun She HP:180/180 MP:35/35
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Tlazolteotl HP:299/315 MP:266/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zhu Tun She
+2-Joker
+3-Tlazolteotl
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Zhu Tun She
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:224/254 MP:246/246
+2-Ghoul HP:558/558 MP:111/111
+3-Samael HP:945/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:196/388 MP:193/193
+B-Plasma HP:34/179 MP:172/172
+C-Red Rider HP:772/917 MP:183/183
+D-Susano-o HP:722/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Samael HP:945/945 MP:189/189
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Tlazolteotl HP:299/315 MP:266/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Tlazolteotl
+3-Ippon-Datara
+4-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:196/388 MP:193/193
+2-Plasma HP:34/179 MP:172/172
+3-Red Rider HP:772/917 MP:183/183
+4-Susano-o HP:722/927 MP:184/184
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:196/388 MP:193/193
+2-Plasma HP:34/179 MP:172/172
+3-Red Rider HP:772/917 MP:183/183
+4-Susano-o HP:722/927 MP:184/184
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Plasma
+Plasma es resistente el ataque de Joker
+Plasma recibe 14 de daño
+Plasma termina con HP:20/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:196/388 MP:193/193
+B-Plasma HP:20/179 MP:172/172
+C-Red Rider HP:772/917 MP:183/183
+D-Susano-o HP:722/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Samael HP:945/945 MP:189/189
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Tlazolteotl HP:299/315 MP:266/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Ippon-Datara
+3-Samael
+4-Joker
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Tadano HP:196/388 MP:193/193
+2-Plasma HP:20/179 MP:172/172
+3-Red Rider HP:772/917 MP:183/183
+4-Susano-o HP:722/927 MP:184/184
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Tadano
+Tadano es resistente el ataque de Tlazolteotl
+Tadano recibe 16 de daño
+Tadano termina con HP:180/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:193/193
+B-Plasma HP:20/179 MP:172/172
+C-Red Rider HP:772/917 MP:183/183
+D-Susano-o HP:722/927 MP:184/184
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Samael HP:945/945 MP:189/189
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Tlazolteotl HP:299/315 MP:266/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Tadano
+4-Plasma
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Joker HP:597/597 MP:347/347
+2-Samael HP:945/945 MP:189/189
+3-Ippon-Datara HP:256/256 MP:56/56
+4-Tlazolteotl HP:299/315 MP:266/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Joker
+Joker recibe 152 de daño
+Joker termina con HP:445/597
+Susano-o ataca a Samael
+Samael recibe 152 de daño
+Samael termina con HP:793/945
+Susano-o ataca a Ippon-Datara
+Ippon-Datara recibe 152 de daño
+Ippon-Datara termina con HP:104/256
+Susano-o ataca a Tlazolteotl
+Tlazolteotl recibe 152 de daño
+Tlazolteotl termina con HP:147/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:193/193
+B-Plasma HP:20/179 MP:172/172
+C-Red Rider HP:772/917 MP:183/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:445/597 MP:347/347
+B-Samael HP:793/945 MP:189/189
+C-Ippon-Datara HP:104/256 MP:56/56
+D-Tlazolteotl HP:147/315 MP:266/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Tadano
+3-Plasma
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:445/597 MP:347/347
+2-Samael HP:793/945 MP:189/189
+3-Ippon-Datara HP:104/256 MP:56/56
+4-Tlazolteotl HP:147/315 MP:266/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider lanza fuego a Joker
+Joker recibe 154 de daño
+Joker termina con HP:291/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:193/193
+B-Plasma HP:20/179 MP:172/172
+C-Red Rider HP:772/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:291/597 MP:347/347
+B-Samael HP:793/945 MP:189/189
+C-Ippon-Datara HP:104/256 MP:56/56
+D-Tlazolteotl HP:147/315 MP:266/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Plasma
+3-Susano-o
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Life Drain MP:5
+2-Zio MP:5
+3-Lunge MP:6
+4-Hama MP:6
+5-Fatal Sword MP:8
+6-Tathlum Shot MP:7
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:291/597 MP:347/347
+2-Samael HP:793/945 MP:189/189
+3-Ippon-Datara HP:104/256 MP:56/56
+4-Tlazolteotl HP:147/315 MP:266/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tadano lanza electricidad a Ippon-Datara
+Ippon-Datara recibe 47 de daño
+Ippon-Datara termina con HP:57/256
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:172/172
+C-Red Rider HP:772/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:291/597 MP:347/347
+B-Samael HP:793/945 MP:189/189
+C-Ippon-Datara HP:57/256 MP:56/56
+D-Tlazolteotl HP:147/315 MP:266/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Susano-o
+3-Red Rider
+4-Tadano
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Plasma use
+1-Plasma Discharge MP:22
+2-Fog Breath MP:45
+3-Megidoplasma MP:41
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Plasma lanza un ataque todo poderoso a Joker
+Joker recibe 106 de daño
+Joker termina con HP:185/597
+Plasma lanza un ataque todo poderoso a Samael
+Samael recibe 106 de daño
+Samael termina con HP:687/945
+Plasma lanza un ataque todo poderoso a Ippon-Datara
+Ippon-Datara recibe 106 de daño
+Ippon-Datara termina con HP:0/256
+Plasma lanza un ataque todo poderoso a Tlazolteotl
+Tlazolteotl recibe 106 de daño
+Tlazolteotl termina con HP:41/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:772/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Samael HP:687/945 MP:189/189
+C-
+D-Tlazolteotl HP:41/315 MP:266/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+3-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zhu Tun She HP:180/180 MP:35/35
+2-Hel HP:224/254 MP:246/246
+3-Ghoul HP:558/558 MP:111/111
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:772/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Hel HP:224/254 MP:246/246
+C-
+D-Tlazolteotl HP:41/315 MP:266/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Tlazolteotl
+3-Hel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:180/388 MP:188/193
+2-Plasma HP:20/179 MP:131/172
+3-Red Rider HP:772/917 MP:161/183
+4-Susano-o HP:722/927 MP:152/184
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Red Rider
+Red Rider es resistente el ataque de Joker
+Red Rider recibe 19 de daño
+Red Rider termina con HP:753/917
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Hel HP:224/254 MP:246/246
+C-
+D-Tlazolteotl HP:41/315 MP:266/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Hel
+3-Joker
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zhu Tun She HP:180/180 MP:35/35
+2-Ghoul HP:558/558 MP:111/111
+3-Samael HP:687/945 MP:189/189
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zhu Tun She ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Hel HP:224/254 MP:246/246
+C-
+D-Zhu Tun She HP:180/180 MP:35/35
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Joker
+3-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Hel HP:224/254 MP:246/246
+C-
+D-Zhu Tun She HP:180/180 MP:35/35
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Zhu Tun She
+3-Hel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tlazolteotl HP:41/315 MP:266/306
+2-Ghoul HP:558/558 MP:111/111
+3-Samael HP:687/945 MP:189/189
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:224/254 MP:246/246 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Zhu Tun She HP:180/180 MP:35/35 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:180/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Hel HP:224/254 MP:246/246
+C-
+D-Samael HP:687/945 MP:189/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+2-Hel
+3-Joker
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Tadano HP:180/388 MP:188/193
+2-Plasma HP:20/179 MP:131/172
+3-Red Rider HP:753/917 MP:161/183
+4-Susano-o HP:722/927 MP:152/184
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Tadano
+Tadano es resistente el ataque de Samael
+Tadano recibe 36 de daño
+Tadano termina con HP:144/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:161/183
+D-Susano-o HP:722/927 MP:152/184
+Equipo de Joker (J2)
+A-Joker HP:185/597 MP:347/347
+B-Hel HP:224/254 MP:246/246
+C-
+D-Samael HP:687/945 MP:189/189
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Tadano
+4-Plasma
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Nozuchi HP:232/232 MP:52/52
+3-Patrimpas HP:79/155 MP:149/149
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Susano-o lanza un ataque todo poderoso a Joker
+Joker recibe 113 de daño
+Joker termina con HP:72/597
+Susano-o lanza un ataque todo poderoso a Hel
+Hel recibe 113 de daño
+Hel termina con HP:111/254
+Susano-o lanza un ataque todo poderoso a Samael
+Samael recibe 113 de daño
+Samael termina con HP:574/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:161/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:72/597 MP:347/347
+B-Hel HP:111/254 MP:246/246
+C-
+D-Samael HP:574/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Tadano
+3-Plasma
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:72/597 MP:347/347
+2-Hel HP:111/254 MP:246/246
+3-Samael HP:574/945 MP:189/189
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Red Rider lanza fuego a Hel
+Hel es débil contra el ataque de Red Rider
+Hel recibe 232 de daño
+Hel termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:72/597 MP:347/347
+B-
+C-
+D-Samael HP:574/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Plasma
+3-Susano-o
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:72/597 MP:347/347
+2-Samael HP:574/945 MP:189/189
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Samael
+Samael recibe 16 de daño
+Samael termina con HP:558/945
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:72/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Susano-o
+3-Red Rider
+4-Tadano
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Plasma
+1-Joker HP:72/597 MP:347/347
+2-Samael HP:558/945 MP:189/189
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:54/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Tadano
+4-Plasma
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Tadano
+3-Plasma
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-Plasma HP:20/179 MP:131/172
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Joker
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Tadano HP:144/388 MP:188/193
+2-Plasma HP:20/179 MP:131/172
+3-Red Rider HP:753/917 MP:139/183
+4-Susano-o HP:722/927 MP:107/184
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ataca a Plasma
+Plasma es resistente el ataque de Samael
+Plasma recibe 36 de daño
+Plasma termina con HP:0/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:722/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Samael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Tadano HP:144/388 MP:188/193
+2-Red Rider HP:753/917 MP:139/183
+3-Susano-o HP:722/927 MP:107/184
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Susano-o
+Susano-o recibe 39 de daño
+Susano-o termina con HP:683/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-Susano-o HP:683/927 MP:107/184
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Tadano
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Nozuchi HP:232/232 MP:52/52
+3-Patrimpas HP:79/155 MP:149/149
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nozuchi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-Nozuchi HP:232/232 MP:52/52
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Tadano
+3-Nozuchi
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:54/597 MP:347/347
+2-Samael HP:558/945 MP:189/189
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:188/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-Nozuchi HP:232/232 MP:52/52
+Equipo de Joker (J2)
+A-Joker HP:54/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Nozuchi
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Life Drain MP:5
+2-Zio MP:5
+3-Lunge MP:6
+4-Hama MP:6
+5-Fatal Sword MP:8
+6-Tathlum Shot MP:7
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:54/597 MP:347/347
+2-Samael HP:558/945 MP:189/189
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca con luz a Joker
+Joker es débil contra el ataque de Tadano
+Joker ha sido eliminado
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:182/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-Nozuchi HP:232/232 MP:52/52
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nozuchi
+2-Red Rider
+3-Tadano
+----------------------------------------
+Seleccione una acción para Nozuchi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nozuchi
+1-Samael HP:558/945 MP:189/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nozuchi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Susano-o HP:683/927 MP:107/184
+3-Patrimpas HP:79/155 MP:149/149
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Patrimpas ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:182/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-Patrimpas HP:79/155 MP:149/149
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Tadano
+3-Patrimpas
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Samael HP:558/945 MP:189/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Samael HP:558/945 MP:189/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Susano-o HP:683/927 MP:107/184
+3-Nozuchi HP:232/232 MP:52/52
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nozuchi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:182/193
+B-
+C-Nozuchi HP:232/232 MP:52/52
+D-Patrimpas HP:79/155 MP:149/149
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:558/945 MP:189/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Patrimpas
+3-Nozuchi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Life Drain MP:5
+2-Zio MP:5
+3-Lunge MP:6
+4-Hama MP:6
+5-Fatal Sword MP:8
+6-Tathlum Shot MP:7
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Samael HP:558/945 MP:189/189
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Samael
+Samael recibe 65 de daño
+Samael termina con HP:493/945
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:144/388 MP:174/193
+B-
+C-Nozuchi HP:232/232 MP:52/52
+D-Patrimpas HP:79/155 MP:149/149
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:493/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Samael lanza un ataque todo poderoso a Tadano
+Tadano recibe 115 de daño
+Tadano termina con HP:29/388
+Samael lanza un ataque todo poderoso a Nozuchi
+Nozuchi recibe 115 de daño
+Nozuchi termina con HP:117/232
+Samael lanza un ataque todo poderoso a Patrimpas
+Patrimpas recibe 115 de daño
+Patrimpas termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:29/388 MP:174/193
+B-
+C-Nozuchi HP:117/232 MP:52/52
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:493/945 MP:144/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Nozuchi
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:29/388 MP:174/193
+B-
+C-Nozuchi HP:117/232 MP:52/52
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:493/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nozuchi
+2-Tadano
+----------------------------------------
+Seleccione una acción para Nozuchi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Red Rider HP:753/917 MP:139/183
+3-Susano-o HP:683/927 MP:107/184
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nozuchi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Red Rider HP:753/917 MP:139/183
+3-Susano-o HP:683/927 MP:107/184
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nozuchi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:186/291 MP:261/283
+2-Red Rider HP:753/917 MP:139/183
+3-Susano-o HP:683/927 MP:107/184
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Red Rider ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:29/388 MP:174/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:493/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Red Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Samael HP:493/945 MP:144/189
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Samael
+Samael recibe 16 de daño
+Samael termina con HP:477/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:29/388 MP:174/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Samael HP:477/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zhu Tun She HP:180/180 MP:35/35
+2-Tlazolteotl HP:41/315 MP:266/306
+3-Ghoul HP:558/558 MP:111/111
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:29/388 MP:174/193
+B-
+C-Red Rider HP:753/917 MP:139/183
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Tlazolteotl HP:41/315 MP:266/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zhu Tun She HP:180/180 MP:35/35
+2-Ghoul HP:558/558 MP:111/111
+3-Samael HP:477/945 MP:144/189
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl lanza hielo a Tadano
+Tadano recibe 96 de daño
+Tadano termina con HP:0/388
+Tlazolteotl lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Tlazolteotl
+Red Rider recibe 145 de daño
+Red Rider termina con HP:608/917
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:174/193
+B-
+C-Red Rider HP:608/917 MP:139/183
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Tlazolteotl HP:41/315 MP:246/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:174/193
+B-
+C-Red Rider HP:608/917 MP:139/183
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:347/347
+B-
+C-
+D-Tlazolteotl HP:41/315 MP:246/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Tlazolteotl HP:41/315 MP:246/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Tlazolteotl
+Tlazolteotl recibe 71 de daño
+Tlazolteotl termina con HP:0/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tadano (J1)

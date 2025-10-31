@@ -1,0 +1,4371 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 98
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:1278/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1278/1309 MP:613/613
+B-Kama HP:574/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:1247/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:543/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:764/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1247/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:441/441 MP:428/428
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:1216/1309
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:410/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:307/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:729/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1216/1309 MP:613/613
+B-Kama HP:543/574 MP:257/257
+C-Alilat HP:410/441 MP:428/428
+D-Azrael HP:307/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:1185/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:512/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:379/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:276/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:694/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1185/1309 MP:613/613
+B-Kama HP:512/574 MP:257/257
+C-Alilat HP:379/441 MP:428/428
+D-Azrael HP:276/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:1123/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:481/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:348/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:245/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:659/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1123/1309 MP:613/613
+B-Kama HP:481/574 MP:257/257
+C-Alilat HP:348/441 MP:428/428
+D-Azrael HP:245/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:1061/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:419/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:317/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:214/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:624/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1061/1309 MP:613/613
+B-Kama HP:419/574 MP:257/257
+C-Alilat HP:317/441 MP:428/428
+D-Azrael HP:214/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:999/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:388/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:255/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:152/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:589/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:999/1309 MP:613/613
+B-Kama HP:388/574 MP:257/257
+C-Alilat HP:255/441 MP:428/428
+D-Azrael HP:152/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:937/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:326/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:193/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:90/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:554/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:937/1309 MP:613/613
+B-Kama HP:326/574 MP:257/257
+C-Alilat HP:193/441 MP:428/428
+D-Azrael HP:90/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:844/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:264/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:131/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:28/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+4-Azrael
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Azrael
+4-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Azrael
+3-Aleph
+4-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Aleph
+3-Kama
+4-Alilat
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:519/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:844/1309 MP:613/613
+B-Kama HP:264/574 MP:257/257
+C-Alilat HP:131/441 MP:428/428
+D-Azrael HP:28/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:751/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:171/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:69/441
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Demi-Fiend ataca a Azrael
+Azrael es resistente el ataque de Demi-Fiend
+Azrael recibe 31 de daño
+Azrael termina con HP:0/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Aleph
+3-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Alilat
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Alilat
+3-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Aleph
+3-Kama
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:484/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:751/1309 MP:613/613
+B-Kama HP:171/574 MP:257/257
+C-Alilat HP:69/441 MP:428/428
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:627/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:47/574
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Demi-Fiend ataca a Alilat
+Alilat es resistente el ataque de Demi-Fiend
+Alilat recibe 31 de daño
+Alilat termina con HP:0/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:449/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:627/1309 MP:613/613
+B-Kama HP:47/574 MP:257/257
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Matador HP:889/889 MP:176/176
+2-Plasma HP:179/179 MP:172/172
+3-Legion HP:399/399 MP:179/179
+4-Demonee-Ho HP:804/804 MP:160/160
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:47/574 MP:257/257 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2 
+----------------------------------------
+Matador ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:449/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:627/1309 MP:613/613
+B-Kama HP:47/574 MP:257/257
+C-Matador HP:889/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Matador
+3-Aleph
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:449/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:627/1309 MP:613/613
+B-Kama HP:47/574 MP:257/257
+C-Matador HP:889/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+2-Aleph
+3-Kama
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:449/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:627/1309 MP:613/613
+B-Kama HP:47/574 MP:257/257
+C-Matador HP:889/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Kama
+3-Matador
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Plasma HP:179/179 MP:172/172
+2-Legion HP:399/399 MP:179/179
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:47/574 MP:257/257 (Puesto 2)
+2-Matador HP:889/889 MP:176/176 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Plasma ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:449/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:627/1309 MP:613/613
+B-Kama HP:47/574 MP:257/257
+C-Matador HP:889/889 MP:176/176
+D-Plasma HP:179/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:534/1309
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Demi-Fiend ataca a Kama
+Kama es resistente el ataque de Demi-Fiend
+Kama recibe 31 de daño
+Kama termina con HP:0/574
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:796/889
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Plasma termina con HP:86/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Matador
+3-Plasma
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Matador
+2-Plasma
+3-Aleph
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Aleph
+3-Matador
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Matador
+3-Plasma
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+2-Plasma
+3-Aleph
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Plasma
+2-Aleph
+3-Matador
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:414/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:534/1309 MP:613/613
+B-
+C-Matador HP:796/889 MP:176/176
+D-Plasma HP:86/179 MP:172/172
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:379/1309
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:672/889
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Demi-Fiend ataca a Plasma
+Plasma es resistente el ataque de Demi-Fiend
+Plasma recibe 31 de daño
+Plasma termina con HP:0/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:379/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:379/1309 MP:613/613
+B-
+C-Matador HP:672/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Matador
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:379/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:379/1309 MP:613/613
+B-
+C-Matador HP:672/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Matador
+2-Aleph
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:379/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:379/1309 MP:613/613
+B-
+C-Matador HP:672/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Matador
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:379/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:379/1309 MP:613/613
+B-
+C-Matador HP:672/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Matador
+2-Aleph
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:379/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:379/1309 MP:613/613
+B-
+C-Matador HP:672/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:162/1309
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:455/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:344/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:162/1309 MP:613/613
+B-
+C-Matador HP:455/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Matador
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:344/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:162/1309 MP:613/613
+B-
+C-Matador HP:455/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Matador
+2-Aleph
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:344/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:162/1309 MP:613/613
+B-
+C-Matador HP:455/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Matador
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:344/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:162/1309 MP:613/613
+B-
+C-Matador HP:455/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Matador
+2-Aleph
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:344/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:162/1309 MP:613/613
+B-
+C-Matador HP:455/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Demi-Fiend ataca a Aleph
+Aleph es resistente el ataque de Demi-Fiend
+Aleph recibe 31 de daño
+Aleph termina con HP:0/1309
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:238/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:309/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:238/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Demi-Fiend HP:1227/1227 MP:309/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Matador
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:309/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:238/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:207/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:274/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:207/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Demi-Fiend HP:1227/1227 MP:274/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Matador
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:274/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:207/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:145/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:239/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:145/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Demi-Fiend HP:1227/1227 MP:239/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Matador
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:239/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:145/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:52/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:204/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:52/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Matador
+----------------------------------------
+Seleccione una acción para Matador
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Matador
+1-Demi-Fiend HP:1227/1227 MP:204/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Matador ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Matador
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:204/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-Matador HP:52/889 MP:176/176
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Demi-Fiend ataca a Matador
+Matador es resistente el ataque de Demi-Fiend
+Matador recibe 31 de daño
+Matador termina con HP:0/889
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

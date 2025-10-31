@@ -1,0 +1,6176 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 242
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Chemtrail HP:437/437 MP:423/423
+D-Tuofei HP:239/239 MP:121/121
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Azrael HP:338/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+3-Hel
+4-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Azrael HP:338/338 MP:328/328
+3-Guedhe HP:511/511 MP:229/229
+4-Kaso HP:108/108 MP:104/104
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:1113/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Chemtrail HP:437/437 MP:423/423
+D-Tuofei HP:239/239 MP:121/121
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:338/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Hel
+3-Tuofei
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Chemtrail HP:437/437 MP:423/423
+D-Tuofei HP:239/239 MP:121/121
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:338/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Tuofei
+3-Demi-Fiend
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:338/338 MP:328/328
+3-Guedhe HP:511/511 MP:229/229
+4-Kaso HP:108/108 MP:104/104
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Azrael
+Azrael es resistente el ataque de Hel
+Azrael recibe 13 de daño
+Azrael termina con HP:325/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Chemtrail HP:437/437 MP:423/423
+D-Tuofei HP:239/239 MP:121/121
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tuofei
+2-Demi-Fiend
+3-Chemtrail
+4-Hel
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Chemtrail HP:437/437 MP:423/423
+D-Tuofei HP:239/239 MP:121/121
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+3-Hel
+4-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Breath MP:24
+3-Madness Nails MP:26
+4-Maziodyne MP:32
+5-Serpent of Sheol MP:45
+6-Maragidyne MP:32
+7-Mudo MP:6
+8-Spirit Drain MP:5
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Itsumade HP:231/231 MP:103/103
+2-Gremlin HP:140/140 MP:63/63
+3-Atropos HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:254/254 MP:246/246 (Puesto 2)
+2-Chemtrail HP:437/437 MP:423/423 (Puesto 3)
+3-Tuofei HP:239/239 MP:121/121 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Itsumade HP:231/231 MP:103/103
+2-Gremlin HP:140/140 MP:63/63
+3-Atropos HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:254/254 MP:246/246 (Puesto 2)
+2-Chemtrail HP:437/437 MP:423/423 (Puesto 3)
+3-Tuofei HP:239/239 MP:121/121 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Chemtrail HP:437/437 MP:423/423
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Hel
+3-Atropos
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:325/338 MP:328/328
+3-Guedhe HP:511/511 MP:229/229
+4-Kaso HP:108/108 MP:104/104
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tuofei HP:239/239 MP:121/121
+2-Itsumade HP:231/231 MP:103/103
+3-Gremlin HP:140/140 MP:63/63
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Atropos
+3-Demi-Fiend
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Azrael
+4-Kaso
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hel HP:254/254 MP:246/246
+3-Itsumade HP:231/231 MP:103/103
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Azrael
+3-Kaso
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:328/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Kaso
+3-Demi-Fiend
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:280/280 MP:126/126
+2-Balor HP:492/492 MP:98/98
+3-Sphinx HP:376/376 MP:364/364
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hel HP:254/254 MP:246/246
+3-Itsumade HP:231/231 MP:103/103
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael lanza fuego a Demi-Fiend
+Demi-Fiend bloquea el ataque de Azrael
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+3-Hel
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:108/108 MP:104/104
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Hel
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Tuofei HP:239/239 MP:121/121
+3-Gremlin HP:140/140 MP:63/63
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:325/338 MP:314/328
+3-Guedhe HP:511/511 MP:229/229
+4-Kaso HP:108/108 MP:104/104
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Atropos ataca a Kaso
+Kaso recibe 29 de daño
+Kaso termina con HP:79/108
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:79/108 MP:104/104
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Itsumade
+3-Demi-Fiend
+4-Atropos
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:325/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:79/108 MP:104/104
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Atropos
+4-Hel
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:325/338 MP:314/328
+3-Guedhe HP:511/511 MP:229/229
+4-Kaso HP:79/108 MP:104/104
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ataca a Azrael
+Azrael es resistente el ataque de Itsumade
+Azrael recibe 8 de daño
+Azrael termina con HP:317/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-Kaso HP:79/108 MP:104/104
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+3-Hel
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:317/338 MP:314/328
+3-Guedhe HP:511/511 MP:229/229
+4-Kaso HP:79/108 MP:104/104
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend dispara a Kaso
+Kaso recibe 114 de daño
+Kaso termina con HP:0/108
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Hel
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:317/338 MP:314/328
+3-Guedhe HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Atropos
+Demi-Fiend termina con HP:1113/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Azrael
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:280/280 MP:126/126
+2-Balor HP:492/492 MP:98/98
+3-Sphinx HP:376/376 MP:364/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Azrael HP:317/338 MP:314/328 (Puesto 2)
+2-Guedhe HP:511/511 MP:229/229 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Guedhe HP:511/511 MP:229/229
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Azrael
+3-Balor
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:280/280 MP:126/126
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hel HP:254/254 MP:246/246
+3-Itsumade HP:231/231 MP:103/103
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:280/280 MP:126/126
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:280/280 MP:126/126
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Sphinx HP:376/376 MP:364/364
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Balor
+3-Demi-Fiend
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Sphinx HP:376/376 MP:364/364
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Demi-Fiend
+3-Sphinx
+4-Azrael
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Hel HP:254/254 MP:246/246
+3-Itsumade HP:231/231 MP:103/103
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:511/511 MP:229/229
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Sphinx HP:376/376 MP:364/364
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Sphinx
+3-Azrael
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:280/280 MP:126/126
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Azrael HP:317/338 MP:314/328 (Puesto 2)
+2-Sphinx HP:376/376 MP:364/364 (Puesto 3)
+3-Guedhe HP:511/511 MP:229/229 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Azrael
+3-Guedhe
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+3-Hel
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Breath MP:24
+3-Madness Nails MP:26
+4-Maziodyne MP:32
+5-Serpent of Sheol MP:45
+6-Maragidyne MP:32
+7-Mudo MP:6
+8-Spirit Drain MP:5
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:1113/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Hel
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:317/338 MP:314/328
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Guedhe HP:511/511 MP:229/229
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Atropos ataca a Tsuchigumo
+Tsuchigumo recibe 29 de daño
+Tsuchigumo termina con HP:251/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Itsumade
+3-Demi-Fiend
+4-Atropos
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Azrael HP:317/338 MP:314/328
+3-Tsuchigumo HP:251/280 MP:126/126
+4-Guedhe HP:511/511 MP:229/229
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Hel
+Demi-Fiend termina con HP:1113/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Azrael
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Azrael
+3-Tsuchigumo
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:492/492 MP:98/98
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Azrael HP:317/338 MP:314/328
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Tsuchigumo
+3-Demi-Fiend
+4-Balor
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:511/511 MP:229/229
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Demi-Fiend
+3-Balor
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Balor
+3-Guedhe
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:808/834
+2-Hel HP:254/254 MP:246/246
+3-Itsumade HP:231/231 MP:103/103
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend dispara a Atropos
+Atropos recibe 114 de daño
+Atropos termina con HP:163/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:163/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Guedhe
+3-Tsuchigumo
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Demi-Fiend HP:1227/1227 MP:808/834
+2-Hel HP:254/254 MP:246/246
+3-Itsumade HP:231/231 MP:103/103
+4-Atropos HP:163/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Balor ataca a Atropos
+Atropos recibe 36 de daño
+Atropos termina con HP:127/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+3-Hel
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Hel
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Atropos use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Ziodyne MP:14
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:246/246
+C-Itsumade HP:231/231 MP:103/103
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Itsumade
+3-Demi-Fiend
+4-Atropos
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Tuofei HP:239/239 MP:121/121
+3-Gremlin HP:140/140 MP:63/63
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:254/254 MP:246/246 (Puesto 2)
+2-Itsumade HP:231/231 MP:103/103 (Puesto 3)
+3-Atropos HP:127/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gremlin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:231/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Demi-Fiend
+3-Gremlin
+4-Hel
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:231/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Gremlin
+3-Hel
+4-Itsumade
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:231/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gremlin
+2-Hel
+3-Itsumade
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gremlin
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:511/511 MP:229/229
+3-Tsuchigumo HP:251/280 MP:126/126
+4-Balor HP:492/492 MP:98/98
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Tuofei HP:239/239 MP:121/121
+3-Atropos HP:127/277 MP:269/269
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:231/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Itsumade
+3-Demi-Fiend
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:231/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Balor
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:808/834
+2-Hel HP:254/254 MP:226/246
+3-Itsumade HP:231/231 MP:103/103
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend dispara a Itsumade
+Itsumade recibe 114 de daño
+Itsumade termina con HP:117/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Balor
+3-Tsuchigumo
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:98/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Tsuchigumo
+3-Demi-Fiend
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Demi-Fiend HP:1227/1227 MP:808/834
+2-Hel HP:254/254 MP:226/246
+3-Itsumade HP:117/231 MP:103/103
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza fuego a Demi-Fiend
+Demi-Fiend bloquea el ataque de Balor
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:254/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:84/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Demi-Fiend
+3-Guedhe
+4-Balor
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Demi-Fiend HP:1227/1227 MP:808/834
+2-Hel HP:254/254 MP:226/246
+3-Itsumade HP:117/231 MP:103/103
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Hel
+Hel recibe 22 de daño
+Hel termina con HP:232/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:808/834
+B-Hel HP:232/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-Tsuchigumo HP:251/280 MP:126/126
+D-Balor HP:492/492 MP:84/98
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+3-Itsumade
+4-Gremlin
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Breath MP:24
+3-Madness Nails MP:26
+4-Maziodyne MP:32
+5-Serpent of Sheol MP:45
+6-Maragidyne MP:32
+7-Mudo MP:6
+8-Spirit Drain MP:5
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza hielo a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:1113/1227
+Demi-Fiend lanza hielo a Tsuchigumo
+Tsuchigumo es débil contra el ataque de Demi-Fiend
+Tsuchigumo recibe 499 de daño
+Tsuchigumo termina con HP:0/280
+Demi-Fiend lanza hielo a Balor
+Balor recibe 333 de daño
+Balor termina con HP:159/492
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Hel HP:232/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-
+D-Balor HP:159/492 MP:84/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Itsumade
+3-Gremlin
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:511/511 MP:229/229
+3-Balor HP:159/492 MP:84/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Balor
+Balor recibe 26 de daño
+Balor termina con HP:133/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Hel HP:232/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:511/511 MP:229/229
+C-
+D-Balor HP:133/492 MP:84/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+2-Gremlin
+3-Demi-Fiend
+4-Hel
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:511/511 MP:229/229
+3-Balor HP:133/492 MP:84/98
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsumade ataca a Guedhe
+Guedhe recibe 17 de daño
+Guedhe termina con HP:494/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Hel HP:232/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:140/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:494/511 MP:229/229
+C-
+D-Balor HP:133/492 MP:84/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Balor
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1227/1227 MP:784/834
+2-Hel HP:232/254 MP:226/246
+3-Itsumade HP:117/231 MP:103/103
+4-Gremlin HP:140/140 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend dispara a Gremlin
+Gremlin recibe 114 de daño
+Gremlin termina con HP:26/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Hel HP:232/254 MP:226/246
+C-Itsumade HP:117/231 MP:103/103
+D-Gremlin HP:26/140 MP:63/63
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:494/511 MP:229/229
+C-
+D-Balor HP:133/492 MP:84/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Balor
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Demi-Fiend HP:1227/1227 MP:784/834
+2-Hel HP:232/254 MP:226/246
+3-Itsumade HP:117/231 MP:103/103
+4-Gremlin HP:26/140 MP:63/63
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Guedhe lanza un ataque todo poderoso a Demi-Fiend
+Demi-Fiend recibe 122 de daño
+Demi-Fiend termina con HP:1105/1227
+Guedhe lanza un ataque todo poderoso a Hel
+Hel recibe 122 de daño
+Hel termina con HP:110/254
+Guedhe lanza un ataque todo poderoso a Itsumade
+Itsumade recibe 122 de daño
+Itsumade termina con HP:0/231
+Guedhe lanza un ataque todo poderoso a Gremlin
+Gremlin recibe 122 de daño
+Gremlin termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1105/1227 MP:784/834
+B-Hel HP:110/254 MP:226/246
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:494/511 MP:189/229
+C-
+D-Balor HP:133/492 MP:84/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Demi-Fiend
+3-Guedhe
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Demi-Fiend HP:1105/1227 MP:784/834
+2-Hel HP:110/254 MP:226/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Balor
+Demi-Fiend termina con HP:1105/1227
+Balor ataca a Hel
+Hel recibe 108 de daño
+Hel termina con HP:2/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1105/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:494/511 MP:189/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Hel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Tuofei HP:239/239 MP:121/121
+3-Atropos HP:127/277 MP:269/269
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:2/254 MP:226/246 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1105/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:423/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:494/511 MP:189/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Chemtrail
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:494/511 MP:189/229
+3-Balor HP:133/492 MP:54/98
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Guedhe
+Guedhe recibe 26 de daño
+Guedhe termina con HP:468/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1105/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:423/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:468/511 MP:189/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Demi-Fiend
+3-Hel
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:468/511 MP:189/229
+3-Balor HP:133/492 MP:54/98
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:468/511 MP:189/229
+3-Balor HP:133/492 MP:54/98
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail dispara a Guedhe
+Guedhe recibe 172 de daño
+Guedhe termina con HP:296/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1105/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:296/511 MP:189/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Balor
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1105/1227 MP:784/834
+2-Hel HP:2/254 MP:226/246
+3-Chemtrail HP:437/437 MP:393/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:991/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:296/511 MP:189/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Balor
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Demi-Fiend HP:991/1227 MP:784/834
+2-Hel HP:2/254 MP:226/246
+3-Chemtrail HP:437/437 MP:393/423
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca con oscuridad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Guedhe
+Demi-Fiend termina con HP:991/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1113/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+3-Hel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:1113/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Balor HP:133/492 MP:54/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:999/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Hel
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tuofei HP:239/239 MP:121/121
+2-Atropos HP:127/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Atropos HP:127/277 MP:269/269
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:133/492 MP:54/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Demi-Fiend
+3-Atropos
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Demi-Fiend HP:999/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Balor HP:133/492 MP:54/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ataca a Balor
+Balor recibe 26 de daño
+Balor termina con HP:107/492
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Atropos HP:127/277 MP:269/269
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:54/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+3-Hel
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Balor HP:107/492 MP:54/98
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tuofei HP:239/239 MP:121/121
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:2/254 MP:226/246 (Puesto 2)
+2-Atropos HP:127/277 MP:269/269 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:54/98
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Hel
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-Hel HP:2/254 MP:226/246
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:54/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Balor
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:991/1227 MP:784/834
+2-Hel HP:2/254 MP:226/246
+3-Chemtrail HP:437/437 MP:393/423
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Hel
+Hel recibe 168 de daño
+Hel termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:54/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Balor
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Chemtrail HP:437/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:54/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Demi-Fiend
+3-Guedhe
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Balor
+Demi-Fiend termina con HP:991/1227
+Balor ataca a Chemtrail
+Chemtrail recibe 108 de daño
+Chemtrail termina con HP:329/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Chemtrail HP:329/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:24/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Chemtrail HP:329/437 MP:393/423
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:24/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tuofei HP:239/239 MP:121/121
+2-Atropos HP:127/277 MP:269/269
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tuofei ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:239/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:999/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:24/98
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:999/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Balor HP:107/492 MP:24/98
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:885/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:239/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:24/98
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Balor
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:991/1227 MP:784/834
+2-Tuofei HP:239/239 MP:121/121
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:991/1227 MP:784/834
+2-Tuofei HP:239/239 MP:121/121
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Tuofei
+Tuofei es débil contra el ataque de Demi-Fiend
+Tuofei recibe 171 de daño
+Tuofei termina con HP:68/239
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:24/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Balor
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:24/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Demi-Fiend
+3-Guedhe
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Mamudo MP:18
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Demi-Fiend HP:991/1227 MP:784/834
+2-Tuofei HP:68/239 MP:121/121
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza viento a Demi-Fiend
+Demi-Fiend bloquea el ataque de Balor
+Demi-Fiend termina con HP:991/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-Balor HP:107/492 MP:10/98
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Balor HP:107/492 MP:10/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Balor
+Balor recibe 168 de daño
+Balor termina con HP:0/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tuofei
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:329/437 MP:393/423
+2-Atropos HP:127/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tuofei use
+1-Ice Breath MP:21
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tuofei
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tuofei use
+1-Ice Breath MP:21
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:296/511 MP:179/229
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Guedhe HP:296/511 MP:179/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Guedhe
+Guedhe recibe 168 de daño
+Guedhe termina con HP:128/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:128/511 MP:179/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:128/511 MP:179/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:128/511 MP:179/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:128/511 MP:179/229
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Demi-Fiend HP:991/1227 MP:784/834
+2-Tuofei HP:68/239 MP:121/121
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca con oscuridad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Guedhe
+Demi-Fiend termina con HP:991/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:128/511 MP:169/229
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:329/437 MP:393/423
+2-Atropos HP:127/277 MP:269/269
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Tuofei HP:68/239 MP:121/121 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:128/511 MP:169/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tuofei
+2-Chemtrail
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tuofei
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Guedhe HP:128/511 MP:169/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tuofei ataca a Guedhe
+Guedhe recibe 19 de daño
+Guedhe termina con HP:109/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:109/511 MP:169/229
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Demi-Fiend
+3-Tuofei
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:127/277 MP:269/269
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-Guedhe HP:109/511 MP:169/229
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tuofei
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Guedhe HP:109/511 MP:169/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:127/277 MP:269/269
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Guedhe HP:109/511 MP:169/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Guedhe
+Guedhe recibe 114 de daño
+Guedhe termina con HP:0/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+3-Tuofei
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Tuofei
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tuofei
+2-Demi-Fiend
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Tuofei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tuofei
+1-Demi-Fiend HP:885/1227 MP:834/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tuofei ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tuofei
+Demi-Fiend termina con HP:885/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:991/1227 MP:784/834
+B-
+C-Tuofei HP:68/239 MP:121/121
+D-Chemtrail HP:329/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:834/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Floral Gust MP:35
+2-Megidolaon MP:60
+3-Bufudyne MP:14
+4-Mudo MP:6
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Demi-Fiend
+Demi-Fiend recibe 309 de daño
+Demi-Fiend termina con HP:682/1227
+Demi-Fiend lanza un ataque todo poderoso a Tuofei
+Tuofei recibe 309 de daño
+Tuofei termina con HP:0/239
+Demi-Fiend lanza un ataque todo poderoso a Chemtrail
+Chemtrail recibe 309 de daño
+Chemtrail termina con HP:20/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:784/834
+B-
+C-
+D-Chemtrail HP:20/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:885/1227 MP:774/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:885/1227 MP:774/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Demi-Fiend
+Demi-Fiend recibe 114 de daño
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:784/834
+B-
+C-
+D-Chemtrail HP:20/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:774/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:127/277 MP:269/269
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:127/277 MP:269/269
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:784/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:774/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:20/437 MP:393/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Breath MP:24
+3-Madness Nails MP:26
+4-Maziodyne MP:32
+5-Serpent of Sheol MP:45
+6-Maragidyne MP:32
+7-Mudo MP:6
+8-Spirit Drain MP:5
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza hielo a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend lanza hielo a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend lanza hielo a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend lanza hielo a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend lanza hielo a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:760/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:774/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Floral Gust MP:35
+2-Megidolaon MP:60
+3-Bufudyne MP:14
+4-Mudo MP:6
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:682/1227 MP:760/834
+2-Atropos HP:127/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Floral Gust MP:35
+2-Megidolaon MP:60
+3-Bufudyne MP:14
+4-Mudo MP:6
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:682/1227 MP:760/834
+2-Atropos HP:127/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca con oscuridad a Atropos
+Atropos bloquea el ataque de Demi-Fiend
+Atropos termina con HP:127/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:760/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Breath MP:24
+3-Madness Nails MP:26
+4-Maziodyne MP:32
+5-Serpent of Sheol MP:45
+6-Maragidyne MP:32
+7-Mudo MP:6
+8-Spirit Drain MP:5
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Demi-Fiend
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Atropos
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:20/437 MP:393/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:20/437 MP:393/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:771/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:20/437 MP:393/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Atropos HP:127/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:771/1227 MP:768/834
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:20/437 MP:393/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Atropos HP:127/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-Chemtrail HP:20/437 MP:393/423
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Chemtrail
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-Chemtrail HP:20/437 MP:393/423
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-Chemtrail HP:20/437 MP:393/423
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:768/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Floral Gust MP:35
+2-Megidolaon MP:60
+3-Bufudyne MP:14
+4-Mudo MP:6
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Demi-Fiend HP:682/1227 MP:734/834
+2-Chemtrail HP:20/437 MP:393/423
+3-Atropos HP:127/277 MP:269/269
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca con oscuridad a Atropos
+Atropos bloquea el ataque de Demi-Fiend
+Atropos termina con HP:127/277
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:682/1227 MP:734/834
+B-Chemtrail HP:20/437 MP:393/423
+C-
+D-Atropos HP:127/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Chemtrail
+3-Atropos
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Breath MP:24
+3-Madness Nails MP:26
+4-Maziodyne MP:32
+5-Serpent of Sheol MP:45
+6-Maragidyne MP:32
+7-Mudo MP:6
+8-Spirit Drain MP:5
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Chemtrail
+Chemtrail recibe 218 de HP
+Chemtrail termina con HP:238/437
+Demi-Fiend cura a Atropos
+Atropos recibe 138 de HP
+Atropos termina con HP:265/277
+Demi-Fiend revive a Hel
+Hel recibe 127 de HP
+Hel termina con HP:127/254
+Demi-Fiend revive a Tuofei
+Tuofei recibe 119 de HP
+Tuofei termina con HP:119/239
+Demi-Fiend revive a Itsumade
+Itsumade recibe 115 de HP
+Itsumade termina con HP:115/231
+Demi-Fiend revive a Gremlin
+Gremlin recibe 70 de HP
+Gremlin termina con HP:70/140
+Demi-Fiend termina con HP:0/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Atropos
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:771/1227 MP:762/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Atropos
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:314/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:314/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Atropos
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:314/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Chemtrail HP:238/437 MP:393/423
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:314/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Atropos
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Tuofei HP:119/239 MP:121/121
+3-Itsumade HP:115/231 MP:103/103
+4-Gremlin HP:70/140 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gremlin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:70/140 MP:63/63
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:314/328
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Gremlin
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Chemtrail HP:238/437 MP:393/423
+3-Tuofei HP:119/239 MP:121/121
+4-Itsumade HP:115/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Chemtrail HP:238/437 MP:393/423
+3-Tuofei HP:119/239 MP:121/121
+4-Itsumade HP:115/231 MP:103/103
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:771/1227 MP:762/834
+2-Azrael HP:317/338 MP:314/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Atropos
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:70/140 MP:63/63
+C-
+D-Atropos HP:265/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:314/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Azrael
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Gremlin HP:70/140 MP:63/63
+2-Atropos HP:265/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Atropos
+Atropos recibe 114 de daño
+Atropos termina con HP:151/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:70/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:314/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Guedhe HP:0/511 MP:169/229
+2-Kaso HP:0/108 MP:104/104
+3-Tsuchigumo HP:0/280 MP:126/126
+4-Balor HP:0/492 MP:10/98
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Azrael revive a Kaso
+Kaso recibe 108 de HP
+Kaso termina con HP:108/108
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:70/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Gremlin
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:771/1227 MP:762/834
+2-Azrael HP:317/338 MP:274/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Atropos
+Demi-Fiend termina con HP:771/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:70/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Azrael
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Gremlin HP:70/140 MP:63/63
+2-Atropos HP:151/277 MP:269/269
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:70/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Gremlin HP:70/140 MP:63/63
+2-Atropos HP:151/277 MP:269/269
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Gremlin
+Gremlin recibe 36 de daño
+Gremlin termina con HP:34/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:34/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Azrael
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:34/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kaso HP:108/108 MP:104/104
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kaso ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:34/140 MP:63/63
+C-
+D-Atropos HP:151/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Kaso HP:108/108 MP:104/104
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Gremlin
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Chemtrail HP:238/437 MP:393/423
+3-Tuofei HP:119/239 MP:121/121
+4-Itsumade HP:115/231 MP:103/103
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Gremlin HP:34/140 MP:63/63
+C-
+D-Chemtrail HP:238/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Kaso HP:108/108 MP:104/104
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gremlin
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Gremlin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Tuofei HP:119/239 MP:121/121
+3-Itsumade HP:115/231 MP:103/103
+4-Atropos HP:151/277 MP:269/269
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsumade ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:115/231 MP:103/103
+C-
+D-Chemtrail HP:238/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Kaso HP:108/108 MP:104/104
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Itsumade
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:115/231 MP:103/103
+C-
+D-Chemtrail HP:238/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Kaso HP:108/108 MP:104/104
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsumade
+2-Chemtrail
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Itsumade use
+1-Rapid Needle MP:9
+2-Mazan MP:11
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Itsumade use
+1-Rapid Needle MP:9
+2-Mazan MP:11
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Itsumade use
+1-Rapid Needle MP:9
+2-Mazan MP:11
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:115/231 MP:103/103
+C-
+D-Chemtrail HP:238/437 MP:393/423
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:762/834
+B-
+C-Kaso HP:108/108 MP:104/104
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kaso
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:274/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Kaso HP:108/108 MP:104/104 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Floral Gust MP:35
+2-Megidolaon MP:60
+3-Bufudyne MP:14
+4-Mudo MP:6
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsumade HP:115/231 MP:103/103
+2-Chemtrail HP:238/437 MP:393/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza hielo a Chemtrail
+Chemtrail recibe 250 de daño
+Chemtrail termina con HP:0/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:115/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:104/104
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kaso
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kaso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kaso use
+1-Agi MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kaso
+1-Itsumade HP:115/231 MP:103/103
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kaso lanza fuego a Itsumade
+Itsumade recibe 38 de daño
+Itsumade termina con HP:77/231
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:99/104
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:99/104
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsumade
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Itsumade use
+1-Rapid Needle MP:9
+2-Mazan MP:11
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:99/104
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kaso
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:99/104
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kaso
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kaso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kaso use
+1-Agi MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kaso
+1-Itsumade HP:77/231 MP:103/103
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kaso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kaso
+1-Itsumade HP:77/231 MP:103/103
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kaso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:99/104
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kaso
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Kaso HP:108/108 MP:99/104
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kaso
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kaso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:274/328
+2-Sphinx HP:376/376 MP:364/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Itsumade HP:77/231 MP:103/103
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsumade
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Tuofei HP:119/239 MP:121/121
+3-Gremlin HP:34/140 MP:63/63
+4-Atropos HP:151/277 MP:269/269
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsumade
+1-Demi-Fiend HP:771/1227 MP:748/834
+2-Azrael HP:317/338 MP:274/328
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsumade
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:127/254 MP:226/246
+2-Tuofei HP:119/239 MP:121/121
+3-Gremlin HP:34/140 MP:63/63
+4-Atropos HP:151/277 MP:269/269
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Atropos HP:151/277 MP:269/269
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Azrael HP:317/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Demi-Fiend HP:771/1227 MP:748/834
+2-Azrael HP:317/338 MP:274/328
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Atropos ataca a Azrael
+Azrael es resistente el ataque de Atropos
+Azrael recibe 14 de daño
+Azrael termina con HP:303/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:0/1227 MP:732/834
+B-Atropos HP:151/277 MP:269/269
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:771/1227 MP:748/834
+B-
+C-Azrael HP:303/338 MP:274/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Azrael
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Atropos HP:151/277 MP:269/269
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Atropos
+Atropos recibe 168 de daño
+Atropos termina con HP:0/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J2)

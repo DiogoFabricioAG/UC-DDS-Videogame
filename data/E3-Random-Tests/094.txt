@@ -1,0 +1,4107 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 93
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:35/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:35/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Camazotz
+4-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:35/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Camazotz
+3-Aleph
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:597/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:238/238 MP:107/107
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:35/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:238/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Camazotz
+2-Aleph
+3-Da Peng
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Camazotz
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Camazotz use
+1-Tetanus Cut MP:11
+2-Life Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Camazotz
+1-Yu HP:597/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:238/238 MP:107/107
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Camazotz lanza un ataque todo poderoso a Mou-Ryo
+El ataque drena 20 HP de Mou-Ryo
+Mou-Ryo termina con HP:218/238
+Camazotz termina con HP:180/180
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:30/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:30/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Camazotz
+4-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Yu HP:597/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Yu
+Yu es resistente el ataque de Da Peng
+Yu recibe 24 de daño
+Yu termina con HP:573/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:30/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:573/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Camazotz
+3-Aleph
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:573/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:573/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Yu
+Yu es resistente el ataque de Mushussu
+Yu recibe 16 de daño
+Yu termina con HP:557/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:30/35
+C-Da Peng HP:634/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Camazotz HP:180/180 MP:30/35
+3-Da Peng HP:634/634 MP:126/126
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Da Peng
+Da Peng recibe 49 de daño
+Da Peng termina con HP:585/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Camazotz HP:180/180 MP:30/35
+C-Da Peng HP:585/634 MP:126/126
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:130/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Alraune
+3-Mou-Ryo
+4-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Girimekhala lanza hielo a Aleph
+Aleph recibe 100 de daño
+Aleph termina con HP:1209/1309
+Girimekhala lanza hielo a Camazotz
+Camazotz recibe 100 de daño
+Camazotz termina con HP:80/180
+Girimekhala lanza hielo a Da Peng
+Da Peng recibe 100 de daño
+Da Peng termina con HP:485/634
+Girimekhala lanza hielo a Mushussu
+Mushussu recibe 100 de daño
+Mushussu termina con HP:299/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1209/1309 MP:613/613
+B-Camazotz HP:80/180 MP:30/35
+C-Da Peng HP:485/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Mou-Ryo
+3-Yu
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Aleph HP:1209/1309 MP:613/613
+2-Camazotz HP:80/180 MP:30/35
+3-Da Peng HP:485/634 MP:126/126
+4-Mushussu HP:299/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ataca a Aleph
+Aleph es resistente el ataque de Alraune
+Aleph recibe 17 de daño
+Aleph termina con HP:1192/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1192/1309 MP:613/613
+B-Camazotz HP:80/180 MP:30/35
+C-Da Peng HP:485/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yu
+3-Girimekhala
+4-Alraune
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Aleph HP:1192/1309 MP:613/613
+2-Camazotz HP:80/180 MP:30/35
+3-Da Peng HP:485/634 MP:126/126
+4-Mushussu HP:299/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1192/1309 MP:613/613
+B-Camazotz HP:80/180 MP:30/35
+C-Da Peng HP:485/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1192/1309 MP:613/613
+B-Camazotz HP:80/180 MP:30/35
+C-Da Peng HP:485/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+4-Camazotz
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:557/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:98/130
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:557/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:98/130
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 78 de daño
+Yu termina con HP:479/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1192/1309 MP:613/613
+B-Camazotz HP:80/180 MP:30/35
+C-Da Peng HP:485/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Camazotz
+4-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Yu HP:479/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:98/130
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Da Peng ataca a Girimekhala
+Girimekhala devuelve 48 daño a Da Peng
+Da Peng termina con HP:437/634
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1192/1309 MP:613/613
+B-Camazotz HP:80/180 MP:30/35
+C-Da Peng HP:437/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1192/1309 MP:613/613
+2-Camazotz HP:80/180 MP:30/35
+3-Da Peng HP:437/634 MP:126/126
+4-Mushussu HP:299/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Camazotz
+Camazotz es débil contra el ataque de Yu
+Camazotz recibe 109 de daño
+Camazotz termina con HP:0/180
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1192/1309 MP:613/613
+B-
+C-Da Peng HP:437/634 MP:126/126
+D-Mushussu HP:299/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:98/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Alraune
+3-Mou-Ryo
+4-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Girimekhala lanza hielo a Aleph
+Aleph recibe 100 de daño
+Aleph termina con HP:1092/1309
+Girimekhala lanza hielo a Da Peng
+Da Peng recibe 100 de daño
+Da Peng termina con HP:337/634
+Girimekhala lanza hielo a Mushussu
+Mushussu recibe 100 de daño
+Mushussu termina con HP:199/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1092/1309 MP:613/613
+B-
+C-Da Peng HP:337/634 MP:126/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Mou-Ryo
+3-Yu
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Aleph HP:1092/1309 MP:613/613
+2-Da Peng HP:337/634 MP:126/126
+3-Mushussu HP:199/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1092/1309 MP:613/613
+B-
+C-Da Peng HP:337/634 MP:126/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yu
+3-Girimekhala
+4-Alraune
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Aleph HP:1092/1309 MP:613/613
+2-Da Peng HP:337/634 MP:126/126
+3-Mushussu HP:199/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo lanza un ataque todo poderoso a Da Peng
+El ataque drena 28 MP de Da Peng
+Da Peng termina con MP:98/126
+Mou-Ryo termina con MP:107/107
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1092/1309 MP:613/613
+B-
+C-Da Peng HP:337/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1092/1309 MP:613/613
+B-
+C-Da Peng HP:337/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Alraune
+3-Mou-Ryo
+4-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:1092/1309 MP:613/613
+2-Da Peng HP:337/634 MP:98/126
+3-Mushussu HP:199/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:1068/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:613/613
+B-
+C-Da Peng HP:337/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Mou-Ryo
+3-Yu
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Aleph HP:1068/1309 MP:613/613
+2-Da Peng HP:337/634 MP:98/126
+3-Mushussu HP:199/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Da Peng
+El ataque drena 41 HP de Da Peng
+Da Peng termina con HP:296/634
+Alraune termina con HP:427/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:613/613
+B-
+C-Da Peng HP:296/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:479/597 MP:347/347
+B-Alraune HP:427/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Yu termina con HP:449/597
+Aleph ataca a Alraune
+Alraune recibe 61 de daño
+Alraune termina con HP:366/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Aleph
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:98/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:653/653 MP:66/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Yu HP:449/597 MP:347/347
+2-Alraune HP:366/427 MP:187/192
+3-Mou-Ryo HP:218/238 MP:107/107
+4-Girimekhala HP:653/653 MP:66/130
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Da Peng lanza viento a Girimekhala
+Girimekhala es débil contra el ataque de Da Peng
+Girimekhala recibe 159 de daño
+Girimekhala termina con HP:494/653
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Alraune
+3-Mou-Ryo
+4-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:199/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Mou-Ryo
+3-Yu
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Aleph HP:1068/1309 MP:578/613
+2-Da Peng HP:296/634 MP:84/126
+3-Mushussu HP:199/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Alraune ataca a Mushussu
+Mushussu recibe 35 de daño
+Mushussu termina con HP:164/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1068/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:164/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yu
+3-Girimekhala
+4-Alraune
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Aleph HP:1068/1309 MP:578/613
+2-Da Peng HP:296/634 MP:84/126
+3-Mushussu HP:164/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Aleph HP:1068/1309 MP:578/613
+2-Da Peng HP:296/634 MP:84/126
+3-Mushussu HP:164/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Aleph HP:1068/1309 MP:578/613
+2-Da Peng HP:296/634 MP:84/126
+3-Mushussu HP:164/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ataca a Aleph
+Aleph es resistente el ataque de Mou-Ryo
+Aleph recibe 9 de daño
+Aleph termina con HP:1059/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1059/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:164/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1059/1309 MP:578/613
+2-Da Peng HP:296/634 MP:84/126
+3-Mushussu HP:164/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1059/1309 MP:578/613
+2-Da Peng HP:296/634 MP:84/126
+3-Mushussu HP:164/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Mushussu
+Mushussu recibe 72 de daño
+Mushussu termina con HP:92/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1059/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:92/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1059/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:84/126
+D-Mushussu HP:92/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:449/597 MP:347/347
+B-Alraune HP:366/427 MP:187/192
+C-Mou-Ryo HP:218/238 MP:107/107
+D-Girimekhala HP:494/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza hielo a Yu
+Yu es resistente el ataque de Da Peng
+Yu recibe 40 de daño
+Yu termina con HP:409/597
+Da Peng lanza hielo a Alraune
+Alraune recibe 80 de daño
+Alraune termina con HP:286/427
+Da Peng lanza hielo a Mou-Ryo
+Mou-Ryo recibe 80 de daño
+Mou-Ryo termina con HP:138/238
+Da Peng lanza hielo a Girimekhala
+Girimekhala recibe 80 de daño
+Girimekhala termina con HP:414/653
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1059/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:92/399 MP:179/179
+Equipo de Yu (J2)
+A-Yu HP:409/597 MP:347/347
+B-Alraune HP:286/427 MP:187/192
+C-Mou-Ryo HP:138/238 MP:107/107
+D-Girimekhala HP:414/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Aleph
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:409/597 MP:347/347
+2-Alraune HP:286/427 MP:187/192
+3-Mou-Ryo HP:138/238 MP:107/107
+4-Girimekhala HP:414/653 MP:66/130
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mushussu lanza electricidad a Girimekhala
+Girimekhala es débil contra el ataque de Mushussu
+Girimekhala recibe 150 de daño
+Girimekhala termina con HP:264/653
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1059/1309 MP:578/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:92/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:409/597 MP:347/347
+B-Alraune HP:286/427 MP:187/192
+C-Mou-Ryo HP:138/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Yu termina con HP:349/597
+Aleph ataca a Alraune
+Alraune recibe 61 de daño
+Aleph ataca a Alraune
+Alraune recibe 61 de daño
+Alraune termina con HP:164/427
+Aleph ataca a Mou-Ryo
+Mou-Ryo recibe 61 de daño
+Mou-Ryo termina con HP:77/238
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph termina con HP:998/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:998/1309 MP:543/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:92/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:347/347
+B-Alraune HP:164/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:998/1309 MP:543/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:92/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:347/347
+B-Alraune HP:164/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Alraune
+3-Mou-Ryo
+4-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:998/1309 MP:543/613
+2-Da Peng HP:296/634 MP:64/126
+3-Mushussu HP:92/399 MP:165/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:974/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:974/1309 MP:543/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:92/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:347/347
+B-Alraune HP:164/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Mou-Ryo
+3-Yu
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Aleph HP:974/1309 MP:543/613
+2-Da Peng HP:296/634 MP:64/126
+3-Mushussu HP:92/399 MP:165/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ataca a Aleph
+Aleph es resistente el ataque de Alraune
+Aleph recibe 17 de daño
+Aleph termina con HP:957/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:957/1309 MP:543/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:92/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:347/347
+B-Alraune HP:164/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yu
+3-Girimekhala
+4-Alraune
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Aleph HP:957/1309 MP:543/613
+2-Da Peng HP:296/634 MP:64/126
+3-Mushussu HP:92/399 MP:165/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mou-Ryo ataca a Mushussu
+Mushussu recibe 18 de daño
+Mushussu termina con HP:74/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:957/1309 MP:543/613
+B-
+C-Da Peng HP:296/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:347/347
+B-Alraune HP:164/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+3-Alraune
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Ragnarok MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza fuego a Da Peng
+Da Peng recibe 157 de daño
+Da Peng termina con HP:139/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:957/1309 MP:543/613
+B-
+C-Da Peng HP:139/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:312/347
+B-Alraune HP:164/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:349/597 MP:312/347
+2-Alraune HP:164/427 MP:187/192
+3-Mou-Ryo HP:77/238 MP:107/107
+4-Girimekhala HP:264/653 MP:66/130
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Alraune
+Alraune recibe 157 de daño
+Alraune termina con HP:7/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:957/1309 MP:543/613
+B-
+C-Da Peng HP:139/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:312/347
+B-Alraune HP:7/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Mushussu
+3-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:957/1309 MP:543/613
+B-
+C-Da Peng HP:139/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:312/347
+B-Alraune HP:7/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Aleph
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Yu HP:349/597 MP:312/347
+2-Alraune HP:7/427 MP:187/192
+3-Mou-Ryo HP:77/238 MP:107/107
+4-Girimekhala HP:264/653 MP:66/130
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:957/1309 MP:543/613
+B-
+C-Da Peng HP:139/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:349/597 MP:312/347
+B-Alraune HP:7/427 MP:187/192
+C-Mou-Ryo HP:77/238 MP:107/107
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Yu termina con HP:289/597
+Aleph ataca a Alraune
+Alraune recibe 61 de daño
+Alraune termina con HP:0/427
+Aleph ataca a Mou-Ryo
+Mou-Ryo recibe 61 de daño
+Aleph ataca a Mou-Ryo
+Mou-Ryo recibe 61 de daño
+Mou-Ryo termina con HP:0/238
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph termina con HP:835/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:835/1309 MP:508/613
+B-
+C-Da Peng HP:139/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:289/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:835/1309 MP:508/613
+2-Da Peng HP:139/634 MP:64/126
+3-Mushussu HP:74/399 MP:165/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Aleph
+Aleph es resistente el ataque de Yu
+Aleph recibe 24 de daño
+Aleph termina con HP:811/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:811/1309 MP:508/613
+B-
+C-Da Peng HP:139/634 MP:64/126
+D-Mushussu HP:74/399 MP:165/179
+Equipo de Yu (J2)
+A-Yu HP:289/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:66/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 62 de daño
+Aleph termina con HP:749/1309
+Girimekhala ataca a Da Peng
+Da Peng recibe 125 de daño
+Da Peng termina con HP:14/634
+Girimekhala ataca a Mushussu
+Mushussu recibe 125 de daño
+Mushussu termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:749/1309 MP:508/613
+B-
+C-Da Peng HP:14/634 MP:64/126
+D-
+Equipo de Yu (J2)
+A-Yu HP:289/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:36/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:289/597 MP:312/347
+2-Girimekhala HP:264/653 MP:36/130
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 78 de daño
+Yu termina con HP:211/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:749/1309 MP:508/613
+B-
+C-Da Peng HP:14/634 MP:64/126
+D-
+Equipo de Yu (J2)
+A-Yu HP:211/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:36/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Aleph
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Yu HP:211/597 MP:312/347
+2-Girimekhala HP:264/653 MP:36/130
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:749/1309 MP:508/613
+B-
+C-Da Peng HP:14/634 MP:64/126
+D-
+Equipo de Yu (J2)
+A-Yu HP:211/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:36/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bar Toss MP:35
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 30 de daño
+Yu termina con HP:91/597
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph ataca a Girimekhala
+Girimekhala devuelve 61 daño a Aleph
+Aleph termina con HP:505/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:505/1309 MP:473/613
+B-
+C-Da Peng HP:14/634 MP:64/126
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:36/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:505/1309 MP:473/613
+B-
+C-Da Peng HP:14/634 MP:64/126
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:36/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 62 de daño
+Aleph termina con HP:443/1309
+Girimekhala ataca a Da Peng
+Da Peng recibe 125 de daño
+Da Peng termina con HP:0/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:443/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Aleph
+Aleph bloquea el ataque de Yu
+Aleph termina con HP:443/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:443/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:443/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:419/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:419/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:91/597 MP:312/347
+2-Girimekhala HP:264/653 MP:6/130
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:419/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:91/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:91/597 MP:312/347
+2-Girimekhala HP:264/653 MP:6/130
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 78 de daño
+Yu termina con HP:13/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:419/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:419/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Aleph
+Aleph es resistente el ataque de Yu
+Aleph recibe 24 de daño
+Aleph termina con HP:395/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:395/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:395/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:395/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:395/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:395/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:264/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:13/597 MP:312/347
+2-Girimekhala HP:264/653 MP:6/130
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Girimekhala
+Girimekhala absorbe 276 daño
+Girimekhala termina con HP:540/653
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:395/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:395/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Aleph
+Aleph bloquea el ataque de Yu
+Aleph termina con HP:395/1309
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:395/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:13/597 MP:312/347
+2-Girimekhala HP:540/653 MP:6/130
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Girimekhala
+Girimekhala devuelve 157 daño a Aleph
+Aleph termina con HP:238/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:238/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:238/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:238/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:238/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:238/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:238/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:238/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Girimekhala
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:238/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Yu
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:238/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:214/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:214/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:13/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:13/597 MP:312/347
+2-Girimekhala HP:540/653 MP:6/130
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 78 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:214/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:214/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:214/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:190/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:190/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:540/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Girimekhala HP:540/653 MP:6/130
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Girimekhala HP:540/653 MP:6/130
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Girimekhala
+Girimekhala absorbe 276 daño
+Girimekhala termina con HP:653/653
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:190/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:653/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:190/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:653/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:190/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:166/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:166/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:653/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:166/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:653/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Girimekhala HP:653/653 MP:6/130
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Girimekhala
+Girimekhala devuelve 157 daño a Aleph
+Aleph termina con HP:9/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:9/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:653/653 MP:6/130
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:9/1309 MP:473/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:9/1309 MP:473/613
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:312/347
+B-
+C-
+D-Girimekhala HP:653/653 MP:6/130
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Aleph HP:9/1309 MP:473/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Aleph
+Aleph es resistente el ataque de Girimekhala
+Aleph recibe 24 de daño
+Aleph termina con HP:0/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J2)

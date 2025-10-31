@@ -1,0 +1,2180 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+INPUT: 35
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:1136/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 168 de daño
+Itsuki termina con HP:968/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:968/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:968/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:928/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:928/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Demi-Fiend
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:928/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:909/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:909/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:909/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 168 de daño
+Itsuki termina con HP:741/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:741/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:741/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:701/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:701/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Demi-Fiend
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:701/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:682/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:682/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:682/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 168 de daño
+Itsuki termina con HP:514/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:514/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:514/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:474/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:474/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Demi-Fiend
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:474/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:455/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:455/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:455/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 168 de daño
+Itsuki termina con HP:287/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:287/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:287/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:247/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:247/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Demi-Fiend
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:247/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:228/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:228/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:228/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 168 de daño
+Itsuki termina con HP:60/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:60/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:60/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:20/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:20/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Demi-Fiend
+3-Peri
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Itsuki HP:20/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:1/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Peri
+3-Asherah
+4-Inugami
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Itsuki
+4-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Itsuki
+3-Peri
+4-Asherah
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Itsuki HP:1/1136 MP:413/413
+2-Peri HP:483/483 MP:216/216
+3-Inugami HP:214/214 MP:109/109
+4-Asherah HP:433/433 MP:195/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Itsuki
+Itsuki recibe 168 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:483/483 MP:216/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Orias
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Peri
+Peri absorbe 108 daño
+Peri termina con HP:483/483
+Peri lanza fuego a Inugami
+Inugami devuelve 108 daño a Peri
+Peri lanza fuego a Asherah
+Asherah devuelve 108 daño a Peri
+Peri termina con HP:267/483
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:267/483 MP:184/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Asherah
+3-Inugami
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Orias HP:252/252 MP:112/112
+3-Peri HP:267/483 MP:184/216
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Peri
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:267/483 MP:184/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Inugami
+3-Peri
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Orias HP:252/252 MP:112/112
+3-Peri HP:267/483 MP:184/216
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asherah ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Asherah
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Orias HP:252/252 MP:112/112
+C-Peri HP:267/483 MP:184/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:413/413
+B-Peri HP:483/483 MP:216/216
+C-Inugami HP:214/214 MP:109/109
+D-Asherah HP:433/433 MP:195/195
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Peri
+3-Orias
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J1) se rinde
+----------------------------------------
+Ganador: Itsuki (J2)

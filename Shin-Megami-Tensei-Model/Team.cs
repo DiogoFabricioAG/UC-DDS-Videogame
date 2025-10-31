@@ -39,7 +39,6 @@ public class Team
         TeamTurnOrder++;
         CheckRangeOfTurns();
     }
-
     private void CheckRangeOfTurns()
     {
         if (IsTurnOutOfRange())
@@ -240,8 +239,24 @@ public class Team
     public Unit GetUnitInTurn() => OrderForActions.Where(x=>x != null && x.Attributes.CurrentHp > 0).ToArray()[TeamTurnOrder];
     
     public Unit[] GetSelectableUnits(bool showAll = false) => StartingTeam.Where(x => (x != null && (x.Attributes.CurrentHp > 0 || showAll))).ToArray();
+
+    public Unit[] HelperSelectableUnitsForHealAbilities(Unit unit)
+    {
+        List<Unit> unitsOrder = StartingTeam.Where(unit => unit != null && unit.Attributes.CurrentHp > 0).ToList();
+        unitsOrder.Remove(unit);
+        unitsOrder.Add(unit);
+        return unitsOrder.ToArray();
+    }
     public Unit[] GetDefeatedUnits() => DestroyedUnits.OrderBy(x => Array.IndexOf(Monsters, x)).ToArray();
 
+    public Unit[] AllUnitsExceptInTurn(Unit unit)
+    {
+        List<Unit> allUnits = StartingTeam.ToList();
+        allUnits.AddRange(Monsters.ToList());
+        allUnits.Remove(unit);
+        return allUnits.Where(unit => unit != null).Distinct().ToArray();
+    }
+    
     public int GetCancelButtonReviveUnits() => DestroyedUnits.Count + 1;
 
     public int GetCancelButtonReplacebleUnits() => GetReplaceableTeam().Length + 1;

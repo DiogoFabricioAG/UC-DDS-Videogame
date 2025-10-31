@@ -1,0 +1,526 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 7
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kama HP:574/574 MP:257/257
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Kama
+3-Haoma
+4-Kukunochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Flynn HP:971/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 168 de daño
+Flynn termina con HP:803/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kama HP:574/574 MP:257/257
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:803/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Haoma
+3-Kukunochi
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Flynn HP:803/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Flynn
+Flynn recibe 48 de daño
+Flynn termina con HP:755/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kama HP:574/574 MP:257/257
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:755/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Kukunochi
+3-Demi-Fiend
+4-Kama
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:755/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:723/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kama HP:574/574 MP:257/257
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:723/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Demi-Fiend
+3-Kama
+4-Haoma
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:723/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Flynn
+Flynn recibe 26 de daño
+Flynn termina con HP:697/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kama HP:574/574 MP:257/257
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:697/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Trisagion MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Kama HP:574/574 MP:257/257
+3-Kukunochi HP:254/254 MP:246/246
+4-Haoma HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza fuego a Kama
+Kama es débil contra el ataque de Flynn
+Kama recibe 310 de daño
+Kama termina con HP:264/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Kama HP:264/574 MP:257/257
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:697/971 MP:505/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Trisagion MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Kama HP:264/574 MP:257/257
+3-Kukunochi HP:254/254 MP:246/246
+4-Haoma HP:305/305 MP:296/296
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza fuego a Kama
+Kama es débil contra el ataque de Flynn
+Kama recibe 310 de daño
+Kama termina con HP:0/574
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:697/971 MP:483/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Haoma
+3-Kukunochi
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Flynn HP:697/971 MP:483/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 168 de daño
+Flynn termina con HP:529/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:529/971 MP:483/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Kukunochi
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Flynn HP:529/971 MP:483/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ataca a Flynn
+Flynn recibe 32 de daño
+Flynn termina con HP:497/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:497/971 MP:483/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Demi-Fiend
+3-Haoma
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:497/971 MP:483/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Flynn
+Flynn recibe 26 de daño
+Flynn termina con HP:471/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-Kukunochi HP:254/254 MP:246/246
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:471/971 MP:483/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Trisagion MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Kukunochi HP:254/254 MP:246/246
+3-Haoma HP:305/305 MP:296/296
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza fuego a Kukunochi
+Kukunochi es débil contra el ataque de Flynn
+Kukunochi recibe 310 de daño
+Kukunochi termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-Haoma HP:305/305 MP:296/296
+Equipo de Flynn (J2)
+A-Flynn HP:471/971 MP:461/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Trisagion MP:22
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Haoma HP:305/305 MP:296/296
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza fuego a Haoma
+Haoma es débil contra el ataque de Flynn
+Haoma recibe 310 de daño
+Haoma termina con HP:0/305
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:471/971 MP:439/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Recarmdra MP:2
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend revive a Kama
+Kama recibe 287 de HP
+Kama termina con HP:287/574
+Demi-Fiend revive a Kukunochi
+Kukunochi recibe 127 de HP
+Kukunochi termina con HP:127/254
+Demi-Fiend revive a Haoma
+Haoma recibe 152 de HP
+Haoma termina con HP:152/305
+Demi-Fiend termina con HP:0/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

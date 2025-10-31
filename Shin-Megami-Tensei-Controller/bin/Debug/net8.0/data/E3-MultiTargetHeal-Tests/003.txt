@@ -1,0 +1,1857 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 2
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Kukunochi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Flynn HP:971/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 168 de daño
+Flynn termina con HP:803/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:803/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kukunochi
+3-Gryphon
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:803/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:749/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:749/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Gryphon
+3-Demi-Fiend
+4-Ammut
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:749/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Flynn
+Flynn recibe 26 de daño
+Flynn termina con HP:723/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:723/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Demi-Fiend
+3-Ammut
+4-Kukunochi
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:723/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Flynn
+Flynn recibe 5 de daño
+Flynn termina con HP:718/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:718/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Kukunochi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Flynn HP:718/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 168 de daño
+Flynn termina con HP:550/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:550/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kukunochi
+3-Gryphon
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:550/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:496/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:496/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Gryphon
+3-Demi-Fiend
+4-Ammut
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:496/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Flynn
+Flynn recibe 26 de daño
+Flynn termina con HP:470/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:470/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Demi-Fiend
+3-Ammut
+4-Kukunochi
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:470/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Flynn
+Flynn recibe 5 de daño
+Flynn termina con HP:465/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:465/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Kukunochi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Flynn HP:465/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Flynn
+Flynn recibe 168 de daño
+Flynn termina con HP:297/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:297/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kukunochi
+3-Gryphon
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:297/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Flynn
+Flynn recibe 54 de daño
+Flynn termina con HP:243/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:243/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Gryphon
+3-Demi-Fiend
+4-Ammut
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:243/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kukunochi ataca a Flynn
+Flynn recibe 26 de daño
+Flynn termina con HP:217/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:217/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Demi-Fiend
+3-Ammut
+4-Kukunochi
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:217/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Flynn
+Flynn recibe 5 de daño
+Flynn termina con HP:212/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ammut
+3-Kukunochi
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Flynn HP:212/971 MP:527/527
+2-Dormarth HP:277/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Dormarth
+Dormarth recibe 168 de daño
+Dormarth termina con HP:109/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:109/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kukunochi
+3-Gryphon
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Flynn HP:212/971 MP:527/527
+2-Dormarth HP:109/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Dormarth
+Dormarth recibe 54 de daño
+Dormarth termina con HP:55/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:55/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kukunochi
+2-Gryphon
+3-Demi-Fiend
+4-Ammut
+----------------------------------------
+Seleccione una acción para Kukunochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kukunochi
+1-Flynn HP:212/971 MP:527/527
+2-Dormarth HP:55/277 MP:269/269
+3-Kabuso HP:137/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kukunochi ataca a Kabuso
+Kabuso recibe 26 de daño
+Kabuso termina con HP:111/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:55/277 MP:269/269
+C-Kabuso HP:111/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Demi-Fiend
+3-Ammut
+4-Kukunochi
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:212/971 MP:527/527
+2-Dormarth HP:55/277 MP:269/269
+3-Kabuso HP:111/137 MP:131/131
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gryphon ataca a Inugami
+Inugami recibe 5 de daño
+Inugami termina con HP:209/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:212/971 MP:527/527
+B-Dormarth HP:55/277 MP:269/269
+C-Kabuso HP:111/137 MP:131/131
+D-Inugami HP:209/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn cura a Dormarth
+Dormarth recibe 277 de HP
+Dormarth termina con HP:277/277
+Flynn cura a Kabuso
+Kabuso recibe 137 de HP
+Kabuso termina con HP:137/137
+Flynn cura a Inugami
+Inugami recibe 214 de HP
+Inugami termina con HP:214/214
+Flynn cura a Flynn
+Flynn recibe 971 de HP
+Flynn termina con HP:971/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:487/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Inugami
+3-Kabuso
+4-Flynn
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:487/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Kabuso
+3-Flynn
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:487/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kabuso
+2-Flynn
+3-Dormarth
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:487/527
+B-Dormarth HP:277/277 MP:269/269
+C-Kabuso HP:137/137 MP:131/131
+D-Inugami HP:214/214 MP:109/109
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Ammut HP:709/709 MP:140/140
+C-Gryphon HP:123/123 MP:23/23
+D-Kukunochi HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Dormarth
+3-Inugami
+4-Kabuso
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Flynn (J1) se rinde
+----------------------------------------
+Ganador: Demi-Fiend (J2)

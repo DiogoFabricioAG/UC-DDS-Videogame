@@ -10,7 +10,28 @@ public class Affinity
     public List<AbilityType> Repel { get; set; }
     public List<AbilityType> Drain { get; set; }
 
-    public AffinityType KnowAffinity(AbilityType abilityType)
+    private static List<AffinityType> GetListOfAffinityForTeam(Unit[] units, Ability ability)
+    {
+        return units.Where(unit => unit != null).Select(unit => unit.Affinity.GetAffinity(ability.Type)).ToList();
+    }
+    
+    public static AffinityType GetPrioritizeAffinity(Unit[] units, Ability ability)
+    {
+        var affinities = GetListOfAffinityForTeam(units, ability);
+        
+        AffinityType[] affinityPriority =
+        {
+            AffinityType.Drain, AffinityType.Repel, AffinityType.Null, AffinityType.Weak, AffinityType.Neutral,
+            AffinityType.Resist
+        };
+
+        foreach (var priority in affinities)
+        {
+            if (affinityPriority.Contains(priority)) return priority;
+        }
+        return AffinityType.Neutral;
+    }
+    public AffinityType GetAffinity(AbilityType abilityType)
     {
         if (Weak.Contains(abilityType))
         {

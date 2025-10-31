@@ -88,6 +88,10 @@ public abstract class Unit
         {
             throw new InvalidOperationException("No hay suficiente MP para usar esta habilidad.");
         }
+    }
+
+    public void BurnManaPoints(Ability ability)
+    {
         Attributes.CurrentMp -= ability.Cost;
     }
     public Ability[] GetTotalAbilities() => Abilities.Where(x => x!= null && x.Cost <= Attributes.CurrentMp).ToArray();

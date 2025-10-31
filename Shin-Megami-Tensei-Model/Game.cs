@@ -41,12 +41,10 @@ public class Game
         return (team1, team2);
     }
 
-    public (Unit, Unit) GetAttackerAndTarget(int indexTarget, Team targetTeam, bool includeDefeated = false)
-    {
-        var attacker = CurrentTeam.GetUnitInTurn();
-        var attacked = targetTeam.FindTargetUnit(indexTarget, includeDefeated);
-        return (attacker, attacked);
-    }
+
+    
+    public Unit GetAttacker() => CurrentTeam.GetUnitInTurn();
+    public Unit GetAttacked(int indexTarget, Team targetTeam, bool includeDefeated = false) => targetTeam.FindTargetUnit(indexTarget, includeDefeated);
 
     private bool ExistBlinkingTurn() => CurrentTeam.Turns.Exists(t => t != null && t.Type == TurnType.Blinking);
    

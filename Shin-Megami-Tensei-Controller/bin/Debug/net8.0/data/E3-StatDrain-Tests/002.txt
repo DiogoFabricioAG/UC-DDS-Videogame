@@ -1,0 +1,2648 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+INPUT: 1
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+Demi-Fiend recibe 94 de daño
+Demi-Fiend termina con HP:1133/1227
+Kei lanza un ataque todo poderoso a Pale Rider
+Pale Rider recibe 94 de daño
+Pale Rider termina con HP:599/693
+Kei lanza un ataque todo poderoso a Plasma
+Plasma recibe 94 de daño
+Plasma termina con HP:85/179
+Kei lanza un ataque todo poderoso a Black Rider
+Black Rider recibe 94 de daño
+Black Rider termina con HP:592/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1133/1227 MP:834/834
+B-Pale Rider HP:599/693 MP:310/310
+C-Plasma HP:85/179 MP:172/172
+D-Black Rider HP:592/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:794/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+Demi-Fiend recibe 94 de daño
+Demi-Fiend termina con HP:1133/1227
+Kei lanza un ataque todo poderoso a Pale Rider
+Pale Rider recibe 94 de daño
+Pale Rider termina con HP:599/693
+Kei lanza un ataque todo poderoso a Plasma
+Plasma recibe 94 de daño
+Plasma termina con HP:85/179
+Kei lanza un ataque todo poderoso a Black Rider
+Black Rider recibe 94 de daño
+Black Rider termina con HP:592/686
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1133/1227 MP:794/834
+B-Pale Rider HP:599/693 MP:310/310
+C-Plasma HP:85/179 MP:172/172
+D-Black Rider HP:592/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:248/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:754/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:754/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:728/834
+Kei termina con MP:269/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:728/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:269/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:688/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:688/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:662/834
+Kei termina con MP:290/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:662/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:290/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:622/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:622/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:596/834
+Kei termina con MP:311/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:596/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:311/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:556/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:556/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:530/834
+Kei termina con MP:332/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:530/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:332/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:490/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:490/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:464/834
+Kei termina con MP:353/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:464/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:353/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:424/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:424/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:398/834
+Kei termina con MP:374/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:398/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:374/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:358/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:358/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:332/834
+Kei termina con MP:395/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:332/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Mediarahan MP:40
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Pale Rider
+Pale Rider recibe 693 de HP
+Pale Rider termina con HP:693/693
+Demi-Fiend cura a Plasma
+Plasma recibe 179 de HP
+Plasma termina con HP:179/179
+Demi-Fiend cura a Black Rider
+Black Rider recibe 686 de HP
+Black Rider termina con HP:686/686
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 1227 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Demi-Fiend
+3-Pale Rider
+4-Black Rider
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Black Rider
+3-Plasma
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Black Rider
+2-Plasma
+3-Demi-Fiend
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Black Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:395/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:292/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:292/834
+2-Pale Rider HP:693/693 MP:310/310
+3-Plasma HP:179/179 MP:172/172
+4-Black Rider HP:686/686 MP:307/307
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Demi-Fiend
+El ataque drena 26 MP de Demi-Fiend
+Demi-Fiend termina con MP:266/834
+Kei termina con MP:398/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:266/834
+B-Pale Rider HP:693/693 MP:310/310
+C-Plasma HP:179/179 MP:172/172
+D-Black Rider HP:686/686 MP:307/307
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Pale Rider
+3-Black Rider
+4-Plasma
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Kei (J1)

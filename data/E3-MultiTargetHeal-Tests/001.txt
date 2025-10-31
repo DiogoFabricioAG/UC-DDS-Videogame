@@ -1,0 +1,537 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+INPUT: 0
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Media MP:12
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 306 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:822/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:822/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Demi-Fiend
+Demi-Fiend recibe 20 de daño
+Demi-Fiend termina con HP:1207/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1207/1227 MP:822/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Media MP:12
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 306 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:810/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Demi-Fiend
+Demi-Fiend recibe 20 de daño
+Demi-Fiend termina con HP:1207/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1207/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:388/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:304/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1207/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:304/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1207/1227 MP:810/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Demi-Fiend
+Demi-Fiend recibe 20 de daño
+Demi-Fiend termina con HP:1187/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1187/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:304/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:304/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:220/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1187/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:220/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1187/1227 MP:810/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Demi-Fiend
+Demi-Fiend recibe 20 de daño
+Demi-Fiend termina con HP:1167/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1167/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:220/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:220/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:136/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1167/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:136/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1167/1227 MP:810/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Demi-Fiend
+Demi-Fiend recibe 20 de daño
+Demi-Fiend termina con HP:1147/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1147/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:136/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:136/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:52/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1147/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1147/1227 MP:810/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Demi-Fiend
+Demi-Fiend recibe 20 de daño
+Demi-Fiend termina con HP:1127/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1127/1227 MP:810/834
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:52/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

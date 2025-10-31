@@ -1,0 +1,6732 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 10
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:143/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-Pele HP:76/76 MP:72/72
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:179/179
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:719/719 MP:143/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-Pele HP:76/76 MP:72/72
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Tlazolteotl HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pendragon ataca a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 66 de daño
+Tamaki termina con HP:933/999
+Pendragon ataca a Pele
+Pele recibe 132 de daño
+Pele termina con HP:0/76
+Pendragon ataca a Lord Nan Dou
+Lord Nan Dou recibe 132 de daño
+Lord Nan Dou termina con HP:417/549
+Pendragon ataca a Tlazolteotl
+Tlazolteotl recibe 132 de daño
+Tlazolteotl termina con HP:183/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:417/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Archangel
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:933/999 MP:542/542
+2-Lord Nan Dou HP:417/549 MP:108/108
+3-Tlazolteotl HP:183/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone lanza viento a Lord Nan Dou
+Lord Nan Dou recibe 137 de daño
+Lord Nan Dou termina con HP:280/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:280/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Archangel
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:280/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Pendragon
+3-Kotone
+4-Haoma
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:474/474 MP:460/460
+2-Mushussu HP:399/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:474/474 MP:460/460
+2-Mushussu HP:399/399 MP:179/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:280/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Haoma
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:179/179
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:280/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Trumpeter
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:933/999 MP:542/542
+2-Lord Nan Dou HP:280/549 MP:108/108
+3-Tlazolteotl HP:183/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:933/999 MP:542/542
+2-Lord Nan Dou HP:280/549 MP:108/108
+3-Tlazolteotl HP:183/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Lord Nan Dou
+Lord Nan Dou recibe 57 de daño
+Lord Nan Dou termina con HP:223/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Tlazolteotl
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tamaki
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:305/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Lord Nan Dou
+3-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mahama MP:18
+2-Agilao MP:8
+3-Megaton Press MP:17
+4-Mamudoon MP:30
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:597/597 MP:325/347
+2-Haoma HP:305/305 MP:296/296
+3-Trumpeter HP:474/474 MP:460/460
+4-Pendragon HP:719/719 MP:113/143
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Haoma
+Haoma recibe 18 de daño
+Haoma termina con HP:287/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:325/347
+B-Haoma HP:287/305 MP:296/296
+C-Trumpeter HP:474/474 MP:460/460
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:108/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Tlazolteotl
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou lanza fuego a Kotone
+Kotone es resistente el ataque de Lord Nan Dou
+Kotone recibe 45 de daño
+Kotone termina con HP:552/597
+Lord Nan Dou lanza fuego a Haoma
+Haoma es débil contra el ataque de Lord Nan Dou
+Haoma recibe 137 de daño
+Haoma termina con HP:150/305
+Lord Nan Dou lanza fuego a Trumpeter
+Trumpeter es resistente el ataque de Lord Nan Dou
+Trumpeter recibe 45 de daño
+Trumpeter termina con HP:429/474
+Lord Nan Dou lanza fuego a Pendragon
+Pendragon recibe 91 de daño
+Pendragon termina con HP:628/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Haoma HP:150/305 MP:296/296
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tamaki
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Heimdall HP:581/581 MP:261/261
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Haoma HP:150/305 MP:296/296
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Haoma HP:150/305 MP:296/296
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Haoma
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Haoma HP:150/305 MP:296/296
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Trumpeter
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:179/179
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Haoma HP:150/305 MP:296/296 (Puesto 2)
+2-Trumpeter HP:429/474 MP:460/460 (Puesto 3)
+3-Pendragon HP:628/719 MP:113/143 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Trumpeter
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:150/305 MP:296/296
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:933/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Archangel
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:933/999 MP:542/542
+2-Lord Nan Dou HP:223/549 MP:76/108
+3-Heimdall HP:581/581 MP:261/261
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 28 de daño
+Tamaki termina con HP:905/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Heimdall HP:581/581 MP:261/261
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Lord Nan Dou
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tlazolteotl HP:183/315 MP:306/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Tamaki
+3-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:399/399 MP:179/179
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Tlazolteotl
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:552/597 MP:325/347
+2-Mushussu HP:399/399 MP:179/179
+3-Archangel HP:265/265 MP:52/52
+4-Pendragon HP:628/719 MP:113/143
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:552/597 MP:325/347
+2-Mushussu HP:399/399 MP:179/179
+3-Archangel HP:265/265 MP:52/52
+4-Pendragon HP:628/719 MP:113/143
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Mushussu
+Mushussu recibe 18 de daño
+Mushussu termina con HP:381/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:552/597 MP:325/347
+B-Mushussu HP:381/399 MP:179/179
+C-Archangel HP:265/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Tlazolteotl HP:183/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Lord Nan Dou
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl lanza hielo a Kotone
+Kotone es resistente el ataque de Tlazolteotl
+Kotone recibe 48 de daño
+Kotone termina con HP:504/597
+Tlazolteotl lanza hielo a Mushussu
+Mushussu recibe 96 de daño
+Mushussu termina con HP:285/399
+Tlazolteotl lanza hielo a Archangel
+Archangel recibe 96 de daño
+Archangel termina con HP:169/265
+Tlazolteotl lanza hielo a Pendragon
+Pendragon devuelve 96 daño a Tlazolteotl
+Tlazolteotl termina con HP:87/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Archangel HP:169/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Archangel HP:169/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:223/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Archangel
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:905/999 MP:542/542
+2-Lord Nan Dou HP:223/549 MP:76/108
+3-Tlazolteotl HP:87/315 MP:286/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Lord Nan Dou
+Lord Nan Dou recibe 57 de daño
+Lord Nan Dou termina con HP:166/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Archangel HP:169/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:166/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Archangel
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:905/999 MP:542/542
+2-Lord Nan Dou HP:166/549 MP:76/108
+3-Tlazolteotl HP:87/315 MP:286/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Lord Nan Dou
+Lord Nan Dou recibe 32 de daño
+Lord Nan Dou termina con HP:134/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Archangel HP:169/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:134/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Pendragon
+3-Kotone
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tamaki HP:905/999 MP:542/542
+2-Lord Nan Dou HP:134/549 MP:76/108
+3-Tlazolteotl HP:87/315 MP:286/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Lord Nan Dou
+Lord Nan Dou recibe 18 de daño
+Lord Nan Dou termina con HP:116/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Archangel HP:169/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Archangel HP:169/265 MP:52/52
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Archangel
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:150/305 MP:296/296
+2-Trumpeter HP:429/474 MP:460/460
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Mushussu HP:285/399 MP:179/179 (Puesto 2)
+2-Archangel HP:169/265 MP:52/52 (Puesto 3)
+3-Pendragon HP:628/719 MP:113/143 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:150/305 MP:296/296
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Tlazolteotl
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:150/305 MP:296/296
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tamaki
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:150/305 MP:296/296
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Lord Nan Dou
+3-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:150/305 MP:296/296
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Tlazolteotl
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kotone HP:504/597 MP:325/347
+2-Mushussu HP:285/399 MP:179/179
+3-Haoma HP:150/305 MP:296/296
+4-Pendragon HP:628/719 MP:113/143
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ataca a Haoma
+Haoma recibe 41 de daño
+Haoma termina con HP:109/305
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:504/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tamaki
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Kotone HP:504/597 MP:325/347
+2-Mushussu HP:285/399 MP:179/179
+3-Haoma HP:109/305 MP:296/296
+4-Pendragon HP:628/719 MP:113/143
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ataca a Kotone
+Kotone es resistente el ataque de Tlazolteotl
+Kotone recibe 16 de daño
+Kotone termina con HP:488/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:905/999 MP:542/542
+B-
+C-Lord Nan Dou HP:116/549 MP:76/108
+D-Tlazolteotl HP:87/315 MP:286/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+4-Haoma
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pendragon ataca a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 66 de daño
+Tamaki termina con HP:839/999
+Pendragon ataca a Lord Nan Dou
+Lord Nan Dou recibe 132 de daño
+Lord Nan Dou termina con HP:0/549
+Pendragon ataca a Tlazolteotl
+Tlazolteotl recibe 132 de daño
+Tlazolteotl termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:325/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:839/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Haoma
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:839/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone lanza viento a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 68 de daño
+Tamaki termina con HP:771/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:303/347
+B-Mushussu HP:285/399 MP:179/179
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:771/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Haoma
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:460/460
+2-Archangel HP:169/265 MP:52/52
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:303/347
+B-Archangel HP:169/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:771/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Pendragon
+3-Kotone
+4-Archangel
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Tamaki HP:771/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ataca a Tamaki
+Tamaki es resistente el ataque de Haoma
+Tamaki recibe 16 de daño
+Tamaki termina con HP:755/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:303/347
+B-Archangel HP:169/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:755/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Archangel
+4-Haoma
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:755/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ataca a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 27 de daño
+Tamaki termina con HP:728/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:303/347
+B-Archangel HP:169/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:728/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mahama MP:18
+2-Agilao MP:8
+3-Megaton Press MP:17
+4-Mamudoon MP:30
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:488/597 MP:303/347
+2-Archangel HP:169/265 MP:52/52
+3-Haoma HP:109/305 MP:296/296
+4-Pendragon HP:628/719 MP:83/143
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki lanza fuego a Archangel
+Archangel recibe 64 de daño
+Archangel termina con HP:105/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:303/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:728/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:460/460
+2-Mushussu HP:285/399 MP:179/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:303/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Tamaki (J2)
+A-Tamaki HP:728/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Archangel
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:728/999 MP:528/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 30 de daño
+Tamaki termina con HP:698/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Tamaki (J2)
+A-Tamaki HP:698/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Archangel
+3-Mushussu
+4-Kotone
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:460/460
+2-Pendragon HP:628/719 MP:83/143
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Tamaki (J2)
+A-Tamaki HP:698/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Mushussu
+3-Kotone
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Tamaki (J2)
+A-Tamaki HP:698/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Kotone
+3-Trumpeter
+4-Archangel
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:698/999 MP:528/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Mushussu
+Tamaki recibe 50 de daño
+Tamaki termina con HP:648/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Mushussu HP:285/399 MP:165/179
+Equipo de Tamaki (J2)
+A-Tamaki HP:648/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Trumpeter
+3-Archangel
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:648/999 MP:528/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:648/999 MP:528/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:648/999 MP:528/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:296/296
+2-Pendragon HP:628/719 MP:83/143
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:105/265 MP:52/52 (Puesto 2)
+2-Trumpeter HP:429/474 MP:460/460 (Puesto 3)
+3-Mushussu HP:285/399 MP:165/179 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pendragon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:648/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Archangel
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:296/296
+2-Mushussu HP:285/399 MP:165/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:628/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:648/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:488/597 MP:292/347
+2-Archangel HP:105/265 MP:52/52
+3-Haoma HP:109/305 MP:296/296
+4-Pendragon HP:628/719 MP:83/143
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Pendragon
+Pendragon recibe 18 de daño
+Pendragon termina con HP:610/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:610/719 MP:83/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:648/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pendragon ataca a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 66 de daño
+Tamaki termina con HP:582/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:582/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Archangel
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:582/999 MP:528/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:460/460
+2-Mushussu HP:285/399 MP:165/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:105/265 MP:52/52 (Puesto 2)
+2-Haoma HP:109/305 MP:296/296 (Puesto 3)
+3-Pendragon HP:610/719 MP:53/143 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:582/999 MP:528/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 28 de daño
+Tamaki termina con HP:554/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Haoma HP:109/305 MP:296/296
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:554/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Archangel
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:460/460
+2-Mushussu HP:285/399 MP:165/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:52/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:554/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Pendragon
+3-Kotone
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tamaki HP:554/999 MP:528/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:296/296
+2-Mushussu HP:285/399 MP:165/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Tamaki
+Tamaki es resistente el ataque de Archangel
+Tamaki recibe 24 de daño
+Tamaki termina con HP:530/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:530/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Trumpeter
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:296/296
+2-Mushussu HP:285/399 MP:165/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:296/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:530/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Trumpeter
+3-Archangel
+4-Haoma
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:296/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:530/999 MP:528/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mahama MP:18
+2-Agilao MP:8
+3-Megaton Press MP:17
+4-Mamudoon MP:30
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca con luz a Kotone
+Tamaki ha fallado el ataque
+Kotone termina con HP:488/597
+Tamaki ataca con luz a Archangel
+Archangel bloquea el ataque de Tamaki
+Archangel termina con HP:105/265
+Tamaki ataca con luz a Trumpeter
+Trumpeter bloquea el ataque de Tamaki
+Trumpeter termina con HP:429/474
+Tamaki ataca con luz a Haoma
+Haoma bloquea el ataque de Tamaki
+Haoma termina con HP:109/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:296/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:530/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Kotone
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:296/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:530/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Archangel
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:530/999 MP:510/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 19 de daño
+Tamaki termina con HP:511/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:296/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:511/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Archangel
+3-Trumpeter
+4-Kotone
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Haoma dispara a Tamaki
+Tamaki es resistente el ataque de Haoma
+Tamaki recibe 42 de daño
+Tamaki termina con HP:469/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:280/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Trumpeter
+3-Kotone
+4-Haoma
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Trumpeter HP:429/474 MP:460/460
+D-Haoma HP:109/305 MP:280/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Kotone
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pendragon HP:610/719 MP:53/143
+2-Mushussu HP:285/399 MP:165/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Mushussu HP:285/399 MP:165/179
+D-Haoma HP:109/305 MP:280/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Archangel
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:469/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:469/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:460/460
+2-Pendragon HP:610/719 MP:53/143
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Archangel HP:105/265 MP:41/52 (Puesto 2)
+2-Mushussu HP:285/399 MP:165/179 (Puesto 3)
+3-Haoma HP:109/305 MP:280/296 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pendragon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Mushussu HP:285/399 MP:165/179
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Archangel
+3-Mushussu
+4-Kotone
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:105/265 MP:41/52
+C-Mushussu HP:285/399 MP:165/179
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Heimdall HP:581/581 MP:261/261
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:488/597 MP:292/347
+2-Archangel HP:105/265 MP:41/52
+3-Mushussu HP:285/399 MP:165/179
+4-Pendragon HP:610/719 MP:53/143
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Archangel
+Archangel recibe 15 de daño
+Archangel termina con HP:90/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:90/265 MP:41/52
+C-Mushussu HP:285/399 MP:165/179
+D-Pendragon HP:610/719 MP:53/143
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Trumpeter HP:429/474 MP:460/460
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:90/265 MP:41/52
+C-Mushussu HP:285/399 MP:165/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:469/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Archangel
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:469/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:469/999 MP:510/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 28 de daño
+Tamaki termina con HP:441/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:90/265 MP:41/52
+C-Mushussu HP:285/399 MP:165/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:441/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Archangel
+3-Trumpeter
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:441/999 MP:510/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Tamaki
+Tamaki es resistente el ataque de Mushussu
+Tamaki recibe 53 de daño
+Tamaki termina con HP:388/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Archangel HP:90/265 MP:41/52
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:388/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Trumpeter
+3-Kotone
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Pendragon HP:610/719 MP:53/143
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Pendragon HP:610/719 MP:53/143
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:388/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Kotone
+3-Mushussu
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:292/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:388/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Haoma
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 30 de daño
+Tamaki termina con HP:358/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:488/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:358/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:488/597 MP:281/347
+2-Haoma HP:109/305 MP:280/296
+3-Mushussu HP:285/399 MP:150/179
+4-Trumpeter HP:429/474 MP:460/460
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Kotone
+Kotone es resistente el ataque de Tamaki
+Kotone recibe 7 de daño
+Kotone termina con HP:481/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:481/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:358/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Kotone
+3-Mushussu
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:481/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:358/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Haoma
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:358/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:358/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:358/999 MP:510/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 19 de daño
+Tamaki termina con HP:339/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:481/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Haoma
+3-Trumpeter
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pendragon HP:610/719 MP:53/143
+2-Archangel HP:90/265 MP:41/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:481/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Trumpeter
+3-Kotone
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Tamaki HP:339/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:481/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:460/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Kotone
+3-Mushussu
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Trumpeter use
+1-Maragidyne MP:32
+2-Mamudoon MP:30
+3-Poison Breath MP:11
+4-Lullaby MP:11
+5-Mahamaon MP:30
+6-Pulinpa MP:5
+7-Judgement MP:45
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Trumpeter ataca con luz a Tamaki
+Tamaki bloquea el ataque de Trumpeter
+Tamaki termina con HP:339/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:481/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:430/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:481/597 MP:281/347
+2-Haoma HP:109/305 MP:280/296
+3-Mushussu HP:285/399 MP:150/179
+4-Trumpeter HP:429/474 MP:430/460
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Kotone
+Kotone es resistente el ataque de Tamaki
+Kotone recibe 9 de daño
+Kotone termina con HP:472/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Trumpeter HP:429/474 MP:430/460
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Kotone
+3-Mushussu
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pendragon HP:610/719 MP:53/143
+2-Archangel HP:90/265 MP:41/52
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:41/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:41/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:339/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Haoma
+3-Archangel
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:339/999 MP:510/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Tamaki
+Tamaki es resistente el ataque de Mushussu
+Tamaki recibe 16 de daño
+Tamaki termina con HP:323/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:41/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Archangel
+3-Kotone
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Tamaki HP:323/999 MP:510/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:41/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kotone
+3-Mushussu
+4-Haoma
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tamaki HP:323/999 MP:510/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca con luz a Tamaki
+Tamaki bloquea el ataque de Archangel
+Tamaki termina con HP:323/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Heimdall HP:581/581 MP:261/261
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Heimdall ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Haoma HP:109/305 MP:280/296
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Haoma
+4-Archangel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Pendragon HP:610/719 MP:53/143
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Pendragon HP:610/719 MP:53/143
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Haoma HP:109/305 MP:280/296 (Puesto 2)
+2-Mushussu HP:285/399 MP:150/179 (Puesto 3)
+3-Archangel HP:90/265 MP:35/52 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Trumpeter HP:429/474 MP:430/460
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Trumpeter
+3-Archangel
+4-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Pendragon HP:610/719 MP:53/143
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Trumpeter HP:429/474 MP:430/460
+C-Haoma HP:109/305 MP:280/296
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Archangel
+3-Kotone
+4-Haoma
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pendragon HP:610/719 MP:53/143
+2-Mushussu HP:285/399 MP:150/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Haoma HP:109/305 MP:280/296
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kotone
+3-Haoma
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Haoma HP:109/305 MP:280/296
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:323/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Haoma
+3-Pendragon
+4-Archangel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:323/999 MP:510/542
+2-Heimdall HP:581/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 19 de daño
+Tamaki termina con HP:304/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Haoma HP:109/305 MP:280/296
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Pendragon
+3-Archangel
+4-Kotone
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Mushussu HP:285/399 MP:150/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Archangel
+3-Kotone
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Kotone HP:472/597 MP:281/347
+2-Pendragon HP:610/719 MP:53/143
+3-Trumpeter HP:429/474 MP:430/460
+4-Archangel HP:90/265 MP:35/52
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:90/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Heimdall use
+1-Charge MP:9
+2-Judgement MP:45
+3-Hades Blast MP:32
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Kotone HP:472/597 MP:281/347
+2-Pendragon HP:610/719 MP:53/143
+3-Trumpeter HP:429/474 MP:430/460
+4-Archangel HP:90/265 MP:35/52
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Heimdall ataca a Archangel
+Archangel recibe 48 de daño
+Archangel termina con HP:42/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:581/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+4-Archangel
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Trumpeter
+1-Tamaki HP:304/999 MP:510/542
+2-Heimdall HP:581/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Trumpeter
+1-Tamaki HP:304/999 MP:510/542
+2-Heimdall HP:581/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Trumpeter ataca a Heimdall
+Heimdall recibe 51 de daño
+Heimdall termina con HP:530/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:304/999 MP:510/542
+B-Heimdall HP:530/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Archangel
+4-Trumpeter
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:304/999 MP:510/542
+2-Heimdall HP:530/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ataca a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 27 de daño
+Tamaki termina con HP:277/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:530/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Archangel
+3-Trumpeter
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Mushussu HP:285/399 MP:150/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Pendragon HP:610/719 MP:53/143 (Puesto 2)
+2-Trumpeter HP:429/474 MP:430/460 (Puesto 3)
+3-Archangel HP:42/265 MP:35/52 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:530/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Trumpeter
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:530/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+4-Archangel
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Trumpeter
+1-Tamaki HP:277/999 MP:510/542
+2-Heimdall HP:530/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Trumpeter ataca a Heimdall
+Heimdall recibe 51 de daño
+Heimdall termina con HP:479/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:42/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:472/597 MP:281/347
+2-Pendragon HP:610/719 MP:53/143
+3-Trumpeter HP:429/474 MP:430/460
+4-Archangel HP:42/265 MP:35/52
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki dispara a Archangel
+Archangel recibe 15 de daño
+Archangel termina con HP:27/265
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:27/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Heimdall use
+1-Charge MP:9
+2-Judgement MP:45
+3-Hades Blast MP:32
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:610/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:27/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:472/597 MP:281/347
+2-Pendragon HP:610/719 MP:53/143
+3-Trumpeter HP:429/474 MP:430/460
+4-Archangel HP:27/265 MP:35/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Pendragon
+Pendragon recibe 18 de daño
+Pendragon termina con HP:592/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:592/719 MP:53/143
+C-Trumpeter HP:429/474 MP:430/460
+D-Archangel HP:27/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+4-Archangel
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Mushussu HP:285/399 MP:150/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:592/719 MP:53/143
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:27/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Archangel
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Trumpeter HP:429/474 MP:430/460
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:281/347
+B-Pendragon HP:592/719 MP:53/143
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:27/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:277/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Archangel
+3-Mushussu
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:277/999 MP:510/542
+2-Heimdall HP:479/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:277/999 MP:510/542
+2-Heimdall HP:479/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone lanza viento a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 68 de daño
+Tamaki termina con HP:209/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:259/347
+B-Pendragon HP:592/719 MP:53/143
+C-Mushussu HP:285/399 MP:150/179
+D-Archangel HP:27/265 MP:35/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:209/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Mushussu
+3-Pendragon
+4-Kotone
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Haoma HP:109/305 MP:280/296
+2-Trumpeter HP:429/474 MP:430/460
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:259/347
+B-Pendragon HP:592/719 MP:53/143
+C-Mushussu HP:285/399 MP:150/179
+D-Haoma HP:109/305 MP:280/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:209/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Pendragon
+3-Kotone
+4-Haoma
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:209/999 MP:510/542
+2-Heimdall HP:479/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:209/999 MP:510/542
+2-Heimdall HP:479/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Tamaki
+Tamaki es resistente el ataque de Mushussu
+Tamaki recibe 16 de daño
+Tamaki termina con HP:193/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:259/347
+B-Pendragon HP:592/719 MP:53/143
+C-Mushussu HP:285/399 MP:150/179
+D-Haoma HP:109/305 MP:280/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:193/999 MP:510/542
+B-Heimdall HP:479/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Haoma
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon lanza hielo a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 61 de daño
+Pendragon lanza hielo a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 61 de daño
+Tamaki termina con HP:71/999
+Pendragon lanza hielo a Heimdall
+Heimdall es resistente el ataque de Pendragon
+Heimdall recibe 61 de daño
+Heimdall termina con HP:418/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:472/597 MP:259/347
+B-Pendragon HP:592/719 MP:32/143
+C-Mushussu HP:285/399 MP:150/179
+D-Haoma HP:109/305 MP:280/296
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:418/581 MP:261/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Heimdall use
+1-Charge MP:9
+2-Judgement MP:45
+3-Hades Blast MP:32
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Heimdall ataca a Kotone
+Kotone es resistente el ataque de Heimdall
+Kotone recibe 62 de daño
+Kotone termina con HP:410/597
+Heimdall ataca a Pendragon
+Pendragon recibe 125 de daño
+Pendragon termina con HP:467/719
+Heimdall ataca a Mushussu
+Mushussu recibe 125 de daño
+Mushussu termina con HP:160/399
+Heimdall ataca a Haoma
+Haoma recibe 125 de daño
+Haoma termina con HP:0/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:418/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:418/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:418/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:71/999 MP:510/542
+2-Heimdall HP:418/581 MP:229/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pendragon ataca a Heimdall
+Heimdall recibe 55 de daño
+Heimdall termina con HP:363/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:363/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:363/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Pendragon
+3-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:363/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:71/999 MP:510/542
+2-Heimdall HP:363/581 MP:229/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:259/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:363/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:71/999 MP:510/542
+2-Heimdall HP:363/581 MP:229/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:71/999 MP:510/542
+2-Heimdall HP:363/581 MP:229/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone lanza viento a Heimdall
+Heimdall recibe 137 de daño
+Heimdall termina con HP:226/581
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:237/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:410/597 MP:237/347
+B-Pendragon HP:467/719 MP:32/143
+C-Mushussu HP:160/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:510/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Mahama MP:18
+2-Agilao MP:8
+3-Megaton Press MP:17
+4-Mamudoon MP:30
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Kotone
+Kotone es resistente el ataque de Tamaki
+Kotone recibe 31 de daño
+Kotone termina con HP:379/597
+Tamaki ataca a Pendragon
+Pendragon recibe 63 de daño
+Pendragon termina con HP:404/719
+Tamaki ataca a Mushussu
+Mushussu recibe 63 de daño
+Mushussu termina con HP:97/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:97/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Heimdall use
+1-Charge MP:9
+2-Judgement MP:45
+3-Hades Blast MP:32
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:97/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:379/597 MP:237/347
+2-Pendragon HP:404/719 MP:32/143
+3-Mushussu HP:97/399 MP:150/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Mushussu
+Mushussu recibe 18 de daño
+Mushussu termina con HP:79/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Archangel HP:27/265 MP:35/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:71/999 MP:493/542
+2-Heimdall HP:226/581 MP:229/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Archangel HP:27/265 MP:35/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Pendragon
+3-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Tamaki HP:71/999 MP:493/542
+2-Heimdall HP:226/581 MP:229/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:71/999 MP:493/542
+2-Heimdall HP:226/581 MP:229/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:226/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:71/999 MP:493/542
+2-Heimdall HP:226/581 MP:229/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Heimdall
+Heimdall recibe 38 de daño
+Heimdall termina con HP:188/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:79/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:379/597 MP:237/347
+2-Pendragon HP:404/719 MP:32/143
+3-Mushussu HP:79/399 MP:150/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Mushussu
+Mushussu recibe 15 de daño
+Mushussu termina con HP:64/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:64/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:64/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:379/597 MP:237/347
+2-Pendragon HP:404/719 MP:32/143
+3-Mushussu HP:64/399 MP:150/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Mushussu
+Mushussu recibe 18 de daño
+Mushussu termina con HP:46/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:46/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:46/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:71/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Mushussu
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:71/999 MP:493/542
+2-Heimdall HP:188/581 MP:229/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Tamaki
+Tamaki es resistente el ataque de Kotone
+Tamaki recibe 28 de daño
+Tamaki termina con HP:43/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Mushussu HP:46/399 MP:150/179
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:43/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Pendragon
+3-Kotone
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Archangel HP:27/265 MP:35/52
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Trumpeter ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Trumpeter HP:429/474 MP:430/460
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:43/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Trumpeter
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Tamaki HP:43/999 MP:493/542
+2-Heimdall HP:188/581 MP:229/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ataca a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 27 de daño
+Tamaki termina con HP:16/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Trumpeter HP:429/474 MP:430/460
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:16/999 MP:493/542
+B-Heimdall HP:188/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Trumpeter
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tamaki HP:16/999 MP:493/542
+2-Heimdall HP:188/581 MP:229/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Heimdall
+Heimdall recibe 38 de daño
+Heimdall termina con HP:150/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Trumpeter HP:429/474 MP:430/460
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:16/999 MP:493/542
+B-Heimdall HP:150/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:404/719 MP:32/143
+C-Trumpeter HP:429/474 MP:430/460
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:16/999 MP:493/542
+B-Heimdall HP:150/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kotone HP:379/597 MP:237/347
+2-Pendragon HP:404/719 MP:32/143
+3-Trumpeter HP:429/474 MP:430/460
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Pendragon
+Pendragon recibe 18 de daño
+Pendragon termina con HP:386/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:386/719 MP:32/143
+C-Trumpeter HP:429/474 MP:430/460
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:16/999 MP:493/542
+B-Heimdall HP:150/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Kotone HP:379/597 MP:237/347
+2-Pendragon HP:386/719 MP:32/143
+3-Trumpeter HP:429/474 MP:430/460
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ataca a Pendragon
+Pendragon recibe 48 de daño
+Pendragon termina con HP:338/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:338/719 MP:32/143
+C-Trumpeter HP:429/474 MP:430/460
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:16/999 MP:493/542
+B-Heimdall HP:150/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Trumpeter
+2-Pendragon
+3-Kotone
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Trumpeter
+1-Tamaki HP:16/999 MP:493/542
+2-Heimdall HP:150/581 MP:229/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:46/399 MP:150/179
+2-Archangel HP:27/265 MP:35/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Trumpeter
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:46/399 MP:150/179
+2-Archangel HP:27/265 MP:35/52
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:338/719 MP:32/143
+C-Archangel HP:27/265 MP:35/52
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:16/999 MP:493/542
+B-Heimdall HP:150/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon lanza hielo a Tamaki
+Tamaki es resistente el ataque de Pendragon
+Tamaki recibe 61 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:237/347
+B-Pendragon HP:338/719 MP:11/143
+C-Archangel HP:27/265 MP:35/52
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:0/999 MP:493/542
+B-Heimdall HP:150/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Archangel
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mazio MP:11
+2-Deadly Wind MP:22
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone lanza electricidad a Heimdall
+Heimdall recibe 61 de daño
+Heimdall termina con HP:89/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:226/347
+B-Pendragon HP:338/719 MP:11/143
+C-Archangel HP:27/265 MP:35/52
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:0/999 MP:493/542
+B-Heimdall HP:89/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Pendragon
+3-Kotone
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Heimdall HP:89/581 MP:229/261
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Trumpeter HP:429/474 MP:430/460
+2-Mushussu HP:46/399 MP:150/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Heimdall
+Heimdall recibe 48 de daño
+Heimdall termina con HP:41/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:226/347
+B-Pendragon HP:338/719 MP:11/143
+C-Archangel HP:27/265 MP:24/52
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:0/999 MP:493/542
+B-Heimdall HP:41/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:226/347
+B-Pendragon HP:338/719 MP:11/143
+C-Archangel HP:27/265 MP:24/52
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:0/999 MP:493/542
+B-Heimdall HP:41/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Heimdall
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:379/597 MP:226/347
+B-Pendragon HP:338/719 MP:11/143
+C-Archangel HP:27/265 MP:24/52
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:0/999 MP:493/542
+B-Heimdall HP:41/581 MP:229/261
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Kotone
+3-Archangel
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Heimdall HP:41/581 MP:229/261
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ataca a Heimdall
+Heimdall recibe 55 de daño
+Heimdall termina con HP:0/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kotone (J1)

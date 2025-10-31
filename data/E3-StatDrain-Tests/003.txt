@@ -1,0 +1,168 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+INPUT: 2
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Kyouji
+Kyouji recibe 94 de daño
+Kyouji termina con HP:905/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:323/398
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Kei HP:760/760 MP:323/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Kei
+Kei es resistente el ataque de Kyouji
+Kei recibe 307 de daño
+Kei termina con HP:453/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:453/760 MP:323/398
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Shining Seal MP:75
+2-Spirit Drain MP:5
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Kyouji HP:905/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza un ataque todo poderoso a Kyouji
+El ataque drena 0 MP de Kyouji
+Kyouji termina con MP:0/0
+Kei termina con MP:318/398
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:453/760 MP:318/398
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kyouji (J2) se rinde
+----------------------------------------
+Ganador: Kei (J1)

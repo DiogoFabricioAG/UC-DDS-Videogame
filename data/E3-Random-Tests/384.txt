@@ -1,0 +1,3777 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+200: 201.txt
+201: 202.txt
+202: 203.txt
+203: 204.txt
+204: 205.txt
+205: 206.txt
+206: 207.txt
+207: 208.txt
+208: 209.txt
+209: 210.txt
+210: 211.txt
+211: 212.txt
+212: 213.txt
+213: 214.txt
+214: 215.txt
+215: 216.txt
+216: 217.txt
+217: 218.txt
+218: 219.txt
+219: 220.txt
+220: 221.txt
+221: 222.txt
+222: 223.txt
+223: 224.txt
+224: 225.txt
+225: 226.txt
+226: 227.txt
+227: 228.txt
+228: 229.txt
+229: 230.txt
+230: 231.txt
+231: 232.txt
+232: 233.txt
+233: 234.txt
+234: 235.txt
+235: 236.txt
+236: 237.txt
+237: 238.txt
+238: 239.txt
+239: 240.txt
+240: 241.txt
+241: 242.txt
+242: 243.txt
+243: 244.txt
+244: 245.txt
+245: 246.txt
+246: 247.txt
+247: 248.txt
+248: 249.txt
+249: 250.txt
+250: 251.txt
+251: 252.txt
+252: 253.txt
+253: 254.txt
+254: 255.txt
+255: 256.txt
+256: 257.txt
+257: 258.txt
+258: 259.txt
+259: 260.txt
+260: 261.txt
+261: 262.txt
+262: 263.txt
+263: 264.txt
+264: 265.txt
+265: 266.txt
+266: 267.txt
+267: 268.txt
+268: 269.txt
+269: 270.txt
+270: 271.txt
+271: 272.txt
+272: 273.txt
+273: 274.txt
+274: 275.txt
+275: 276.txt
+276: 277.txt
+277: 278.txt
+278: 279.txt
+279: 280.txt
+280: 281.txt
+281: 282.txt
+282: 283.txt
+283: 284.txt
+284: 285.txt
+285: 286.txt
+286: 287.txt
+287: 288.txt
+288: 289.txt
+289: 290.txt
+290: 291.txt
+291: 292.txt
+292: 293.txt
+293: 294.txt
+294: 295.txt
+295: 296.txt
+296: 297.txt
+297: 298.txt
+298: 299.txt
+299: 300.txt
+300: 301.txt
+301: 302.txt
+302: 303.txt
+303: 304.txt
+304: 305.txt
+305: 306.txt
+306: 307.txt
+307: 308.txt
+308: 309.txt
+309: 310.txt
+310: 311.txt
+311: 312.txt
+312: 313.txt
+313: 314.txt
+314: 315.txt
+315: 316.txt
+316: 317.txt
+317: 318.txt
+318: 319.txt
+319: 320.txt
+320: 321.txt
+321: 322.txt
+322: 323.txt
+323: 324.txt
+324: 325.txt
+325: 326.txt
+326: 327.txt
+327: 328.txt
+328: 329.txt
+329: 330.txt
+330: 331.txt
+331: 332.txt
+332: 333.txt
+333: 334.txt
+334: 335.txt
+335: 336.txt
+336: 337.txt
+337: 338.txt
+338: 339.txt
+339: 340.txt
+340: 341.txt
+341: 342.txt
+342: 343.txt
+343: 344.txt
+344: 345.txt
+345: 346.txt
+346: 347.txt
+347: 348.txt
+348: 349.txt
+349: 350.txt
+350: 351.txt
+351: 352.txt
+352: 353.txt
+353: 354.txt
+354: 355.txt
+355: 356.txt
+356: 357.txt
+357: 358.txt
+358: 359.txt
+359: 360.txt
+360: 361.txt
+361: 362.txt
+362: 363.txt
+363: 364.txt
+364: 365.txt
+365: 366.txt
+366: 367.txt
+367: 368.txt
+368: 369.txt
+369: 370.txt
+370: 371.txt
+371: 372.txt
+372: 373.txt
+373: 374.txt
+374: 375.txt
+375: 376.txt
+376: 377.txt
+377: 378.txt
+378: 379.txt
+379: 380.txt
+380: 381.txt
+381: 382.txt
+382: 383.txt
+383: 384.txt
+384: 385.txt
+385: 386.txt
+386: 387.txt
+387: 388.txt
+388: 389.txt
+389: 390.txt
+390: 391.txt
+391: 392.txt
+392: 393.txt
+393: 394.txt
+394: 395.txt
+395: 396.txt
+396: 397.txt
+397: 398.txt
+398: 399.txt
+399: 400.txt
+INPUT: 383
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tam Lin HP:218/218 MP:43/43
+C-Pale Rider HP:693/693 MP:310/310
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:879/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Heimdall
+3-Joker
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:597/597 MP:347/347
+2-Metatron HP:879/879 MP:175/175
+3-Hamsa HP:91/91 MP:40/40
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:597/597 MP:347/347
+2-Metatron HP:879/879 MP:175/175
+3-Hamsa HP:91/91 MP:40/40
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Metatron
+Metatron recibe 58 de daño
+Metatron termina con HP:821/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tam Lin HP:218/218 MP:43/43
+C-Pale Rider HP:693/693 MP:310/310
+D-Heimdall HP:581/581 MP:261/261
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:821/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Joker
+3-Tam Lin
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ose HP:454/454 MP:90/90
+2-Haoma HP:305/305 MP:296/296
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tam Lin HP:218/218 MP:43/43
+C-Pale Rider HP:693/693 MP:310/310
+D-Haoma HP:305/305 MP:296/296
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:821/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Tam Lin
+3-Pale Rider
+4-Haoma
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Heimdall HP:581/581 MP:261/261
+2-Ose HP:454/454 MP:90/90
+3-Myrmecoleon HP:123/123 MP:23/23
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Tam Lin HP:218/218 MP:43/43 (Puesto 2)
+2-Pale Rider HP:693/693 MP:310/310 (Puesto 3)
+3-Haoma HP:305/305 MP:296/296 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Myrmecoleon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Tam Lin HP:218/218 MP:43/43
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:821/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Pale Rider
+3-Myrmecoleon
+4-Joker
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Heimdall HP:581/581 MP:261/261
+2-Ose HP:454/454 MP:90/90
+3-Haoma HP:305/305 MP:296/296
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Haoma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:821/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Myrmecoleon
+3-Joker
+4-Haoma
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:597/597 MP:347/347
+2-Metatron HP:821/879 MP:175/175
+3-Hamsa HP:91/91 MP:40/40
+4-Gurulu HP:371/371 MP:166/166
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Metatron
+Metatron recibe 58 de daño
+Metatron termina con HP:763/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:763/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Joker
+3-Haoma
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:763/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Haoma
+3-Pale Rider
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Metatron HP:763/879 MP:175/175
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Gurulu HP:371/371 MP:166/166
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Hamsa
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:763/879 MP:175/175
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kazfiel HP:469/469 MP:211/211 (Puesto 2)
+2-Hamsa HP:91/91 MP:40/40 (Puesto 3)
+3-Gurulu HP:371/371 MP:166/166 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Metatron ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:763/879 MP:175/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Hamsa
+3-Kazfiel
+4-Kotone
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:763/879 MP:175/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hamsa
+2-Kazfiel
+3-Kotone
+4-Metatron
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:123/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:763/879 MP:175/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Metatron
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:597/597 MP:347/347
+2-Haoma HP:305/305 MP:296/296
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gurulu HP:371/371 MP:166/166
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Joker HP:597/597 MP:347/347
+2-Haoma HP:305/305 MP:296/296
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kazfiel ataca a Myrmecoleon
+Myrmecoleon recibe 38 de daño
+Myrmecoleon termina con HP:85/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:763/879 MP:175/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Metatron
+3-Hamsa
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Joker HP:597/597 MP:347/347
+2-Haoma HP:305/305 MP:296/296
+3-Pale Rider HP:693/693 MP:310/310
+4-Myrmecoleon HP:85/123 MP:23/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Critical Wave MP:10
+2-Blast Arrow MP:16
+3-Breath MP:24
+4-Glacial Blast MP:22
+5-Needle Shot MP:4
+6-Stigma Attack MP:20
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone lanza hielo a Joker
+Joker recibe 139 de daño
+Joker termina con HP:458/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:763/879 MP:175/175
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Joker
+3-Haoma
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:597/597 MP:325/347
+2-Kazfiel HP:469/469 MP:211/211
+3-Hamsa HP:91/91 MP:40/40
+4-Metatron HP:763/879 MP:175/175
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:763/879 MP:175/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Haoma
+3-Myrmecoleon
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Kotone HP:597/597 MP:325/347
+2-Kazfiel HP:469/469 MP:211/211
+3-Hamsa HP:91/91 MP:40/40
+4-Metatron HP:763/879 MP:175/175
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Metatron
+Metatron recibe 28 de daño
+Metatron termina con HP:735/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:91/91 MP:40/40
+D-Metatron HP:735/879 MP:175/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Myrmecoleon
+3-Pale Rider
+4-Joker
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Kotone HP:597/597 MP:325/347
+2-Kazfiel HP:469/469 MP:211/211
+3-Hamsa HP:91/91 MP:40/40
+4-Metatron HP:735/879 MP:175/175
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Haoma ataca a Hamsa
+Hamsa recibe 32 de daño
+Hamsa termina con HP:59/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:735/879 MP:175/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Myrmecoleon
+2-Pale Rider
+3-Joker
+4-Haoma
+----------------------------------------
+Seleccione una acción para Myrmecoleon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Myrmecoleon
+1-Kotone HP:597/597 MP:325/347
+2-Kazfiel HP:469/469 MP:211/211
+3-Hamsa HP:59/91 MP:40/40
+4-Metatron HP:735/879 MP:175/175
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Myrmecoleon ataca a Metatron
+Metatron recibe 6 de daño
+Metatron termina con HP:729/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Pale Rider HP:693/693 MP:310/310
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:175/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Joker
+3-Haoma
+4-Myrmecoleon
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:218/218 MP:43/43
+2-Heimdall HP:581/581 MP:261/261
+3-Ose HP:454/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:347/347
+B-Haoma HP:305/305 MP:296/296
+C-Heimdall HP:581/581 MP:261/261
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:175/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Haoma
+3-Myrmecoleon
+4-Heimdall
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Mortal Jihad MP:13
+2-Mabufudyne MP:32
+3-Megidolaon MP:60
+4-Bouncing Claw MP:4
+5-Scratch Dance MP:9
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Joker ataca a Kotone
+Kotone es resistente el ataque de Joker
+Kotone recibe 34 de daño
+Kotone termina con HP:563/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:458/597 MP:338/347
+B-Haoma HP:305/305 MP:296/296
+C-Heimdall HP:581/581 MP:261/261
+D-Myrmecoleon HP:85/123 MP:23/23
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:175/175
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kazfiel
+3-Kotone
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Metatron lanza un ataque todo poderoso a Joker
+Joker recibe 156 de daño
+Joker termina con HP:302/597
+Metatron lanza un ataque todo poderoso a Haoma
+Haoma recibe 156 de daño
+Haoma termina con HP:149/305
+Metatron lanza un ataque todo poderoso a Heimdall
+Heimdall recibe 156 de daño
+Heimdall termina con HP:425/581
+Metatron lanza un ataque todo poderoso a Myrmecoleon
+Myrmecoleon recibe 156 de daño
+Myrmecoleon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:302/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:425/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Kazfiel HP:469/469 MP:211/211
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:115/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Hamsa
+4-Metatron
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gurulu HP:371/371 MP:166/166
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:302/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:425/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:115/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Hamsa
+3-Metatron
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Joker HP:302/597 MP:338/347
+2-Haoma HP:149/305 MP:296/296
+3-Heimdall HP:425/581 MP:261/261
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone dispara a Heimdall
+Heimdall recibe 57 de daño
+Heimdall termina con HP:368/581
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:302/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:115/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Metatron
+3-Gurulu
+4-Kotone
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Joker HP:302/597 MP:338/347
+2-Haoma HP:149/305 MP:296/296
+3-Heimdall HP:368/581 MP:261/261
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Joker HP:302/597 MP:338/347
+2-Haoma HP:149/305 MP:296/296
+3-Heimdall HP:368/581 MP:261/261
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa ataca a Joker
+Joker recibe 5 de daño
+Joker termina con HP:297/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:297/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:115/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Gurulu
+3-Kotone
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Metatron ataca con luz a Joker
+Joker es débil contra el ataque de Metatron
+Joker ha sido eliminado
+Joker termina con HP:0/597
+Metatron ataca con luz a Haoma
+Haoma bloquea el ataque de Metatron
+Haoma termina con HP:149/305
+Metatron ataca con luz a Heimdall
+Heimdall bloquea el ataque de Metatron
+Heimdall termina con HP:368/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:70/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Haoma
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Kotone HP:563/597 MP:325/347
+2-Gurulu HP:371/371 MP:166/166
+3-Hamsa HP:59/91 MP:40/40
+4-Metatron HP:729/879 MP:70/175
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:729/879 MP:70/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Haoma
+1-Kotone HP:563/597 MP:325/347
+2-Gurulu HP:371/371 MP:166/166
+3-Hamsa HP:59/91 MP:40/40
+4-Metatron HP:729/879 MP:70/175
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Haoma ataca a Metatron
+Metatron recibe 32 de daño
+Metatron termina con HP:697/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:697/879 MP:70/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Haoma
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:218/218 MP:43/43
+2-Pale Rider HP:693/693 MP:310/310
+3-Ose HP:454/454 MP:90/90
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Tam Lin HP:218/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:697/879 MP:70/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Tam Lin HP:218/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:697/879 MP:70/175
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Metatron ataca con luz a Haoma
+Haoma bloquea el ataque de Metatron
+Haoma termina con HP:149/305
+Metatron ataca con luz a Tam Lin
+Tam Lin bloquea el ataque de Metatron
+Tam Lin termina con HP:218/218
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Tam Lin HP:218/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:697/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Hamsa
+4-Metatron
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Haoma HP:149/305 MP:296/296
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Tam Lin
+Tam Lin recibe 38 de daño
+Tam Lin termina con HP:180/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:697/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Hamsa
+3-Metatron
+4-Kotone
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Haoma HP:149/305 MP:296/296
+2-Tam Lin HP:180/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Haoma HP:149/305 MP:296/296
+2-Tam Lin HP:180/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Hamsa HP:59/91 MP:40/40
+D-Metatron HP:697/879 MP:25/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hamsa
+2-Metatron
+3-Kotone
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:296/296
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:563/597 MP:325/347
+B-Gurulu HP:371/371 MP:166/166
+C-Kazfiel HP:469/469 MP:211/211
+D-Metatron HP:697/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Haoma
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:310/310
+2-Heimdall HP:368/581 MP:261/261
+3-Ose HP:454/454 MP:90/90
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Haoma use
+1-Amrita MP:20
+2-Blast Arrow MP:16
+3-Tetraja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Haoma dispara a Kotone
+Kotone es resistente el ataque de Haoma
+Kotone recibe 42 de daño
+Kotone termina con HP:521/597
+Haoma dispara a Gurulu
+Gurulu recibe 84 de daño
+Gurulu termina con HP:287/371
+Haoma dispara a Kazfiel
+Kazfiel recibe 84 de daño
+Kazfiel termina con HP:385/469
+Haoma dispara a Metatron
+Metatron es resistente el ataque de Haoma
+Metatron recibe 42 de daño
+Metatron termina con HP:655/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:280/296
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Gurulu HP:287/371 MP:166/166
+C-Kazfiel HP:385/469 MP:211/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Haoma
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:310/310
+2-Heimdall HP:368/581 MP:261/261
+3-Ose HP:454/454 MP:90/90
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Heimdall ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Haoma HP:149/305 MP:280/296
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Gurulu HP:287/371 MP:166/166
+C-Kazfiel HP:385/469 MP:211/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Haoma
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Haoma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:180/218 MP:43/43
+2-Pale Rider HP:693/693 MP:310/310
+3-Ose HP:454/454 MP:90/90
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:454/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Gurulu HP:287/371 MP:166/166
+C-Kazfiel HP:385/469 MP:211/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kazfiel
+3-Kotone
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:454/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Gurulu HP:287/371 MP:166/166
+C-Kazfiel HP:385/469 MP:211/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Gurulu
+4-Metatron
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Ose HP:454/454 MP:90/90
+2-Heimdall HP:368/581 MP:261/261
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel lanza viento a Ose
+Ose recibe 109 de daño
+Ose termina con HP:345/454
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Gurulu HP:287/371 MP:166/166
+C-Kazfiel HP:385/469 MP:197/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Metatron
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Gurulu HP:287/371 MP:166/166
+C-Kazfiel HP:385/469 MP:197/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Metatron
+3-Kazfiel
+4-Kotone
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hamsa HP:59/91 MP:40/40
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hamsa HP:59/91 MP:40/40
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Hamsa HP:59/91 MP:40/40
+C-Kazfiel HP:385/469 MP:197/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kazfiel
+3-Kotone
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Tarukaja MP:15
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Hamsa HP:59/91 MP:40/40
+C-Kazfiel HP:385/469 MP:197/211
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Hamsa
+4-Metatron
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gurulu HP:287/371 MP:166/166
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:368/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:325/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:287/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Hamsa
+3-Metatron
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Critical Wave MP:10
+2-Blast Arrow MP:16
+3-Breath MP:24
+4-Glacial Blast MP:22
+5-Needle Shot MP:4
+6-Stigma Attack MP:20
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone lanza hielo a Heimdall
+Heimdall es resistente el ataque de Kotone
+Heimdall recibe 76 de daño
+Heimdall termina con HP:292/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:292/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:287/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Ose
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heimdall
+1-Kotone HP:521/597 MP:301/347
+2-Hamsa HP:59/91 MP:40/40
+3-Gurulu HP:287/371 MP:166/166
+4-Metatron HP:655/879 MP:25/175
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Heimdall ataca a Gurulu
+Gurulu recibe 48 de daño
+Gurulu termina con HP:239/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:292/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Heimdall
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:292/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Heimdall
+2-Ose
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:292/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Ose HP:345/454 MP:90/90
+2-Heimdall HP:292/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Metatron ataca a Heimdall
+Heimdall recibe 68 de daño
+Heimdall termina con HP:224/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:224/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Hamsa
+4-Metatron
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Critical Wave MP:10
+2-Blast Arrow MP:16
+3-Breath MP:24
+4-Glacial Blast MP:22
+5-Needle Shot MP:4
+6-Stigma Attack MP:20
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:345/454 MP:90/90
+2-Heimdall HP:224/581 MP:261/261
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:345/454 MP:90/90
+2-Heimdall HP:224/581 MP:261/261
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Heimdall
+Heimdall recibe 38 de daño
+Heimdall termina con HP:186/581
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:186/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Hamsa
+3-Metatron
+4-Kotone
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:186/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hamsa
+2-Metatron
+3-Kotone
+4-Gurulu
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:186/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:186/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Hamsa
+4-Metatron
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Heimdall HP:186/581 MP:261/261
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Heimdall
+2-Ose
+----------------------------------------
+Seleccione una acción para Heimdall
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:180/218 MP:43/43
+2-Pale Rider HP:693/693 MP:310/310
+3-Haoma HP:149/305 MP:280/296
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:90/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:521/597 MP:301/347
+B-Hamsa HP:59/91 MP:40/40
+C-Gurulu HP:239/371 MP:166/166
+D-Metatron HP:655/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ose
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ose use
+1-Blight MP:14
+2-Dekunda MP:10
+3-Javelin Rain MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Kotone
+Kotone es resistente el ataque de Ose
+Kotone recibe 43 de daño
+Kotone termina con HP:478/597
+Ose ataca a Hamsa
+Hamsa recibe 87 de daño
+Hamsa termina con HP:0/91
+Ose ataca a Gurulu
+Gurulu recibe 87 de daño
+Gurulu termina con HP:152/371
+Ose ataca a Metatron
+Metatron recibe 87 de daño
+Metatron termina con HP:568/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:152/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ose
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Kotone HP:478/597 MP:301/347
+2-Gurulu HP:152/371 MP:166/166
+3-Metatron HP:568/879 MP:25/175
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Gurulu
+Gurulu recibe 14 de daño
+Gurulu termina con HP:138/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:345/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Metatron
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:345/454 MP:69/90
+2-Tam Lin HP:180/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Ose
+Ose recibe 57 de daño
+Ose termina con HP:288/454
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:288/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Metatron
+3-Kotone
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:288/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Ose HP:288/454 MP:69/90
+2-Tam Lin HP:180/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Ose
+Ose recibe 68 de daño
+Ose termina con HP:220/454
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:220/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Metatron
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Critical Wave MP:10
+2-Blast Arrow MP:16
+3-Breath MP:24
+4-Glacial Blast MP:22
+5-Needle Shot MP:4
+6-Stigma Attack MP:20
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:220/454 MP:69/90
+2-Tam Lin HP:180/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Ose
+Ose recibe 57 de daño
+Ose termina con HP:163/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ose
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:43/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:478/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ose
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Kotone HP:478/597 MP:301/347
+2-Gurulu HP:138/371 MP:166/166
+3-Metatron HP:568/879 MP:25/175
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Kotone
+Kotone es resistente el ataque de Tam Lin
+Kotone recibe 23 de daño
+Kotone termina con HP:455/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:455/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Tarukaja MP:15
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:455/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Metatron
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:180/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:455/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:166/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Metatron
+3-Kotone
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Ose HP:163/454 MP:69/90
+2-Tam Lin HP:180/218 MP:38/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gurulu ataca a Tam Lin
+Tam Lin recibe 103 de daño
+Tam Lin termina con HP:77/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:77/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:455/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:151/166
+D-Metatron HP:568/879 MP:25/175
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kotone
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:385/469 MP:197/211
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:77/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:455/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:151/166
+D-Kazfiel HP:385/469 MP:197/211
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:568/879 MP:25/175
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:163/454 MP:69/90
+2-Tam Lin HP:77/218 MP:38/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Tam Lin
+Tam Lin recibe 57 de daño
+Tam Lin termina con HP:20/218
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:20/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:455/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:151/166
+D-Kazfiel HP:385/469 MP:197/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Kotone HP:455/597 MP:301/347
+2-Gurulu HP:138/371 MP:151/166
+3-Kazfiel HP:385/469 MP:197/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ose ataca a Kotone
+Kotone es resistente el ataque de Ose
+Kotone recibe 16 de daño
+Kotone termina con HP:439/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:20/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:151/166
+D-Kazfiel HP:385/469 MP:197/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Ose
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:20/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Gurulu HP:138/371 MP:151/166
+D-Kazfiel HP:385/469 MP:197/211
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ose
+2-Tam Lin
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ose
+1-Kotone HP:439/597 MP:301/347
+2-Gurulu HP:138/371 MP:151/166
+3-Kazfiel HP:385/469 MP:197/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ose ataca a Gurulu
+Gurulu recibe 33 de daño
+Gurulu termina con HP:105/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:163/454 MP:69/90
+C-Tam Lin HP:20/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Gurulu HP:105/371 MP:151/166
+D-Kazfiel HP:385/469 MP:197/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Ose HP:163/454 MP:69/90
+2-Tam Lin HP:20/218 MP:38/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel lanza viento a Ose
+Ose recibe 109 de daño
+Ose termina con HP:54/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:54/454 MP:69/90
+C-Tam Lin HP:20/218 MP:38/43
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Gurulu HP:105/371 MP:151/166
+D-Kazfiel HP:385/469 MP:183/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Gurulu
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:54/454 MP:69/90
+2-Tam Lin HP:20/218 MP:38/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Ose HP:54/454 MP:69/90
+2-Tam Lin HP:20/218 MP:38/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Tam Lin
+Tam Lin recibe 57 de daño
+Tam Lin termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:54/454 MP:69/90
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Gurulu HP:105/371 MP:151/166
+D-Kazfiel HP:385/469 MP:183/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Kazfiel
+3-Kotone
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:568/879 MP:25/175
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:568/879 MP:25/175
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:54/454 MP:69/90
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Metatron HP:568/879 MP:25/175
+D-Kazfiel HP:385/469 MP:183/211
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Kotone
+3-Metatron
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:54/454 MP:69/90
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Metatron HP:568/879 MP:25/175
+D-Kazfiel HP:385/469 MP:183/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ose
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:310/310
+2-Heimdall HP:186/581 MP:261/261
+3-Haoma HP:149/305 MP:280/296
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:54/454 MP:69/90
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:439/597 MP:301/347
+B-
+C-Metatron HP:568/879 MP:25/175
+D-Kazfiel HP:385/469 MP:183/211
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ose
+----------------------------------------
+Seleccione una acción para Ose
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ose use
+1-Blight MP:14
+2-Dekunda MP:10
+3-Javelin Rain MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ose ataca a Kotone
+Kotone es resistente el ataque de Ose
+Kotone recibe 43 de daño
+Kotone termina con HP:396/597
+Ose ataca a Metatron
+Metatron recibe 87 de daño
+Metatron termina con HP:481/879
+Ose ataca a Kazfiel
+Kazfiel recibe 87 de daño
+Kazfiel termina con HP:298/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:338/347
+B-Ose HP:54/454 MP:48/90
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:396/597 MP:301/347
+B-
+C-Metatron HP:481/879 MP:25/175
+D-Kazfiel HP:298/469 MP:183/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Kazfiel
+3-Kotone
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Metatron
+1-Ose HP:54/454 MP:48/90
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ataca a Ose
+Ose recibe 68 de daño
+Ose termina con HP:0/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kotone (J2)
