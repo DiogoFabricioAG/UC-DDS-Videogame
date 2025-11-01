@@ -35,7 +35,13 @@ public abstract class Unit
         ];
     }
     
+    public bool Defeated { get; set; } = false;
 
+    public void ChangeStatus()
+    {
+        Defeated = !Defeated;
+    }
+    
     bool IsAbilityDuplicate(Ability ability) => Abilities.Where(a => a != null)
         .Any(a => a.Name == ability.Name);
 

@@ -163,6 +163,7 @@ public class TeamController(View view)
 
         foreach (var unitDestroy in unitsDestroyed)
         {
+            unitDestroy.ChangeStatus();
             team.AddingUnitToBackup(unitDestroy);
             team.AddingUnitToDestroyed(unitDestroy);
             

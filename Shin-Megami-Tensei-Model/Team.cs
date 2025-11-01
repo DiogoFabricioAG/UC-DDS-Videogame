@@ -124,12 +124,12 @@ public class Team
     }
     public void ReviveUnit(Unit unitToRevive, Unit reviverUnit)
     {
-        
+        unitToRevive.ChangeStatus();
         if (DestroyedUnits.Contains(unitToRevive))
         {
             DestroyedUnits.Remove(unitToRevive);
         }
-
+        
         if (unitToRevive is not Shin_Megami_Tensei_Model.Samurai) return;
         if (OrderForActions.IndexOf(unitToRevive) == OrderForActions.Count)
         {
