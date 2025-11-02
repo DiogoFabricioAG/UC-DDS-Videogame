@@ -208,7 +208,7 @@ public class CombatController(View view)
         var reviveAbility = ability.Effect.Contains("Revive");
         var needToShowSelectableUnits = false;
         
-        if (ability.Target != TargetType.Party && ability.Target != TargetType.All)
+        if (ability.Target != TargetType.Party && ability.Target != TargetType.All && ability.Target != TargetType.Multi)
         {
             view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, ability.Target, reviveAbility);
             InputText(view.ReadLine());
@@ -225,7 +225,7 @@ public class CombatController(View view)
 
         Unit attacker = game.GetAttacker();
         
-        if (ability.Target is TargetType.Party or TargetType.All)
+        if (ability.Target is TargetType.Party or TargetType.All or TargetType.Multi)
         {
             Team applyTo = ability.Target == TargetType.Party ? game.CurrentTeam : game.OtherTeam; 
             bool containsMissAttacks = ApplyForAllAbilityEffect(game, ability, attacker);
@@ -294,6 +294,11 @@ public class CombatController(View view)
                 view.DisplayAbilityAttackAll(allDamageDone, attacker, game.OtherTeam, affintyTypes, ability.Type);
             }
         }
+        else if (ability.Target == TargetType.Multi)
+        {
+            var (allDamageDone, affintyTypes, numHits) = AbilityController.UseDamageMultiAll(game.GetAttacker(), game, ability);
+            view.DisplayAbilityMultiAttack(allDamageDone, attacker, game.OtherTeam, numHits,affintyTypes, ability.Type);
+        }
         return containMissAttacks;
     }
     
@@ -319,7 +324,17 @@ public class CombatController(View view)
     /// </summary>
     private void ApplyTurnCostAndCleanupInAll(Game game, Ability ability, Team team, bool containsMissAttacks)
     {
-        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, team, game.CurrentTeam, containsMissAttacks);
+        var numHits = MultiHitController.GetHitsForAttackers(MultiHitController.GetHits(ability.Hits, team.NumAbilitiesCast), team, team.NumAbilitiesCast);
+        Unit[] units;
+        if (ability.Target == TargetType.Multi) 
+            units = team.GetUnitsStillAlive()
+            .Where((unit, index) => numHits[index] != 0)
+            .ToArray();
+        else
+        {
+            units = team.GetUnitsStillAlive();
+        }
+        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, units, game.CurrentTeam, containsMissAttacks);
         var turnContext = new TurnContext(blinkingLoss, fullLoss, blinkingWon);
         view.TurnUsedDisplayWithParameters(turnContext);
 

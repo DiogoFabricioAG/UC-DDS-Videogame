@@ -32,6 +32,8 @@ public abstract class AbilityController
             _ => LightOrDarkState.Repel
         };
     }
+    
+    // Revisameee
     private static (int damageDone, AffinityType affinityType, int numberHits) CalculateAbilityDamage(DamageContext ctx)
     {
         Ability.ValidateMp(ctx.User, ctx.Ability); 
@@ -52,15 +54,26 @@ public abstract class AbilityController
         return (damageDone, affinityType, numberHits);
     }
     
-    private static void ApplyDamageAbilityEffect(AbilityEffectContext ctx)
+    private static void ApplyDamageAbilityEffect(AbilityEffectContext ctx, bool calculateAlready = false)
     {
-        for (var i = 0; i < ctx.numberHits; i++)
+        if (!calculateAlready)
+        {
+            for (var i = 0; i < ctx.numberHits; i++)
+            {
+                if (ctx.affinityType == AffinityType.Repel)
+                    ctx.user.HandleDamage(ctx.damageDone);
+                else
+                    ctx.target.HandleDamage(ctx.damageDone);
+            }
+        }
+        else
         {
             if (ctx.affinityType == AffinityType.Repel)
                 ctx.user.HandleDamage(ctx.damageDone);
             else
                 ctx.target.HandleDamage(ctx.damageDone);
         }
+        
     }
 
     public static List<int> HealAndSacrifice(Unit user, Team team,Ability ability)
@@ -114,6 +127,36 @@ public abstract class AbilityController
         user.Attributes.CurrentMp -= ability.Cost;
 
         return (damageDoneForAll, affinityTypes);
+    }
+
+    public static (List<int> damageDone, List<AffinityType> affinityTypes, List<int> numberHits) UseDamageMultiAll(Unit user, Game game,
+        Ability ability)
+    {
+        List<int> damageDoneForAll = new List<int>();
+        List<AffinityType> affinityTypes = new List<AffinityType>();
+
+        int pointer = 0;
+        int numHits = MultiHitController.GetHits(ability.Hits, game.CurrentTeam.NumAbilitiesCast);
+        List<int> numHitsForAll =
+            MultiHitController.GetHitsForAttackers(numHits, game.OtherTeam, game.CurrentTeam.NumAbilitiesCast);
+        
+        foreach (Unit target in game.OtherTeam.GetUnitsStillAlive())
+        {
+            var ctx = new DamageContext(user, target, ability, game.CurrentTeam);
+            var (damageDone, affinityType, numberHits) = CalculateAbilityDamage(ctx);
+            var effectCtx =
+                new AbilityEffectContext(ctx.User, ctx.Target, ctx.Ability, damageDone, affinityType, numberHits);
+            for (var i = 0; i < numHitsForAll[pointer]; i++)
+            {
+                ApplyDamageAbilityEffect(effectCtx, true);
+
+            }
+            damageDoneForAll.Add(damageDone);
+            affinityTypes.Add(affinityType);
+            pointer++;
+        }
+        user.Attributes.CurrentMp -= ability.Cost;
+        return (damageDoneForAll, affinityTypes, numHitsForAll);
     }
 
     public static List<LightOrDarkState> UseAbilityLightOrDarkAll(Unit user, Team team, Ability ability)
