@@ -100,5 +100,5 @@ public abstract class Unit
     {
         Attributes.CurrentMp -= ability.Cost;
     }
-    public Ability[] GetTotalAbilities() => Abilities.Where(x => x!= null && x.Cost <= Attributes.CurrentMp).ToArray();
+    public Ability[] GetTotalAbilities() => Abilities.Where(x => x!= null && x.Cost <= Attributes.CurrentMp && x.Type != AbilityType.Passive).ToArray();
 }

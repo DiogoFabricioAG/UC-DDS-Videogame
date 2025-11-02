@@ -20,9 +20,8 @@ public class Affinity
         return units.Where(unit => unit != null).Select(unit => unit.Affinity.GetAffinity(ability.Type)).ToList();
     }
     
-    public static AffinityType GetPrioritizeAffinity(Unit[] units, Ability ability)
+    public static AffinityType GetPrioritizeAffinity(List<AffinityType> affinityTypes)
     {
-        List<AffinityType> affinities = GetListOfAffinityForTeam(units, ability);
         
         AffinityType[] affinityPriority =
         {
@@ -32,8 +31,8 @@ public class Affinity
         
         foreach (var priority in affinityPriority)
         {
-            Console.WriteLine(priority + " Contiene: " + affinities.Contains(priority));
-            if (affinities.Contains(priority)) return priority;
+            Console.WriteLine(priority + " Contiene: " + affinityTypes.Contains(priority));
+            if (affinityTypes.Contains(priority)) return priority;
         }
         return AffinityType.Neutral;
     }

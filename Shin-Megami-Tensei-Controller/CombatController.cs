@@ -181,6 +181,7 @@ public class CombatController(View view)
         var unitInTurn = game.CurrentTeam.GetUnitInTurn();
     
         view.WriteLine($"Seleccione una habilidad para que {unitInTurn.Name} use");
+
         view.DisplayShowSelectableAbilities(unitInTurn);
         InputText(view.ReadLine());
 
@@ -228,8 +229,8 @@ public class CombatController(View view)
         if (ability.Target is TargetType.Party or TargetType.All or TargetType.Multi)
         {
             Team applyTo = ability.Target == TargetType.Party ? game.CurrentTeam : game.OtherTeam; 
-            bool containsMissAttacks = ApplyForAllAbilityEffect(game, ability, attacker);
-            ApplyTurnCostAndCleanupInAll(game, ability, applyTo , containsMissAttacks);
+            var (containsMissAttacks, affintyTypes) = ApplyForAllAbilityEffect(game, ability, attacker);
+            ApplyTurnCostAndCleanupInAll(game, ability, affintyTypes , containsMissAttacks);
         }
 
         else
@@ -263,7 +264,7 @@ public class CombatController(View view)
         }
     }
 
-    private bool ApplyForAllAbilityEffect(Game game, Ability ability, Unit attacker)
+    private (bool containsMissAttacks, List<AffinityType> affintyTypes) ApplyForAllAbilityEffect(Game game, Ability ability, Unit attacker)
     {
         bool containMissAttacks = false;
         if (ability.Target == TargetType.Party && !ability.Effect.Contains("exchange"))
@@ -284,24 +285,33 @@ public class CombatController(View view)
         {
             if (AbilityController.IsLightOrDark(ability))
             {
-                List<LightOrDarkState> states = AbilityController.UseAbilityLightOrDarkAll(game.GetAttacker() ,game.OtherTeam, ability);
+                var (states, affinityTypes) = AbilityController.UseAbilityLightOrDarkAll(game.GetAttacker() ,game.OtherTeam, ability);
                 containMissAttacks = states.Contains(LightOrDarkState.Miss);
                 view.DisplayAbilityLightOrDarkAll(states,  attacker, game.OtherTeam ,ability.Type);
+                return (containMissAttacks, affinityTypes);
             }
             else
             {
-                var (allDamageDone, affintyTypes) = AbilityController.UseDamageAbilityAll(game.GetAttacker(), game.OtherTeam, ability);
-                view.DisplayAbilityAttackAll(allDamageDone, attacker, game.OtherTeam, affintyTypes, ability.Type);
+                var (allDamageDone, affinityTypes) = AbilityController.UseDamageAbilityAll(game.GetAttacker(), game.OtherTeam, ability);
+                view.DisplayAbilityAttackAll(allDamageDone, attacker, game.OtherTeam, affinityTypes, ability.Type);
+                return (containMissAttacks, affinityTypes);
             }
         }
         else if (ability.Target == TargetType.Multi)
         {
-            var (allDamageDone, affintyTypes, numHits) = AbilityController.UseDamageMultiAll(game.GetAttacker(), game, ability);
-            view.DisplayAbilityMultiAttack(allDamageDone, attacker, game.OtherTeam, numHits,affintyTypes, ability.Type);
+            var (allDamageDone, affinityTypes, numHits) = AbilityController.UseDamageMultiAll(game.GetAttacker(), game, ability);
+            foreach (var VARIABLE in affinityTypes)
+            {
+                Console.WriteLine("VARIABLE: " + VARIABLE );
+            }
+            view.DisplayAbilityMultiAttack(allDamageDone, attacker, game.OtherTeam, numHits,affinityTypes, ability.Type);
+            return (containMissAttacks, affinityTypes);
         }
-        return containMissAttacks;
+        return (containMissAttacks, [AffinityType.Neutral]);
     }
-    
+
+    public object List { get; set; }
+
     private void ApplyTurnCostAndCleanup(Game game, Unit attacked, Ability ability)
     {
         var turnWastedCtx = new TurnWastedContext(ability.Type, attacked, game.CurrentTeam);
@@ -322,19 +332,10 @@ public class CombatController(View view)
     /// <summary>
     ///  Revisame por favor q esta to' feo, ese current Team dio mio
     /// </summary>
-    private void ApplyTurnCostAndCleanupInAll(Game game, Ability ability, Team team, bool containsMissAttacks)
+    private void ApplyTurnCostAndCleanupInAll(Game game, Ability ability, List<AffinityType> affinityTypes, bool containsMissAttacks)
     {
-        var numHits = MultiHitController.GetHitsForAttackers(MultiHitController.GetHits(ability.Hits, team.NumAbilitiesCast), team, team.NumAbilitiesCast);
-        Unit[] units;
-        if (ability.Target == TargetType.Multi) 
-            units = team.GetUnitsStillAlive()
-            .Where((unit, index) => numHits[index] != 0)
-            .ToArray();
-        else
-        {
-            units = team.GetUnitsStillAlive();
-        }
-        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, units, game.CurrentTeam, containsMissAttacks);
+        
+        var (blinkingLoss, fullLoss, blinkingWon) = TurnController.GetTurnWastedByTeam(ability, game.CurrentTeam,affinityTypes, containsMissAttacks);
         var turnContext = new TurnContext(blinkingLoss, fullLoss, blinkingWon);
         view.TurnUsedDisplayWithParameters(turnContext);
 

@@ -18,7 +18,7 @@ public abstract class AbilityController
     }
     public static bool IsLightOrDark(Ability ability) => ability.Type is AbilityType.Light or AbilityType.Dark;
 
-    private static LightOrDarkState UseDamageAbilityLightOrDark(DamageContext ctx)
+    private static (LightOrDarkState state, AffinityType affinity) UseDamageAbilityLightOrDark(DamageContext ctx)
     {
         var percentDamageDone = Affinity.LightOrDarkAffinityModifier(ctx.User, ctx.Target, ctx.Ability);
         var affinityType = ctx.Target.Affinity.GetAffinity(ctx.Ability.Type);
@@ -27,9 +27,9 @@ public abstract class AbilityController
 
         return percentDamageDone switch
         {
-            1 => LightOrDarkState.Kill,
-            0 => affinityType == AffinityType.Null ? LightOrDarkState.Block : LightOrDarkState.Miss,
-            _ => LightOrDarkState.Repel
+            1 => (LightOrDarkState.Kill, affinityType),
+            0 => affinityType == AffinityType.Null ? (LightOrDarkState.Block, affinityType) : (LightOrDarkState.Miss, affinityType),
+            _ => (LightOrDarkState.Repel, affinityType)
         };
     }
     
@@ -152,27 +152,29 @@ public abstract class AbilityController
 
             }
             damageDoneForAll.Add(damageDone);
-            affinityTypes.Add(affinityType);
+            affinityTypes.Add(numHitsForAll[pointer] == 0 ? AffinityType.Neutral : affinityType);
             pointer++;
         }
         user.Attributes.CurrentMp -= ability.Cost;
         return (damageDoneForAll, affinityTypes, numHitsForAll);
     }
 
-    public static List<LightOrDarkState> UseAbilityLightOrDarkAll(Unit user, Team team, Ability ability)
+    public static (List<LightOrDarkState> states, List<AffinityType> affinityTypes) UseAbilityLightOrDarkAll(Unit user, Team team, Ability ability)
     {
         List<LightOrDarkState> lightOrDarkStates = new List<LightOrDarkState>();
+        List<AffinityType> affinities = new List<AffinityType>();
         
         foreach (Unit target in team.GetSelectableUnitsForAllAttacks())
         {
             if (target.Attributes.CurrentHp > 0)
             {
                 var ctx = new DamageContext(user, target, ability, team);
-                var state = UseDamageAbilityLightOrDark(ctx);
+                var (state, affinity) = UseDamageAbilityLightOrDark(ctx);
                 
                 // Pointer 
                 
                 lightOrDarkStates.Add(state);
+                affinities.Add(affinity);
             }
             else
             {
@@ -180,7 +182,7 @@ public abstract class AbilityController
             }
         }
         user.Attributes.CurrentMp -= ability.Cost;
-        return lightOrDarkStates;
+        return (lightOrDarkStates, affinities);
     }
 
     private static int CalculateHealAmount(Unit user, Unit selectedUnit, Ability ability)
