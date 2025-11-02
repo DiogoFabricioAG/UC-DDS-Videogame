@@ -207,6 +207,7 @@ public class CombatController(View view)
     {
         var reviveAbility = ability.Effect.Contains("Revive");
         var needToShowSelectableUnits = false;
+        
         if (ability.Target != TargetType.Party && ability.Target != TargetType.All)
         {
             view.DisplayShowSelectablesUnit(game.OtherTeam, game.CurrentTeam, ability.Target, reviveAbility);
@@ -214,7 +215,7 @@ public class CombatController(View view)
             needToShowSelectableUnits = true;
         }
     
-        var teamSelected = ability.Target == TargetType.Ally ? game.CurrentTeam : game.OtherTeam;
+        var teamSelected = ability.Target == TargetType.Ally ? game.CurrentTeam : game.OtherTeam; // Revisame esto pofavo
         if (needToShowSelectableUnits && (_inputFromUser == teamSelected.CancelOptionInSelectableTeam() || 
             (reviveAbility && _inputFromUser == game.CurrentTeam.GetCancelButtonReviveUnits())))
         {
@@ -286,6 +287,11 @@ public class CombatController(View view)
                 List<LightOrDarkState> states = AbilityController.UseAbilityLightOrDarkAll(game.GetAttacker() ,game.OtherTeam, ability);
                 containMissAttacks = states.Contains(LightOrDarkState.Miss);
                 view.DisplayAbilityLightOrDarkAll(states,  attacker, game.OtherTeam ,ability.Type);
+            }
+            else
+            {
+                var (allDamageDone, affintyTypes) = AbilityController.UseDamageAbilityAll(game.GetAttacker(), game.OtherTeam, ability);
+                view.DisplayAbilityAttackAll(allDamageDone, attacker, game.OtherTeam, affintyTypes, ability.Type);
             }
         }
         return containMissAttacks;

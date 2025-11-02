@@ -27,7 +27,7 @@ public abstract class TurnController
     public static (int blinkingLoss, int fullLoss, int blinkingWon) GetTurnWastedByTeam(Ability ability, Team team, Team teamOnTurn, bool containsMissAttacks)
     {
 
-        AffinityType affinity = Affinity.GetPrioritizeAffinity(team.StartingTeam.Where(x => x != null && !x.Defeated).ToArray() , ability);
+        AffinityType affinity = Affinity.GetPrioritizeAffinity(team.GetUnitsStillAlive() , ability);
         if (containsMissAttacks && affinity is not (AffinityType.Drain or AffinityType.Repel or AffinityType.Null))
         {
             return GetLossForMissAffinity(teamOnTurn);

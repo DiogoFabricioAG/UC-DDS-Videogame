@@ -154,7 +154,7 @@ public class View
         WriteLine(SEPARATOR);
     }
 
-    public void DisplayAbilityAllLogs(List<int> quantityDone, Unit attacker, Team team, AffinityType type,
+    public void DisplayAbilityAllLogs(List<int> quantityDone, Unit attacker, Team team, AffinityType affinityType,
         AbilityType abilityType,  bool reviveUnit = false, bool sacrific = false)
     {
         int pointer = 0;
@@ -178,7 +178,7 @@ public class View
             
 
             WriteLine($"{attacker.Name} {attackType} a {attacked.Name}");
-            switch (type)
+            switch (affinityType)
             {
                 case AffinityType.Weak:
                 case AffinityType.Resist:
@@ -199,7 +199,7 @@ public class View
                     break;
             }
 
-            WriteLine(type == AffinityType.Repel
+            WriteLine(affinityType == AffinityType.Repel
                 ? $"{attacker.Name} termina con HP:{attacker.Attributes.CurrentHp}/{attacker.Attributes.MaxHp}"
                 : $"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
             pointer++;
@@ -208,12 +208,80 @@ public class View
             WriteLine($"{attacker.Name} termina con HP:0/{attacker.Attributes.MaxHp}");
         WriteLine(SEPARATOR);
     }
+    public void DisplayAbilityAttackAll(List<int> quantityDone, Unit attacker, Team team, List<AffinityType> affinityTypes,
+        AbilityType abilityType)
+    {
+        int pointer = 0;
+
+        foreach (var attacked in 
+                     team.GetUnitsStillAlive())
+        {
+            var affinityText = affinityTypes[pointer] == AffinityType.Weak ? "débil contra" : affinityTypes[pointer] == AffinityType.Resist ? "resistente" : string.Empty;
+
+            var attackType = abilityType switch
+            {
+                AbilityType.Phys => "ataca",
+                AbilityType.Gun => "dispara",
+                AbilityType.Fire => "lanza fuego",
+                AbilityType.Ice => "lanza hielo",
+                AbilityType.Elec => "lanza electricidad",
+                AbilityType.Force => "lanza viento",
+                AbilityType.Light => "ataca con luz",
+                AbilityType.Dark => "ataca con oscuridad",
+                AbilityType.Almighty => "lanza un ataque todo poderoso",
+                AbilityType.Heal => team.DestroyedUnits.Contains(attacked) ? "revive" : "cura",
+                _ => ""
+            };
+
+            var healOrDamage = abilityType != AbilityType.Heal ? "daño" : "HP";
+
+
+            WriteLine($"{attacker.Name} {attackType} a {attacked.Name}");
+            switch (affinityTypes[pointer])
+            {
+                case AffinityType.Weak:
+                case AffinityType.Resist:
+                    WriteLine($"{attacked.Name} es {affinityText} el ataque de {attacker.Name}");
+
+                    WriteLine($"{attacked.Name} recibe {quantityDone[pointer]} de daño");
+                    break;
+                case AffinityType.Null:
+                    WriteLine($"{attacked.Name} bloquea el ataque de {attacker.Name}");
+                    break;
+                case AffinityType.Repel:
+                    WriteLine($"{attacked.Name} devuelve {quantityDone[pointer]} daño a {attacker.Name}");
+                    break;
+                case AffinityType.Drain:
+                    WriteLine($"{attacked.Name} absorbe {Math.Abs(quantityDone[pointer])} daño");
+                    break;
+                case AffinityType.Neutral:
+                default:
+                    WriteLine($"{attacked.Name} recibe {quantityDone[pointer]} de {healOrDamage}");
+                    break;
+            }
+
+            if (affinityTypes[pointer] != AffinityType.Repel)
+            {
+                WriteLine($"{attacked.Name} termina con HP:{attacked.Attributes.CurrentHp}/{attacked.Attributes.MaxHp}");
+            }
+            
+            
+            pointer++;
+        }
+
+        if (affinityTypes.Contains(AffinityType.Repel))
+        {
+            WriteLine($"{attacker.Name} termina con HP:{attacker.Attributes.CurrentHp}/{attacker.Attributes.MaxHp}");
+
+        }
+        WriteLine(SEPARATOR);
+    }
 
     public void DisplayAbilityLightOrDarkAll(List<LightOrDarkState> states, Unit attacker, Team team, AbilityType abilityType)
     {
         int pointer = 0;
     
-        foreach (var attacked in team.GetSelectableUnitsForLightAndDark())
+        foreach (var attacked in team.GetSelectableUnitsForAllAttacks())
         {
             if (states[pointer] != LightOrDarkState.Empty)
             {

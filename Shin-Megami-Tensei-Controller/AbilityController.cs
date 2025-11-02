@@ -97,11 +97,30 @@ public abstract class AbilityController
         return healAllies;
     }
 
+    public static (List<int> damageDone, List<AffinityType> affinityTypes) UseDamageAbilityAll(Unit user, Team team,Ability ability)
+    {
+        List<int> damageDoneForAll = new List<int>();
+        List<AffinityType> affinityTypes = new List<AffinityType>();
+        foreach (Unit target in team.GetUnitsStillAlive())
+        {
+            var ctx = new DamageContext(user, target, ability, team);
+            var (damageDone, affinityType, numberHits) = CalculateAbilityDamage(ctx);
+            var effectCtx =
+                new AbilityEffectContext(ctx.User, ctx.Target, ctx.Ability, damageDone, affinityType, numberHits);
+            ApplyDamageAbilityEffect(effectCtx);
+            damageDoneForAll.Add(damageDone);
+            affinityTypes.Add(affinityType);
+        }
+        user.Attributes.CurrentMp -= ability.Cost;
+
+        return (damageDoneForAll, affinityTypes);
+    }
+
     public static List<LightOrDarkState> UseAbilityLightOrDarkAll(Unit user, Team team, Ability ability)
     {
         List<LightOrDarkState> lightOrDarkStates = new List<LightOrDarkState>();
         
-        foreach (var target in team.GetSelectableUnitsForLightAndDark())
+        foreach (Unit target in team.GetSelectableUnitsForAllAttacks())
         {
             if (target.Attributes.CurrentHp > 0)
             {
