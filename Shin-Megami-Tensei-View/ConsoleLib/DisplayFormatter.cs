@@ -8,6 +8,7 @@ public class DisplayFormatter
     private readonly char[] LABEL_MAX_UNITS_ON_TABLE = { 'A', 'B', 'C', 'D' };
     public List<string> FormatTurnOrder(Team team) {
         var listLogs = new List<string>();
+        
         for (var i = 0; i < team.GetNumberUnitsInStartingTeam(); i++)
             listLogs.Add($"{i + 1}-{team.OrderForActions.Where(x => x != null && x.Attributes.CurrentHp > 0).ToArray()[(i + team.TeamTurnOrder)%team.GetNumberUnitsInStartingTeam()].Name}") ;
         return listLogs;

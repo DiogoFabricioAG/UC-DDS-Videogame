@@ -31,7 +31,6 @@ public class Affinity
         
         foreach (var priority in affinityPriority)
         {
-            Console.WriteLine(priority + " Contiene: " + affinityTypes.Contains(priority));
             if (affinityTypes.Contains(priority)) return priority;
         }
         return AffinityType.Neutral;

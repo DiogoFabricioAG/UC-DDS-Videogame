@@ -137,7 +137,7 @@ public class Team
         }
         else
         {
-                
+
             OrderForActions.Insert(OrderForActions.IndexOf(reviverUnit) , unitToRevive);
             TeamTurnOrder++;
         }
@@ -255,7 +255,8 @@ public class Team
     {
         List<Unit> allUnits = StartingTeam.ToList();
         allUnits.AddRange(Monsters.ToList());
-        allUnits.Remove(unit);
+        allUnits.RemoveAll(u => u == unit);
+        
         return allUnits.Where(unit => unit != null).Distinct().ToArray();
     }
     

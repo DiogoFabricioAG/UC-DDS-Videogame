@@ -37,7 +37,7 @@ namespace Shin_Megami_Tensei_Model
 
     public static class DataLoader
     {
-        private static readonly JsonSerializerOptions _opts = new()
+        private static readonly JsonSerializerOptions Options = new()
         {
             PropertyNameCaseInsensitive = true,
             Converters = { new JsonStringEnumConverter() } 
@@ -47,7 +47,7 @@ namespace Shin_Megami_Tensei_Model
         {
             if (!File.Exists(jsonPath)) return new List<T>();
             var json = File.ReadAllText(jsonPath);
-            return JsonSerializer.Deserialize<List<T>>(json, _opts) ?? new List<T>();
+            return JsonSerializer.Deserialize<List<T>>(json, Options) ?? new List<T>();
         }
 
         public static Ability GetAbilityByName(string name, string abilitiesJsonPath)
@@ -55,7 +55,7 @@ namespace Shin_Megami_Tensei_Model
             var allAbilities = LoadJsonList<JsonAbility>(abilitiesJsonPath);
             
             var foundAbility = allAbilities.FirstOrDefault(
-                a => string.Equals(a.name, name.Trim(), StringComparison.OrdinalIgnoreCase)
+                jsonAbility => string.Equals(jsonAbility.name, name.Trim(), StringComparison.OrdinalIgnoreCase)
             );
 
             if (foundAbility == null)
@@ -65,20 +65,20 @@ namespace Shin_Megami_Tensei_Model
     
             return new Ability(foundAbility);
         }
-        static Attributes MapStats(JsonStats s)
+        static Attributes MapStats(JsonStats data)
         {
-            if (s == null) return null;
+            if (data == null) return null;
             return new Attributes
             {
-                MaxHp = s.HP,
-                CurrentHp = s.HP,
-                MaxMp = s.MP,
-                CurrentMp = s.MP,
-                StrikeDmg = s.Str,
-                SkillDmg = s.Skl,
-                MagicDmg = s.Mag,
-                Speed = s.Spd,
-                Lck = s.Lck
+                MaxHp = data.HP,
+                CurrentHp = data.HP,
+                MaxMp = data.MP,
+                CurrentMp = data.MP,
+                StrikeDmg = data.Str,
+                SkillDmg = data.Skl,
+                MagicDmg = data.Mag,
+                Speed = data.Spd,
+                Lck = data.Lck
             };
         }
         
@@ -127,29 +127,29 @@ namespace Shin_Megami_Tensei_Model
         public static Samurai GetSamuraiByName(string name, string samuraiJsonPath)
         {
             var list = LoadJsonList<JsonCharacter>(samuraiJsonPath);
-            var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
-            if (j == null) return null;
-            var s = new Samurai { Name = j.Name, Attributes = MapStats(j.Stats), Affinity = MapAffinity(j.Affinity) };
+            var jsonCharacter = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
+            if (jsonCharacter == null) return null;
+            var s = new Samurai { Name = jsonCharacter.Name, Attributes = MapStats(jsonCharacter.Stats), Affinity = MapAffinity(jsonCharacter.Affinity) };
             return s;
         }
 
         public static Monster GetMonsterByName(string name, string monsterJsonPath, string abilitiesJsonPath)
         {
             var list = LoadJsonList<JsonCharacter>(monsterJsonPath);
-            var j = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
-            if (j == null) return null;
+            var jsonCharacter = list.FirstOrDefault(x => string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase));
+            if (jsonCharacter == null) return null;
 
             var monster = new Monster 
             { 
-                Name = j.Name, 
-                Attributes = MapStats(j.Stats),
-                Affinity = MapAffinity(j.Affinity) 
+                Name = jsonCharacter.Name, 
+                Attributes = MapStats(jsonCharacter.Stats),
+                Affinity = MapAffinity(jsonCharacter.Affinity) 
             };
 
 
-            if (j.Skills != null)
+            if (jsonCharacter.Skills != null)
             {
-                foreach (var skillName in j.Skills)
+                foreach (var skillName in jsonCharacter.Skills)
                 {
                     var ability = GetAbilityByName(skillName.Trim(), abilitiesJsonPath);
 

@@ -34,7 +34,7 @@ public class Game
         CurrentTeam.State = TeamState.Surrendered;
     }
 
-    public (Team, Team) GetPlayer1AndPlayer2()
+    public (Team, Team) GetPlayers()
     {
         var team1 = CurrentTeam.NumberTeam == nTeam1 ? CurrentTeam : OtherTeam;
         var team2 = CurrentTeam.NumberTeam == nTeam2 ? CurrentTeam : OtherTeam;

@@ -49,17 +49,18 @@ public class GameSetupController(View view, string teamsFolder, TeamController t
         var lineups = ExtractTeamLineups(lines);
         var team1Lines = lineups.team1Lines;
         var team2Lines = lineups.team2Lines;
-        var config1Ctx = new ConfigurationContext(team1Lines, team1, "1", TeamState.WithTurn);
-        var result1 = ConfigureTeam(config1Ctx);
-        if (result1 != SEPARATOR)
+        var configContextForTeam1 = new ConfigurationContext(team1Lines, team1, "1", TeamState.WithTurn);
+        var viewResultForTeam1 = ConfigureTeam(configContextForTeam1);
+        
+        if (viewResultForTeam1 != SEPARATOR)
         {
-            return result1; 
+            return viewResultForTeam1; 
         }
 
-        var config2Ctx = new ConfigurationContext(team2Lines, team2, "2", TeamState.WithoutTurn);
-        var result2 = ConfigureTeam(config2Ctx);
+        var configContextForTeam2 = new ConfigurationContext(team2Lines, team2, "2", TeamState.WithoutTurn);
+        var viewResultForTeam2 = ConfigureTeam(configContextForTeam2);
 
-        return result2 != SEPARATOR ? result2 : SEPARATOR;
+        return viewResultForTeam2 != SEPARATOR ? viewResultForTeam2 : SEPARATOR;
     }
     private (string[] team1Lines, string[] team2Lines) ExtractTeamLineups(string[] lines)
     {
@@ -79,8 +80,7 @@ public class GameSetupController(View view, string teamsFolder, TeamController t
     
     private string ConfigureTeam(ConfigurationContext ctx)
     {
-        var hasError = teamController.EnterUnits(ctx.alineations, ctx.team);
-        Console.WriteLine("ERRORES?: "  + hasError);
+        var hasError = teamController.TryEnterUnits(ctx.alineations, ctx.team);
         if (hasError)
         {
             return ERROR_MESSAGE;

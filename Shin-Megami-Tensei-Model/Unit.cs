@@ -88,7 +88,21 @@ public abstract class Unit
         }
     }
 
-    public void ValidUseAbility(Ability ability)
+    public void HandleMp(int damage)
+    {
+        Attributes.CurrentMp -= damage;
+        if (Attributes.CurrentMp < 0)
+        {
+            Attributes.CurrentMp = 0;
+        }
+
+        if (Attributes.CurrentMp > Attributes.MaxMp)
+        {
+            Attributes.CurrentMp = Attributes.MaxMp;
+        }
+    }
+
+    public void TryUseSkill(Ability ability)
     {
         if (Attributes.CurrentMp < ability.Cost)
         {
@@ -100,5 +114,8 @@ public abstract class Unit
     {
         Attributes.CurrentMp -= ability.Cost;
     }
+    
+    public int AllHpReturn (int damageDone) => damageDone > Attributes.CurrentHp ?  Attributes.CurrentHp : damageDone ;
+    public int AllMpReturn (int damageDone) => damageDone > Attributes.CurrentMp ?  Attributes.CurrentMp : damageDone;
     public Ability[] GetTotalAbilities() => Abilities.Where(x => x!= null && x.Cost <= Attributes.CurrentMp && x.Type != AbilityType.Passive).ToArray();
 }

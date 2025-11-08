@@ -18,17 +18,21 @@ public class Ability
     public string Hits { get; set; }
 
     public string Effect { get; set; }
-    
-    public Ability(JsonAbility a)
+
+    public Ability(TargetType target)
     {
-        if (a == null) return;
-        Name = a.name;
-        Type = a.type;
-        Cost = a.cost;
-        Power = a.power;
-        Target = a.target;
-        Hits = a.hits;
-        Effect = a.effect;
+        Target = target;
+    }
+    public Ability(JsonAbility data)
+    {
+        if (data == null) return;
+        Name = data.name;
+        Type = data.type;
+        Cost = data.cost;
+        Power = data.power;
+        Target = data.target;
+        Hits = data.hits;
+        Effect = data.effect;
     }
     
     public static void ValidateMp(Unit user, Ability ability)

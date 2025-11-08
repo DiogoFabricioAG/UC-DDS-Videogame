@@ -66,52 +66,62 @@ public class CombatController(View view)
 
     private void ExecuteActionCommand(Game game, Unit unitInTurn)
     {
-
-
         if (unitInTurn is Monster)
         {
-            switch (_inputFromUser)
-            {
-                case 1:
-                    HandleAttackUse(game, ElementType.Physics);
-                    break;
-                case 2: 
-                    HandleAbilityUse(game);
-                    break;
-                case 3: 
-                    HandleInvokeUse(game);
-                    break;
-                case 4: 
-                    HandlePassTurn(game);
-                    break;
-            }
+            ExecutionActionCommandForMonster(game);
         }
         else 
         {
-            switch (_inputFromUser)
-            {
-                case 1:
-                    HandleAttackUse(game, ElementType.Physics);
-                    break;
-                case 2: 
-                    HandleAttackUse(game, ElementType.Gun);
-                    break;
-                case 3: 
-                    HandleAbilityUse(game);
-                    break;
-                case 4: 
-                    HandleInvokeUse(game);
-                    break;
-                case 5: 
-                    HandlePassTurn(game);
-                    break;
-                case 6: 
-                    game.HandleSurrender();
-                    view.SurrenderTeamDisplay(game.CurrentTeam);
-                    break;
-            }
+            ExecutionActionCommandForSamurai(game, unitInTurn);
         }
     }
+
+    private void ExecutionActionCommandForMonster(Game game)
+    {
+        switch (_inputFromUser)
+        {
+            case 1:
+                HandleAttackUse(game, ElementType.Physics);
+                break;
+            case 2: 
+                HandleAbilityUse(game);
+                break;
+            case 3: 
+                HandleInvokeUse(game);
+                break;
+            case 4: 
+                HandlePassTurn(game);
+                break;
+        }
+    }
+
+    private void ExecutionActionCommandForSamurai(Game game, Unit unitInTurn)
+    {
+
+        switch (_inputFromUser)
+        {
+            case 1:
+                HandleAttackUse(game, ElementType.Physics);
+                break;
+            case 2:
+                HandleAttackUse(game, ElementType.Gun);
+                break;
+            case 3:
+                HandleAbilityUse(game);
+                break;
+            case 4:
+                HandleInvokeUse(game);
+                break;
+            case 5:
+                HandlePassTurn(game);
+                break;
+            case 6:
+                game.HandleSurrender();
+                view.SurrenderTeamDisplay(game.CurrentTeam);
+                break;
+        }
+    }
+
     private void HandlePassTurn(Game game)
     {
         var type =  game.PassTurn();
@@ -216,10 +226,12 @@ public class CombatController(View view)
             needToShowSelectableUnits = true;
         }
     
-        var teamSelected = ability.Target == TargetType.Ally ? game.CurrentTeam : game.OtherTeam; // Revisame esto pofavo
-        if (needToShowSelectableUnits && (_inputFromUser == teamSelected.CancelOptionInSelectableTeam() || 
+        var teamSelected = ability.Target == TargetType.Ally ? game.CurrentTeam : game.OtherTeam;
+        if (needToShowSelectableUnits && ((!reviveAbility && _inputFromUser == teamSelected.CancelOptionInSelectableTeam()) || 
             (reviveAbility && _inputFromUser == game.CurrentTeam.GetCancelButtonReviveUnits())))
         {
+
+      
             _executionRunning = true;
             return;
         }
@@ -228,7 +240,6 @@ public class CombatController(View view)
         
         if (ability.Target is TargetType.Party or TargetType.All or TargetType.Multi)
         {
-            Team applyTo = ability.Target == TargetType.Party ? game.CurrentTeam : game.OtherTeam; 
             var (containsMissAttacks, affintyTypes) = ApplyForAllAbilityEffect(game, ability, attacker);
             ApplyTurnCostAndCleanupInAll(game, ability, affintyTypes , containsMissAttacks);
         }
@@ -236,8 +247,16 @@ public class CombatController(View view)
         else
         {
             Unit attacked = game.GetAttacked(_inputFromUser, teamSelected, reviveAbility);
-
-            ApplyAbilityEffect(game, attacker, attacked, ability, reviveAbility);
+            if (AbilityController.IsLightOrDark(ability))
+            {
+                DamageContext ctx = new DamageContext(attacker, attacked, ability,  game.CurrentTeam);
+                var (state, affinityType) = AbilityController.UseAbilityLightOrDark(ctx);
+                view.DisplayAbilityLightOrDark(attacker,  attacked, state ,ability.Type);
+            }
+            else
+            {
+                ApplyAbilityEffect(game, attacker, attacked, ability, reviveAbility);
+            }
             ApplyTurnCostAndCleanup(game, attacked, ability);
 
         }
@@ -246,11 +265,55 @@ public class CombatController(View view)
     
     private void ApplyAbilityEffect(Game game, Unit attacker, Unit attacked, Ability ability, bool isReviveAbility)
     {
+        var drainAbility = ability.Effect.Contains("drains");
+        var isHpAbility = ability.Effect.Contains("HP");
+        var isMpAbility = ability.Effect.Contains("MP");
         if (ability.Target != TargetType.Ally)
         {
             var contextDamage = new DamageContext(attacker, attacked, ability, game.CurrentTeam);
-            var (damageDone, affinityType, numberHits) = AbilityController.UseDamageAbility(contextDamage);
-            view.DisplayAbilityLogs(damageDone, attacker, attacked, affinityType, ability.Type, numberHits);
+            if (!drainAbility)
+            {
+                BasicAbilityResponseSingle abilityResponse = AbilityController.GetBasicDataFromUseAnAbility(contextDamage);
+                AbilityController.ApplyDamageToAnUnit(contextDamage, abilityResponse);
+                view.DisplayAbilityLogs(abilityResponse.ValueAmount, attacker, attacked, 
+                    abilityResponse.AffinityType, ability.Type, abilityResponse.NumberHits);
+            }
+            else
+            {
+                if (isHpAbility && !isMpAbility)
+                {
+                    DrainResponse drainResponse = AbilityController.DrainHPToOne(contextDamage);
+                    attacker.BurnManaPoints(ability);
+                    view.DisplayDrainAbilityLogs(drainResponse.Values, attacker, attacked, isHpAbility);
+                }
+                else if (isMpAbility && !isHpAbility)
+                {
+                    DrainResponse mpDrainResponse = AbilityController.DrainMPToOne(contextDamage);
+                    
+                    // Arregla esto porfavor
+                    attacker.BurnManaPoints(ability);
+
+                    if (attacker.Attributes.CurrentMp > attacker.Attributes.MaxMp)
+                    {
+                        attacker.Attributes.CurrentMp = attacker.Attributes.MaxMp;
+                    }
+                    view.DisplayDrainAbilityLogs(mpDrainResponse.Values, attacker, attacked, isHpAbility);
+
+                }
+                else 
+                {
+                    HpAndMpResponseSingle hpAndMpResponse = AbilityController.DrainStatsToOne(contextDamage);
+                    
+                    attacker.BurnManaPoints(ability);
+
+                    if (attacker.Attributes.CurrentMp > attacker.Attributes.MaxMp)
+                    {
+                        attacker.Attributes.CurrentMp = attacker.Attributes.MaxMp;
+                    }
+                    view.DisplayDrainStatsAbilityLogs(hpAndMpResponse.HpDrain, hpAndMpResponse.MpDrain, attacker, attacked);
+                }
+            }
+            
         }
         else
         {
@@ -267,45 +330,82 @@ public class CombatController(View view)
     private (bool containsMissAttacks, List<AffinityType> affintyTypes) ApplyForAllAbilityEffect(Game game, Ability ability, Unit attacker)
     {
         bool containMissAttacks = false;
-        if (ability.Target == TargetType.Party && !ability.Effect.Contains("exchange"))
+        switch (ability.Target)
         {
-            List<int> healRealized = AbilityController.UseHealAbilityAllies(attacker, game.CurrentTeam, ability);
-            view.DisplayAbilityAllLogs(healRealized,  attacker, game.CurrentTeam, AffinityType.Neutral ,ability.Type);
-        }
-        else if (ability.Target == TargetType.Party && ability.Effect.Contains("exchange"))
-        {
+            case TargetType.Party when !ability.Effect.Contains("exchange"):
+            {
+                QuantityDamageResponse healRealized = AbilityController.UseHealAbilityAllies(attacker, game.CurrentTeam, ability);
+                view.DisplayAbilityAllLogs(healRealized.Values,  attacker, game.CurrentTeam, AffinityType.Neutral );
+                break;
+            }
+            case TargetType.Party when ability.Effect.Contains("exchange"):
+            {
+                var actualUnitInOrder = game.GetAttacker();
+                game.CurrentTeam.TeamTurnOrder--;
             
-            // Arreglame esto porfavor 
-            game.CurrentTeam.TeamTurnOrder--;
-            List<int> healRealized = AbilityController.HealAndSacrifice(attacker, game.CurrentTeam, ability);
+                QuantityDamageResponse healRealized = AbilityController.HealAndSacrifice(attacker, game.CurrentTeam, ability);
+                
+                view.DisplayAbilityAllLogs(healRealized.Values,  attacker, game.CurrentTeam, AffinityType.Neutral , sacrific: true);
+                if (game.CurrentTeam.Samurai.Defeated)
+                {
+                    game.CurrentTeam.ReviveUnit(game.CurrentTeam.Samurai, actualUnitInOrder); 
+                }
+                break;
+            }
+            case TargetType.All when AbilityController.IsLightOrDark(ability):
+            {
+                LightOrDarkAbilityListResponse lightOrDarkAbilityResponse = AbilityController.UseAbilityLightOrDarkAll(game.GetAttacker() ,game.OtherTeam, ability);
+                containMissAttacks = lightOrDarkAbilityResponse.States.Contains(LightOrDarkState.Miss);
+                view.DisplayAbilityLightOrDarkAll(lightOrDarkAbilityResponse.States,  attacker, game.OtherTeam ,ability.Type);
+                return (containMissAttacks, lightOrDarkAbilityResponse.Affinities);
+            }
+            case TargetType.All when ability.Effect.Contains("drains"):
+            {
+                var isHpAbility = ability.Effect.Contains("HP");
+                var isMpAbility = ability.Effect.Contains("MP");
+                
+                if (isHpAbility && !isMpAbility)
+                {
+                    QuantityDamageResponse hpDrain = AbilityController.DrainHpAll(attacker, game.OtherTeam, ability);
+                    view.DisplayDrainAllAbilityLogs(hpDrain.Values, attacker, game.OtherTeam, isHpAbility);
+                }
+                else if (isMpAbility && !isHpAbility)
+                {
+                    QuantityDamageResponse mpDrain = AbilityController.DrainMpAll(attacker, game.OtherTeam, ability);
 
-            view.DisplayAbilityAllLogs(healRealized,  attacker, game.CurrentTeam, AffinityType.Neutral ,ability.Type ,sacrific: true);
-        }
-        else if (ability.Target == TargetType.All)
-        {
-            if (AbilityController.IsLightOrDark(ability))
-            {
-                var (states, affinityTypes) = AbilityController.UseAbilityLightOrDarkAll(game.GetAttacker() ,game.OtherTeam, ability);
-                containMissAttacks = states.Contains(LightOrDarkState.Miss);
-                view.DisplayAbilityLightOrDarkAll(states,  attacker, game.OtherTeam ,ability.Type);
-                return (containMissAttacks, affinityTypes);
+                    if (attacker.Attributes.CurrentMp > attacker.Attributes.MaxMp)
+                    {
+                        attacker.Attributes.CurrentMp = attacker.Attributes.MaxMp;
+                    }
+                    view.DisplayDrainAllAbilityLogs(mpDrain.Values, attacker, game.OtherTeam, isHpAbility);
+                }
+                else 
+                {
+                    HpAndMpResponseList hpAndMpResponseList = AbilityController.DrainStatsAll(attacker, game.OtherTeam, ability);
+
+                    if (attacker.Attributes.CurrentMp > attacker.Attributes.MaxMp)
+                    {
+                        attacker.Attributes.CurrentMp = attacker.Attributes.MaxMp;
+                    }
+
+                    view.DisplayDrainStatsAllAbilityLogs(hpAndMpResponseList.HpDrainTeam, hpAndMpResponseList.MpDrainTeam, attacker, game.OtherTeam);
+                }
+
+                break;
             }
-            else
+            case TargetType.All:
             {
-                var (allDamageDone, affinityTypes) = AbilityController.UseDamageAbilityAll(game.GetAttacker(), game.OtherTeam, ability);
-                view.DisplayAbilityAttackAll(allDamageDone, attacker, game.OtherTeam, affinityTypes, ability.Type);
-                return (containMissAttacks, affinityTypes);
+                BasicAbilityResponseList abilityResponseList = AbilityController.UseDamageAbilityAll(game.GetAttacker(), game.OtherTeam, ability);
+                view.DisplayAbilityAttackAll(abilityResponseList.DamageDone, attacker, game.OtherTeam, abilityResponseList.AffinityTypes, ability.Type);
+                return (containMissAttacks, abilityResponseList.AffinityTypes);
             }
-        }
-        else if (ability.Target == TargetType.Multi)
-        {
-            var (allDamageDone, affinityTypes, numHits) = AbilityController.UseDamageMultiAll(game.GetAttacker(), game, ability);
-            foreach (var VARIABLE in affinityTypes)
+            case TargetType.Multi:
             {
-                Console.WriteLine("VARIABLE: " + VARIABLE );
+                BasicAbilityResponseList abilityResponseList = AbilityController.UseDamageMultiAll(game.GetAttacker(), game, ability);
+
+                view.DisplayAbilityMultiAttack(abilityResponseList.DamageDone, attacker, game.OtherTeam, abilityResponseList.NumberHits,abilityResponseList.AffinityTypes, ability.Type);
+                return (containMissAttacks, abilityResponseList.AffinityTypes);
             }
-            view.DisplayAbilityMultiAttack(allDamageDone, attacker, game.OtherTeam, numHits,affinityTypes, ability.Type);
-            return (containMissAttacks, affinityTypes);
         }
         return (containMissAttacks, [AffinityType.Neutral]);
     }
@@ -385,6 +485,11 @@ public class CombatController(View view)
         
 
         var (unitReplaced, wasRevived) = game.CurrentTeam.ReplaceUnit(indexBackupUnit, indexStarterUnit, showAll);
+
+        if (wasRevived)
+        {
+            unitReplaced.ChangeStatus();
+        }
         view.InvokeAnUnit(unitReplaced, wasRevived, actualCurrentUnit);
 
 

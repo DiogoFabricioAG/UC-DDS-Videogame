@@ -14,7 +14,10 @@ public class TeamController(View view)
     private static readonly string MonsterJsonPath = Path.Combine(AppContext.BaseDirectory, "monsters.json");
     private static readonly string SamuraiJsonPath = Path.Combine(AppContext.BaseDirectory, "samurai.json");
 
-    public bool EnterUnits(string[] inputLines, Team team)
+    
+    
+    
+    public bool TryEnterUnits(string[] inputLines, Team team)
     {
         _hasError = false;
         var hasSamurai = false;
